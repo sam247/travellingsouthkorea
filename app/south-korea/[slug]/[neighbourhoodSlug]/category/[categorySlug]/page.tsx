@@ -5,9 +5,15 @@ import { VenueListCard } from "@/components/VenueListCard";
 import { getCityBySlug } from "@/data/cities";
 import { getNeighbourhoodBySlug } from "@/data/neighbourhoods";
 import { getCategoryBySlug } from "@/data/categories";
+import { ContentSection } from "@/components/ContentSection";
+import { FAQSection } from "@/components/FAQSection";
+import { ExploreMore } from "@/components/ExploreMore";
+import { getFAQForCategory } from "@/lib/content/faqContent";
 import { getNeighbourhoodCategoryContent } from "@/lib/queries";
 import { breadcrumbsNeighbourhoodCategory } from "@/lib/breadcrumbs";
-import { getNeighbourhoodCategoryPath } from "@/lib/canonical";
+import { getCategoryContentForNeighbourhood } from "@/lib/content/categoryContent";
+import { getGuidesByNeighbourhood } from "@/data/guides";
+import { getNeighbourhoodCategoryPath, getNeighbourhoodPath, getGuidePath, getCityPath, getCityCategoryPath } from "@/lib/canonical";
 
 const NEIGHBOURHOOD_CATEGORY_SLUGS = ["bars", "restaurants", "cafes", "things-to-do"] as const;
 
@@ -84,6 +90,15 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
           Discover {content.categoryLabel.toLowerCase()}, cafes, restaurants and things to do in{" "}
           {neighbourhood.name}, one of {city.name}&apos;s most popular neighbourhoods.
         </p>
+        <div className="mt-10 max-w-7xl">
+          {getCategoryContentForNeighbourhood(neighbourhood, city, category, content).map((section) => (
+            <ContentSection
+              key={section.heading}
+              heading={section.heading}
+              paragraphs={section.paragraphs}
+            />
+          ))}
+        </div>
       </section>
 
       {content.guides.length > 0 && (
@@ -113,6 +128,25 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
           <p className="text-muted-foreground">More recommendations coming soon.</p>
         </section>
       )}
+
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-14">
+        <FAQSection items={getFAQForCategory(neighbourhood.name, content.categoryLabel, "neighbourhood")} />
+        <ExploreMore
+          links={[
+            ...NEIGHBOURHOOD_CATEGORY_SLUGS.filter((s) => s !== categorySlug).map((slug) => {
+              const cat = getCategoryBySlug(slug);
+              return { label: cat ? `${cat.label} in ${neighbourhood.name}` : slug, href: getNeighbourhoodCategoryPath(citySlug, neighbourhoodSlug, slug) };
+            }),
+            { label: neighbourhood.name, href: getNeighbourhoodPath(citySlug, neighbourhoodSlug) },
+            ...getGuidesByNeighbourhood(neighbourhoodSlug).slice(0, 3).map((g) => ({
+              label: g.title,
+              href: getGuidePath(citySlug, g.slug),
+            })),
+            { label: `${city.name} guide`, href: getCityPath(citySlug) },
+            { label: `Things to do in ${city.name}`, href: getCityCategoryPath(citySlug, "things-to-do") },
+          ]}
+        />
+      </section>
     </div>
   );
 }

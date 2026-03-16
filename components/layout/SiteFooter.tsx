@@ -4,6 +4,7 @@ import {
   getGuidePath,
   getItineraryPath,
   getCategoryPath,
+  getCulturePath,
 } from "@/lib/canonical";
 
 const cityLinks = [
@@ -22,12 +23,13 @@ const guideLinks = [
   { label: "Haeundae Beach Guide", citySlug: "busan", guideSlug: "haeundae-beach-guide" },
 ];
 
-const categoryLinks = [
-  { label: "Food", slug: "food" },
-  { label: "Nightlife", slug: "nightlife" },
-  { label: "Things To Do", slug: "things-to-do" },
-  { label: "Itineraries", slug: "itineraries" },
-  { label: "Travel Tips", slug: "travel-tips" },
+const categoryLinks: { label: string; href: string }[] = [
+  { label: "Culture", href: getCulturePath() },
+  { label: "Food", href: getCategoryPath("food") },
+  { label: "Nightlife", href: getCategoryPath("nightlife") },
+  { label: "Things To Do", href: getCategoryPath("things-to-do") },
+  { label: "Itineraries", href: getCategoryPath("itineraries") },
+  { label: "Travel Tips", href: getCategoryPath("travel-tips") },
 ];
 
 export function SiteFooter() {
@@ -88,8 +90,8 @@ export function SiteFooter() {
             <div className="flex flex-col gap-2">
               {categoryLinks.map((link) => (
                 <Link
-                  key={link.slug}
-                  href={getCategoryPath(link.slug)}
+                  key={link.href}
+                  href={link.href}
                   className="text-sm text-foreground hover:text-primary transition-colors"
                 >
                   {link.label}

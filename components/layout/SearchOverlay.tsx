@@ -20,6 +20,7 @@ const typeLabels: Record<SearchResultType, string> = {
   venue: "Venues",
   itinerary: "Itineraries",
   "travel-tip": "Travel Tips",
+  culture: "Culture",
   category: "Categories",
 };
 
@@ -59,6 +60,8 @@ export function SearchOverlay({
     "venue",
     "itinerary",
     "travel-tip",
+    "culture",
+    "category",
   ];
 
   return (

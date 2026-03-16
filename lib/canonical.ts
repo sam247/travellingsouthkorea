@@ -65,3 +65,12 @@ export function getCategoryPath(categorySlug: string): string {
 export function getLocationPath(slug: string): string {
   return `/locations/${slug}`;
 }
+
+/** Culture editorial section */
+export function getCulturePath(): string {
+  return "/culture";
+}
+
+export function getCultureArticlePath(articleSlug: string): string {
+  return `/culture/${articleSlug}`;
+}

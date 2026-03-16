@@ -8,6 +8,8 @@ export const authors: Author[] = [
     location: "Seoul, South Korea",
     bio: "Seoul-based writer covering neighbourhoods, nightlife and food culture. Originally from London, James has lived in Korea for six years and spends most evenings exploring bars, restaurants and backstreets across the city.",
     topics: ["Nightlife", "Bars", "Neighbourhoods", "Street Food"],
+    expertise: "Neighbourhoods, nightlife and food culture",
+    yearsInKorea: 6,
   },
   {
     slug: "mina-park",
@@ -16,6 +18,8 @@ export const authors: Author[] = [
     location: "Busan, South Korea",
     bio: "Travel writer and photographer based in Busan. Mina covers Korea's food scene, coastal destinations and off-the-beaten-path experiences. Her work focuses on the quieter, more beautiful side of Korean travel.",
     topics: ["Food", "Cafes", "Nature", "Photography"],
+    expertise: "Food, coastal destinations and off-the-beaten-path travel",
+    yearsInKorea: 4,
   },
 ];
 

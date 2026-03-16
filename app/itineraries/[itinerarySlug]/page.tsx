@@ -5,10 +5,29 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AuthorBadge } from "@/components/AuthorBadge";
 import { QuickFacts } from "@/components/QuickFacts";
 import { ItineraryTimeSlot } from "@/components/ItineraryTimeSlot";
-import { getItineraryBySlug } from "@/data/itineraries";
+import { TopHighlights } from "@/components/TopHighlights";
+import { WhenToVisit } from "@/components/WhenToVisit";
+import { GettingAround } from "@/components/GettingAround";
+import { BudgetGuide } from "@/components/BudgetGuide";
+import { ProTips } from "@/components/ProTips";
+import { FAQSection } from "@/components/FAQSection";
+import { ExploreMore } from "@/components/ExploreMore";
+import { getItineraryBySlug, getItinerariesByCity } from "@/data/itineraries";
 import { getCityBySlug } from "@/data/cities";
+import { getGuidesByCity } from "@/data/guides";
+import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
+import { getTopHighlightsForItinerary, getItineraryNarrative } from "@/lib/content/itineraryContent";
+import { getFAQForItinerary } from "@/lib/content/faqContent";
+import {
+  getWhenToVisitForItinerary,
+  getGettingAroundForItinerary,
+  getBudgetGuideForItinerary,
+  getTravelTipsForItinerary,
+  getAuthorPerspective,
+} from "@/lib/content/insights";
 import { breadcrumbsItinerary } from "@/lib/breadcrumbs";
-import { getItineraryPath } from "@/lib/canonical";
+import { getItineraryPath, getGuidePath, getCityCategoryPath, getCityPath, getNeighbourhoodPath } from "@/lib/canonical";
+import { ContentSection } from "@/components/ContentSection";
 
 interface PageProps {
   params: Promise<{ itinerarySlug: string }>;
@@ -96,8 +115,23 @@ export default async function ItineraryPage({ params }: PageProps) {
         <AuthorBadge authorSlug={itinerary.authorSlug} updatedDate={itinerary.updatedDate} />
       </div>
 
+      {city && getAuthorPerspective(itinerary.authorSlug, city.name, "itinerary") && (
+        <p className="max-w-4xl mx-auto px-4 sm:px-6 pt-2 text-sm text-muted-foreground leading-relaxed">
+          {getAuthorPerspective(itinerary.authorSlug, city.name, "itinerary")}
+        </p>
+      )}
+
       <section className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
-        <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">{itinerary.intro}</p>
+        <TopHighlights {...getTopHighlightsForItinerary(itinerary, city ?? null)} />
+        <p className="text-base sm:text-lg text-muted-foreground leading-relaxed mt-6">{itinerary.intro}</p>
+        <div className="mt-10">
+          {getItineraryNarrative(itinerary, city ?? null).map((section) => (
+            <ContentSection key={section.heading} heading={section.heading} paragraphs={section.paragraphs} />
+          ))}
+          <WhenToVisit {...getWhenToVisitForItinerary(itinerary, city ?? null)} />
+            <GettingAround {...getGettingAroundForItinerary(itinerary, city ?? null)} />
+            <BudgetGuide {...getBudgetGuideForItinerary(itinerary, city ?? null)} />
+        </div>
       </section>
 
       {itinerary.dayPlans.map((day) => (
@@ -114,6 +148,32 @@ export default async function ItineraryPage({ params }: PageProps) {
           </div>
         </section>
       ))}
+
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
+        <ProTips {...getTravelTipsForItinerary(itinerary, city ?? null)} />
+      </section>
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
+        <FAQSection items={getFAQForItinerary(itinerary, city ?? null)} />
+        <ExploreMore
+          links={[
+            ...getItinerariesByCity(itinerary.citySlug)
+              .filter((i) => i.slug !== itinerary.slug)
+              .slice(0, 3)
+              .map((i) => ({ label: i.title, href: getItineraryPath(i.slug) })),
+            ...getGuidesByCity(itinerary.citySlug).slice(0, 4).map((g) => ({
+              label: g.title,
+              href: getGuidePath(itinerary.citySlug, g.slug),
+            })),
+            ...getNeighbourhoodsByCity(itinerary.citySlug).slice(0, 3).map((n) => ({
+              label: n.name,
+              href: getNeighbourhoodPath(itinerary.citySlug, n.slug),
+            })),
+            { label: `${city?.name ?? itinerary.citySlug} guide`, href: getCityPath(itinerary.citySlug) },
+            { label: "Things to do", href: getCityCategoryPath(itinerary.citySlug, "things-to-do") },
+            { label: "Nightlife", href: getCityCategoryPath(itinerary.citySlug, "nightlife") },
+          ]}
+        />
+      </section>
     </div>
   );
 }

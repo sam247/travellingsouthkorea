@@ -7,13 +7,27 @@ import { GuideCard } from "@/components/GuideCard";
 import { VenueListCard } from "@/components/VenueListCard";
 import { NeighbourhoodCard } from "@/components/NeighbourhoodCard";
 import { MapPlaceholder } from "@/components/MapPlaceholder";
+import { ContentSection } from "@/components/ContentSection";
+import { TopHighlights } from "@/components/TopHighlights";
+import { LocalInsights } from "@/components/LocalInsights";
+import { WhenToVisit } from "@/components/WhenToVisit";
+import { ProTips } from "@/components/ProTips";
+import { FAQSection } from "@/components/FAQSection";
+import { ExploreMore } from "@/components/ExploreMore";
 import { getNeighbourhoodBySlug, getNeighbourhoodsByCity } from "@/data/neighbourhoods";
+import { getNeighbourhoodContent, getTopHighlightsForNeighbourhood } from "@/lib/content/neighbourhoodContent";
+import { getFAQForNeighbourhood } from "@/lib/content/faqContent";
+import {
+  getLocalInsightsForNeighbourhood,
+  getWhenToVisitForNeighbourhood,
+  getTravelTipsForNeighbourhood,
+} from "@/lib/content/insights";
 import { getGuidesByNeighbourhood } from "@/data/guides";
 import { getVenuesByNeighbourhood } from "@/data/venues";
 import { getCityBySlug } from "@/data/cities";
 import Link from "next/link";
 import { breadcrumbsNeighbourhood } from "@/lib/breadcrumbs";
-import { getNeighbourhoodPath, getNeighbourhoodCategoryPath } from "@/lib/canonical";
+import { getNeighbourhoodPath, getNeighbourhoodCategoryPath, getGuidePath, getCityCategoryPath, getCityPath } from "@/lib/canonical";
 
 interface PageProps {
   params: Promise<{ slug: string; neighbourhoodSlug: string }>;
@@ -142,6 +156,18 @@ export default async function NeighbourhoodPage({ params }: PageProps) {
             </Link>
           ))}
         </div>
+        <div className="mt-10">
+          <TopHighlights {...getTopHighlightsForNeighbourhood(neighbourhood, city)} />
+          {getNeighbourhoodContent(neighbourhood, city).map((section) => (
+            <ContentSection
+              key={section.heading}
+              heading={section.heading}
+              paragraphs={section.paragraphs}
+            />
+          ))}
+          <LocalInsights {...getLocalInsightsForNeighbourhood(neighbourhood, city)} />
+          <WhenToVisit {...getWhenToVisitForNeighbourhood(neighbourhood, city)} />
+        </div>
       </section>
 
       {Object.entries(guidesByCategory).map(
@@ -216,6 +242,10 @@ export default async function NeighbourhoodPage({ params }: PageProps) {
       )}
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+        <ProTips {...getTravelTipsForNeighbourhood(neighbourhood, city)} />
+      </section>
+
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
         <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
           Map
         </h2>
@@ -238,6 +268,25 @@ export default async function NeighbourhoodPage({ params }: PageProps) {
           </div>
         </section>
       )}
+
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
+        <FAQSection items={getFAQForNeighbourhood(neighbourhood, city)} />
+        <ExploreMore
+          links={[
+            ...relatedNeighbourhoods.slice(0, 4).map((n) => ({
+              label: n.name,
+              href: getNeighbourhoodPath(city.slug, n.slug),
+            })),
+            ...nhGuides.slice(0, 4).map((g) => ({
+              label: g.title,
+              href: getGuidePath(city.slug, g.slug),
+            })),
+            { label: "Things to do", href: getCityCategoryPath(city.slug, "things-to-do") },
+            { label: "Nightlife", href: getCityCategoryPath(city.slug, "nightlife") },
+            { label: `${city.name} guide`, href: getCityPath(city.slug) },
+          ].filter((l) => l.href)}
+        />
+      </section>
     </div>
   );
 }

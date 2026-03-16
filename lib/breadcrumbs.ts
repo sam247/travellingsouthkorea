@@ -12,6 +12,7 @@ import {
   getMapPath,
   getCategoryPath,
   getLocationPath,
+  getCulturePath,
 } from "@/lib/canonical";
 
 export interface BreadcrumbItem {
@@ -184,5 +185,20 @@ export function breadcrumbsLocation(locationName: string): BreadcrumbItem[] {
     { label: "Home", href: "/" },
     { label: "South Korea", href: getCountryPath() },
     { label: locationName },
+  ];
+}
+
+export function breadcrumbsCulture(): BreadcrumbItem[] {
+  return [{ label: "Home", href: "/" }, { label: "Culture" }];
+}
+
+export function breadcrumbsCultureArticle(
+  articleTitle: string,
+  articleSlug: string
+): BreadcrumbItem[] {
+  return [
+    { label: "Home", href: "/" },
+    { label: "Culture", href: getCulturePath() },
+    { label: articleTitle },
   ];
 }

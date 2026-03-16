@@ -5,8 +5,9 @@
  * itineraries, travel tips.
  */
 
-import { getCityPath, getNeighbourhoodPath, getCityCategoryPath, getNeighbourhoodCategoryPath, getGuidePath, getVenuePath, getItineraryPath, getTravelTipPath } from "@/lib/canonical";
+import { getCityPath, getNeighbourhoodPath, getCityCategoryPath, getNeighbourhoodCategoryPath, getGuidePath, getVenuePath, getItineraryPath, getTravelTipPath, getCultureArticlePath } from "@/lib/canonical";
 import { cities } from "@/data/cities";
+import { getAllCultureArticles } from "@/data/cultureArticles";
 import { neighbourhoods } from "@/data/neighbourhoods";
 import { guides } from "@/data/guides";
 import { getProgrammaticGuideSpecs, buildProgrammaticGuide } from "@/lib/programmaticGuides";
@@ -15,9 +16,9 @@ import { itineraries } from "@/data/itineraries";
 import { travelTips } from "@/data/travelTips";
 import { getCategoryBySlug } from "@/data/categories";
 
-export type SearchResultType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category";
+export type SearchResultType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category" | "culture";
 
-export type ContentType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category";
+export type ContentType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category" | "culture";
 
 export interface SearchEntry {
   type: SearchResultType;
@@ -124,6 +125,18 @@ function buildSearchIndex(): SearchEntry[] {
     });
   });
 
+  getAllCultureArticles().forEach((a) => {
+    entries.push({
+      type: "culture",
+      contentType: "culture",
+      title: a.title,
+      slug: a.slug,
+      href: getCultureArticlePath(a.slug),
+      subtitle: a.category,
+      image: a.heroImage,
+    });
+  });
+
   const cityCategorySlugs = ["bars", "restaurants", "cafes", "things-to-do", "itineraries", "travel-tips", "neighbourhoods"];
   cities.forEach((c) => {
     cityCategorySlugs.forEach((categorySlug) => {
@@ -174,7 +187,8 @@ const typeOrder: Record<SearchResultType, number> = {
   venue: 3,
   itinerary: 4,
   "travel-tip": 5,
-  category: 6,
+  culture: 6,
+  category: 7,
 };
 
 export function searchQuery(query: string, limitPerType: number = 4): Map<SearchResultType, SearchEntry[]> {
@@ -191,6 +205,7 @@ export function searchQuery(query: string, limitPerType: number = 4): Map<Search
     venue: [],
     itinerary: [],
     "travel-tip": [],
+    culture: [],
     category: [],
   };
 
@@ -211,6 +226,7 @@ export function searchQuery(query: string, limitPerType: number = 4): Map<Search
     "venue",
     "itinerary",
     "travel-tip",
+    "culture",
     "category",
   ];
   order.forEach((type) => {

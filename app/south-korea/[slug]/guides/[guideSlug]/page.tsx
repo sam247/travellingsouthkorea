@@ -7,11 +7,28 @@ import { QuickFacts } from "@/components/QuickFacts";
 import { VenueCard } from "@/components/VenueCard";
 import { GuideCard } from "@/components/GuideCard";
 import { MapPlaceholder } from "@/components/MapPlaceholder";
+import { ContentSection } from "@/components/ContentSection";
+import { TopHighlights } from "@/components/TopHighlights";
+import { LocalInsights } from "@/components/LocalInsights";
+import { BudgetGuide } from "@/components/BudgetGuide";
+import { LocalEtiquette } from "@/components/LocalEtiquette";
+import { ProTips } from "@/components/ProTips";
+import { FAQSection } from "@/components/FAQSection";
+import { ExploreMore } from "@/components/ExploreMore";
 import { getGuideBySlug, getGuidesByNeighbourhood, getGuidesByCity } from "@/data/guides";
+import { getGuideContent, getTopHighlightsForGuide } from "@/lib/content/guideContent";
+import { getFAQForGuide } from "@/lib/content/faqContent";
+import {
+  getLocalInsightsForGuide,
+  getBudgetGuideForGuide,
+  getLocalEtiquetteForGuide,
+  getTravelTipsForGuide,
+  getAuthorPerspective,
+} from "@/lib/content/insights";
 import { getCityBySlug } from "@/data/cities";
 import { guides } from "@/data/guides";
 import { breadcrumbsGuide, breadcrumbsCityGuide } from "@/lib/breadcrumbs";
-import { getGuidePath } from "@/lib/canonical";
+import { getGuidePath, getNeighbourhoodPath, getCityCategoryPath, getCityPath } from "@/lib/canonical";
 import {
   getProgrammaticGuideSpec,
   buildProgrammaticGuide,
@@ -143,10 +160,29 @@ export default async function GuidePage({ params }: PageProps) {
         <AuthorBadge authorSlug={guide.authorSlug} updatedDate={guide.updatedDate} />
       </div>
 
+      {getAuthorPerspective(guide.authorSlug, guide.neighbourhood || city.name, "guide") && (
+        <p className="max-w-4xl mx-auto px-4 sm:px-6 pt-2 text-sm text-muted-foreground leading-relaxed">
+          {getAuthorPerspective(guide.authorSlug, guide.neighbourhood || city.name, "guide")}
+        </p>
+      )}
+
       <section className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
-        <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
+        <TopHighlights {...getTopHighlightsForGuide(guide, city)} />
+        <p className="text-base sm:text-lg text-muted-foreground leading-relaxed mt-6">
           {guide.intro}
         </p>
+        <div className="mt-10">
+          {getGuideContent(guide, city).map((section) => (
+            <ContentSection
+              key={section.heading}
+              heading={section.heading}
+              paragraphs={section.paragraphs}
+            />
+          ))}
+          <LocalInsights {...getLocalInsightsForGuide(guide, city)} />
+          <BudgetGuide {...getBudgetGuideForGuide(guide, city)} />
+          <LocalEtiquette {...getLocalEtiquetteForGuide(guide, city)} />
+        </div>
       </section>
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
@@ -194,6 +230,32 @@ export default async function GuidePage({ params }: PageProps) {
           </div>
         </section>
       )}
+
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
+        <ProTips {...getTravelTipsForGuide(guide, city)} />
+      </section>
+
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
+        <FAQSection items={getFAQForGuide(guide, city)} />
+        <ExploreMore
+          links={[
+            ...relatedGuides.slice(0, 3).map((g) => ({
+              label: g.title,
+              href: getGuidePath(citySlug, g.slug),
+            })),
+            ...nearbyGuides.slice(0, 3).map((g) => ({
+              label: g.title,
+              href: getGuidePath(citySlug, g.slug),
+            })),
+            ...(guide.neighbourhoodSlug
+              ? [{ label: guide.neighbourhood, href: getNeighbourhoodPath(citySlug, guide.neighbourhoodSlug) }]
+              : []),
+            { label: "Things to do", href: getCityCategoryPath(citySlug, "things-to-do") },
+            { label: "Nightlife", href: getCityCategoryPath(citySlug, "nightlife") },
+            { label: `${city.name} guide`, href: getCityPath(citySlug) },
+          ]}
+        />
+      </section>
     </div>
   );
 }

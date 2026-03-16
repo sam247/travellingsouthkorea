@@ -6,12 +6,31 @@ import { GuideCard } from "@/components/GuideCard";
 import { NeighbourhoodCard } from "@/components/NeighbourhoodCard";
 import { VenueListCard } from "@/components/VenueListCard";
 import { MapPlaceholder } from "@/components/MapPlaceholder";
+import { ContentSection } from "@/components/ContentSection";
+import { TopHighlights } from "@/components/TopHighlights";
+import { LocalInsights } from "@/components/LocalInsights";
+import { WhenToVisit } from "@/components/WhenToVisit";
+import { GettingAround } from "@/components/GettingAround";
+import { BudgetGuide } from "@/components/BudgetGuide";
+import { LocalEtiquette } from "@/components/LocalEtiquette";
+import { FAQSection } from "@/components/FAQSection";
+import { ExploreMore } from "@/components/ExploreMore";
 import { breadcrumbsRegion, breadcrumbsCity } from "@/lib/breadcrumbs";
-import { getCityCategoryPath, getMapPath } from "@/lib/canonical";
+import { getCityContent, getTopHighlightsForCity } from "@/lib/content/cityContent";
+import { getFAQForCity } from "@/lib/content/faqContent";
+import {
+  getLocalInsightsForCity,
+  getWhenToVisitForCity,
+  getGettingAroundForCity,
+  getBudgetGuideForCity,
+  getLocalEtiquetteForCity,
+} from "@/lib/content/insights";
+import { getCityCategoryPath, getMapPath, getNeighbourhoodPath, getGuidePath, getItineraryPath } from "@/lib/canonical";
 import { getCitiesByRegion } from "@/data/cities";
 import { getGuidesByCity } from "@/data/guides";
 import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
 import { getVenuesByCity } from "@/data/venues";
+import { getItinerariesByCity } from "@/data/itineraries";
 import type { City } from "@/types";
 import type { Region } from "@/types";
 
@@ -128,6 +147,21 @@ export function RegionOrCityPage({
           <p className="text-base sm:text-lg text-muted-foreground leading-relaxed max-w-2xl mt-6">
             {city.description}
           </p>
+          <div className="max-w-7xl mt-10">
+            <TopHighlights {...getTopHighlightsForCity(city, cityNeighbourhoods)} />
+            {getCityContent(city, cityNeighbourhoods).map((section) => (
+              <ContentSection
+                key={section.heading}
+                heading={section.heading}
+                paragraphs={section.paragraphs}
+              />
+            ))}
+            <LocalInsights {...getLocalInsightsForCity(city, cityNeighbourhoods)} />
+            <WhenToVisit {...getWhenToVisitForCity(city)} />
+            <GettingAround {...getGettingAroundForCity(city)} />
+            <BudgetGuide {...getBudgetGuideForCity(city)} />
+            <LocalEtiquette {...getLocalEtiquetteForCity(city)} />
+          </div>
         </section>
 
         {popularNeighbourhoods.length > 0 && (
@@ -244,6 +278,29 @@ export function RegionOrCityPage({
             </p>
           </section>
         )}
+
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-10">
+          <FAQSection items={getFAQForCity(city)} />
+          <ExploreMore
+            links={[
+              ...cityNeighbourhoods.slice(0, 4).map((n) => ({
+                label: n.name,
+                href: getNeighbourhoodPath(city.slug, n.slug),
+              })),
+              ...cityGuides.slice(0, 4).map((g) => ({
+                label: g.title,
+                href: getGuidePath(city.slug, g.slug),
+              })),
+              ...getItinerariesByCity(city.slug).slice(0, 3).map((i) => ({
+                label: i.title,
+                href: getItineraryPath(i.slug),
+              })),
+              { label: "Things to do", href: getCityCategoryPath(city.slug, "things-to-do") },
+              { label: "Nightlife", href: getCityCategoryPath(city.slug, "nightlife") },
+              { label: "Restaurants", href: getCityCategoryPath(city.slug, "restaurants") },
+            ]}
+          />
+        </section>
 
         <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-14">
           <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">

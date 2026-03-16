@@ -14,6 +14,8 @@ import {
   getMapPath,
   getCategoryPath,
   getLocationPath,
+  getCulturePath,
+  getCultureArticlePath,
 } from "@/lib/canonical";
 import { regions } from "@/data/regions";
 import { cities } from "@/data/cities";
@@ -25,6 +27,7 @@ import { travelTips } from "@/data/travelTips";
 import { authors } from "@/data/authors";
 import { categories } from "@/data/categories";
 import { getAllLocationSlugs } from "@/lib/locations";
+import { getAllCultureArticles } from "@/data/cultureArticles";
 
 const base = process.env.NEXT_PUBLIC_SITE_URL || "https://travellingsouthkorea.com";
 const lastMod = new Date();
@@ -37,6 +40,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
 
   entries.push({ url: url(getCountryPath()), lastModified: lastMod });
+  entries.push({ url: url(getCulturePath()), lastModified: lastMod });
+  getAllCultureArticles().forEach((article) => {
+    entries.push({
+      url: url(getCultureArticlePath(article.slug)),
+      lastModified: lastMod,
+    });
+  });
 
   regions.forEach((r) => {
     entries.push({ url: url(getRegionPath(r.slug)), lastModified: lastMod });

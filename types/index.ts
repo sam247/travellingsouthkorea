@@ -146,6 +146,8 @@ export interface Author {
   location: string;
   bio: string;
   topics: string[];
+  expertise?: string;
+  yearsInKorea?: number;
 }
 
 /** Shared shape for islands and parks (location pages) */
@@ -168,3 +170,46 @@ export interface Park {
 export type LocationType = "island" | "park";
 
 export type Location = (Island | Park) & { locationType: LocationType };
+
+/** Culture editorial section */
+export type CultureArticleCategory =
+  | "fashion"
+  | "beauty"
+  | "k-pop"
+  | "nightlife"
+  | "food"
+  | "festivals"
+  | "lifestyle";
+
+export interface CultureArticleSection {
+  heading: string;
+  body: string;
+  image?: string;
+}
+
+export interface CultureArticleFAQ {
+  question: string;
+  answer: string;
+}
+
+export interface CultureArticleRelatedGuide {
+  citySlug: string;
+  guideSlug: string;
+}
+
+export interface CultureArticle {
+  title: string;
+  slug: string;
+  summary: string;
+  category: CultureArticleCategory;
+  heroImage: string;
+  supportingImages?: string[];
+  authorSlug: string;
+  updatedDate: string;
+  intro: string;
+  sections: CultureArticleSection[];
+  faq: CultureArticleFAQ[];
+  relatedArticleSlugs?: string[];
+  relatedGuides?: CultureArticleRelatedGuide[];
+  relatedCitySlugs?: string[];
+}

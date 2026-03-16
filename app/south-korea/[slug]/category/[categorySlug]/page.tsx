@@ -5,11 +5,20 @@ import { VenueListCard } from "@/components/VenueListCard";
 import { NeighbourhoodCard } from "@/components/NeighbourhoodCard";
 import { getCityBySlug } from "@/data/cities";
 import { getCategoryBySlug } from "@/data/categories";
+import { ContentSection } from "@/components/ContentSection";
+import { FAQSection } from "@/components/FAQSection";
+import { ExploreMore } from "@/components/ExploreMore";
+import { getFAQForCategory } from "@/lib/content/faqContent";
 import { getCityCategoryContent } from "@/lib/queries";
 import { breadcrumbsCityCategory } from "@/lib/breadcrumbs";
+import { getCategoryContentForCity } from "@/lib/content/categoryContent";
+import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
+import { getGuidesByCity } from "@/data/guides";
+import { getItinerariesByCity } from "@/data/itineraries";
+import { categories } from "@/data/categories";
 import Link from "next/link";
 import Image from "next/image";
-import { getCityCategoryPath, getItineraryPath, getTravelTipPath } from "@/lib/canonical";
+import { getCityCategoryPath, getItineraryPath, getTravelTipPath, getNeighbourhoodPath, getGuidePath, getCityPath } from "@/lib/canonical";
 
 interface PageProps {
   params: Promise<{ slug: string; categorySlug: string }>;
@@ -67,6 +76,15 @@ export default async function CityCategoryPage({ params }: PageProps) {
           {content.categoryLabel} in {city.name}
         </h1>
         <p className="text-muted-foreground mt-2">{category.description}</p>
+        <div className="mt-10 max-w-7xl">
+          {getCategoryContentForCity(city, category, content).map((section) => (
+            <ContentSection
+              key={section.heading}
+              heading={section.heading}
+              paragraphs={section.paragraphs}
+            />
+          ))}
+        </div>
       </section>
 
       {content.guides.length > 0 && (
@@ -195,6 +213,34 @@ export default async function CityCategoryPage({ params }: PageProps) {
             </p>
           </section>
         )}
+
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-14">
+        <FAQSection items={getFAQForCategory(city.name, content.categoryLabel, "city")} />
+        <ExploreMore
+          links={[
+            ...categories
+              .filter((c) => c.slug !== categorySlug)
+              .slice(0, 5)
+              .map((c) => ({
+                label: `${c.label} in ${city.name}`,
+                href: getCityCategoryPath(city.slug, c.slug),
+              })),
+            ...getNeighbourhoodsByCity(city.slug).slice(0, 4).map((n) => ({
+              label: n.name,
+              href: getNeighbourhoodPath(city.slug, n.slug),
+            })),
+            ...getGuidesByCity(city.slug).slice(0, 3).map((g) => ({
+              label: g.title,
+              href: getGuidePath(city.slug, g.slug),
+            })),
+            ...getItinerariesByCity(city.slug).slice(0, 2).map((i) => ({
+              label: i.title,
+              href: getItineraryPath(i.slug),
+            })),
+            { label: `${city.name} guide`, href: getCityPath(city.slug) },
+          ]}
+        />
+      </section>
     </div>
   );
 }

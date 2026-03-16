@@ -69,6 +69,16 @@ export default async function AuthorPage({ params }: PageProps) {
             <p className="text-base text-muted-foreground mt-3 leading-relaxed max-w-lg">
               {author.bio}
             </p>
+            {author.expertise && (
+              <p className="text-sm text-muted-foreground mt-2 max-w-lg">
+                <span className="font-medium text-foreground">Expertise:</span> {author.expertise}
+              </p>
+            )}
+            {author.yearsInKorea != null && (
+              <p className="text-sm text-muted-foreground mt-1 max-w-lg">
+                <span className="font-medium text-foreground">Years in Korea:</span> {author.yearsInKorea}
+              </p>
+            )}
             <div className="flex flex-wrap gap-2 mt-4">
               {author.topics.map((topic) => (
                 <span
