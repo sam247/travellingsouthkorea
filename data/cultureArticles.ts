@@ -127,6 +127,48 @@ export const cultureArticles: CultureArticle[] = [
     relatedGuides: [{ citySlug: "busan", guideSlug: "haeundae-beach-guide" }],
     relatedCitySlugs: ["seoul", "busan", "jeju"],
   }),
+  article("han-hye-jin", {
+    title: "Han Hye-jin",
+    slug: "han-hye-jin",
+    summary:
+      "South Korean actress Han Hye-jin on breakthrough roles in Be Strong, Geum-soon!, Jumong, and Jejungwon, hosting Healing Camp, and her life off-screen.",
+    category: "lifestyle",
+    authorSlug: "mina-park",
+    updatedDate: "2026-03-16",
+    topCta: {
+      heading: "Want to be featured?",
+      body: "We're always looking to add more Korean actors, musicians, and public figures to our culture section. If you'd like to be included or would like to suggest someone, get in touch.",
+      ctaText: "Contact us",
+      ctaHref: "/contact",
+    },
+    intro:
+      "Han Hye-jin (한혜진, born October 27, 1981) is one of South Korea's best-known actresses. She broke through in 2005 as the young widow and hairdresser in the hit daily drama Be Strong, Geum-soon!, and has since taken on iconic roles in historical and period pieces, hosted one of the country's most popular talk shows, and built a lasting career in film and television.",
+    sections: [
+      {
+        heading: "Career breakthrough and notable roles",
+        body: "Han made her breakthrough in 2005 when she starred as a young widow in her twenties working as an outgoing hairdresser in the hit daily drama Be Strong, Geum-soon!. Among her notable leading roles are Soseono in the historical epic Jumong, Korea's first female doctor of Western medicine in Jejungwon, and a sharpshooter in the manhwa-based film 26 Years. From 2011 to 2013 she hosted the popular talk show Healing Camp, Aren't You Happy.",
+      },
+      {
+        heading: "Personal life",
+        body: "Han dated singer Naul of the R&B group Brown Eyed Soul from 2003 to 2012. In March 2013 she confirmed she was in a relationship with South Korean footballer Ki Sung-yueng; the couple announced their engagement two months later. Both are devout Christians. They married on July 1, 2013, at the Hotel Intercontinental Seoul. Their daughter was born on September 13, 2015.",
+      },
+    ],
+    faq: [
+      {
+        question: "What is Han Hye-jin best known for?",
+        answer:
+          "Han Hye-jin is best known for Be Strong, Geum-soon!, her role as Soseono in Jumong, playing Korea's first female doctor of Western medicine in Jejungwon, and hosting Healing Camp, Aren't You Happy. She also starred in the film 26 Years.",
+      },
+      {
+        question: "Is Han Hye-jin married?",
+        answer:
+          "Yes. Han Hye-jin married South Korean midfielder Ki Sung-yueng in July 2013 at the Hotel Intercontinental Seoul. They have a daughter, born in September 2015.",
+      },
+    ],
+    relatedArticleSlugs: ["korean-bikini-models", "k-pop-male-idols"],
+    relatedGuides: [{ citySlug: "seoul", guideSlug: "best-street-food-myeongdong" }],
+    relatedCitySlugs: ["seoul"],
+  }),
   article("k-pop-male-idols", {
     title: "K-pop Male Idols and Korean Entertainment Culture",
     slug: "k-pop-male-idols",

@@ -111,6 +111,25 @@ export default async function CultureArticlePage({ params }: PageProps) {
         />
       </div>
 
+      {article.topCta && (
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 pt-6">
+          <div className="rounded-xl border border-border bg-secondary/40 p-5 sm:p-6">
+            <h2 className="text-lg font-semibold text-foreground mb-2">
+              {article.topCta.heading}
+            </h2>
+            <p className="text-sm sm:text-base text-muted-foreground mb-4">
+              {article.topCta.body}
+            </p>
+            <a
+              href={article.topCta.ctaHref}
+              className="inline-flex items-center justify-center rounded-lg bg-primary px-4 py-2.5 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition-colors"
+            >
+              {article.topCta.ctaText}
+            </a>
+          </div>
+        </section>
+      )}
+
       <section className="max-w-4xl mx-auto px-4 sm:px-6 py-10">
         <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
           {article.intro}

@@ -197,6 +197,13 @@ export interface CultureArticleRelatedGuide {
   guideSlug: string;
 }
 
+export interface CultureArticleTopCta {
+  heading: string;
+  body: string;
+  ctaText: string;
+  ctaHref: string;
+}
+
 export interface CultureArticle {
   title: string;
   slug: string;
@@ -212,6 +219,8 @@ export interface CultureArticle {
   relatedArticleSlugs?: string[];
   relatedGuides?: CultureArticleRelatedGuide[];
   relatedCitySlugs?: string[];
+  /** Optional CTA block shown at top of article body (e.g. invite readers to be featured). */
+  topCta?: CultureArticleTopCta;
 }
 
 /** Cinema section */
