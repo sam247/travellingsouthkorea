@@ -2,6 +2,7 @@
 
 Slug-based paths for content images. Missing files fall back to placeholder in UI.
 
+- **hero/** — home/section landing heroes: `hero-home.jpg`, `hero-south-korea.jpg`, `hero-cinema.jpg`, `hero-culture.jpg` (see `lib/imageConfig.ts` → `HERO_IMAGES`)
 - **cities/** — `{citySlug}.jpg`
 - **neighbourhoods/** — `{citySlug}-{neighbourhoodSlug}.jpg`
 - **guides/** — `{guideSlug}-hero.jpg`, `{guideSlug}-1.jpg`, `{guideSlug}-2.jpg`

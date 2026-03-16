@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
-import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { HERO_IMAGES } from "@/lib/imageConfig";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
@@ -33,7 +33,7 @@ export default function CountryPage() {
     <div className="min-h-screen bg-background">
       <section className="relative h-[70vh] min-h-[450px] flex items-end overflow-hidden">
         <SafeImage
-          src={DEFAULT_PLACEHOLDER_IMAGE}
+          src={HERO_IMAGES.southKorea}
           alt="South Korea"
           fill
           className="object-cover"

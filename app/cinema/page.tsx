@@ -1,5 +1,5 @@
 import { SafeImage } from "@/components/SafeImage";
-import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { HERO_IMAGES } from "@/lib/imageConfig";
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CinemaImage } from "@/components/CinemaImage";
@@ -44,7 +44,7 @@ export default function CinemaPage() {
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
         <SafeImage
-          src={DEFAULT_PLACEHOLDER_IMAGE}
+          src={HERO_IMAGES.cinema}
           alt="Korean cinema"
           fill
           className="object-cover"

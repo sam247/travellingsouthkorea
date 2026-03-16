@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
-import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { HERO_IMAGES } from "@/lib/imageConfig";
 import { Search } from "lucide-react";
 import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
@@ -20,7 +20,7 @@ export default function HomePage() {
     <div className="min-h-screen bg-background">
       <section className="relative h-[80vh] min-h-[500px] flex items-center justify-center overflow-hidden">
         <SafeImage
-          src={DEFAULT_PLACEHOLDER_IMAGE}
+          src={HERO_IMAGES.home}
           alt="South Korea landscape"
           fill
           className="object-cover"

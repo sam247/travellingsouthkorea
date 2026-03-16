@@ -1,6 +1,6 @@
 import { SafeImage } from "@/components/SafeImage";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { HERO_IMAGES } from "@/lib/imageConfig";
 import { CultureArticleCard } from "@/components/CultureArticleCard";
 import { breadcrumbsCulture } from "@/lib/breadcrumbs";
 import { getCulturePath } from "@/lib/canonical";
@@ -41,7 +41,7 @@ export default function CulturePage() {
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
         <SafeImage
-          src={DEFAULT_PLACEHOLDER_IMAGE}
+          src={HERO_IMAGES.culture}
           alt="Korean culture"
           fill
           className="object-cover"
