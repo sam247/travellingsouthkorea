@@ -71,12 +71,12 @@ export const cultureArticles: CultureArticle[] = [
     title: "The Most Popular Korean Bikini Models In 2025",
     slug: "most-popular-korean-bikini-models-2025",
     summary:
-      "From Seoul to Los Angeles, these Korean bikini models have taken the world by storm and are now some of the most recognizable faces in swimwear and lingerie. We explore the top names and their impact on the fashion industry.",
+      "A look at the top names in Korean swimwear and lingerie modelling—their style, achievements, and influence on beauty and fashion at home and abroad.",
     category: "lifestyle",
     authorSlug: "mina-park",
     updatedDate: "2026-03-16",
     intro:
-      "From Seoul to Los Angeles, Korean bikini models have taken the world by storm and are now some of the most recognizable faces in swimwear and lingerie. In this blog post, we explore some of the most popular Korean bikini models and their impact on the fashion industry. From their unique style and beauty to their impressive achievements, we take a closer look at the top Korean models who are making waves in the swimwear and lingerie industry.",
+      "Korean models have become a major force in global swimwear and lingerie, known for distinct aesthetics and strong presence in campaigns, magazines, and social media. Here we highlight the most popular figures in 2025 and what makes them stand out.",
     sections: [
       {
         heading: "Impact of Korean Beauty Standards on Modeling",
