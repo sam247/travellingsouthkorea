@@ -1,22 +1,40 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { getGuidePath } from "@/lib/canonical";
+import { trackCityNavigation, trackGuideInteraction } from "@/lib/analytics/gaEvents";
 import type { Guide } from "@/types";
 
-export function GuideCard({ guide }: { guide: Guide }) {
+type AnalyticsContext =
+  | { type: "city"; citySlug: string }
+  | { type: "guide"; guideSlug: string };
+
+export function GuideCard({
+  guide,
+  analyticsContext,
+}: {
+  guide: Guide;
+  analyticsContext?: AnalyticsContext;
+}) {
   const href = getGuidePath(guide.city, guide.slug);
+  const handleClick = () => {
+    if (!analyticsContext) return;
+    if (analyticsContext.type === "city")
+      trackCityNavigation(analyticsContext.citySlug, guide.slug);
+    else trackGuideInteraction(analyticsContext.guideSlug, "related_guide");
+  };
   return (
     <Link
       href={href}
+      onClick={handleClick}
       className="group block overflow-hidden rounded-xl bg-card transition-all duration-240"
       style={{ boxShadow: "var(--shadow-card)" }}
       onMouseEnter={(e) => { e.currentTarget.style.boxShadow = "var(--shadow-hover)"; }}
       onMouseLeave={(e) => { e.currentTarget.style.boxShadow = "var(--shadow-card)"; }}
     >
       <div className="aspect-[3/2] overflow-hidden">
-        <Image
+        <SafeImage
           src={guide.image}
           alt={guide.title}
           width={800}

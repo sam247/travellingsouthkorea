@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import type { TimeSlot } from "@/types";
 import { getVenuePath } from "@/lib/canonical";
 import { getGuidePath } from "@/lib/canonical";
@@ -74,7 +74,7 @@ export function ItineraryTimeSlot({ slot }: { slot: TimeSlot }) {
             </div>
           </div>
           <div className="w-full sm:w-32 h-24 sm:h-24 rounded-lg overflow-hidden flex-shrink-0">
-            <Image
+            <SafeImage
               src={slot.image}
               alt={slot.title}
               width={128}

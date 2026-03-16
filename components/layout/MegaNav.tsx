@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { ChevronDown } from "lucide-react";
 import { getCityPath, getCountryPath, getNeighbourhoodPath, getGuidePath, getCategoryPath } from "@/lib/canonical";
 import { getFeaturedCities } from "@/lib/queries";
@@ -134,7 +134,7 @@ export function MegaNav() {
                     onClick={() => setOpen(false)}
                     className="flex items-center gap-2 group"
                   >
-                    <Image
+                    <SafeImage
                       src={g.image}
                       alt=""
                       width={32}

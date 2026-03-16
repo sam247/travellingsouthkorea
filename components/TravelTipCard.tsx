@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import type { TravelTip } from "@/types";
 
 export function TravelTipCard({ tip }: { tip: TravelTip }) {
@@ -8,7 +8,7 @@ export function TravelTipCard({ tip }: { tip: TravelTip }) {
       style={{ boxShadow: "var(--shadow-card)" }}
     >
       <div className="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0">
-        <Image
+        <SafeImage
           src={tip.image}
           alt=""
           width={56}

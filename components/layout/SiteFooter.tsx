@@ -5,6 +5,7 @@ import {
   getItineraryPath,
   getCategoryPath,
   getCulturePath,
+  getCinemaPath,
 } from "@/lib/canonical";
 
 const cityLinks = [
@@ -25,6 +26,7 @@ const guideLinks = [
 
 const categoryLinks: { label: string; href: string }[] = [
   { label: "Culture", href: getCulturePath() },
+  { label: "Cinema", href: getCinemaPath() },
   { label: "Food", href: getCategoryPath("food") },
   { label: "Nightlife", href: getCategoryPath("nightlife") },
   { label: "Things To Do", href: getCategoryPath("things-to-do") },

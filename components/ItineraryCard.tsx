@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { getItineraryPath } from "@/lib/canonical";
 import type { Itinerary } from "@/types";
 
@@ -16,7 +16,7 @@ export function ItineraryCard({ itinerary }: { itinerary: Itinerary }) {
       onMouseLeave={(e) => { e.currentTarget.style.boxShadow = "var(--shadow-card)"; }}
     >
       <div className="aspect-[3/2] overflow-hidden">
-        <Image
+        <SafeImage
           src={itinerary.image}
           alt={itinerary.title}
           width={800}

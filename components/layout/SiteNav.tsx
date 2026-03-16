@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { Menu, X, Search } from "lucide-react";
 import { MegaNav } from "./MegaNav";
 import { SearchOverlay } from "./SearchOverlay";
-import { getCityPath, getCountryPath, getCategoryPath, getCulturePath } from "@/lib/canonical";
+import { getCityPath, getCategoryPath, getCulturePath, getCinemaPath } from "@/lib/canonical";
 
 const mobileLinks = [
   { label: "Travel Guide", href: "/" },
@@ -15,6 +15,7 @@ const mobileLinks = [
   { label: "Busan", href: "/south-korea/busan" },
   { label: "Jeju", href: "/south-korea/jeju" },
   { label: "Culture", href: getCulturePath() },
+  { label: "Cinema", href: getCinemaPath() },
   { label: "Food", href: "/category/food" },
   { label: "Nightlife", href: "/category/nightlife" },
   { label: "Things To Do", href: "/category/things-to-do" },
@@ -27,6 +28,7 @@ const desktopLinks = [
   { label: "Busan", href: getCityPath("busan") },
   { label: "Jeju", href: getCityPath("jeju") },
   { label: "Culture", href: getCulturePath() },
+  { label: "Cinema", href: getCinemaPath() },
 ];
 
 export function SiteNav() {

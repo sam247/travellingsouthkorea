@@ -32,6 +32,10 @@ export function getFeaturedGuides(limit = 6) {
   return guides.slice(0, limit);
 }
 
+export function getFeaturedGuidesForHome(limit = 9) {
+  return guides.slice(0, limit);
+}
+
 export function getPopularVenuesByCity(citySlug: string, limit = 6) {
   return venues.filter((v) => v.citySlug === citySlug).slice(0, limit);
 }

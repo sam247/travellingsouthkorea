@@ -1,5 +1,6 @@
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
 import { CultureArticleCard } from "@/components/CultureArticleCard";
 import { breadcrumbsCulture } from "@/lib/breadcrumbs";
 import { getCulturePath } from "@/lib/canonical";
@@ -39,8 +40,8 @@ export default function CulturePage() {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
-        <Image
-          src="https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1600&q=80"
+        <SafeImage
+          src={DEFAULT_PLACEHOLDER_IMAGE}
           alt="Korean culture"
           fill
           className="object-cover"

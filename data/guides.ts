@@ -1,4 +1,5 @@
 import type { Guide } from "@/types";
+import { getGuideImagePath } from "@/lib/imagePaths";
 
 export const guides: Guide[] = [
   {
@@ -11,7 +12,7 @@ export const guides: Guide[] = [
     priceRange: "₩₩ – ₩₩₩",
     nearestMetro: "Hongik University (Line 2)",
     openingHours: "6 PM – 3 AM",
-    image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1200&q=80",
+    image: getGuideImagePath("best-bars-hongdae", "hero"),
     summary: "From craft cocktails to soju dives — the definitive Hongdae bar guide.",
     intro: "Hongdae's bar scene is as eclectic as the neighbourhood itself. Graffiti-walled dives sit next to sleek cocktail lounges, and on any given night the energy spills from the venues onto the streets. Here are the spots worth your time.",
     venues: [
@@ -35,7 +36,7 @@ export const guides: Guide[] = [
     priceRange: "₩₩ – ₩₩₩₩",
     nearestMetro: "Itaewon (Line 6)",
     openingHours: "8 PM – 5 AM",
-    image: "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1200&q=80",
+    image: getGuideImagePath("nightlife-itaewon", "hero"),
     summary: "Seoul's most international nightlife district — rooftop bars, clubs and late-night eats.",
     intro: "Itaewon has always been Seoul's most cosmopolitan neighbourhood, and its nightlife reflects that. From rooftop cocktail bars overlooking the city to underground clubs playing everything from techno to K-pop, this is where Seoul stays up latest.",
     venues: [
@@ -57,7 +58,7 @@ export const guides: Guide[] = [
     priceRange: "₩",
     nearestMetro: "Myeongdong (Line 4)",
     openingHours: "11 AM – 10 PM",
-    image: "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?w=1200&q=80",
+    image: getGuideImagePath("best-street-food-myeongdong", "hero"),
     summary: "Tteokbokki, hotteok, tornado potatoes — everything you need to eat on Myeongdong's food streets.",
     intro: "Myeongdong's main streets transform into an open-air food market every afternoon. Vendors line both sides selling everything from freshly grilled skewers to towering soft-serve ice cream. Come hungry.",
     venues: [
@@ -79,7 +80,7 @@ export const guides: Guide[] = [
     priceRange: "₩₩",
     nearestMetro: "Gangnam (Line 2)",
     openingHours: "9 AM – 10 PM",
-    image: "https://images.unsplash.com/photo-1559305616-3f99cd43e353?w=1200&q=80",
+    image: getGuideImagePath("cafes-gangnam", "hero"),
     summary: "Design-forward coffee shops and hidden gems south of the river.",
     intro: "Gangnam's cafe scene is all about aesthetics and quality. Multi-storey minimalist spaces, rooftop gardens, and some of Seoul's best specialty coffee — these are the ones worth crossing the river for.",
     venues: [
@@ -101,7 +102,7 @@ export const guides: Guide[] = [
     priceRange: "Free",
     nearestMetro: "Gupabal (Line 3)",
     openingHours: "Sunrise – Sunset",
-    image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=80",
+    image: getGuideImagePath("hiking-bukhansan", "hero"),
     summary: "Granite peaks and temple trails on the northern edge of Seoul.",
     intro: "Bukhansan is the dramatic granite mountain visible from almost anywhere in northern Seoul. Multiple trails wind through forests and past Buddhist temples to summit ridges with panoramic city views. It's one of the most visited national parks in the world — for good reason.",
     venues: [
@@ -123,7 +124,7 @@ export const guides: Guide[] = [
     priceRange: "₩ – ₩₩",
     nearestMetro: "Haeundae (Line 2)",
     openingHours: "All day",
-    image: "https://images.unsplash.com/photo-1573057284059-827a26b093f4?w=1200&q=80",
+    image: getGuideImagePath("haeundae-beach-guide", "hero"),
     summary: "Everything you need to know about Busan's most famous beach.",
     intro: "Haeundae is the beach you've seen in every Korean drama. A wide crescent of sand backed by high-rises, it's the epicentre of Busan's summer scene. But there's more to it than sunbathing — the surrounding area is packed with seafood restaurants, markets, and cliff walks.",
     venues: [
@@ -145,7 +146,7 @@ export const guides: Guide[] = [
     priceRange: "₩",
     nearestMetro: "N/A — drive or bus",
     openingHours: "9 AM – 6 PM",
-    image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=80",
+    image: getGuideImagePath("jeju-waterfalls", "hero"),
     summary: "Cheonjiyeon, Jeongbang and the hidden cascades of Jeju's south coast.",
     intro: "Jeju's volcanic geology has created some spectacular waterfalls, most of them clustered along the island's southern coast near Seogwipo. From the famous Jeongbang — one of the only waterfalls in Asia that falls directly into the ocean — to quieter cascades hidden in forest gorges, these are the ones to visit.",
     venues: [
@@ -167,7 +168,7 @@ export const guides: Guide[] = [
     priceRange: "₩₩ – ₩₩₩",
     nearestMetro: "Hongik University (Line 2)",
     openingHours: "11 AM – 9 PM",
-    image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&q=80",
+    image: getGuideImagePath("streetwear-hongdae", "hero"),
     summary: "The best streetwear and vintage shops in Hongdae — from local labels to thrift finds.",
     intro: "Hongdae's indie spirit shows in its fashion. Alongside global brands you'll find local designers, vintage stores and one-off pieces. Here are the spots worth hitting.",
     venues: [
@@ -190,7 +191,7 @@ export const guides: Guide[] = [
     priceRange: "₩",
     nearestMetro: "Various",
     openingHours: "24 hours (most)",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80",
+    image: getGuideImagePath("pc-bang-gaming-seoul", "hero"),
     summary: "Where to find the best PC bangs in Seoul — high-spec rigs, cheap hourly rates and a slice of Korean gaming culture.",
     intro: "PC bangs (PC rooms) are a staple of Korean youth culture. For a few thousand won an hour you get a high-end PC, fast internet and often free drinks. Here are solid options across Seoul.",
     venues: [

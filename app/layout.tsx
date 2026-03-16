@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { SiteNav } from "@/components/layout/SiteNav";
 import { SiteFooter } from "@/components/layout/SiteFooter";
+import { GoogleAnalytics } from "@/components/analytics/GoogleAnalytics";
+import { ScrollDepthTracker } from "@/components/analytics/ScrollDepthTracker";
+import { OutboundClickTracker } from "@/components/analytics/OutboundClickTracker";
 
 export const metadata: Metadata = {
   title: "Travelling South Korea | Travel Guides, Neighbourhoods & Itineraries",
@@ -17,6 +20,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <GoogleAnalytics />
+        <ScrollDepthTracker />
+        <OutboundClickTracker />
         <SiteNav />
         <main className="min-h-screen">{children}</main>
         <SiteFooter />

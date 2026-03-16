@@ -148,28 +148,7 @@ export function getProgrammaticGuideSpec(
   return specs.find((s) => s.citySlug === citySlug && s.guideSlug === guideSlug) ?? null;
 }
 
-const PLACEHOLDER_IMAGE = "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=80";
-
-/** Guides that get local image path (hero); others use placeholder */
-const PRIORITY_GUIDE_SLUGS = new Set([
-  "best-bars-hongdae",
-  "best-bars-gangnam",
-  "best-bars-itaewon",
-  "best-bars-myeongdong",
-  "best-restaurants-hongdae",
-  "best-restaurants-gangnam",
-  "best-restaurants-itaewon",
-  "best-restaurants-myeongdong",
-  "best-restaurants-busan",
-  "best-bars-busan",
-]);
-
-function getGuideImage(guideSlug: string): string {
-  if (PRIORITY_GUIDE_SLUGS.has(guideSlug)) {
-    return `/images/guides/${guideSlug}-hero.jpg`;
-  }
-  return PLACEHOLDER_IMAGE;
-}
+import { getGuideImagePath } from "@/lib/imagePaths";
 
 function venueToGuideVenue(v: Venue): GuideVenue {
   return {
@@ -219,7 +198,7 @@ export function buildProgrammaticGuide(spec: ProgrammaticGuideSpec): Guide {
     priceRange: "Varies",
     nearestMetro: neighbourhood?.nearestMetro ?? city?.name ?? "—",
     openingHours: "Varies",
-    image: getGuideImage(spec.guideSlug),
+    image: getGuideImagePath(spec.guideSlug, "hero"),
     summary,
     intro,
     venues: guideVenues,

@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import type { GuideVenue } from "@/types";
 
 export function VenueCard({ venue }: { venue: GuideVenue }) {
@@ -9,7 +9,7 @@ export function VenueCard({ venue }: { venue: GuideVenue }) {
     >
       <div className="flex flex-col sm:flex-row">
         <div className="sm:w-48 sm:min-w-48 aspect-[4/3] sm:aspect-auto overflow-hidden">
-          <Image
+          <SafeImage
             src={venue.image}
             alt={venue.name}
             width={192}

@@ -1,5 +1,7 @@
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
+import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { CityCategoryLink } from "@/components/analytics/CityCategoryLink";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
@@ -35,12 +37,12 @@ import type { City } from "@/types";
 import type { Region } from "@/types";
 
 const actionCards = [
-  { label: "Things To Do", category: "things-to-do", image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=400&q=80" },
-  { label: "Nightlife", category: "nightlife", image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=400&q=80" },
-  { label: "Restaurants", category: "food", image: "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?w=400&q=80" },
-  { label: "Cafes", category: "food", image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&q=80" },
-  { label: "Where To Stay", category: "travel-tips", image: "https://images.unsplash.com/photo-1559305616-3f99cd43e353?w=400&q=80" },
-  { label: "Travel Tips", category: "travel-tips", image: "https://images.unsplash.com/photo-1600002415506-dd06090d3480?w=400&q=80" },
+  { label: "Things To Do", category: "things-to-do", image: DEFAULT_PLACEHOLDER_IMAGE },
+  { label: "Nightlife", category: "nightlife", image: DEFAULT_PLACEHOLDER_IMAGE },
+  { label: "Restaurants", category: "food", image: DEFAULT_PLACEHOLDER_IMAGE },
+  { label: "Cafes", category: "food", image: DEFAULT_PLACEHOLDER_IMAGE },
+  { label: "Where To Stay", category: "travel-tips", image: DEFAULT_PLACEHOLDER_IMAGE },
+  { label: "Travel Tips", category: "travel-tips", image: DEFAULT_PLACEHOLDER_IMAGE },
 ];
 
 export function RegionOrCityPage({
@@ -63,7 +65,7 @@ export function RegionOrCityPage({
     return (
       <div className="min-h-screen bg-background">
         <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
-          <Image
+          <SafeImage
             src={region.image}
             alt={region.name}
             fill
@@ -125,7 +127,7 @@ export function RegionOrCityPage({
     return (
       <div className="min-h-screen bg-background">
         <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
-          <Image
+          <SafeImage
             src={city.image}
             alt={city.name}
             fill
@@ -171,7 +173,11 @@ export function RegionOrCityPage({
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
               {popularNeighbourhoods.map((n) => (
-                <NeighbourhoodCard key={n.slug} neighbourhood={n} />
+                <NeighbourhoodCard
+                  key={n.slug}
+                  neighbourhood={n}
+                  citySlugForAnalytics={city.slug}
+                />
               ))}
             </div>
           </section>
@@ -183,12 +189,14 @@ export function RegionOrCityPage({
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4">
             {actionCards.map((card) => (
-              <Link
+              <CityCategoryLink
                 key={card.label}
                 href={getCityCategoryPath(city.slug, card.category)}
-                className="group relative aspect-[4/3] rounded-xl overflow-hidden"
+                citySlug={city.slug}
+                categorySlug={card.category}
+                className="group relative aspect-[4/3] rounded-xl overflow-hidden block"
               >
-                <Image
+                <SafeImage
                   src={card.image}
                   alt={card.label}
                   fill
@@ -201,7 +209,7 @@ export function RegionOrCityPage({
                     {card.label}
                   </p>
                 </div>
-              </Link>
+              </CityCategoryLink>
             ))}
           </div>
         </section>
@@ -213,7 +221,11 @@ export function RegionOrCityPage({
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
               {cityNeighbourhoods.map((n) => (
-                <NeighbourhoodCard key={n.slug} neighbourhood={n} />
+                <NeighbourhoodCard
+                  key={n.slug}
+                  neighbourhood={n}
+                  citySlugForAnalytics={city.slug}
+                />
               ))}
             </div>
           </section>
@@ -233,13 +245,15 @@ export function RegionOrCityPage({
               { label: "Travel tips", slug: "travel-tips" },
               { label: "Neighbourhoods", slug: "neighbourhoods" },
             ].map(({ label, slug }) => (
-              <Link
+              <CityCategoryLink
                 key={slug}
                 href={getCityCategoryPath(city.slug, slug)}
+                citySlug={city.slug}
+                categorySlug={slug}
                 className="px-4 py-2 rounded-full text-sm font-medium bg-secondary text-foreground hover:bg-primary hover:text-primary-foreground transition-colors"
               >
                 {label}
-              </Link>
+              </CityCategoryLink>
             ))}
           </div>
         </section>
@@ -251,7 +265,11 @@ export function RegionOrCityPage({
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
               {cityGuides.map((guide) => (
-                <GuideCard key={guide.slug} guide={guide} />
+                <GuideCard
+                  key={guide.slug}
+                  guide={guide}
+                  analyticsContext={{ type: "city", citySlug: city.slug }}
+                />
               ))}
             </div>
           </section>

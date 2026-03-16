@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { GuideCard } from "@/components/GuideCard";
@@ -55,7 +55,7 @@ export default async function AuthorPage({ params }: PageProps) {
 
         <div className="mt-8 flex flex-col sm:flex-row items-start gap-6">
           <div className="w-24 h-24 sm:w-32 sm:h-32 rounded-full overflow-hidden flex-shrink-0">
-            <Image
+            <SafeImage
               src={author.image}
               alt={author.name}
               width={128}

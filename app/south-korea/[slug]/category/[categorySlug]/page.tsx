@@ -17,7 +17,7 @@ import { getGuidesByCity } from "@/data/guides";
 import { getItinerariesByCity } from "@/data/itineraries";
 import { categories } from "@/data/categories";
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { getCityCategoryPath, getItineraryPath, getTravelTipPath, getNeighbourhoodPath, getGuidePath, getCityPath } from "@/lib/canonical";
 
 interface PageProps {
@@ -127,7 +127,7 @@ export default async function CityCategoryPage({ params }: PageProps) {
                 style={{ boxShadow: "var(--shadow-card)" }}
               >
                 <div className="aspect-[3/2] overflow-hidden">
-                  <Image
+                  <SafeImage
                     src={it.image}
                     alt={it.title}
                     width={800}
@@ -179,7 +179,7 @@ export default async function CityCategoryPage({ params }: PageProps) {
                 className="flex items-center gap-4 p-4 rounded-xl bg-card hover:bg-secondary/50 transition-colors"
                 style={{ boxShadow: "var(--shadow-card)" }}
               >
-                <Image
+                <SafeImage
                   src={t.image}
                   alt=""
                   width={56}

@@ -1,6 +1,9 @@
+"use client";
+
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { getVenuePath } from "@/lib/canonical";
+import { trackVenueView } from "@/lib/analytics/gaEvents";
 import type { Venue } from "@/types";
 
 export function VenueListCard({ venue }: { venue: Venue }) {
@@ -8,11 +11,12 @@ export function VenueListCard({ venue }: { venue: Venue }) {
   return (
     <Link
       href={href}
+      onClick={() => trackVenueView(venue.slug, venue.citySlug)}
       className="group flex gap-3 sm:gap-4 p-3 rounded-xl bg-card transition-all duration-200 hover:bg-secondary/50"
       style={{ boxShadow: "var(--shadow-card)" }}
     >
       <div className="w-20 h-20 sm:w-24 sm:h-24 rounded-lg overflow-hidden flex-shrink-0">
-        <Image
+        <SafeImage
           src={venue.image}
           alt={venue.name}
           width={96}

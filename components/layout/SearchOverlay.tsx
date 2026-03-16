@@ -2,9 +2,10 @@
 
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { Search, X } from "lucide-react";
 import { searchQuery, type SearchResultType } from "@/lib/search";
+import { trackSearch } from "@/lib/analytics/gaEvents";
 
 const popularSearches = [
   "Seoul nightlife",
@@ -21,6 +22,7 @@ const typeLabels: Record<SearchResultType, string> = {
   itinerary: "Itineraries",
   "travel-tip": "Travel Tips",
   culture: "Culture",
+  cinema: "Cinema",
   category: "Categories",
 };
 
@@ -61,6 +63,7 @@ export function SearchOverlay({
     "itinerary",
     "travel-tip",
     "culture",
+    "cinema",
     "category",
   ];
 
@@ -133,11 +136,14 @@ export function SearchOverlay({
                     <Link
                       key={entry.href}
                       href={entry.href}
-                      onClick={onClose}
+                      onClick={() => {
+                        if (query.trim()) trackSearch(query.trim());
+                        onClose();
+                      }}
                       className="flex items-center gap-3 px-2 py-2 rounded-lg hover:bg-secondary/50 transition-colors"
                     >
                       {entry.image && (
-                        <Image
+                        <SafeImage
                           src={entry.image}
                           alt=""
                           width={40}

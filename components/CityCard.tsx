@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { getCityPath } from "@/lib/canonical";
 import type { City } from "@/types";
 
@@ -16,7 +16,7 @@ export function CityCard({ city }: { city: City }) {
       onMouseLeave={(e) => { e.currentTarget.style.boxShadow = "var(--shadow-card)"; }}
     >
       <div className="aspect-[16/9] overflow-hidden">
-        <Image
+        <SafeImage
           src={city.image}
           alt={`${city.name}, South Korea`}
           width={800}

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { Search } from "lucide-react";
 import { getGuidePath } from "@/lib/canonical";
 import { guides } from "@/data/guides";
@@ -44,7 +44,7 @@ export function HomepageSearch() {
                 onClick={() => setSearch("")}
                 className="flex items-center gap-3 px-4 py-3 hover:bg-secondary/50 transition-colors"
               >
-                <Image
+                <SafeImage
                   src={g.image}
                   alt=""
                   width={40}

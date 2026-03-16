@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { Calendar, MapPin, DollarSign } from "lucide-react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AuthorBadge } from "@/components/AuthorBadge";
@@ -76,7 +76,7 @@ export default async function ItineraryPage({ params }: PageProps) {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
-        <Image
+        <SafeImage
           src={itinerary.image}
           alt={itinerary.title}
           fill

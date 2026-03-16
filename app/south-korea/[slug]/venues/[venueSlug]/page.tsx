@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { MapPin, Train, DollarSign, Clock } from "lucide-react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { QuickFacts } from "@/components/QuickFacts";
@@ -74,7 +74,7 @@ export default async function VenuePage({ params }: PageProps) {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
-        <Image
+        <SafeImage
           src={venue.image}
           alt={venue.name}
           fill

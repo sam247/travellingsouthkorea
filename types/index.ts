@@ -213,3 +213,59 @@ export interface CultureArticle {
   relatedGuides?: CultureArticleRelatedGuide[];
   relatedCitySlugs?: string[];
 }
+
+/** Cinema section */
+export interface Film {
+  title: string;
+  slug: string;
+  year: number;
+  directorSlug: string;
+  genres: string[];
+  summary: string;
+  filmingLocations: string[];
+  notableFacts: string[];
+  heroImage: string;
+  relatedCitySlugs: string[];
+}
+
+export interface Director {
+  name: string;
+  slug: string;
+  bio: string;
+  notableFilms: string[];
+}
+
+export interface FilmLocationScene {
+  sceneDescription: string;
+  neighbourhoodSlug?: string;
+  citySlug: string;
+  addressOrArea?: string;
+}
+
+export interface FilmLocation {
+  slug: string;
+  title: string;
+  filmSlug: string;
+  citySlug: string;
+  summary: string;
+  scenes: FilmLocationScene[];
+  heroImage: string;
+  relatedGuideSlugs?: { citySlug: string; guideSlug: string }[];
+}
+
+export interface CinemaArticleSection {
+  heading: string;
+  body: string;
+}
+
+export interface CinemaArticle {
+  title: string;
+  slug: string;
+  summary: string;
+  intro: string;
+  sections: CinemaArticleSection[];
+  heroImage: string;
+  relatedFilmSlugs?: string[];
+  relatedDirectorSlugs?: string[];
+  relatedCitySlugs?: string[];
+}

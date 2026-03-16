@@ -13,6 +13,11 @@ import {
   getCategoryPath,
   getLocationPath,
   getCulturePath,
+  getCinemaPath,
+  getCinemaFilmPath,
+  getCinemaDirectorPath,
+  getCinemaLocationPath,
+  getCinemaArticlePath,
 } from "@/lib/canonical";
 
 export interface BreadcrumbItem {
@@ -200,5 +205,41 @@ export function breadcrumbsCultureArticle(
     { label: "Home", href: "/" },
     { label: "Culture", href: getCulturePath() },
     { label: articleTitle },
+  ];
+}
+
+export function breadcrumbsCinema(): BreadcrumbItem[] {
+  return [{ label: "Home", href: "/" }, { label: "Cinema" }];
+}
+
+export function breadcrumbsCinemaFilm(filmTitle: string, filmSlug: string): BreadcrumbItem[] {
+  return [
+    { label: "Home", href: "/" },
+    { label: "Cinema", href: getCinemaPath() },
+    { label: filmTitle },
+  ];
+}
+
+export function breadcrumbsCinemaDirector(name: string, directorSlug: string): BreadcrumbItem[] {
+  return [
+    { label: "Home", href: "/" },
+    { label: "Cinema", href: getCinemaPath() },
+    { label: name },
+  ];
+}
+
+export function breadcrumbsCinemaLocation(title: string, locationSlug: string): BreadcrumbItem[] {
+  return [
+    { label: "Home", href: "/" },
+    { label: "Cinema", href: getCinemaPath() },
+    { label: title },
+  ];
+}
+
+export function breadcrumbsCinemaArticle(title: string, articleSlug: string): BreadcrumbItem[] {
+  return [
+    { label: "Home", href: "/" },
+    { label: "Cinema", href: getCinemaPath() },
+    { label: title },
   ];
 }

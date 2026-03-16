@@ -1,12 +1,15 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
 import { MapPin, DollarSign, Train, Clock } from "lucide-react";
+import { SafeImage } from "@/components/SafeImage";
+import { getGuideImagePath } from "@/lib/imagePaths";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AuthorBadge } from "@/components/AuthorBadge";
 import { QuickFacts } from "@/components/QuickFacts";
 import { VenueCard } from "@/components/VenueCard";
 import { GuideCard } from "@/components/GuideCard";
 import { MapPlaceholder } from "@/components/MapPlaceholder";
+import { TrackableMapSection } from "@/components/analytics/TrackableMapSection";
+import { TrackableImageWrapper } from "@/components/analytics/TrackableImageWrapper";
 import { ContentSection } from "@/components/ContentSection";
 import { TopHighlights } from "@/components/TopHighlights";
 import { LocalInsights } from "@/components/LocalInsights";
@@ -16,15 +19,15 @@ import { ProTips } from "@/components/ProTips";
 import { FAQSection } from "@/components/FAQSection";
 import { ExploreMore } from "@/components/ExploreMore";
 import { getGuideBySlug, getGuidesByNeighbourhood, getGuidesByCity } from "@/data/guides";
-import { getGuideContent, getTopHighlightsForGuide } from "@/lib/content/guideContent";
-import { getFAQForGuide } from "@/lib/content/faqContent";
+import { getTopHighlightsForGuide } from "@/lib/content/guideContent";
 import {
-  getLocalInsightsForGuide,
-  getBudgetGuideForGuide,
-  getLocalEtiquetteForGuide,
-  getTravelTipsForGuide,
-  getAuthorPerspective,
-} from "@/lib/content/insights";
+  getGuideContentSections,
+  getLocalInsightsForGuideResolved,
+  getBudgetGuideForGuideResolved,
+  getLocalEtiquetteForGuideResolved,
+} from "@/lib/content/guideNarrative";
+import { getFAQForGuide } from "@/lib/content/faqContent";
+import { getTravelTipsForGuide, getAuthorPerspective } from "@/lib/content/insights";
 import { getCityBySlug } from "@/data/cities";
 import { guides } from "@/data/guides";
 import { breadcrumbsGuide, breadcrumbsCityGuide } from "@/lib/breadcrumbs";
@@ -127,11 +130,12 @@ export default async function GuidePage({ params }: PageProps) {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
-        <Image
+        <SafeImage
           src={guide.image}
           alt={guide.title}
           fill
           className="object-cover"
+          priority
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent" />
         <div className="relative z-10 max-w-4xl mx-auto w-full px-4 sm:px-6 pb-8 sm:pb-12">
@@ -171,27 +175,51 @@ export default async function GuidePage({ params }: PageProps) {
         <p className="text-base sm:text-lg text-muted-foreground leading-relaxed mt-6">
           {guide.intro}
         </p>
+        <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <TrackableImageWrapper imageContext={`guide-${guideSlug}-supporting-1`}>
+            <div className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50">
+              <SafeImage
+                src={getGuideImagePath(guideSlug, "1")}
+                alt={`${guide.title} — supporting`}
+                fill
+                className="object-cover"
+              />
+            </div>
+          </TrackableImageWrapper>
+          <TrackableImageWrapper imageContext={`guide-${guideSlug}-supporting-2`}>
+            <div className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50">
+              <SafeImage
+                src={getGuideImagePath(guideSlug, "2")}
+                alt={`${guide.title} — supporting`}
+                fill
+                className="object-cover"
+              />
+            </div>
+          </TrackableImageWrapper>
+        </div>
         <div className="mt-10">
-          {getGuideContent(guide, city).map((section) => (
+          {getGuideContentSections(guide, city).map((section) => (
             <ContentSection
               key={section.heading}
               heading={section.heading}
               paragraphs={section.paragraphs}
             />
           ))}
-          <LocalInsights {...getLocalInsightsForGuide(guide, city)} />
-          <BudgetGuide {...getBudgetGuideForGuide(guide, city)} />
-          <LocalEtiquette {...getLocalEtiquetteForGuide(guide, city)} />
+          <LocalInsights {...getLocalInsightsForGuideResolved(guide, city)} />
+          <BudgetGuide {...getBudgetGuideForGuideResolved(guide, city)} />
+          <LocalEtiquette {...getLocalEtiquetteForGuideResolved(guide, city)} />
         </div>
       </section>
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
-        <MapPlaceholder
-          label={`Map showing ${guide.venues.length} locations`}
-          venueMarkers={guide.venues
-            .filter((v): v is typeof v & { lat: number; lng: number } => v.lat != null && v.lng != null)
-            .map((v) => ({ name: v.name, lat: v.lat, lng: v.lng, category: guide.category }))}
-        />
+        <TrackableMapSection guideSlug={guideSlug}>
+          <MapPlaceholder
+            label={`Map showing ${guide.venues.length} locations`}
+            venueMarkers={guide.venues
+              .filter((v): v is typeof v & { lat: number; lng: number } => v.lat != null && v.lng != null)
+              .map((v) => ({ name: v.name, lat: v.lat, lng: v.lng, category: guide.category }))}
+          />
+        </TrackableMapSection>
       </section>
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
@@ -212,7 +240,11 @@ export default async function GuidePage({ params }: PageProps) {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
             {relatedGuides.map((g) => (
-              <GuideCard key={g.slug} guide={g} />
+              <GuideCard
+                key={g.slug}
+                guide={g}
+                analyticsContext={{ type: "guide", guideSlug }}
+              />
             ))}
           </div>
         </section>
@@ -225,7 +257,11 @@ export default async function GuidePage({ params }: PageProps) {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
             {nearbyGuides.map((g) => (
-              <GuideCard key={g.slug} guide={g} />
+              <GuideCard
+                key={g.slug}
+                guide={g}
+                analyticsContext={{ type: "guide", guideSlug }}
+              />
             ))}
           </div>
         </section>

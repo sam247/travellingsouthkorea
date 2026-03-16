@@ -1,10 +1,11 @@
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
+import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
 import { Search } from "lucide-react";
 import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
-import { getCountryPath, getCategoryPath, getGuidePath, getItineraryPath } from "@/lib/canonical";
-import { getFeaturedCities, getFeaturedGuides } from "@/lib/queries";
+import { getCountryPath, getCategoryPath, getItineraryPath } from "@/lib/canonical";
+import { getFeaturedCities, getFeaturedGuides, getFeaturedGuidesForHome } from "@/lib/queries";
 import { categories } from "@/data/categories";
 import { itineraries } from "@/data/itineraries";
 import { guides } from "@/data/guides";
@@ -18,8 +19,8 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[80vh] min-h-[500px] flex items-center justify-center overflow-hidden">
-        <Image
-          src="https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1600&q=80"
+        <SafeImage
+          src={DEFAULT_PLACEHOLDER_IMAGE}
           alt="South Korea landscape"
           fill
           className="object-cover"
@@ -77,7 +78,7 @@ export default function HomePage() {
                 style={{ boxShadow: "var(--shadow-card)" }}
               >
                 <div className="aspect-[3/2] overflow-hidden">
-                  <Image
+                  <SafeImage
                     src={it.image}
                     alt={it.title}
                     width={800}
@@ -136,6 +137,14 @@ export default function HomePage() {
                 {cat.description}
               </p>
             </Link>
+          ))}
+        </div>
+        <h3 className="text-xl font-semibold text-foreground mt-12 mb-6">
+          Featured articles
+        </h3>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {getFeaturedGuidesForHome(9).map((guide) => (
+            <GuideCard key={guide.slug} guide={guide} />
           ))}
         </div>
       </section>

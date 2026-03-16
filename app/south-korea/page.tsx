@@ -1,5 +1,6 @@
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
+import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
@@ -31,8 +32,8 @@ export default function CountryPage() {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[70vh] min-h-[450px] flex items-end overflow-hidden">
-        <Image
-          src="https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1600&q=80"
+        <SafeImage
+          src={DEFAULT_PLACEHOLDER_IMAGE}
           alt="South Korea"
           fill
           className="object-cover"
@@ -75,7 +76,7 @@ export default function CountryPage() {
               href={getRegionPath(region.slug)}
               className="group relative aspect-[4/3] rounded-xl overflow-hidden"
             >
-              <Image
+              <SafeImage
                 src={region.image}
                 alt={region.name}
                 fill
@@ -116,7 +117,7 @@ export default function CountryPage() {
                 style={{ boxShadow: "var(--shadow-card)" }}
               >
                 <div className="aspect-[3/2] overflow-hidden">
-                  <Image
+                  <SafeImage
                     src={it.image}
                     alt={it.title}
                     width={800}
@@ -165,7 +166,7 @@ export default function CountryPage() {
               className="flex items-center gap-4 p-4 rounded-xl bg-card hover:bg-secondary/50 transition-colors"
               style={{ boxShadow: "var(--shadow-card)" }}
             >
-              <Image
+              <SafeImage
                 src={tip.image}
                 alt=""
                 width={56}

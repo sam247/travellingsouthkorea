@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AuthorBadge } from "@/components/AuthorBadge";
@@ -43,7 +43,7 @@ export default async function TravelTipPage({ params }: PageProps) {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[40vh] min-h-[300px] flex items-end overflow-hidden">
-        <Image
+        <SafeImage
           src={tip.image}
           alt={tip.title}
           fill

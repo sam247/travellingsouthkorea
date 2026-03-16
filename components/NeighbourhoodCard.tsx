@@ -1,22 +1,34 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
+import { SafeImage } from "@/components/SafeImage";
 import { getNeighbourhoodPath } from "@/lib/canonical";
+import { trackCityNavigation } from "@/lib/analytics/gaEvents";
 import type { Neighbourhood } from "@/types";
 
-export function NeighbourhoodCard({ neighbourhood }: { neighbourhood: Neighbourhood }) {
+export function NeighbourhoodCard({
+  neighbourhood,
+  citySlugForAnalytics,
+}: {
+  neighbourhood: Neighbourhood;
+  citySlugForAnalytics?: string;
+}) {
   const href = getNeighbourhoodPath(neighbourhood.citySlug, neighbourhood.slug);
+  const handleClick = () => {
+    if (citySlugForAnalytics)
+      trackCityNavigation(citySlugForAnalytics, neighbourhood.slug);
+  };
   return (
     <Link
       href={href}
+      onClick={handleClick}
       className="group block overflow-hidden rounded-xl bg-card transition-all duration-240"
       style={{ boxShadow: "var(--shadow-card)" }}
       onMouseEnter={(e) => { e.currentTarget.style.boxShadow = "var(--shadow-hover)"; }}
       onMouseLeave={(e) => { e.currentTarget.style.boxShadow = "var(--shadow-card)"; }}
     >
       <div className="aspect-[3/2] overflow-hidden">
-        <Image
+        <SafeImage
           src={neighbourhood.image}
           alt={neighbourhood.name}
           width={800}

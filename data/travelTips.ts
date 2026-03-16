@@ -1,10 +1,11 @@
+import { getTravelTipImagePath } from "@/lib/imagePaths";
 import type { TravelTip } from "@/types";
 
 export const travelTips: TravelTip[] = [
   {
     slug: "seoul-subway-guide",
     title: "How To Use The Seoul Subway",
-    image: "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=1200&q=80",
+    image: getTravelTipImagePath("seoul-subway-guide"),
     summary: "Everything you need to know about navigating Seoul's metro system — apps, etiquette and tips.",
     content: `## Seoul's Subway Is Your Best Friend
 
@@ -49,7 +50,7 @@ A single journey starts at ₩1,350 with a T-Money card. Transfers between subwa
   {
     slug: "incheon-airport-to-seoul",
     title: "How To Get From Incheon Airport To Seoul",
-    image: "https://images.unsplash.com/photo-1548115184-bc6544d06a58?w=1200&q=80",
+    image: getTravelTipImagePath("incheon-airport-to-seoul"),
     summary: "AREX, bus, taxi or KTX — the best ways to get from Incheon Airport to central Seoul.",
     content: `## Getting From Incheon To Seoul
 
@@ -84,7 +85,7 @@ Take the AREX Express to Seoul Station, then transfer to the subway. It's the fa
   {
     slug: "t-money-card-guide",
     title: "T-Money Card Guide",
-    image: "https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1200&q=80",
+    image: getTravelTipImagePath("t-money-card-guide"),
     summary: "How to buy, load and use Korea's essential transport card for subway, bus and taxis.",
     content: `## What Is T-Money?
 
@@ -119,7 +120,7 @@ If you have a compatible phone, you can use the T-Money app instead of a physica
   {
     slug: "sim-cards-korea",
     title: "SIM Cards & WiFi In Korea",
-    image: "https://images.unsplash.com/photo-1596478573744-0d1af41d9c09?w=1200&q=80",
+    image: getTravelTipImagePath("sim-cards-korea"),
     summary: "Prepaid SIM cards, eSIMs and portable WiFi — staying connected in South Korea.",
     content: `## Staying Connected In Korea
 
@@ -159,7 +160,7 @@ Get an eSIM before you fly. It's the cheapest, easiest option and you'll have da
   {
     slug: "k-pop-history",
     title: "The Evolution of K-Pop: A Journey Through Time",
-    image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&q=80",
+    image: getTravelTipImagePath("k-pop-history"),
     summary: "From Seo Taiji to BTS and beyond — how K-pop became a global phenomenon.",
     content: `## The Birth of Modern K-Pop
 
@@ -188,7 +189,7 @@ Visit K-Star Road in Gangnam, attend a music show recording, or explore the HYBE
   {
     slug: "k-pop-male-idols",
     title: "10 Most Handsome K-Pop Male Idols 2025",
-    image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1200&q=80",
+    image: getTravelTipImagePath("k-pop-male-idols"),
     summary: "A light-hearted look at some of the most popular K-pop male idols and where to spot them in Seoul.",
     content: `## K-Pop Idols and Korean Beauty Standards
 
@@ -212,7 +213,7 @@ Respect privacy: idols are people too. Don't follow them in person or at private
   {
     slug: "sansachun-drink-guide",
     title: "What Is Sansachun?",
-    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&q=80",
+    image: getTravelTipImagePath("sansachun-drink-guide"),
     summary: "Korea's traditional magnolia berry liquor — what it is, how it's made and where to try it.",
     content: `## What Is Sansachun?
 
@@ -239,7 +240,7 @@ Like soju, it's often poured for others and received with two hands. Sip rather 
   {
     slug: "arex-airport-train-guide",
     title: "AREX Airport Train Guide: Schedule and Tips",
-    image: "https://images.unsplash.com/photo-1548115184-bc6544d06a58?w=1200&q=80",
+    image: getTravelTipImagePath("arex-airport-train-guide"),
     summary: "AREX express and all-stop train times, fares and how to get from Incheon Airport to Seoul Station.",
     content: `## What Is AREX?
 
@@ -269,7 +270,7 @@ Train times vary by day and season. Download the **Korail** or **AREX** app for 
   {
     slug: "korean-won-etf-guide",
     title: "Korean Won Currency ETFs: A Traveller's Overview",
-    image: "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=1200&q=80",
+    image: getTravelTipImagePath("korean-won-etf-guide"),
     summary: "What travellers should know about the Korean won, exchange rates and currency-focused ETFs.",
     content: `## The Korean Won (KRW)
 

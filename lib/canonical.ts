@@ -74,3 +74,24 @@ export function getCulturePath(): string {
 export function getCultureArticlePath(articleSlug: string): string {
   return `/culture/${articleSlug}`;
 }
+
+/** Cinema section */
+export function getCinemaPath(): string {
+  return "/cinema";
+}
+
+export function getCinemaFilmPath(filmSlug: string): string {
+  return `/cinema/films/${filmSlug}`;
+}
+
+export function getCinemaDirectorPath(directorSlug: string): string {
+  return `/cinema/directors/${directorSlug}`;
+}
+
+export function getCinemaLocationPath(locationSlug: string): string {
+  return `/cinema/locations/${locationSlug}`;
+}
+
+export function getCinemaArticlePath(articleSlug: string): string {
+  return `/cinema/articles/${articleSlug}`;
+}

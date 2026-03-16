@@ -5,7 +5,22 @@
  * itineraries, travel tips.
  */
 
-import { getCityPath, getNeighbourhoodPath, getCityCategoryPath, getNeighbourhoodCategoryPath, getGuidePath, getVenuePath, getItineraryPath, getTravelTipPath, getCultureArticlePath } from "@/lib/canonical";
+import {
+  getCityPath,
+  getNeighbourhoodPath,
+  getCityCategoryPath,
+  getNeighbourhoodCategoryPath,
+  getGuidePath,
+  getVenuePath,
+  getItineraryPath,
+  getTravelTipPath,
+  getCultureArticlePath,
+  getCinemaPath,
+  getCinemaFilmPath,
+  getCinemaDirectorPath,
+  getCinemaLocationPath,
+  getCinemaArticlePath,
+} from "@/lib/canonical";
 import { cities } from "@/data/cities";
 import { getAllCultureArticles } from "@/data/cultureArticles";
 import { neighbourhoods } from "@/data/neighbourhoods";
@@ -15,10 +30,14 @@ import { venues } from "@/data/venues";
 import { itineraries } from "@/data/itineraries";
 import { travelTips } from "@/data/travelTips";
 import { getCategoryBySlug } from "@/data/categories";
+import { getAllFilms } from "@/data/films";
+import { getAllDirectors } from "@/data/directors";
+import { getAllFilmLocations } from "@/data/filmLocations";
+import { getAllCinemaArticles } from "@/data/cinemaArticles";
 
-export type SearchResultType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category" | "culture";
+export type SearchResultType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category" | "culture" | "cinema";
 
-export type ContentType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category" | "culture";
+export type ContentType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category" | "culture" | "cinema";
 
 export interface SearchEntry {
   type: SearchResultType;
@@ -137,6 +156,59 @@ function buildSearchIndex(): SearchEntry[] {
     });
   });
 
+  entries.push({
+    type: "cinema",
+    contentType: "cinema",
+    title: "Cinema",
+    slug: "cinema",
+    href: getCinemaPath(),
+    subtitle: "Korean film, directors and filming locations",
+  });
+  getAllFilms().forEach((f) => {
+    entries.push({
+      type: "cinema",
+      contentType: "cinema",
+      title: f.title,
+      slug: f.slug,
+      href: getCinemaFilmPath(f.slug),
+      subtitle: `${f.year} · ${f.genres.slice(0, 2).join(", ")}`,
+      image: f.heroImage,
+    });
+  });
+  getAllDirectors().forEach((d) => {
+    entries.push({
+      type: "cinema",
+      contentType: "cinema",
+      title: d.name,
+      slug: d.slug,
+      href: getCinemaDirectorPath(d.slug),
+      subtitle: "Director",
+      image: undefined,
+    });
+  });
+  getAllFilmLocations().forEach((l) => {
+    entries.push({
+      type: "cinema",
+      contentType: "cinema",
+      title: l.title,
+      slug: l.slug,
+      href: getCinemaLocationPath(l.slug),
+      subtitle: l.summary.slice(0, 60),
+      image: l.heroImage,
+    });
+  });
+  getAllCinemaArticles().forEach((a) => {
+    entries.push({
+      type: "cinema",
+      contentType: "cinema",
+      title: a.title,
+      slug: a.slug,
+      href: getCinemaArticlePath(a.slug),
+      subtitle: a.summary.slice(0, 60),
+      image: a.heroImage,
+    });
+  });
+
   const cityCategorySlugs = ["bars", "restaurants", "cafes", "things-to-do", "itineraries", "travel-tips", "neighbourhoods"];
   cities.forEach((c) => {
     cityCategorySlugs.forEach((categorySlug) => {
@@ -179,7 +251,7 @@ export function getSearchIndex(): SearchEntry[] {
   return cachedIndex;
 }
 
-/** Priority order: cities, neighbourhoods, guides, venues, itineraries, travel tips, category */
+/** Priority order: cities, neighbourhoods, guides, venues, itineraries, travel tips, culture, cinema, category */
 const typeOrder: Record<SearchResultType, number> = {
   city: 0,
   neighbourhood: 1,
@@ -188,7 +260,8 @@ const typeOrder: Record<SearchResultType, number> = {
   itinerary: 4,
   "travel-tip": 5,
   culture: 6,
-  category: 7,
+  cinema: 7,
+  category: 8,
 };
 
 export function searchQuery(query: string, limitPerType: number = 4): Map<SearchResultType, SearchEntry[]> {
@@ -206,6 +279,7 @@ export function searchQuery(query: string, limitPerType: number = 4): Map<Search
     itinerary: [],
     "travel-tip": [],
     culture: [],
+    cinema: [],
     category: [],
   };
 
@@ -227,6 +301,7 @@ export function searchQuery(query: string, limitPerType: number = 4): Map<Search
     "itinerary",
     "travel-tip",
     "culture",
+    "cinema",
     "category",
   ];
   order.forEach((type) => {
