@@ -1,8 +1,8 @@
 import type { ContentSectionProps } from "./ContentSection";
 
-export function WhenToVisit({ heading, paragraphs }: ContentSectionProps) {
+export function WhenToVisit({ heading, paragraphs, id }: ContentSectionProps) {
   return (
-    <section className="mb-8 sm:mb-10">
+    <section className="mb-8 sm:mb-10" id={id}>
       <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-4">
         {heading}
       </h2>

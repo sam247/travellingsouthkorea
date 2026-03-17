@@ -73,9 +73,25 @@ export function getItineraryImagePath(itinerarySlug: string): string {
   return `/images/itineraries/${itinerarySlug}.jpg`;
 }
 
+/** Itinerary in-content supporting images: -1.jpg, -2.jpg */
+export function getItinerarySupportingImagePath(
+  itinerarySlug: string,
+  variant: "1" | "2"
+): string {
+  return `/images/itineraries/${itinerarySlug}-${variant}.jpg`;
+}
+
 /** Travel tip hero: /images/travel-tips/{tipSlug}.jpg */
 export function getTravelTipImagePath(tipSlug: string): string {
   return `/images/travel-tips/${tipSlug}.jpg`;
+}
+
+/** Travel tip in-content supporting images: -1.jpg, -2.jpg */
+export function getTravelTipSupportingImagePath(
+  tipSlug: string,
+  variant: "1" | "2"
+): string {
+  return `/images/travel-tips/${tipSlug}-${variant}.jpg`;
 }
 
 /** Central helper: get path by type and slug(s). For neighbourhoods pass citySlug as first slug and neighbourhoodSlug as second. */

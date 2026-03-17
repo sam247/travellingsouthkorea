@@ -75,6 +75,26 @@ export default async function TravelTipPage({ params }: PageProps) {
         </div>
       </section>
 
+      {tip.supportingImages && tip.supportingImages.length > 0 && (
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+            {tip.supportingImages.slice(0, 2).map((src, i) => (
+              <div
+                key={src}
+                className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50"
+              >
+                <SafeImage
+                  src={src}
+                  alt={`${tip.title} — scene`}
+                  fill
+                  className="object-cover"
+                />
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
         <div className="prose prose-neutral dark:prose-invert max-w-none">
           {renderTipContent(tip.content)}

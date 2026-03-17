@@ -7,13 +7,18 @@ function article(
   slugKey: string,
   data: Omit<CultureArticle, "heroImage" | "supportingImages">
 ): CultureArticle {
+  const supportingImages = [
+    getCultureImageUrl(slugKey, "1"),
+    getCultureImageUrl(slugKey, "2"),
+  ];
   return {
     ...data,
     heroImage: getCultureImageUrl(slugKey, "hero"),
-    supportingImages: [
-      getCultureImageUrl(slugKey, "1"),
-      getCultureImageUrl(slugKey, "2"),
-    ],
+    supportingImages,
+    sections: data.sections.map((s, i) => ({
+      ...s,
+      image: i < 2 ? supportingImages[i] : undefined,
+    })),
   };
 }
 
@@ -27,7 +32,7 @@ export const cultureArticles: CultureArticle[] = [
     authorSlug: "mina-park",
     updatedDate: "2026-03-15",
     intro:
-      "South Korea's modelling and fitness industries have long influenced how beauty and body standards are perceived both domestically and abroad. Bikini and fitness modelling in Korea often emphasises a lean, athletic look that aligns with the country's broader beauty and wellness trends. For visitors, this culture is visible in advertising, social media, and in neighbourhoods like Gangnam and Cheongdam, where fitness studios and agencies cluster. Understanding this context adds another layer to how you read Korean media and lifestyle culture.",
+      "South Korea's modelling and fitness industries have long influenced how beauty and body standards are perceived both domestically and abroad. Bikini and fitness modelling in Korea often emphasises a lean, athletic look that aligns with the country's broader beauty and wellness trends. For visitors, this culture is visible in advertising, social media, and in neighbourhoods like Gangnam and Cheongdam, where fitness studios and agencies cluster. Understanding this context adds another layer to how you read Korean media and lifestyle culture. Whether you're planning a trip to Seoul or simply curious about the aesthetics you see in K-content, this guide connects the dots between the industry and what you'll notice on the ground.",
     sections: [
       {
         heading: "Why this topic matters in Korea",
@@ -76,7 +81,7 @@ export const cultureArticles: CultureArticle[] = [
     authorSlug: "mina-park",
     updatedDate: "2026-03-16",
     intro:
-      "Korean models have become a major force in global swimwear and lingerie, known for distinct aesthetics and strong presence in campaigns, magazines, and social media. Here we highlight the most popular figures in 2025 and what makes them stand out.",
+      "Korean models have become a major force in global swimwear and lingerie, known for distinct aesthetics and strong presence in campaigns, magazines, and social media. Here we highlight the most popular figures in 2025 and what makes them stand out. Their influence extends beyond the runway: from Jeju and Busan beach shoots to Seoul fashion weeks, these names shape how Korean beauty and style are seen at home and abroad.",
     sections: [
       {
         heading: "Impact of Korean Beauty Standards on Modeling",
@@ -142,7 +147,7 @@ export const cultureArticles: CultureArticle[] = [
       ctaHref: "/contact",
     },
     intro:
-      "Han Hye-jin (한혜진, born October 27, 1981) is one of South Korea's best-known actresses. She broke through in 2005 as the young widow and hairdresser in the hit daily drama Be Strong, Geum-soon!, and has since taken on iconic roles in historical and period pieces, hosted one of the country's most popular talk shows, and built a lasting career in film and television.",
+      "Han Hye-jin (한혜진, born October 27, 1981) is one of South Korea's best-known actresses. She broke through in 2005 as the young widow and hairdresser in the hit daily drama Be Strong, Geum-soon!, and has since taken on iconic roles in historical and period pieces, hosted one of the country's most popular talk shows, and built a lasting career in film and television. For travellers with an interest in K-drama, her work is a gateway to the kind of historical and contemporary storytelling that defines Korean TV.",
     sections: [
       {
         heading: "Career breakthrough and notable roles",
@@ -178,7 +183,7 @@ export const cultureArticles: CultureArticle[] = [
     authorSlug: "james-jeong",
     updatedDate: "2026-03-15",
     intro:
-      "Male K-pop idols are among Korea's most visible cultural exports, driving trends in fashion, beauty, and music. For travellers, this culture is everywhere: in the streets of Gangnam and Hongdae, in cafe playlists, and in the venues and neighbourhoods that fans associate with their favourite groups. Whether you are a dedicated fan or simply curious, understanding how idol culture fits into Seoul's landscape can make your trip more engaging.",
+      "Male K-pop idols are among Korea's most visible cultural exports, driving trends in fashion, beauty, and music. For travellers, this culture is everywhere: in the streets of Gangnam and Hongdae, in cafe playlists, and in the venues and neighbourhoods that fans associate with their favourite groups. Whether you are a dedicated fan or simply curious, understanding how idol culture fits into Seoul's landscape can make your trip more engaging. This article links that world to specific neighbourhoods and practical tips so you can explore with confidence.",
     sections: [
       {
         heading: "Why K-pop male idols matter in Korea",
@@ -234,7 +239,7 @@ export const cultureArticles: CultureArticle[] = [
     authorSlug: "james-jeong",
     updatedDate: "2026-03-15",
     intro:
-      "Korean street fashion is a global reference point, and Seoul is where it lives. From the indie, thrift-heavy vibe of Hongdae to the polished looks of Gangnam and the trendy lanes of Garosu-gil, each area has its own style language. This guide ties that culture to specific neighbourhoods and travel—so you know where to go, what to expect, and how street fashion connects to the rest of your Korea trip.",
+      "Korean street fashion is a global reference point, and Seoul is where it lives. From the indie, thrift-heavy vibe of Hongdae to the polished looks of Gangnam and the trendy lanes of Garosu-gil, each area has its own style language. This guide ties that culture to specific neighbourhoods and travel—so you know where to go, what to expect, and how street fashion connects to the rest of your Korea trip. We also share practical tips on the best times to visit and how to combine shopping with cafes and nightlife in each area.",
     sections: [
       {
         heading: "Why Korean street fashion stands out",
@@ -290,7 +295,7 @@ export const cultureArticles: CultureArticle[] = [
     authorSlug: "james-jeong",
     updatedDate: "2026-03-15",
     intro:
-      "Korean nightlife is dense, varied, and tightly woven into neighbourhood identity. Seoul's Hongdae, Itaewon, and Gangnam each offer a different vibe; Busan has its own beach and bar scene. Understanding the basics—when things start, how to get home, and what to expect from crowds and venues—will help you make the most of your nights out in Korea.",
+      "Korean nightlife is dense, varied, and tightly woven into neighbourhood identity. Seoul's Hongdae, Itaewon, and Gangnam each offer a different vibe; Busan has its own beach and bar scene. Understanding the basics—when things start, how to get home, and what to expect from crowds and venues—will help you make the most of your nights out in Korea. Below we break down each area and give you the practical notes you need to stay safe and have fun.",
     sections: [
       {
         heading: "Why Korean nightlife feels different",

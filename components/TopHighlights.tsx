@@ -1,12 +1,13 @@
 export interface TopHighlightsProps {
   heading: string;
   highlights: string[];
+  id?: string;
 }
 
-export function TopHighlights({ heading, highlights }: TopHighlightsProps) {
+export function TopHighlights({ heading, highlights, id }: TopHighlightsProps) {
   if (highlights.length === 0) return null;
   return (
-    <section className="mb-8 sm:mb-10">
+    <section className="mb-8 sm:mb-10" id={id}>
       <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-4">
         {heading}
       </h2>

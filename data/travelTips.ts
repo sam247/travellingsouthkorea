@@ -1,13 +1,26 @@
-import { getTravelTipImagePath } from "@/lib/imagePaths";
+import {
+  getTravelTipImagePath,
+  getTravelTipSupportingImagePath,
+} from "@/lib/imagePaths";
 import type { TravelTip } from "@/types";
+
+function supportingImages(slug: string): string[] {
+  return [
+    getTravelTipSupportingImagePath(slug, "1"),
+    getTravelTipSupportingImagePath(slug, "2"),
+  ];
+}
 
 export const travelTips: TravelTip[] = [
   {
     slug: "seoul-subway-guide",
     title: "How To Use The Seoul Subway",
     image: getTravelTipImagePath("seoul-subway-guide"),
+    supportingImages: supportingImages("seoul-subway-guide"),
     summary: "Everything you need to know about navigating Seoul's metro system — apps, etiquette and tips.",
-    content: `## Seoul's Subway Is Your Best Friend
+    content: `**Quick summary:** Get a T-Money card, use Naver Map for directions, and avoid rush hour if you can. The subway is safe, clean and the fastest way to get around Seoul.
+
+## Seoul's Subway Is Your Best Friend
 
 Seoul's subway system is one of the best in the world. Clean, punctual, cheap and easy to navigate — even if you don't speak Korean. Here's everything you need to know.
 
@@ -51,8 +64,11 @@ A single journey starts at ₩1,350 with a T-Money card. Transfers between subwa
     slug: "incheon-airport-to-seoul",
     title: "How To Get From Incheon Airport To Seoul",
     image: getTravelTipImagePath("incheon-airport-to-seoul"),
+    supportingImages: supportingImages("incheon-airport-to-seoul"),
     summary: "AREX, bus, taxi or KTX — the best ways to get from Incheon Airport to central Seoul.",
-    content: `## Getting From Incheon To Seoul
+    content: `**Pro tip:** For most travellers, the AREX Express to Seoul Station is the best balance of speed and cost. Book nothing in advance — just buy at the station.
+
+## Getting From Incheon To Seoul
 
 Incheon International Airport (ICN) is about 60km west of central Seoul. Here are your options, ranked.
 
@@ -86,8 +102,11 @@ Take the AREX Express to Seoul Station, then transfer to the subway. It's the fa
     slug: "t-money-card-guide",
     title: "T-Money Card Guide",
     image: getTravelTipImagePath("t-money-card-guide"),
+    supportingImages: supportingImages("t-money-card-guide"),
     summary: "How to buy, load and use Korea's essential transport card for subway, bus and taxis.",
-    content: `## What Is T-Money?
+    content: `**Quick summary:** Buy at any convenience store or airport, load ₩10,000–30,000 for a few days, and tap on every subway and bus. Refund leftover credit before you leave.
+
+## What Is T-Money?
 
 T-Money is Korea's rechargeable transport card. It works on subways, buses, some taxis and even convenience store purchases. It's the first thing you should buy when you arrive.
 
@@ -121,8 +140,11 @@ If you have a compatible phone, you can use the T-Money app instead of a physica
     slug: "sim-cards-korea",
     title: "SIM Cards & WiFi In Korea",
     image: getTravelTipImagePath("sim-cards-korea"),
+    supportingImages: supportingImages("sim-cards-korea"),
     summary: "Prepaid SIM cards, eSIMs and portable WiFi — staying connected in South Korea.",
-    content: `## Staying Connected In Korea
+    content: `**Pro tip:** An eSIM bought before you fly is the smoothest option — you land with data and no queue. Free WiFi is everywhere, but having your own data makes maps and translation hassle-free.
+
+## Staying Connected In Korea
 
 South Korea has some of the fastest internet in the world. Here's how to get online.
 
@@ -161,8 +183,11 @@ Get an eSIM before you fly. It's the cheapest, easiest option and you'll have da
     slug: "k-pop-history",
     title: "The Evolution of K-Pop: A Journey Through Time",
     image: getTravelTipImagePath("k-pop-history"),
+    supportingImages: supportingImages("k-pop-history"),
     summary: "From Seo Taiji to BTS and beyond — how K-pop became a global phenomenon.",
-    content: `## The Birth of Modern K-Pop
+    content: `**Quick summary:** K-pop grew from 1990s experiments into a global industry centred in Seoul. If you're in Korea, Gangnam, music show recordings and HYBE Insight are the best ways to experience it.
+
+## The Birth of Modern K-Pop
 
 K-pop as we know it today began in the early 1990s with Seo Taiji and Boys, who blended hip-hop, R&B and electronic music with Korean lyrics. Their success paved the way for the idol system and the industry we see today.
 
@@ -190,8 +215,11 @@ Visit K-Star Road in Gangnam, attend a music show recording, or explore the HYBE
     slug: "k-pop-male-idols",
     title: "10 Most Handsome K-Pop Male Idols 2025",
     image: getTravelTipImagePath("k-pop-male-idols"),
+    supportingImages: supportingImages("k-pop-male-idols"),
     summary: "A light-hearted look at some of the most popular K-pop male idols and where to spot them in Seoul.",
-    content: `## K-Pop Idols and Korean Beauty Standards
+    content: `**Pro tip:** Focus on the culture, not the chase — visit K-Star Road, HYBE Insight and maybe a music show recording. Respect idols' privacy and enjoy the neighbourhoods that shape the industry.
+
+## K-Pop Idols and Korean Beauty Standards
 
 K-pop male idols are known for their visuals as much as their music. From runway-ready looks to casual street style, they influence fashion and beauty trends across Korea and beyond.
 
@@ -214,8 +242,11 @@ Respect privacy: idols are people too. Don't follow them in person or at private
     slug: "sansachun-drink-guide",
     title: "What Is Sansachun?",
     image: getTravelTipImagePath("sansachun-drink-guide"),
+    supportingImages: supportingImages("sansachun-drink-guide"),
     summary: "Korea's traditional magnolia berry liquor — what it is, how it's made and where to try it.",
-    content: `## What Is Sansachun?
+    content: `**Quick summary:** Sansachun is a sweet, fruity Korean liquor (about 15–17% ABV) made from magnolia berries. Try it at traditional restaurants or pick up a bottle at duty-free.
+
+## What Is Sansachun?
 
 Sansachun (산사춘) is a Korean traditional liquor made from magnolia berries (sansa). It's sweet, mildly fruity and typically around 15–17% ABV. You'll see it in traditional restaurants and as a gift in duty-free shops.
 
@@ -241,8 +272,11 @@ Like soju, it's often poured for others and received with two hands. Sip rather 
     slug: "arex-airport-train-guide",
     title: "AREX Airport Train Guide: Schedule and Tips",
     image: getTravelTipImagePath("arex-airport-train-guide"),
+    supportingImages: supportingImages("arex-airport-train-guide"),
     summary: "AREX express and all-stop train times, fares and how to get from Incheon Airport to Seoul Station.",
-    content: `## What Is AREX?
+    content: `**Pro tip:** Express (₩9,500, 43 min) is best for Seoul Station; all-stop is cheaper and handy if you're staying near Hongdae. Check the Korail or AREX app for current times.
+
+## What Is AREX?
 
 AREX (Airport Railroad Express) connects Incheon International Airport to Seoul Station. Two services run: **Express** (non-stop, 43 minutes) and **All-Stop** (multiple stations, about 58 minutes).
 
@@ -271,8 +305,11 @@ Train times vary by day and season. Download the **Korail** or **AREX** app for 
     slug: "korean-won-etf-guide",
     title: "Korean Won Currency ETFs: A Traveller's Overview",
     image: getTravelTipImagePath("korean-won-etf-guide"),
+    supportingImages: supportingImages("korean-won-etf-guide"),
     summary: "What travellers should know about the Korean won, exchange rates and currency-focused ETFs.",
-    content: `## The Korean Won (KRW)
+    content: `**Quick summary:** Use ATMs or banks in Korea for better rates; carry some cash for markets and small vendors. Cards work almost everywhere in cities. Currency ETFs are for investors, not day-to-day travel.
+
+## The Korean Won (KRW)
 
 The South Korean won (₩) is the official currency. For travellers, exchanging at banks or ATMs in Korea usually gives better rates than at home. T-Money and cards cover most transport and shopping; carry some cash for markets and small vendors.
 

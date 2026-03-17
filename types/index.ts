@@ -137,6 +137,8 @@ export interface TravelTip {
   authorSlug: string;
   updatedDate: string;
   contentType: "travel-tip";
+  /** In-content supporting images: e.g. /images/travel-tips/{slug}-1.jpg, -2.jpg */
+  supportingImages?: string[];
 }
 
 export interface Author {

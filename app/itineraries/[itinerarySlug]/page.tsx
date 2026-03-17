@@ -27,6 +27,7 @@ import {
 } from "@/lib/content/insights";
 import { breadcrumbsItinerary } from "@/lib/breadcrumbs";
 import { getItineraryPath, getGuidePath, getCityCategoryPath, getCityPath, getNeighbourhoodPath } from "@/lib/canonical";
+import { getItinerarySupportingImagePath } from "@/lib/imagePaths";
 import { ContentSection } from "@/components/ContentSection";
 
 interface PageProps {
@@ -124,6 +125,24 @@ export default async function ItineraryPage({ params }: PageProps) {
       <section className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
         <TopHighlights {...getTopHighlightsForItinerary(itinerary, city ?? null)} />
         <p className="text-base sm:text-lg text-muted-foreground leading-relaxed mt-6">{itinerary.intro}</p>
+        <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <div className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50">
+            <SafeImage
+              src={getItinerarySupportingImagePath(itinerarySlug, "1")}
+              alt={`${itinerary.title} — scene`}
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50">
+            <SafeImage
+              src={getItinerarySupportingImagePath(itinerarySlug, "2")}
+              alt={`${itinerary.title} — scene`}
+              fill
+              className="object-cover"
+            />
+          </div>
+        </div>
         <div className="mt-10">
           {getItineraryNarrative(itinerary, city ?? null).map((section) => (
             <ContentSection key={section.heading} heading={section.heading} paragraphs={section.paragraphs} />

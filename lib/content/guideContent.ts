@@ -60,6 +60,14 @@ export function getGuideContent(guide: Guide, city: City): ContentSection[] {
         `You can cover several spots in this guide in one trip if you plan by area. Group venues that are close together and allow time for walking and queueing at popular places. Many visitors use this guide to build a full day or evening in ${neighbourhood || cityName}.`,
       ],
     },
+    {
+      heading: "Don't miss",
+      paragraphs: [
+        isNeighbourhoodGuide
+          ? `If you only have time for one or two stops, pick the venues that best match your mood — whether that's a quiet coffee, a lively bar or a standout meal. ${neighbourhood} rewards a slow wander; leave room to discover something not on the list.`
+          : `Our top tip: start with one or two venues that appeal most, then add more if time allows. The best ${category.replace(/-/g, " ")} experiences in ${cityName} often come from going deep rather than rushing through the list. Save the guide for later and revisit when you're planning your next trip.`,
+      ],
+    },
   ];
 }
 

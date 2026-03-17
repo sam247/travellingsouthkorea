@@ -18,6 +18,19 @@ export function getItineraryNarrative(
         `Evenings are reserved for food and nightlife where relevant. If you prefer early nights, you can substitute a quieter dinner or neighbourhood stroll. The itinerary works for different energy levels; adjust the pace to suit you.`,
       ],
     },
+    {
+      heading: "What to pack and prepare",
+      paragraphs: [
+        `Before you go: get a T-Money card at any convenience store or station — it works on metro, buses and some taxis. Download Naver Map or KakaoMap for directions; Google Maps is less reliable in Korea. Comfortable walking shoes are essential; you'll cover a lot on foot.`,
+        `Have some cash on you; many street food stalls and smaller restaurants are cash-only. English is spoken in tourist areas but not everywhere; a few Korean phrases and a translation app help. Check opening hours for palaces and museums; some close on certain weekdays.`,
+      ],
+    },
+    {
+      heading: "When to go",
+      paragraphs: [
+        `Spring (March–May) and autumn (September–November) are the most comfortable for this itinerary: mild weather and long daylight hours. Cherry blossom and fall foliage draw bigger crowds, so book accommodation early. Summer and winter are still rewarding; pack for heat or cold and plan indoor options for the hottest or coldest parts of the day.`,
+      ],
+    },
   ];
 }
 

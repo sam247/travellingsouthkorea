@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 import { SiteNav } from "@/components/layout/SiteNav";
 import { SiteFooter } from "@/components/layout/SiteFooter";
@@ -20,6 +21,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865452541027172"
+          strategy="beforeInteractive"
+          crossOrigin="anonymous"
+        />
         <GoogleAnalytics />
         <ScrollDepthTracker />
         <OutboundClickTracker />
