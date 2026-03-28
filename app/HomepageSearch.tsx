@@ -4,20 +4,19 @@ import { useState } from "react";
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
 import { Search } from "lucide-react";
-import { getGuidePath } from "@/lib/canonical";
-import { guides } from "@/data/guides";
+import {
+  searchQueryFlat,
+  SEARCH_TYPE_LABELS,
+  type SearchEntry,
+} from "@/lib/search";
+import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { trackSearch } from "@/lib/analytics/gaEvents";
 
 export function HomepageSearch() {
   const [search, setSearch] = useState("");
 
-  const filteredGuides = search.trim()
-    ? guides.filter(
-        (g) =>
-          g.title.toLowerCase().includes(search.toLowerCase()) ||
-          g.neighbourhood.toLowerCase().includes(search.toLowerCase()) ||
-          g.city.toLowerCase().includes(search.toLowerCase())
-      )
-    : [];
+  const q = search.trim();
+  const results: SearchEntry[] = q ? searchQueryFlat(q, 12) : [];
 
   return (
     <div className="mt-8 relative max-w-md mx-auto">
@@ -25,36 +24,41 @@ export function HomepageSearch() {
         <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
         <input
           type="text"
-          placeholder="Search Seoul guides, neighbourhoods, bars..."
+          placeholder="Search guides, travel tips, neighbourhoods, cities..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           className="w-full h-12 pl-11 pr-4 rounded-xl bg-background/95 backdrop-blur-md text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/50 border border-border/50"
         />
       </div>
-      {search.trim() && (
+      {q && (
         <div
           className="absolute top-full mt-2 left-0 right-0 bg-card rounded-xl border border-border/50 overflow-hidden max-h-64 overflow-y-auto z-20"
           style={{ boxShadow: "var(--shadow-hover)" }}
         >
-          {filteredGuides.length > 0 ? (
-            filteredGuides.map((g) => (
+          {results.length > 0 ? (
+            results.map((entry) => (
               <Link
-                key={g.slug}
-                href={getGuidePath(g.city, g.slug)}
-                onClick={() => setSearch("")}
+                key={`${entry.type}-${entry.href}`}
+                href={entry.href}
+                onClick={() => {
+                  if (q) trackSearch(q);
+                  setSearch("");
+                }}
                 className="flex items-center gap-3 px-4 py-3 hover:bg-secondary/50 transition-colors"
               >
                 <SafeImage
-                  src={g.image}
+                  src={entry.image ?? DEFAULT_PLACEHOLDER_IMAGE}
                   alt=""
                   width={40}
                   height={40}
-                  className="w-10 h-10 rounded-lg object-cover"
+                  className="w-10 h-10 rounded-lg object-cover shrink-0"
                 />
-                <div className="text-left">
-                  <p className="text-sm font-medium text-foreground">{g.title}</p>
-                  <p className="text-xs text-muted-foreground">
-                    {g.neighbourhood}
+                <div className="text-left min-w-0">
+                  <p className="text-sm font-medium text-foreground truncate">
+                    {entry.title}
+                  </p>
+                  <p className="text-xs text-muted-foreground truncate">
+                    {entry.subtitle ?? SEARCH_TYPE_LABELS[entry.type]}
                   </p>
                 </div>
               </Link>

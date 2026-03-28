@@ -4,27 +4,21 @@ import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
 import { Search, X } from "lucide-react";
-import { searchQuery, type SearchResultType } from "@/lib/search";
+import {
+  searchQuery,
+  SEARCH_TYPE_LABELS,
+  type SearchResultType,
+} from "@/lib/search";
 import { trackSearch } from "@/lib/analytics/gaEvents";
+import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
 
 const popularSearches = [
   "Seoul nightlife",
-  "Best BBQ Seoul",
+  "AREX",
   "Hongdae bars",
+  "PC bang",
   "3 days in Seoul",
 ];
-
-const typeLabels: Record<SearchResultType, string> = {
-  city: "Cities",
-  neighbourhood: "Neighbourhoods",
-  guide: "Guides",
-  venue: "Venues",
-  itinerary: "Itineraries",
-  "travel-tip": "Travel Tips",
-  culture: "Culture",
-  cinema: "Cinema",
-  category: "Categories",
-};
 
 export function SearchOverlay({
   isOpen,
@@ -84,7 +78,7 @@ export function SearchOverlay({
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search guides, neighbourhoods, bars or itineraries..."
+            placeholder="Search guides, travel tips, neighbourhoods, cities..."
             className="flex-1 h-12 bg-transparent text-sm text-foreground placeholder:text-muted-foreground focus:outline-none"
           />
           <button
@@ -130,7 +124,7 @@ export function SearchOverlay({
               return (
                 <div key={type} className="p-4 pt-3">
                   <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-2">
-                    {typeLabels[type]}
+                    {SEARCH_TYPE_LABELS[type]}
                   </p>
                   {entries.map((entry) => (
                     <Link
@@ -142,15 +136,13 @@ export function SearchOverlay({
                       }}
                       className="flex items-center gap-3 px-2 py-2 rounded-lg hover:bg-secondary/50 transition-colors"
                     >
-                      {entry.image && (
-                        <SafeImage
-                          src={entry.image}
-                          alt=""
-                          width={40}
-                          height={40}
-                          className="w-10 h-10 rounded-lg object-cover"
-                        />
-                      )}
+                      <SafeImage
+                        src={entry.image ?? DEFAULT_PLACEHOLDER_IMAGE}
+                        alt=""
+                        width={40}
+                        height={40}
+                        className="w-10 h-10 rounded-lg object-cover shrink-0"
+                      />
                       <div>
                         <p className="text-sm font-medium text-foreground">
                           {entry.title}

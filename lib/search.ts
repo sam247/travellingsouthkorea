@@ -48,6 +48,30 @@ export interface SearchEntry {
   href: string;
   subtitle?: string;
   image?: string;
+  /** Extra text used for matching only (tags, summary keywords, slug); not shown in UI */
+  matchText?: string;
+}
+
+/** Display label for a search result type (short list UI, overlays). */
+export const SEARCH_TYPE_LABELS: Record<SearchResultType, string> = {
+  city: "Cities",
+  neighbourhood: "Neighbourhoods",
+  guide: "Guides",
+  venue: "Venues",
+  itinerary: "Itineraries",
+  "travel-tip": "Travel Tips",
+  culture: "Culture",
+  cinema: "Cinema",
+  category: "Categories",
+};
+
+function matchesEntry(entry: SearchEntry, q: string): boolean {
+  const ql = q.toLowerCase();
+  return (
+    entry.title.toLowerCase().includes(ql) ||
+    !!entry.subtitle?.toLowerCase().includes(ql) ||
+    !!entry.matchText?.toLowerCase().includes(ql)
+  );
 }
 
 function buildSearchIndex(): SearchEntry[] {
@@ -89,6 +113,7 @@ function buildSearchIndex(): SearchEntry[] {
       href: getGuidePath(g.city, g.slug),
       subtitle: g.neighbourhood,
       image: g.image,
+      matchText: `${g.summary} ${g.tags.join(" ")} ${g.category} ${g.city}`,
     });
   });
 
@@ -103,6 +128,7 @@ function buildSearchIndex(): SearchEntry[] {
       href: getGuidePath(spec.citySlug, spec.guideSlug),
       subtitle: spec.categoryLabel,
       image: guide.image,
+      matchText: `${guide.summary} ${guide.tags.join(" ")} ${spec.categoryLabel}`,
     });
   });
 
@@ -139,8 +165,9 @@ function buildSearchIndex(): SearchEntry[] {
       title: t.title,
       slug: t.slug,
       href: getTravelTipPath(t.slug),
-      subtitle: t.summary.slice(0, 60),
+      subtitle: t.tags.length > 0 ? t.tags.join(" · ") : t.summary.slice(0, 72),
       image: t.image,
+      matchText: `${t.slug} ${t.summary} ${t.tags.join(" ")}`,
     });
   });
 
@@ -251,6 +278,33 @@ export function getSearchIndex(): SearchEntry[] {
   return cachedIndex;
 }
 
+/** Flat list of matches across all types, in display priority order (for homepage search bar). */
+export function searchQueryFlat(query: string, maxResults: number = 12): SearchEntry[] {
+  const q = query.toLowerCase().trim();
+  if (!q) return [];
+  const index = getSearchIndex();
+  const order: SearchResultType[] = [
+    "city",
+    "neighbourhood",
+    "guide",
+    "venue",
+    "itinerary",
+    "travel-tip",
+    "culture",
+    "cinema",
+    "category",
+  ];
+  const out: SearchEntry[] = [];
+  for (const type of order) {
+    for (const entry of index) {
+      if (entry.type !== type || !matchesEntry(entry, q)) continue;
+      out.push(entry);
+      if (out.length >= maxResults) return out;
+    }
+  }
+  return out;
+}
+
 /** Priority order: cities, neighbourhoods, guides, venues, itineraries, travel tips, culture, cinema, category */
 const typeOrder: Record<SearchResultType, number> = {
   city: 0,
@@ -284,10 +338,7 @@ export function searchQuery(query: string, limitPerType: number = 4): Map<Search
   };
 
   for (const entry of index) {
-    const match =
-      entry.title.toLowerCase().includes(q) ||
-      (entry.subtitle?.toLowerCase().includes(q));
-    if (match) {
+    if (matchesEntry(entry, q)) {
       const list = byType[entry.type];
       if (list.length < limitPerType) list.push(entry);
     }
