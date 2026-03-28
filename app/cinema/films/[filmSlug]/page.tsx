@@ -15,6 +15,11 @@ import {
   getCityPath,
 } from "@/lib/canonical";
 import { getFilmContentSections } from "@/lib/content/cinemaNarrative";
+import {
+  getCachedOmdbFilm,
+  pickFilmHeroImage,
+  pickOmdbPoster,
+} from "@/lib/omdb";
 
 interface PageProps {
   params: Promise<{ filmSlug: string }>;
@@ -25,11 +30,17 @@ export async function generateMetadata({ params }: PageProps) {
   const film = getFilmBySlug(filmSlug);
   if (!film) return {};
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
+  const omdb = await getCachedOmdbFilm(film.imdbId);
+  const ogImage = pickOmdbPoster(omdb);
   return {
     title: `${film.title} | Cinema | South Korea Travel`,
     description: film.summary,
     alternates: { canonical: base + getCinemaFilmPath(filmSlug) },
-    openGraph: { title: film.title, description: film.summary },
+    openGraph: {
+      title: film.title,
+      description: film.summary,
+      ...(ogImage ? { images: [{ url: ogImage }] } : {}),
+    },
   };
 }
 
@@ -46,12 +57,14 @@ export default async function CinemaFilmPage({ params }: PageProps) {
   const locations = getFilmLocationsByFilm(film.slug);
   const contentSections = getFilmContentSections(film, director ?? null);
   const breadcrumbItems = breadcrumbsCinemaFilm(film.title, film.slug);
+  const omdb = await getCachedOmdbFilm(film.imdbId);
+  const heroSrc = pickFilmHeroImage(film.heroImage, omdb);
 
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
         <CinemaImage
-          src={film.heroImage}
+          src={heroSrc}
           alt={film.title}
           fill
           className="object-cover"
@@ -97,6 +110,28 @@ export default async function CinemaFilmPage({ params }: PageProps) {
         <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
           {film.summary}
         </p>
+        {omdb?.imdbRating && omdb.imdbRating !== "N/A" && (
+          <p className="mt-4 text-sm text-muted-foreground">
+            IMDb rating: <span className="font-medium text-foreground">{omdb.imdbRating}</span>
+            {omdb.imdbVotes && omdb.imdbVotes !== "N/A" && (
+              <span className="text-muted-foreground"> ({omdb.imdbVotes} votes)</span>
+            )}
+          </p>
+        )}
+        {omdb?.Plot && omdb.Plot !== "N/A" && (
+          <div className="mt-8 p-4 sm:p-5 rounded-xl bg-secondary/50 border border-border/60">
+            <h2 className="text-sm font-semibold text-foreground mb-2">Full synopsis</h2>
+            <p className="text-sm text-muted-foreground leading-relaxed">{omdb.Plot}</p>
+            {omdb.Runtime && omdb.Runtime !== "N/A" && (
+              <p className="text-xs text-muted-foreground mt-3">Runtime: {omdb.Runtime}</p>
+            )}
+            {omdb.Actors && omdb.Actors !== "N/A" && (
+              <p className="text-xs text-muted-foreground mt-2 line-clamp-3">
+                Cast: {omdb.Actors}
+              </p>
+            )}
+          </div>
+        )}
         <div className="mt-10 space-y-10">
           {contentSections.map((section) => (
             <ContentSection

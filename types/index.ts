@@ -239,6 +239,8 @@ export interface Film {
   notableFacts: string[];
   heroImage: string;
   relatedCitySlugs: string[];
+  /** IMDb ID (e.g. tt6751668) for OMDb poster and metadata */
+  imdbId?: string;
 }
 
 export interface Director {

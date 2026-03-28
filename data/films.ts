@@ -14,6 +14,7 @@ function film(
 
 export const films: Film[] = [
   film("parasite", {
+    imdbId: "tt6751668",
     title: "Parasite",
     year: 2019,
     directorSlug: "bong-joon-ho",
@@ -28,6 +29,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul"],
   }),
   film("train-to-busan", {
+    imdbId: "tt5433138",
     title: "Train to Busan",
     year: 2016,
     directorSlug: "yeon-sang-ho",
@@ -42,6 +44,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul", "busan"],
   }),
   film("oldboy", {
+    imdbId: "tt0364569",
     title: "Oldboy",
     year: 2003,
     directorSlug: "park-chan-wook",
@@ -56,6 +59,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul"],
   }),
   film("the-handmaiden", {
+    imdbId: "tt4016934",
     title: "The Handmaiden",
     year: 2016,
     directorSlug: "park-chan-wook",
@@ -70,6 +74,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul"],
   }),
   film("memories-of-murder", {
+    imdbId: "tt0353969",
     title: "Memories of Murder",
     year: 2003,
     directorSlug: "bong-joon-ho",
@@ -84,6 +89,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul"],
   }),
   film("decision-to-leave", {
+    imdbId: "tt13238346",
     title: "Decision to Leave",
     year: 2022,
     directorSlug: "park-chan-wook",

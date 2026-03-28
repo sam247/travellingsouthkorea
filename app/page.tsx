@@ -1,30 +1,30 @@
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
-import { HERO_IMAGES } from "@/lib/imageConfig";
+import { HERO_IMAGES, HERO_HOME_VIDEO_SRC } from "@/lib/imageConfig";
 import { Search } from "lucide-react";
 import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
 import { getCountryPath, getCategoryPath, getItineraryPath } from "@/lib/canonical";
-import { getFeaturedCities, getFeaturedGuides, getFeaturedGuidesForHome } from "@/lib/queries";
+import { getFeaturedCities, getFeaturedGuides, getFeaturedEditorialTravelTips } from "@/lib/queries";
 import { categories } from "@/data/categories";
 import { itineraries } from "@/data/itineraries";
-import { guides } from "@/data/guides";
 import { HomepageSearch } from "./HomepageSearch";
+import { FeaturedTravelTipCard } from "@/components/FeaturedTravelTipCard";
+import { HomeHeroVideo } from "@/components/HomeHeroVideo";
 
 export default function HomePage() {
   const topCities = getFeaturedCities(3);
   const popularGuides = getFeaturedGuides(6);
+  const featuredArticles = getFeaturedEditorialTravelTips();
   const topItineraries = itineraries.slice(0, 3);
 
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[80vh] min-h-[500px] flex items-center justify-center overflow-hidden">
-        <SafeImage
-          src={HERO_IMAGES.home}
+        <HomeHeroVideo
+          videoSrc={HERO_HOME_VIDEO_SRC}
+          posterSrc={HERO_IMAGES.home}
           alt="South Korea landscape"
-          fill
-          className="object-cover"
-          priority
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/40 to-black/60" />
         <div className="relative z-10 text-center px-4 max-w-2xl mx-auto">
@@ -60,6 +60,30 @@ export default function HomePage() {
           </Link>
         </div>
       </section>
+
+      {featuredArticles.length > 0 && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-16 sm:pb-20">
+          <h2 className="text-2xl sm:text-3xl font-bold text-foreground mb-2">
+            Featured Articles
+          </h2>
+          <p className="text-muted-foreground mb-8">
+            In-depth travel tips — transport, shopping, and culture
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {featuredArticles.map((tip) => (
+              <FeaturedTravelTipCard key={tip.slug} tip={tip} />
+            ))}
+          </div>
+          <div className="mt-6 text-center">
+            <Link
+              href={getCategoryPath("travel-tips")}
+              className="text-sm font-medium text-primary hover:text-primary/80 transition-colors"
+            >
+              View all travel tips →
+            </Link>
+          </div>
+        </section>
+      )}
 
       {topItineraries.length > 0 && (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-16 sm:pb-20">
@@ -137,14 +161,6 @@ export default function HomePage() {
                 {cat.description}
               </p>
             </Link>
-          ))}
-        </div>
-        <h3 className="text-xl font-semibold text-foreground mt-12 mb-6">
-          Featured articles
-        </h3>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-          {getFeaturedGuidesForHome(9).map((guide) => (
-            <GuideCard key={guide.slug} guide={guide} />
           ))}
         </div>
       </section>

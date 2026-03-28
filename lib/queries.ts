@@ -11,7 +11,7 @@ import { travelTips } from "@/data/travelTips";
 import { getGuidesByCategory, getGuidesByCity, getGuidesByNeighbourhood, getGuidesByAuthor } from "@/data/guides";
 import { getVenuesByCity, getVenuesByNeighbourhood, getVenuesByCategory } from "@/data/venues";
 import { getItinerariesByAuthor, getItinerariesByCity } from "@/data/itineraries";
-import { getTravelTipsByAuthor } from "@/data/travelTips";
+import { getTravelTipsByAuthor, getFeaturedEditorialTravelTips } from "@/data/travelTips";
 import { getCategoryBySlug } from "@/data/categories";
 import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
 import type { Guide } from "@/types";
@@ -35,6 +35,8 @@ export function getFeaturedGuides(limit = 6) {
 export function getFeaturedGuidesForHome(limit = 9) {
   return guides.slice(0, limit);
 }
+
+export { getFeaturedEditorialTravelTips };
 
 export function getPopularVenuesByCity(citySlug: string, limit = 6) {
   return venues.filter((v) => v.citySlug === citySlug).slice(0, limit);

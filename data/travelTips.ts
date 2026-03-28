@@ -742,3 +742,16 @@ Currency ETFs that track the Korean won are investment products, not travel prod
 export const getTravelTipBySlug = (slug: string) => travelTips.find((t) => t.slug === slug);
 export const getTravelTipsByAuthor = (authorSlug: string) =>
   travelTips.filter((t) => t.authorSlug === authorSlug);
+
+/** Hand-written editorial articles on the home page (display order). */
+export const FEATURED_EDITORIAL_TRAVEL_TIP_SLUGS: readonly string[] = [
+  "arex-train-schedule",
+  "buying-bedding-in-south-korea",
+  "top-pc-bang-internet-cafes-in-seoul-for-gaming",
+];
+
+export function getFeaturedEditorialTravelTips(): TravelTip[] {
+  return FEATURED_EDITORIAL_TRAVEL_TIP_SLUGS.map((slug) => getTravelTipBySlug(slug)).filter(
+    (t): t is TravelTip => t != null
+  );
+}

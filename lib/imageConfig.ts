@@ -15,3 +15,6 @@ export const HERO_IMAGES = {
   cinema: `${heroBase}/hero-cinema.jpg${heroV}`,
   culture: `${heroBase}/hero-culture.jpg${heroV}`,
 } as const;
+
+/** Home hero background video (served from /public). */
+export const HERO_HOME_VIDEO_SRC = "/12566631_640_360_30fps-2.mp4";

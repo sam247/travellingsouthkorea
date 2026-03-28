@@ -15,6 +15,7 @@ import { films } from "@/data/films";
 import { directors } from "@/data/directors";
 import { filmLocations } from "@/data/filmLocations";
 import { cinemaArticles } from "@/data/cinemaArticles";
+import { getCachedOmdbFilm, pickFilmHeroImage } from "@/lib/omdb";
 
 export function generateMetadata() {
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
@@ -31,8 +32,18 @@ export function generateMetadata() {
   };
 }
 
-export default function CinemaPage() {
-  const featuredFilms = films.slice(0, 6);
+export default async function CinemaPage() {
+  const filmExtras = await Promise.all(
+    films.map(async (film) => {
+      const omdb = await getCachedOmdbFilm(film.imdbId);
+      return {
+        film,
+        heroSrc: pickFilmHeroImage(film.heroImage, omdb),
+        omdb,
+      };
+    })
+  );
+  const featuredFilms = filmExtras.slice(0, 6);
   const featuredDirectors = directors.slice(0, 5);
   const featuredLocations = filmLocations.slice(0, 4);
   const genres = Array.from(
@@ -79,8 +90,20 @@ export default function CinemaPage() {
           <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
             Featured Korean films
           </h2>
+          <p className="text-sm text-muted-foreground mb-6 max-w-2xl">
+            Posters and ratings from{" "}
+            <a
+              href="https://www.omdbapi.com/"
+              className="text-primary hover:underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              OMDb
+            </a>{" "}
+            when available.
+          </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {featuredFilms.map((film) => (
+            {featuredFilms.map(({ film, heroSrc, omdb }) => (
               <Link
                 key={film.slug}
                 href={getCinemaFilmPath(film.slug)}
@@ -89,7 +112,7 @@ export default function CinemaPage() {
               >
                 <div className="aspect-[3/2] overflow-hidden relative">
                   <CinemaImage
-                    src={film.heroImage}
+                    src={heroSrc}
                     alt={film.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -99,12 +122,20 @@ export default function CinemaPage() {
                 <div className="p-4 sm:p-5">
                   <p className="text-xs font-medium uppercase tracking-wider text-primary mb-1.5">
                     {film.year} · {film.genres.slice(0, 2).join(", ")}
+                    {omdb?.imdbRating && omdb.imdbRating !== "N/A" && (
+                      <span className="text-muted-foreground font-normal">
+                        {" "}
+                        · IMDb {omdb.imdbRating}
+                      </span>
+                    )}
                   </p>
                   <h3 className="text-base font-semibold text-foreground">
                     {film.title}
                   </h3>
                   <p className="text-sm text-muted-foreground mt-1.5 line-clamp-2">
-                    {film.summary}
+                    {omdb?.Plot && omdb.Plot !== "N/A"
+                      ? omdb.Plot
+                      : film.summary}
                   </p>
                 </div>
               </Link>
