@@ -39,8 +39,9 @@ import { getVenuesByCity } from "@/data/venues";
 import { getItinerariesByCity } from "@/data/itineraries";
 import type { City } from "@/types";
 import type { Region } from "@/types";
+import type { CityExploreCard } from "@/lib/resolveUnsplashHero";
 
-const actionCards = [
+const fallbackExploreCards: CityExploreCard[] = [
   { label: "Things To Do", category: "things-to-do", image: DEFAULT_PLACEHOLDER_IMAGE },
   { label: "Nightlife", category: "nightlife", image: DEFAULT_PLACEHOLDER_IMAGE },
   { label: "Restaurants", category: "food", image: DEFAULT_PLACEHOLDER_IMAGE },
@@ -53,14 +54,17 @@ export function RegionOrCityPage({
   type,
   city,
   region,
+  exploreCategoryImages,
 }: {
   type: "city";
   city: City;
   region?: never;
+  exploreCategoryImages?: CityExploreCard[];
 } | {
   type: "region";
   region: Region;
   city?: never;
+  exploreCategoryImages?: never;
 }) {
   if (type === "region" && region) {
     const regionCities = getCitiesByRegion(region.slug);
@@ -123,6 +127,7 @@ export function RegionOrCityPage({
   }
 
   if (type === "city" && city) {
+    const exploreCards = exploreCategoryImages ?? fallbackExploreCards;
     const cityGuides = getGuidesByCity(city.slug);
     const cityNeighbourhoods = getNeighbourhoodsByCity(city.slug);
     const cityVenues = getVenuesByCity(city.slug).slice(0, 6);
@@ -235,7 +240,7 @@ export function RegionOrCityPage({
                   Explore {city.name}
                 </h2>
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4">
-                  {actionCards.map((card) => (
+                  {exploreCards.map((card) => (
                     <CityCategoryLink
                       key={card.label}
                       href={getCityCategoryPath(city.slug, card.category)}

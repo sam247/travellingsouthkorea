@@ -2,7 +2,6 @@
 
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
-import { SafeImage } from "@/components/SafeImage";
 import { Search, X } from "lucide-react";
 import {
   searchQuery,
@@ -10,7 +9,7 @@ import {
   type SearchResultType,
 } from "@/lib/search";
 import { trackSearch } from "@/lib/analytics/gaEvents";
-import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { SearchResultThumbnail } from "@/components/SearchResultThumbnail";
 
 const popularSearches = [
   "Seoul nightlife",
@@ -136,13 +135,7 @@ export function SearchOverlay({
                       }}
                       className="flex items-center gap-3 px-2 py-2 rounded-lg hover:bg-secondary/50 transition-colors"
                     >
-                      <SafeImage
-                        src={entry.image ?? DEFAULT_PLACEHOLDER_IMAGE}
-                        alt=""
-                        width={40}
-                        height={40}
-                        className="w-10 h-10 rounded-lg object-cover shrink-0"
-                      />
+                      <SearchResultThumbnail entry={entry} />
                       <div>
                         <p className="text-sm font-medium text-foreground">
                           {entry.title}

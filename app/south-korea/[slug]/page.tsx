@@ -4,6 +4,7 @@ import { regions } from "@/data/regions";
 import { assertNoCityRegionSlugCollision } from "@/lib/guard";
 import { getCityPath, getRegionPath } from "@/lib/canonical";
 import { RegionOrCityPage } from "./RegionOrCityPage";
+import { resolveCityExploreCategoryImages } from "@/lib/resolveUnsplashHero";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -45,7 +46,14 @@ export default async function SouthKoreaSlugPage({ params }: PageProps) {
   const city = cities.find((c) => c.slug === slug);
   const region = regions.find((r) => r.slug === slug);
   if (city) {
-    return <RegionOrCityPage type="city" city={city} />;
+    const exploreCategoryImages = await resolveCityExploreCategoryImages(city.name);
+    return (
+      <RegionOrCityPage
+        type="city"
+        city={city}
+        exploreCategoryImages={exploreCategoryImages}
+      />
+    );
   }
   if (region) {
     return <RegionOrCityPage type="region" region={region} />;

@@ -12,6 +12,7 @@ import { TravelTipCard } from "@/components/TravelTipCard";
 import { CategoryDiscoveryClient } from "@/components/CategoryDiscoveryClient";
 import { breadcrumbsGlobalCategory } from "@/lib/breadcrumbs";
 import { getCategoryPath, getTravelTipPath } from "@/lib/canonical";
+import { resolveTravelTipThumbnail } from "@/lib/resolveUnsplashHero";
 
 interface PageProps {
   params: Promise<{ categorySlug: string }>;
@@ -86,6 +87,7 @@ export default async function GlobalCategoryPage({ params }: PageProps) {
   }
 
   if (categorySlug === "travel-tips") {
+    const tipThumbs = await Promise.all(travelTips.map((t) => resolveTravelTipThumbnail(t)));
     return (
       <div className="min-h-screen bg-background">
         <section className="pt-24 sm:pt-28 pb-6 sm:pb-8 max-w-7xl mx-auto px-4 sm:px-6">
@@ -96,9 +98,9 @@ export default async function GlobalCategoryPage({ params }: PageProps) {
         <section className="max-w-7xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
           {travelTips.length > 0 ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {travelTips.map((t) => (
+              {travelTips.map((t, i) => (
                 <Link key={t.slug} href={getTravelTipPath(t.slug)}>
-                  <TravelTipCard tip={t} />
+                  <TravelTipCard tip={t} imageSrc={tipThumbs[i]} />
                 </Link>
               ))}
             </div>

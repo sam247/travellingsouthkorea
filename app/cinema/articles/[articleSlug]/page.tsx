@@ -18,6 +18,8 @@ import {
   getCityPath,
 } from "@/lib/canonical";
 import { getCinemaArticleContentSections } from "@/lib/content/cinemaNarrative";
+import { resolveCinemaArticleHero } from "@/lib/resolveUnsplashHero";
+import { UnsplashAttributionLine } from "@/components/UnsplashAttribution";
 
 interface PageProps {
   params: Promise<{ articleSlug: string }>;
@@ -47,12 +49,13 @@ export default async function CinemaArticlePage({ params }: PageProps) {
 
   const contentSections = getCinemaArticleContentSections(article);
   const breadcrumbItems = breadcrumbsCinemaArticle(article.title, article.slug);
+  const hero = await resolveCinemaArticleHero(article);
 
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
         <CinemaImage
-          src={article.heroImage}
+          src={hero.src}
           alt={article.title}
           fill
           className="object-cover"
@@ -63,6 +66,9 @@ export default async function CinemaArticlePage({ params }: PageProps) {
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white tracking-tight">
             {article.title}
           </h1>
+          {hero.attribution && (
+            <UnsplashAttributionLine attribution={hero.attribution} variant="on-dark" />
+          )}
         </div>
       </section>
 

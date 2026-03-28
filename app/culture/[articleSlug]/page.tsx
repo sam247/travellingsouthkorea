@@ -15,6 +15,8 @@ import {
   getCityPath,
   getCityCategoryPath,
 } from "@/lib/canonical";
+import { resolveCultureArticleHero } from "@/lib/resolveUnsplashHero";
+import { UnsplashAttributionLine } from "@/components/UnsplashAttribution";
 
 interface PageProps {
   params: Promise<{ articleSlug: string }>;
@@ -46,6 +48,7 @@ export default async function CultureArticlePage({ params }: PageProps) {
 
   const displaySections = getArticleDisplaySections(article);
   const breadcrumbItems = breadcrumbsCultureArticle(article.title, article.slug);
+  const hero = await resolveCultureArticleHero(article);
 
   const exploreLinks: { label: string; href: string }[] = [];
 
@@ -86,7 +89,7 @@ export default async function CultureArticlePage({ params }: PageProps) {
     <div className="min-h-screen bg-background">
       <section className="relative h-[40vh] min-h-[300px] flex items-end overflow-hidden">
         <CultureImage
-          src={article.heroImage}
+          src={hero.src}
           alt={article.title}
           fill
           className="object-cover"
@@ -100,6 +103,9 @@ export default async function CultureArticlePage({ params }: PageProps) {
           <p className="mt-2 text-base text-white/80 line-clamp-2">
             {article.summary}
           </p>
+          {hero.attribution && (
+            <UnsplashAttributionLine attribution={hero.attribution} variant="on-dark" />
+          )}
         </div>
       </section>
 

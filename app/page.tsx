@@ -11,11 +11,13 @@ import { itineraries } from "@/data/itineraries";
 import { HomepageSearch } from "./HomepageSearch";
 import { FeaturedTravelTipCard } from "@/components/FeaturedTravelTipCard";
 import { HomeHeroVideo } from "@/components/HomeHeroVideo";
+import { resolveTravelTipHero } from "@/lib/resolveUnsplashHero";
 
-export default function HomePage() {
+export default async function HomePage() {
   const topCities = getFeaturedCities(3);
   const popularGuides = getFeaturedGuides(6);
   const featuredArticles = getFeaturedEditorialTravelTips();
+  const featuredHeroes = await Promise.all(featuredArticles.map((t) => resolveTravelTipHero(t)));
   const topItineraries = itineraries.slice(0, 3);
 
   return (
@@ -70,8 +72,12 @@ export default function HomePage() {
             In-depth travel tips — transport, shopping, and culture
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {featuredArticles.map((tip) => (
-              <FeaturedTravelTipCard key={tip.slug} tip={tip} />
+            {featuredArticles.map((tip, i) => (
+              <FeaturedTravelTipCard
+                key={tip.slug}
+                tip={tip}
+                heroImageSrc={featuredHeroes[i]?.src}
+              />
             ))}
           </div>
           <div className="mt-6 text-center">

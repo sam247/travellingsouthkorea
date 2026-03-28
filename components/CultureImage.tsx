@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import { DEFAULT_CULTURE_IMAGE } from "@/lib/cultureImages";
+import { isUnsplashImageUrl } from "@/lib/unsplashHotlink";
 
 interface CultureImageProps {
   src: string;
@@ -30,6 +31,7 @@ export function CultureImage({
   loading,
 }: CultureImageProps) {
   const [currentSrc, setCurrentSrc] = useState(src);
+  const hotlink = isUnsplashImageUrl(currentSrc);
 
   const handleError = () => {
     setCurrentSrc(fallbackSrc);
@@ -45,6 +47,7 @@ export function CultureImage({
         sizes={sizes}
         priority={priority}
         loading={loading}
+        unoptimized={hotlink}
         onError={handleError}
       />
     );
@@ -60,6 +63,7 @@ export function CultureImage({
       sizes={sizes}
       priority={priority}
       loading={loading}
+      unoptimized={hotlink}
       onError={handleError}
     />
   );

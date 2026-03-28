@@ -16,8 +16,15 @@ const categoryLabels: Record<CultureArticleCategory, string> = {
   lifestyle: "Lifestyle",
 };
 
-export function CultureArticleCard({ article }: { article: CultureArticle }) {
+export function CultureArticleCard({
+  article,
+  heroImageSrc,
+}: {
+  article: CultureArticle;
+  heroImageSrc?: string;
+}) {
   const href = getCultureArticlePath(article.slug);
+  const src = heroImageSrc ?? article.heroImage;
   return (
     <Link
       href={href}
@@ -32,7 +39,7 @@ export function CultureArticleCard({ article }: { article: CultureArticle }) {
     >
       <div className="aspect-[3/2] overflow-hidden">
         <CultureImage
-          src={article.heroImage}
+          src={src}
           alt={article.title}
           width={800}
           height={533}

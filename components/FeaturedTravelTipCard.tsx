@@ -5,8 +5,16 @@ import { SafeImage } from "@/components/SafeImage";
 import { getTravelTipPath } from "@/lib/canonical";
 import type { TravelTip } from "@/types";
 
-export function FeaturedTravelTipCard({ tip }: { tip: TravelTip }) {
+export function FeaturedTravelTipCard({
+  tip,
+  heroImageSrc,
+}: {
+  tip: TravelTip;
+  /** When set (e.g. Unsplash API), overrides tip.image for the card hero */
+  heroImageSrc?: string;
+}) {
   const href = getTravelTipPath(tip.slug);
+  const imageSrc = heroImageSrc ?? tip.image;
   const eyebrow =
     tip.tags.slice(0, 2).join(" · ") || "Travel tip";
 
@@ -24,7 +32,7 @@ export function FeaturedTravelTipCard({ tip }: { tip: TravelTip }) {
     >
       <div className="aspect-[3/2] overflow-hidden">
         <SafeImage
-          src={tip.image}
+          src={imageSrc}
           alt={tip.title}
           width={800}
           height={533}

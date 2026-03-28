@@ -8,6 +8,8 @@ import { getTravelTipBySlug, travelTips } from "@/data/travelTips";
 import { breadcrumbsTravelTip } from "@/lib/breadcrumbs";
 import { renderTipContent } from "@/lib/markdown";
 import { getTravelTipPath } from "@/lib/canonical";
+import { resolveTravelTipHero, resolveTravelTipThumbnail } from "@/lib/resolveUnsplashHero";
+import { UnsplashAttributionLine } from "@/components/UnsplashAttribution";
 
 interface PageProps {
   params: Promise<{ tipSlug: string }>;
@@ -39,12 +41,14 @@ export default async function TravelTipPage({ params }: PageProps) {
 
   const relatedTips = travelTips.filter((t) => t.slug !== tip.slug).slice(0, 4);
   const breadcrumbItems = breadcrumbsTravelTip(tip.title, tip.slug);
+  const hero = await resolveTravelTipHero(tip);
+  const relatedThumbs = await Promise.all(relatedTips.map((t) => resolveTravelTipThumbnail(t)));
 
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[40vh] min-h-[300px] flex items-end overflow-hidden">
         <SafeImage
-          src={tip.image}
+          src={hero.src}
           alt={tip.title}
           fill
           className="object-cover"
@@ -54,6 +58,9 @@ export default async function TravelTipPage({ params }: PageProps) {
           <h1 className="text-3xl sm:text-4xl font-bold text-white tracking-tight">
             {tip.title}
           </h1>
+          {hero.attribution && (
+            <UnsplashAttributionLine attribution={hero.attribution} variant="on-dark" />
+          )}
         </div>
       </section>
 
@@ -107,9 +114,9 @@ export default async function TravelTipPage({ params }: PageProps) {
             Related Tips
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-            {relatedTips.map((t) => (
+            {relatedTips.map((t, i) => (
               <Link key={t.slug} href={getTravelTipPath(t.slug)}>
-                <TravelTipCard tip={t} />
+                <TravelTipCard tip={t} imageSrc={relatedThumbs[i]} />
               </Link>
             ))}
           </div>

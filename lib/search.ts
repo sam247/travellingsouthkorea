@@ -34,6 +34,14 @@ import { getAllFilms } from "@/data/films";
 import { getAllDirectors } from "@/data/directors";
 import { getAllFilmLocations } from "@/data/filmLocations";
 import { getAllCinemaArticles } from "@/data/cinemaArticles";
+import {
+  buildCinemaArticleUnsplashQuery,
+  buildCultureArticleUnsplashQuery,
+  buildDirectorUnsplashQuery,
+  buildFilmLocationUnsplashQuery,
+  buildSearchCategoryUnsplashQuery,
+  buildTravelTipUnsplashQuery,
+} from "@/lib/unsplashKeywords";
 
 export type SearchResultType = "city" | "neighbourhood" | "guide" | "venue" | "itinerary" | "travel-tip" | "category" | "culture" | "cinema";
 
@@ -48,6 +56,8 @@ export interface SearchEntry {
   href: string;
   subtitle?: string;
   image?: string;
+  /** When set, client search UI may load a contextual Unsplash thumbnail (cached API). */
+  unsplashQuery?: string;
   /** Extra text used for matching only (tags, summary keywords, slug); not shown in UI */
   matchText?: string;
 }
@@ -159,6 +169,7 @@ function buildSearchIndex(): SearchEntry[] {
   });
 
   travelTips.forEach((t) => {
+    const isBlog = t.image.includes("/images/blogs/");
     entries.push({
       type: "travel-tip",
       contentType: "travel-tip",
@@ -167,6 +178,7 @@ function buildSearchIndex(): SearchEntry[] {
       href: getTravelTipPath(t.slug),
       subtitle: t.tags.length > 0 ? t.tags.join(" · ") : t.summary.slice(0, 72),
       image: t.image,
+      unsplashQuery: isBlog ? undefined : buildTravelTipUnsplashQuery(t),
       matchText: `${t.slug} ${t.summary} ${t.tags.join(" ")}`,
     });
   });
@@ -180,6 +192,7 @@ function buildSearchIndex(): SearchEntry[] {
       href: getCultureArticlePath(a.slug),
       subtitle: a.category,
       image: a.heroImage,
+      unsplashQuery: buildCultureArticleUnsplashQuery(a),
     });
   });
 
@@ -190,6 +203,7 @@ function buildSearchIndex(): SearchEntry[] {
     slug: "cinema",
     href: getCinemaPath(),
     subtitle: "Korean film, directors and filming locations",
+    unsplashQuery: "Korean cinema film Seoul night",
   });
   getAllFilms().forEach((f) => {
     entries.push({
@@ -211,6 +225,7 @@ function buildSearchIndex(): SearchEntry[] {
       href: getCinemaDirectorPath(d.slug),
       subtitle: "Director",
       image: undefined,
+      unsplashQuery: buildDirectorUnsplashQuery(d.name),
     });
   });
   getAllFilmLocations().forEach((l) => {
@@ -222,6 +237,7 @@ function buildSearchIndex(): SearchEntry[] {
       href: getCinemaLocationPath(l.slug),
       subtitle: l.summary.slice(0, 60),
       image: l.heroImage,
+      unsplashQuery: buildFilmLocationUnsplashQuery(l),
     });
   });
   getAllCinemaArticles().forEach((a) => {
@@ -233,6 +249,7 @@ function buildSearchIndex(): SearchEntry[] {
       href: getCinemaArticlePath(a.slug),
       subtitle: a.summary.slice(0, 60),
       image: a.heroImage,
+      unsplashQuery: buildCinemaArticleUnsplashQuery(a),
     });
   });
 
@@ -241,13 +258,15 @@ function buildSearchIndex(): SearchEntry[] {
     cityCategorySlugs.forEach((categorySlug) => {
       const category = getCategoryBySlug(categorySlug);
       const label = category?.label ?? categorySlug;
+      const title = `${label} in ${c.name}`;
       entries.push({
         type: "category",
         contentType: "category",
-        title: `${label} in ${c.name}`,
+        title,
         slug: `${c.slug}-${categorySlug}`,
         citySlug: c.slug,
         href: getCityCategoryPath(c.slug, categorySlug),
+        unsplashQuery: buildSearchCategoryUnsplashQuery(title, c.name),
       });
     });
   });
@@ -257,13 +276,15 @@ function buildSearchIndex(): SearchEntry[] {
     neighbourhoodCategorySlugs.forEach((categorySlug) => {
       const category = getCategoryBySlug(categorySlug);
       const label = category?.label ?? categorySlug;
+      const title = `${label} in ${n.name}`;
       entries.push({
         type: "category",
         contentType: "category",
-        title: `${label} in ${n.name}`,
+        title,
         slug: `${n.citySlug}-${n.slug}-${categorySlug}`,
         citySlug: n.citySlug,
         href: getNeighbourhoodCategoryPath(n.citySlug, n.slug, categorySlug),
+        unsplashQuery: buildSearchCategoryUnsplashQuery(title, n.name),
       });
     });
   });

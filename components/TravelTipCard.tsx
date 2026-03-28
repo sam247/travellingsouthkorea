@@ -1,7 +1,14 @@
 import { SafeImage } from "@/components/SafeImage";
 import type { TravelTip } from "@/types";
 
-export function TravelTipCard({ tip }: { tip: TravelTip }) {
+export function TravelTipCard({
+  tip,
+  imageSrc,
+}: {
+  tip: TravelTip;
+  imageSrc?: string;
+}) {
+  const src = imageSrc ?? tip.image;
   return (
     <div
       className="flex items-center gap-4 p-4 rounded-xl bg-card hover:bg-secondary/50 transition-colors h-full"
@@ -9,7 +16,7 @@ export function TravelTipCard({ tip }: { tip: TravelTip }) {
     >
       <div className="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0">
         <SafeImage
-          src={tip.image}
+          src={src}
           alt=""
           width={56}
           height={56}

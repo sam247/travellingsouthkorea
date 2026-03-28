@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import { DEFAULT_CINEMA_IMAGE } from "@/lib/cinemaImages";
+import { isUnsplashImageUrl } from "@/lib/unsplashHotlink";
 
 interface CinemaImageProps {
   src: string;
@@ -30,6 +31,7 @@ export function CinemaImage({
   loading,
 }: CinemaImageProps) {
   const [currentSrc, setCurrentSrc] = useState(src);
+  const hotlink = isUnsplashImageUrl(currentSrc);
 
   const handleError = () => {
     setCurrentSrc(fallbackSrc);
@@ -45,6 +47,7 @@ export function CinemaImage({
         sizes={sizes}
         priority={priority}
         loading={loading}
+        unoptimized={hotlink}
         onError={handleError}
       />
     );
@@ -60,6 +63,7 @@ export function CinemaImage({
       sizes={sizes}
       priority={priority}
       loading={loading}
+      unoptimized={hotlink}
       onError={handleError}
     />
   );

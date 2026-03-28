@@ -16,6 +16,7 @@ import { directors } from "@/data/directors";
 import { filmLocations } from "@/data/filmLocations";
 import { cinemaArticles } from "@/data/cinemaArticles";
 import { getCachedOmdbFilm, pickFilmHeroImage } from "@/lib/omdb";
+import { resolveCinemaArticleHero, resolveFilmLocationHero } from "@/lib/resolveUnsplashHero";
 
 export function generateMetadata() {
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
@@ -46,10 +47,16 @@ export default async function CinemaPage() {
   const featuredFilms = filmExtras.slice(0, 6);
   const featuredDirectors = directors.slice(0, 5);
   const featuredLocations = filmLocations.slice(0, 4);
+  const locationHeroes = await Promise.all(
+    featuredLocations.map((loc) => resolveFilmLocationHero(loc))
+  );
   const genres = Array.from(
     new Set(films.flatMap((f) => f.genres))
   ).slice(0, 6);
   const recentArticles = cinemaArticles.slice(0, 4);
+  const articleHeroes = await Promise.all(
+    recentArticles.map((a) => resolveCinemaArticleHero(a))
+  );
 
   return (
     <div className="min-h-screen bg-background">
@@ -174,7 +181,7 @@ export default async function CinemaPage() {
             Filming locations in Korea
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-            {featuredLocations.map((loc) => (
+            {featuredLocations.map((loc, i) => (
               <Link
                 key={loc.slug}
                 href={getCinemaLocationPath(loc.slug)}
@@ -183,7 +190,7 @@ export default async function CinemaPage() {
               >
                 <div className="aspect-[3/2] overflow-hidden relative">
                   <CinemaImage
-                    src={loc.heroImage}
+                    src={locationHeroes[i]!.src}
                     alt={loc.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -228,7 +235,7 @@ export default async function CinemaPage() {
             Recent cinema articles
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-            {recentArticles.map((article) => (
+            {recentArticles.map((article, i) => (
               <Link
                 key={article.slug}
                 href={getCinemaArticlePath(article.slug)}
@@ -237,7 +244,7 @@ export default async function CinemaPage() {
               >
                 <div className="aspect-[3/2] overflow-hidden relative">
                   <CinemaImage
-                    src={article.heroImage}
+                    src={articleHeroes[i]!.src}
                     alt={article.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-105"

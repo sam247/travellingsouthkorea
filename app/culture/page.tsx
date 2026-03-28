@@ -8,6 +8,7 @@ import {
   getAllCultureArticles,
   getCultureArticlesByCategory,
 } from "@/data/cultureArticles";
+import { resolveCultureArticleHero } from "@/lib/resolveUnsplashHero";
 export function generateMetadata() {
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
   return {
@@ -23,8 +24,10 @@ export function generateMetadata() {
   };
 }
 
-export default function CulturePage() {
+export default async function CulturePage() {
   const all = getAllCultureArticles();
+  const cultureHeroes = await Promise.all(all.map((a) => resolveCultureArticleHero(a)));
+  const heroBySlug = new Map(all.map((a, i) => [a.slug, cultureHeroes[i]!.src]));
   const featured = all.slice(0, 4);
   const kpop = getCultureArticlesByCategory("k-pop");
   const fashionBeauty = [
@@ -79,7 +82,11 @@ export default function CulturePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
             {featured.map((article) => (
-              <CultureArticleCard key={article.slug} article={article} />
+              <CultureArticleCard
+                key={article.slug}
+                article={article}
+                heroImageSrc={heroBySlug.get(article.slug)}
+              />
             ))}
           </div>
         </section>
@@ -92,7 +99,11 @@ export default function CulturePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {kpop.map((article) => (
-              <CultureArticleCard key={article.slug} article={article} />
+              <CultureArticleCard
+                key={article.slug}
+                article={article}
+                heroImageSrc={heroBySlug.get(article.slug)}
+              />
             ))}
           </div>
         </section>
@@ -105,7 +116,11 @@ export default function CulturePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {fashionBeauty.map((article) => (
-              <CultureArticleCard key={article.slug} article={article} />
+              <CultureArticleCard
+                key={article.slug}
+                article={article}
+                heroImageSrc={heroBySlug.get(article.slug)}
+              />
             ))}
           </div>
         </section>
@@ -118,7 +133,11 @@ export default function CulturePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {foodNightlife.map((article) => (
-              <CultureArticleCard key={article.slug} article={article} />
+              <CultureArticleCard
+                key={article.slug}
+                article={article}
+                heroImageSrc={heroBySlug.get(article.slug)}
+              />
             ))}
           </div>
         </section>
@@ -131,7 +150,11 @@ export default function CulturePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {festivals.map((article) => (
-              <CultureArticleCard key={article.slug} article={article} />
+              <CultureArticleCard
+                key={article.slug}
+                article={article}
+                heroImageSrc={heroBySlug.get(article.slug)}
+              />
             ))}
           </div>
         </section>
@@ -143,7 +166,11 @@ export default function CulturePage() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {all.map((article) => (
-            <CultureArticleCard key={article.slug} article={article} />
+            <CultureArticleCard
+              key={article.slug}
+              article={article}
+              heroImageSrc={heroBySlug.get(article.slug)}
+            />
           ))}
         </div>
       </section>

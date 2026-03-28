@@ -13,6 +13,7 @@ import {
 } from "@/lib/queries";
 import { breadcrumbsAuthor } from "@/lib/breadcrumbs";
 import { getAuthorPath, getTravelTipPath } from "@/lib/canonical";
+import { resolveTravelTipThumbnail } from "@/lib/resolveUnsplashHero";
 
 interface PageProps {
   params: Promise<{ authorSlug: string }>;
@@ -45,6 +46,7 @@ export default async function AuthorPage({ params }: PageProps) {
   const authorGuides = getGuidesByAuthorForPage(author.slug);
   const authorItineraries = getItinerariesByAuthorForPage(author.slug);
   const authorTips = getTravelTipsByAuthorForPage(author.slug);
+  const authorTipThumbs = await Promise.all(authorTips.map((t) => resolveTravelTipThumbnail(t)));
 
   const breadcrumbItems = breadcrumbsAuthor(author.name);
 
@@ -124,9 +126,9 @@ export default async function AuthorPage({ params }: PageProps) {
               Travel Tips by {author.name}
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {authorTips.map((t) => (
+              {authorTips.map((t, i) => (
                 <Link key={t.slug} href={getTravelTipPath(t.slug)}>
-                  <TravelTipCard tip={t} />
+                  <TravelTipCard tip={t} imageSrc={authorTipThumbs[i]} />
                 </Link>
               ))}
             </div>

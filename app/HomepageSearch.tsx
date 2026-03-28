@@ -2,14 +2,13 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { SafeImage } from "@/components/SafeImage";
 import { Search } from "lucide-react";
 import {
   searchQueryFlat,
   SEARCH_TYPE_LABELS,
   type SearchEntry,
 } from "@/lib/search";
-import { DEFAULT_PLACEHOLDER_IMAGE } from "@/lib/imageConfig";
+import { SearchResultThumbnail } from "@/components/SearchResultThumbnail";
 import { trackSearch } from "@/lib/analytics/gaEvents";
 
 export function HomepageSearch() {
@@ -46,13 +45,7 @@ export function HomepageSearch() {
                 }}
                 className="flex items-center gap-3 px-4 py-3 hover:bg-secondary/50 transition-colors"
               >
-                <SafeImage
-                  src={entry.image ?? DEFAULT_PLACEHOLDER_IMAGE}
-                  alt=""
-                  width={40}
-                  height={40}
-                  className="w-10 h-10 rounded-lg object-cover shrink-0"
-                />
+                <SearchResultThumbnail entry={entry} />
                 <div className="text-left min-w-0">
                   <p className="text-sm font-medium text-foreground truncate">
                     {entry.title}
