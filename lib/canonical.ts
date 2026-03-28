@@ -4,6 +4,8 @@
  * No hardcoded URLs in components or pages.
  */
 
+import { getTravelTipBySlug } from "@/data/travelTips";
+
 export function getCountryPath(): string {
   return "/south-korea";
 }
@@ -45,6 +47,8 @@ export function getItineraryPath(slug: string): string {
 }
 
 export function getTravelTipPath(slug: string): string {
+  const tip = getTravelTipBySlug(slug);
+  if (tip?.canonicalPath) return tip.canonicalPath;
   return `/travel-tips/${slug}`;
 }
 

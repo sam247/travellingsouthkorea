@@ -139,6 +139,8 @@ export interface TravelTip {
   contentType: "travel-tip";
   /** In-content supporting images: e.g. /images/travel-tips/{slug}-1.jpg, -2.jpg */
   supportingImages?: string[];
+  /** Public URL path for this tip (e.g. legacy ranking URL). Defaults to /travel-tips/{slug}. */
+  canonicalPath?: string;
 }
 
 export interface Author {

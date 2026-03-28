@@ -269,36 +269,446 @@ Like soju, it's often poured for others and received with two hands. Sip rather 
     contentType: "travel-tip",
   },
   {
-    slug: "arex-airport-train-guide",
-    title: "AREX Airport Train Guide: Schedule and Tips",
-    image: getTravelTipImagePath("arex-airport-train-guide"),
-    supportingImages: supportingImages("arex-airport-train-guide"),
-    summary: "AREX express and all-stop train times, fares and how to get from Incheon Airport to Seoul Station.",
-    content: `**Pro tip:** Express (₩9,500, 43 min) is best for Seoul Station; all-stop is cheaper and handy if you're staying near Hongdae. Check the Korail or AREX app for current times.
+    slug: "arex-train-schedule",
+    title: "AREX Train Schedule: Incheon Airport to Seoul",
+    image: "/images/blogs/arex/seoul-airport-express-train-13.jpg",
+    canonicalPath: "/arex-train-schedule",
+    summary:
+      "AREX Express vs All Stop: schedules, first and last trains, journey times, and how to plan your Incheon Airport to Seoul transfer.",
+    content: `If you're looking for the AREX train schedule, the good news is that the Airport Railroad is one of the easiest ways to travel from Incheon International Airport to Seoul Station. It offers both the Express Train and the All Stop Train, so travellers can choose between speed and price depending on their plans.
 
-## What Is AREX?
+The Express Train is the fastest option, while the All Stop Train is the cheaper choice. If you're arriving in South Korea for the first time, knowing the schedule in advance makes the airport arrival much smoother.
 
-AREX (Airport Railroad Express) connects Incheon International Airport to Seoul Station. Two services run: **Express** (non-stop, 43 minutes) and **All-Stop** (multiple stations, about 58 minutes).
+![Airport Railroad Express (AREX) at Incheon](/images/blogs/arex/big_file_9827.jpg)
 
-## Express Train
+## What is AREX?
 
-- **Fare:** ₩9,500 (one way)
-- **Schedule:** Roughly every 30–40 minutes; check the official AREX or Korail app for current times.
-- **Stops:** Incheon Airport T1 and T2 → Seoul Station only.
-- **Booking:** Optional reserved seats; walk-up available. T-Money accepted.
+AREX is the airport railway connecting Incheon Airport with Seoul Station. It is one of the most useful transport options for visitors because it avoids road traffic and gives you a predictable journey into the city.
 
-## All-Stop Train
+There are two services:
 
-- **Fare:** ₩4,750 with T-Money (cheaper than express).
-- **Stops:** Incheon Airport, Gyeyang, Geomam, Gimpo Airport, Digital Media City, Hongik University, Gongdeok, Seoul Station.
-- **Use case:** If you're staying near Hongik University (Hongdae), the all-stop can be more convenient.
+- **Express Train** — direct service with reserved seating.
+- **All Stop Train** — commuter-style service that stops at multiple stations.
 
-## Schedule and Apps
+![AREX route map: Express and All Stop](/images/blogs/arex/AREX_Route_Map-2.png)
 
-Train times vary by day and season. Download the **Korail** or **AREX** app for the latest schedule. First and last trains typically run from around 5:20 AM to midnight; check before late-night or early-morning flights.`,
-    tags: ["Transport", "AREX", "Airport", "Seoul"],
+## AREX Express Train schedule
+
+The Express Train is designed for travellers who want a faster, more comfortable trip into Seoul. It runs directly between Incheon Airport and Seoul Station, which makes it a popular choice for people arriving with luggage or staying in central Seoul.
+
+### Why people search for the Express schedule
+
+Most visitors want to know:
+
+- when the first train leaves,
+- when the last train runs,
+- how long the journey takes,
+- and whether they need to book in advance.
+
+The Express Train is usually the best option if you want a simple airport-to-city transfer without multiple stops.
+
+![AREX Express Train at the platform](/images/blogs/arex/p1010629-2.jpg)
+
+## AREX All Stop Train schedule
+
+The All Stop Train is the slower but cheaper option. It stops at several stations along the way, which makes it useful if your hotel is near one of those stops or if you want a lower-cost transfer.
+
+This service is better for:
+
+- budget travellers,
+- people staying near Hongdae or other connected stations,
+- and visitors who do not mind a longer ride.
+
+![AREX All Stop Train](/images/blogs/arex/IMG_0168-300x225-1.jpg)
+
+## Which AREX train should you take?
+
+If you care most about schedule and convenience, the Express Train is usually the best choice. If you care more about price and your destination is near one of the route stations, the All Stop Train may be enough.
+
+A simple rule:
+
+- **Choose Express** if you want speed and comfort.
+- **Choose All Stop** if you want a cheaper fare.
+
+![Choosing Express or All Stop for your hotel](/images/blogs/arex/cc.jpg)
+
+## How long does AREX take?
+
+The journey time depends on the train type:
+
+- **Express Train** — fastest route into Seoul Station.
+- **All Stop Train** — longer because it stops at multiple stations.
+
+For most travellers, the schedule matters less than the total travel time. If you're tired after a long flight, the shorter direct trip can be worth the extra cost.
+
+## Tips for checking the schedule
+
+Before you travel, always check:
+
+- terminal departure point,
+- whether you need the Express or All Stop service,
+- whether your arrival time is late at night,
+- and whether your hotel is easier to reach by Seoul Station or another stop.
+
+If you're travelling South Korea for the first time, this small bit of planning can save a lot of stress.
+
+![Seoul Station AREX](/images/blogs/arex/AREX-Seoul-Station-2.jpeg)
+
+## Best time to use AREX
+
+AREX is ideal when:
+
+- you are landing during normal operating hours,
+- you want to avoid taxi traffic,
+- you are staying near Seoul Station,
+- or you want a clear, reliable connection into central Seoul.
+
+If you arrive very late or your accommodation is far from Seoul Station, an airport bus or taxi may be more convenient.
+
+## FAQs about the AREX train schedule
+
+### Is AREX running every day?
+
+Yes, AREX operates daily, but train times vary by service and terminal.
+
+### Is the Express Train faster than the All Stop Train?
+
+Yes. The Express Train is the quicker, direct service.
+
+### Can I use a transport card on AREX?
+
+The All Stop Train is typically easier for transport-card users, while the Express Train is usually ticket-based.
+
+### Is AREX good for tourists?
+
+Yes. It is one of the easiest airport transfer options for first-time visitors to Seoul.
+
+## Related tips
+
+- [Buying bedding in South Korea](/buying-bedding-in-south-korea) — quilts, sheets, and where to shop in Seoul.
+- [Top PC bang internet cafes in Seoul for gaming](/top-pc-bang-internet-cafes-in-seoul-for-gaming) — Korean gaming cafe culture after dark.`,
+    tags: ["Transport", "AREX", "Airport", "Seoul", "Practical"],
     authorSlug: "james-jeong",
-    updatedDate: "2026-03-10",
+    updatedDate: "2026-03-28",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "buying-bedding-in-south-korea",
+    title: "Buying Bedding in South Korea: Best Places to Shop for Quilts, Sheets, and Blankets",
+    image: "/images/blogs/bedding/19023.jpg.webp",
+    canonicalPath: "/buying-bedding-in-south-korea",
+    summary:
+      "Where to buy Korean quilts, sheets, and blankets — from Gwangjang Market and department stores to discount chains and online delivery.",
+    content: `If you're buying bedding in South Korea, you'll quickly notice that there are several good options depending on your budget and how long you plan to stay. Some travellers want a warm Korean quilt, while others need sheets, pillowcases, or a full bed set for a long-term stay.
+
+The good news is that South Korea has everything from traditional market bedding shops to department stores and online retailers. If you want the best mix of price, variety, and convenience, it helps to know where to look before you start shopping.
+
+![Bedding and quilts in a Korean shop](/images/blogs/bedding/102983.jpg.webp)
+
+## Why Korean bedding is popular
+
+Korean bedding is often bought for its comfort, warmth, and practicality. Many shoppers look for quilted blankets, microfiber comforters, and lightweight summer bedding depending on the season.
+
+It is also popular because you can often see and feel the material in person before buying. That makes local markets and physical stores appealing, especially if you want to compare fabrics, thickness, and size before you commit.
+
+![Korean bedding fabrics and displays](/images/blogs/bedding/90813.jpg.webp)
+
+## Best places to buy bedding in South Korea
+
+### Gwangjang Market
+
+Gwangjang Market is one of the best-known places to buy bedding in Seoul. It is especially popular for Korean quilts and traditional-style bedding shops, and many visitors come here specifically to compare prices and designs.
+
+This is a strong choice if you want:
+
+- a wide selection,
+- good value,
+- and the chance to inspect the bedding before buying.
+
+The market is especially useful if you want a Korean-style quilt set rather than just standard sheets. Many shops there sell bedding at competitive prices, and some stores are well known among both locals and tourists.
+
+### Department stores
+
+If you want a more premium shopping experience, department stores are a reliable option. They usually offer higher-end bedding, cleaner displays, and easier browsing if you don't want to haggle or compare multiple market stalls.
+
+This is a better fit if you want:
+
+- branded bedding,
+- modern sheet sets,
+- premium materials,
+- and a more comfortable shopping environment.
+
+### Large discount stores
+
+Big-box stores and hypermarkets are often a practical choice for people staying in South Korea longer term. You can usually find basic bedding items such as sheets, blankets, and pillowcases at reasonable prices.
+
+These stores are useful if you want:
+
+- everyday bedding,
+- lower prices,
+- and quick one-stop shopping.
+
+### Online marketplaces
+
+Online shopping is often the easiest and cheapest way to buy bedding in South Korea if you already know what you want. It is especially useful for people who want delivery straight to their home or accommodation.
+
+This option works well for:
+
+- long-term residents,
+- students,
+- people buying a full bedding set,
+- and anyone who wants convenience over browsing in person.
+
+## Is Gwangjang Market worth it?
+
+Yes, if you want Korean quilts or want to shop in person. Gwangjang Market is one of the most famous bedding shopping spots in Seoul and is often recommended for visitors who want to compare quality, feel the fabric, and buy something locally made or locally sold.
+
+It is less ideal if you only want basic bed sheets or if you prefer a fast, low-effort purchase. In that case, online shopping or a large retail store may be easier.
+
+## What to look for when buying bedding
+
+Before buying bedding in South Korea, check:
+
+- mattress size compatibility,
+- material type,
+- seasonality,
+- washing instructions,
+- and whether the set includes pillowcases or just the quilt.
+
+Korean bedding sizes may not always match what you're used to in the UK or other countries, so it's worth checking dimensions carefully before you buy.
+
+## Buying bedding for short stays vs long stays
+
+If you're in South Korea for a short visit, you probably won't need to buy much beyond a quilt or blanket. But if you're staying for work, study, or a longer trip, it may make sense to buy a full bedding set.
+
+### Short stay
+
+- One quilt or blanket.
+- Possibly a pillow.
+- Focus on portability and easy packing.
+
+### Long stay
+
+- Full bedding set.
+- Sheets, pillowcases, and quilt.
+- Better to check size and delivery options.
+
+## Tips for buying bedding in Seoul
+
+- Compare several stores before deciding.
+- Ask whether the set includes all items shown.
+- Check if the shop can pack items for travel.
+- Confirm the size if you're buying for a western-style bed.
+- Consider delivery if you are buying a full set.
+
+## FAQ
+
+### Where is the best place to buy bedding in South Korea?
+
+Gwangjang Market is one of the most famous places in Seoul, but department stores, discount stores, and online shops are also good depending on your budget and needs.
+
+### Is bedding in South Korea expensive?
+
+Not necessarily. You can find affordable bedding in markets and large retail stores, while department stores usually sell more premium options.
+
+### Can tourists buy bedding in Seoul?
+
+Yes. Many tourists buy Korean quilts and bedding in Seoul, especially from markets like Gwangjang Market.
+
+### What kind of bedding is popular in Korea?
+
+Korean quilts, microfiber blankets, and seasonal bedding are especially popular.
+
+## Related tips
+
+- [AREX train schedule: Incheon Airport to Seoul](/arex-train-schedule) — Airport Railroad from Incheon into central Seoul.
+- [Top PC bang internet cafes in Seoul for gaming](/top-pc-bang-internet-cafes-in-seoul-for-gaming) — gaming culture and late-night Seoul.`,
+    tags: ["Shopping", "Seoul", "Practical", "Home"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-03-28",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "top-pc-bang-internet-cafes-in-seoul-for-gaming",
+    title: "Top PC Bang Internet Cafes in Seoul for Gaming",
+    image: "/images/blogs/pcbang/Korean-PC-Bang-1028x685.jpg",
+    canonicalPath: "/top-pc-bang-internet-cafes-in-seoul-for-gaming",
+    summary:
+      "Where to find PC bangs in Seoul — Hongdae, Gangnam, central Seoul — plus pricing, what to expect, and tips for visitors and gamers.",
+    content: `If you love gaming and you're spending time in Seoul, visiting a PC bang should be high on your list. These Korean gaming internet cafes are a huge part of local culture, and they offer far more than just a place to sit at a computer. With powerful rigs, fast internet, comfort-focused seating, and a social atmosphere, PC bangs are one of the best ways to experience modern Seoul after dark.
+
+Whether you're a casual traveller who wants to see what all the hype is about or a serious gamer looking for a top-tier setup, Seoul has plenty of PC bangs to choose from. Some are sleek, premium esports lounges with cutting-edge hardware. Others are more traditional neighbourhood spots where students and local players spend hours grinding ranked matches. Either way, they offer a fun, memorable, and very Korean experience.
+
+![PC bang interior in Korea](/images/blogs/pcbang/Korean.culture-PC.bang-01.jpg)
+
+## What is a PC bang?
+
+A PC bang is a Korean internet cafe built primarily for gaming. The word "bang" means room, so the term is often translated as "PC room." Unlike old-style internet cafes that were mainly used for browsing, emailing, or printing, PC bangs are designed for gaming first.
+
+Inside, you'll usually find high-performance PCs, large monitors, gaming chairs, mechanical keyboards, headsets, and fast connections. Many venues also sell snacks, drinks, and instant meals, which means players can stay for long sessions without leaving. In Korea, PC bangs are part of everyday gaming life, not just something for tourists to try once.
+
+## Why Seoul is the best place to try one
+
+Seoul is one of the best cities in the world to experience PC bang culture. The city has a massive gaming community, and that means the venues are often cleaner, better equipped, and more polished than many visitors expect.
+
+You'll find PC bangs in student districts, business areas, nightlife zones, and residential neighbourhoods. Some are casual and affordable, while others are high-end and built almost like esports lounges. That variety makes Seoul a great place to try different styles depending on your budget and gaming preferences.
+
+![Gaming PCs at a Seoul PC bang](/images/blogs/pcbang/PC-Bang_1920.jpg.webp)
+
+## Best areas in Seoul for PC bangs
+
+### Hongdae
+
+Hongdae is one of the best areas for first-time visitors who want a lively, youth-focused atmosphere. The district is known for students, nightlife, and a creative crowd, so it naturally has a lot of gaming cafes.
+
+A good area to look around is near Hongik University Station, especially on the streets between the station and the main nightlife zones. PC bangs here are usually easy to access, open late, and popular with younger players. If you want a place that feels energetic and local without being too intimidating, Hongdae is a strong choice.
+
+### Gangnam
+
+Gangnam is the place to go if you want a more polished or premium experience. Many PC bangs here are sleek, modern, and equipped with higher-end hardware.
+
+Look around Gangnam Station, Yeoksam, and Seolleung for gaming cafes that feel more upscale. This area is a good fit for gamers who care about performance and comfort. If you're looking for a stylish venue that feels a little more premium, Gangnam is worth checking out.
+
+### Myeongdong and City Hall
+
+If you're sightseeing and want to fit in a quick gaming session, central Seoul is convenient. You may not find as many gaming-focused venues as in Hongdae or Gangnam, but you will find practical options near major tourist and transport hubs.
+
+Try the area around Myeongdong Station, Euljiro 1-ga, or City Hall Station if you want something central. This can be a good compromise if you want to visit a PC bang without travelling far out of your way.
+
+### Jamsil and residential areas
+
+Neighbourhood PC bangs in more residential parts of Seoul are often more affordable and less crowded. These are a good choice if you want a more local feel or if you plan to stay for longer.
+
+Look near Jamsil Station or around quieter neighbourhood streets away from the major shopping zones. They may not always have the flashiest interiors, but they can offer a more authentic everyday gaming atmosphere.
+
+## Well-known PC bang spots and areas to try
+
+If you want to be more specific, these are some of the most useful places to start looking:
+
+- Hongik University Station area for lively, student-heavy PC bangs.
+- Gangnam Station area for premium or newer gaming cafes.
+- Myeongdong area for convenience while sightseeing.
+- Jamsil Station area for a more local neighbourhood feel.
+- Sinchon area for another student-friendly gaming district.
+- Yeoksam and Seolleung for business-district PC bangs that often have a cleaner, more professional feel.
+
+Even if you don't know the exact venue name before you go, these districts are reliable places to find a good PC bang.
+
+## What to expect inside a PC bang
+
+Most PC bangs in Seoul have a similar basic setup, but the quality can vary quite a bit. At minimum, you can expect a fast gaming PC, a comfortable chair, a monitor with a high refresh rate, and stable internet.
+
+Many venues go further by offering:
+
+- mechanical keyboards,
+- gaming mice,
+- headsets,
+- snack bars,
+- drinks and instant noodles,
+- private booths,
+- and even sleeping-style seating in some premium spots.
+
+The overall atmosphere is usually focused and quiet. Some players go for a few quick matches, while others stay for several hours. It's a very social environment, but not usually loud in the way a cafe or bar might be.
+
+## How pricing usually works
+
+Most PC bangs charge by the hour. Some venues may offer package deals or lower prices during off-peak times, but hourly billing is the standard.
+
+Pricing usually depends on:
+
+- location,
+- equipment quality,
+- whether you choose a standard or premium seat,
+- and how busy the venue is.
+
+For visitors, this makes PC bangs a relatively affordable entertainment option. You can go for a short session just to try the experience, or stay longer if you want a proper gaming night.
+
+## Best PC bang experiences in Seoul
+
+There isn't just one "best" PC bang for everyone. The right choice depends on what kind of experience you want.
+
+### Best for first-time visitors
+
+If this is your first time in a PC bang, choose a venue in Hongdae, Myeongdong, or near Gangnam Station. These locations are usually easy to find, approachable, and well suited to visitors.
+
+### Best for serious gamers
+
+If you care most about performance, look for premium esports-style PC bangs in Gangnam, Yeoksam, or Seolleung. These often have higher-end rigs, more comfortable seating, and a stronger competitive atmosphere.
+
+### Best for budget travellers
+
+A standard neighbourhood PC bang in Sinchon, Jamsil, or outside the main tourist strips is usually the best value. These venues are often cheaper and still offer everything you need for a solid gaming session.
+
+### Best for the full Korean experience
+
+If you want the most authentic feel, spend time in a busy local PC bang around Hongik University Station or Sinchon where regular players go after school, work, or dinner. That is where the culture really comes alive.
+
+## Games you'll often see in PC bangs
+
+While the game selection changes from venue to venue, you'll often see popular online multiplayer titles, competitive shooters, and battle arena games. Many PC bangs are set up specifically for games that benefit from fast reaction times and good teamwork.
+
+You may also see players using PC bangs for:
+
+- ranked play,
+- team matches,
+- chat and social gaming,
+- and long sessions with friends.
+
+This makes the experience feel more like a gaming hub than a simple internet cafe.
+
+## Tips before you visit
+
+If you're planning to go to a PC bang in Seoul, a few simple tips can make things easier:
+
+- Bring ID if the venue requires age verification.
+- Check whether the venue has English-friendly instructions.
+- Decide whether you want a standard seat or a premium setup.
+- Be prepared to log into your own game accounts.
+- Check the location so you're not stuck far from a subway line late at night.
+
+If you're not a frequent gamer, don't worry too much. Most PC bangs are straightforward once you understand the basics, and staff in busier areas are often used to helping visitors.
+
+## Are PC bangs worth visiting?
+
+Yes, especially if you want to experience something uniquely Korean. A PC bang is not just a gaming spot; it's part of the social fabric of modern Seoul.
+
+For travellers, it's one of the easiest ways to try local gaming culture without needing a full night out or a big budget. For gamers, it's a chance to play in a well-equipped environment that is taken seriously by the people who use it every day.
+
+## FAQ
+
+### What is a PC bang in Korea?
+
+A PC bang is a Korean gaming internet cafe with high-performance computers, fast internet, and a focus on online gaming.
+
+### Are PC bangs expensive in Seoul?
+
+Usually not. Most charge by the hour, and many are affordable for short visits.
+
+### Can tourists use PC bangs?
+
+Yes. Tourists can usually use them without much trouble, though some games or accounts may require extra setup.
+
+### Which area is best for PC bangs in Seoul?
+
+Hongdae is one of the best areas for visitors, while Gangnam is a better choice for a more premium experience.
+
+### Do PC bangs sell food?
+
+Many do. Snacks, drinks, and simple meals are common, which is part of why people stay for long sessions.
+
+## Final thoughts
+
+If you're looking for something fun, local, and a little different to do in Seoul, visiting a PC bang is an easy win. Whether you choose a premium esports lounge in Gangnam, a lively student spot in Hongdae, or a quieter neighbourhood gaming room in Jamsil or Sinchon, you'll get a real taste of Korean gaming culture.
+
+For gamers, it's one of the most memorable things you can do in the city. For curious visitors, it's a great way to see how deeply gaming is woven into everyday life in South Korea.
+
+## Related tips
+
+- [AREX train schedule: Incheon Airport to Seoul](/arex-train-schedule) — get from the airport into central Seoul.
+- [Buying bedding in South Korea](/buying-bedding-in-south-korea) — quilts and sheets if you're settling in for a longer stay.`,
+    tags: ["Gaming", "PC Bang", "Seoul", "Culture", "Nightlife"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-03-28",
     contentType: "travel-tip",
   },
   {
