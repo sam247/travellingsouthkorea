@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
-import { HERO_IMAGES, HERO_HOME_VIDEO_SRC } from "@/lib/imageConfig";
+import { HERO_HOME_VIDEO_SRC } from "@/lib/imageConfig";
 import { Search } from "lucide-react";
 import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
@@ -23,11 +23,7 @@ export default async function HomePage() {
   return (
     <div className="min-h-screen bg-background">
       <section className="relative h-[80vh] min-h-[500px] flex items-center justify-center overflow-hidden">
-        <HomeHeroVideo
-          videoSrc={HERO_HOME_VIDEO_SRC}
-          posterSrc={HERO_IMAGES.home}
-          alt="South Korea landscape"
-        />
+        <HomeHeroVideo videoSrc={HERO_HOME_VIDEO_SRC} />
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/40 to-black/60" />
         <div className="relative z-10 text-center px-4 max-w-2xl mx-auto">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white tracking-tight text-balance">
