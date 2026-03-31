@@ -1,57 +1,63 @@
 "use client";
 
-import Script from "next/script";
 import { usePathname } from "next/navigation";
-import { useEffect, useRef } from "react";
-
-const MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+import { useEffect, useRef, useState } from "react";
+import {
+  ensureGoogleAnalyticsLoaded,
+  getMeasurementId,
+  trackGaPageView,
+} from "@/lib/analytics/googleAnalyticsClient";
 
 export function GoogleAnalytics() {
   const pathname = usePathname();
-  const initialPathRef = useRef<string | null>(null);
+  const measurementId = getMeasurementId();
+  const [gaReady, setGaReady] = useState(false);
+  const lastTrackedPathRef = useRef<string | null>(null);
+  const listenersRemovedRef = useRef(false);
 
   useEffect(() => {
-    if (!MEASUREMENT_ID || typeof window === "undefined" || !window.gtag) return;
+    if (!measurementId) return;
 
-    const page = pathname ?? window.location.pathname;
-    const fullUrl = window.location.origin + page;
+    const activate = () => {
+      if (listenersRemovedRef.current) return;
+      listenersRemovedRef.current = true;
+      window.removeEventListener("scroll", activate, scrollOpts);
+      document.removeEventListener("click", activate, captureOpts);
+      document.removeEventListener("keydown", activate, captureOpts);
 
-    if (initialPathRef.current === null) {
-      initialPathRef.current = page;
-    }
+      void ensureGoogleAnalyticsLoaded()
+        .then(() => setGaReady(true))
+        .catch(() => {
+          /* script blocked or offline — stay inactive */
+        });
+    };
 
-    window.gtag("config", MEASUREMENT_ID, {
-      page_path: page,
-      page_location: fullUrl,
-    });
-  }, [pathname]);
+    const scrollOpts: AddEventListenerOptions = {
+      passive: true,
+      capture: true,
+    };
+    const captureOpts: AddEventListenerOptions = { capture: true };
 
-  if (!MEASUREMENT_ID) return null;
+    window.addEventListener("scroll", activate, scrollOpts);
+    document.addEventListener("click", activate, captureOpts);
+    document.addEventListener("keydown", activate, captureOpts);
 
-  return (
-    <>
-      <Script
-        src={`https://www.googletagmanager.com/gtag/js?id=${MEASUREMENT_ID}`}
-        strategy="afterInteractive"
-      />
-      <Script id="gtag-init" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '${MEASUREMENT_ID}');
-        `}
-      </Script>
-    </>
-  );
-}
+    return () => {
+      window.removeEventListener("scroll", activate, scrollOpts);
+      document.removeEventListener("click", activate, captureOpts);
+      document.removeEventListener("keydown", activate, captureOpts);
+    };
+  }, [measurementId]);
 
-declare global {
-  interface Window {
-    gtag: (
-      command: "config" | "event",
-      targetId: string,
-      params?: Record<string, unknown>
-    ) => void;
-  }
+  useEffect(() => {
+    if (!measurementId || !gaReady) return;
+
+    const path = pathname ?? (typeof window !== "undefined" ? window.location.pathname : "");
+    if (!path || lastTrackedPathRef.current === path) return;
+
+    lastTrackedPathRef.current = path;
+    trackGaPageView(path);
+  }, [measurementId, pathname, gaReady]);
+
+  return null;
 }
