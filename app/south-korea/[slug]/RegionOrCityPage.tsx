@@ -21,6 +21,7 @@ import { GuidePageToc } from "@/components/GuidePageToc";
 import { GuideSidebarRelatedGuides } from "@/components/GuideSidebarRelatedGuides";
 import { GuideSidebarExplore } from "@/components/GuideSidebarExplore";
 import { GuideSidebarAdPlaceholder } from "@/components/GuideSidebarAdPlaceholder";
+import { AD_SLOTS } from "@/lib/adsenseConfig";
 import { breadcrumbsRegion, breadcrumbsCity } from "@/lib/breadcrumbs";
 import { getCityContent, getTopHighlightsForCity } from "@/lib/content/cityContent";
 import { getFAQForCity } from "@/lib/content/faqContent";
@@ -404,14 +405,8 @@ export function RegionOrCityPage({
                 getNeighbourhoodPath={getNeighbourhoodPath}
                 getCityCategoryPath={getCityCategoryPath}
               />
-              <GuideSidebarAdPlaceholder
-                title="Recommended stay"
-                description="Curated accommodation options for your trip."
-              />
-              <GuideSidebarAdPlaceholder
-                title="Travel deal"
-                description="Special offers and deals for South Korea."
-              />
+              <GuideSidebarAdPlaceholder slot={AD_SLOTS.square} />
+              <GuideSidebarAdPlaceholder slot={AD_SLOTS.vertical} />
             </aside>
           </div>
         </div>

@@ -20,6 +20,8 @@ import {
 import { getCinemaArticleContentSections } from "@/lib/content/cinemaNarrative";
 import { resolveCinemaArticleHero } from "@/lib/resolveUnsplashHero";
 import { UnsplashAttributionLine } from "@/components/UnsplashAttribution";
+import { AdSenseUnit } from "@/components/analytics/AdSenseUnit";
+import { AD_SLOTS } from "@/lib/adsenseConfig";
 
 interface PageProps {
   params: Promise<{ articleSlug: string }>;
@@ -90,6 +92,10 @@ export default async function CinemaArticlePage({ params }: PageProps) {
           ))}
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 pb-8">
+        <AdSenseUnit slot={AD_SLOTS.horizontal} />
+      </div>
 
       {(article.relatedFilmSlugs?.length ?? 0) > 0 && (
         <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">

@@ -10,6 +10,8 @@ import { renderTipContent } from "@/lib/markdown";
 import { getTravelTipPath } from "@/lib/canonical";
 import { resolveTravelTipHero, resolveTravelTipThumbnail } from "@/lib/resolveUnsplashHero";
 import { UnsplashAttributionLine } from "@/components/UnsplashAttribution";
+import { AdSenseUnit } from "@/components/analytics/AdSenseUnit";
+import { AD_SLOTS } from "@/lib/adsenseConfig";
 
 interface PageProps {
   params: Promise<{ tipSlug: string }>;
@@ -107,6 +109,10 @@ export default async function TravelTipPage({ params }: PageProps) {
           {renderTipContent(tip.content)}
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 pb-8">
+        <AdSenseUnit slot={AD_SLOTS.horizontal} />
+      </div>
 
       {relatedTips.length > 0 && (
         <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
