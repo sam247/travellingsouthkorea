@@ -17,6 +17,7 @@ import { categories } from "@/data/categories";
 import { travelTips } from "@/data/travelTips";
 import { authors } from "@/data/authors";
 import { getAllLocationSlugs } from "@/lib/locations";
+import { MONEY_CATEGORY_SLUGS } from "@/lib/content/moneyPages";
 import {
   urlEntry,
   URLSET_HEADER,
@@ -42,6 +43,11 @@ export function GET() {
         urlEntry(getCityCategoryPath(city.slug, cat.slug), lastMod)
       )
     );
+    if (city.slug === "seoul") {
+      MONEY_CATEGORY_SLUGS.forEach((slug) =>
+        entries.push(urlEntry(getCityCategoryPath(city.slug, slug), lastMod))
+      );
+    }
     entries.push(urlEntry(getMapPath(city.slug), lastMod));
   });
 
