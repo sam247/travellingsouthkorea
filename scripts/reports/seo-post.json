@@ -1,0 +1,3918 @@
+{
+  "mode": "report",
+  "generatedAt": "2026-04-01T08:50:57.027Z",
+  "scope": "/seoul/*",
+  "pageTypes": [
+    "activity",
+    "guides",
+    "category"
+  ],
+  "indexing": {
+    "indexedPages": null,
+    "totalPages": 179,
+    "indexedRatio": null
+  },
+  "counts": {
+    "total": 179,
+    "weak": 0,
+    "acceptable": 172,
+    "strong": 7,
+    "lowSpecificity": 0,
+    "lowLinkCount": 0,
+    "lowTitleSimilarity": 5
+  },
+  "pages": [
+    {
+      "route": "/south-korea/seoul/guides/best-bars-hongdae",
+      "pageType": "guides",
+      "titleOld": "Best Bars In Hongdae | Seoul | South Korea Travel",
+      "titleNew": "Best Bars In Hongdae | Seoul | South Korea Travel",
+      "titleSimilarity": 0.36363636363636365,
+      "titleSimilaritySafe": false,
+      "intentSectionCount": 4,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 4,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 91,
+      "contentBand": "strong",
+      "warnings": [
+        "title_similarity_low"
+      ],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Pricing for Best Bars In Hongdae",
+            "paragraphs": [
+              "Best Bars In Hongdae in Hongdae usually sits in the ₩₩ – ₩₩₩ range, with premium spots in Seoul costing more at peak hours.",
+              "A practical split is one flagship stop plus one lower-cost option near Hongik University (Line 2)."
+            ]
+          },
+          {
+            "heading": "Tips for Best Bars In Hongdae",
+            "paragraphs": [
+              "Start near Hongik University (Line 2) and walk through Hongdae so you can compare atmosphere before committing.",
+              "For smoother routing in Seoul, group nearby venues and avoid cross-city hops at night."
+            ]
+          },
+          {
+            "heading": "Is Best Bars In Hongdae worth it?",
+            "paragraphs": [
+              "Yes for most visitors: Best Bars In Hongdae reflects the core bars experience people look for in Seoul.",
+              "If your budget is tight, combine one top pick with lower-cost options in the same area."
+            ]
+          },
+          {
+            "heading": "How Best Bars In Hongdae works",
+            "paragraphs": [
+              "This page is designed as a step-by-step shortlist: review highlights, shortlist venues, then map your route from Hongik University (Line 2).",
+              "Follow the related blocks to add itineraries and category pages before finalizing your day plan."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/nightlife-itaewon",
+            "label": "best nightlife in Itaewon",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-street-food-myeongdong",
+            "label": "best street food in Myeongdong",
+            "tier": "tier3"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "best clubs in Seoul",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best street food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            },
+            {
+              "label": "best coffee in Gangnam",
+              "href": "/south-korea/seoul/guides/cafes-gangnam"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/guides/nightlife-itaewon",
+      "pageType": "guides",
+      "titleOld": "Itaewon After Dark | Seoul | South Korea Travel",
+      "titleNew": "Itaewon After Dark in Seoul - Prices, Tips & Is It Worth It? | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 4,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 4,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 91,
+      "contentBand": "strong",
+      "warnings": [],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Pricing for Itaewon After Dark",
+            "paragraphs": [
+              "Itaewon After Dark in Itaewon usually sits in the ₩₩ – ₩₩₩₩ range, with premium spots in Seoul costing more at peak hours.",
+              "A practical split is one flagship stop plus one lower-cost option near Itaewon (Line 6)."
+            ]
+          },
+          {
+            "heading": "Tips for Itaewon After Dark",
+            "paragraphs": [
+              "Start near Itaewon (Line 6) and walk through Itaewon so you can compare atmosphere before committing.",
+              "For smoother routing in Seoul, group nearby venues and avoid cross-city hops at night."
+            ]
+          },
+          {
+            "heading": "Is Itaewon After Dark worth it?",
+            "paragraphs": [
+              "Yes for most visitors: Itaewon After Dark reflects the core clubs experience people look for in Seoul.",
+              "If your budget is tight, combine one top pick with lower-cost options in the same area."
+            ]
+          },
+          {
+            "heading": "How Itaewon After Dark works",
+            "paragraphs": [
+              "This page is designed as a step-by-step shortlist: review highlights, shortlist venues, then map your route from Itaewon (Line 6).",
+              "Follow the related blocks to add itineraries and category pages before finalizing your day plan."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-street-food-myeongdong",
+            "label": "best street food in Myeongdong",
+            "tier": "tier3"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "bars in Seoul",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best street food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            },
+            {
+              "label": "best coffee in Gangnam",
+              "href": "/south-korea/seoul/guides/cafes-gangnam"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/guides/best-street-food-myeongdong",
+      "pageType": "guides",
+      "titleOld": "Best Street Food In Myeongdong | Seoul | South Korea Travel",
+      "titleNew": "Best Street Food In Myeongdong in Seoul - What It Costs, How It Works & Local Tips | South Korea Travel",
+      "titleSimilarity": 0.4166666666666667,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 4,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 4,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 91,
+      "contentBand": "strong",
+      "warnings": [],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Pricing for Best Street Food In Myeongdong",
+            "paragraphs": [
+              "For Best Street Food In Myeongdong, most travelers in Seoul spend within ₩, especially around Myeongdong.",
+              "If you're budgeting, plan weekday visits in Myeongdong and reserve busier nights for one standout venue."
+            ]
+          },
+          {
+            "heading": "Tips for Best Street Food In Myeongdong",
+            "paragraphs": [
+              "In Myeongdong, opening times vary by venue, so verify hours before moving between stops.",
+              "Use this guide as a shortlist, then prioritize places that match your street food preferences."
+            ]
+          },
+          {
+            "heading": "Is Best Street Food In Myeongdong worth it?",
+            "paragraphs": [
+              "Best Street Food In Myeongdong is worth it if you want a focused street food route in Myeongdong without trial-and-error.",
+              "If you prefer quieter alternatives, use the nearby links below to branch into less crowded districts."
+            ]
+          },
+          {
+            "heading": "How Best Street Food In Myeongdong works",
+            "paragraphs": [
+              "Use this guide in three steps: pick the vibe, filter by ₩ budget, then cluster stops around Myeongdong.",
+              "After this page, move to nearby things and plan-your-trip links to keep your Seoul itinerary connected."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/nightlife-itaewon",
+            "label": "best clubs in Seoul",
+            "tier": "tier3"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "bars in Seoul",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best clubs in Seoul",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best coffee in Gangnam",
+              "href": "/south-korea/seoul/guides/cafes-gangnam"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/guides/cafes-gangnam",
+      "pageType": "guides",
+      "titleOld": "Best Cafes In Gangnam | Seoul | South Korea Travel",
+      "titleNew": "Best Cafes In Gangnam in Seoul - Is It Worth It for Travelers? | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 4,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 4,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 91,
+      "contentBand": "strong",
+      "warnings": [],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Pricing for Best Cafes In Gangnam",
+            "paragraphs": [
+              "Best Cafes In Gangnam in Gangnam usually sits in the ₩₩ range, with premium spots in Seoul costing more at peak hours.",
+              "A practical split is one flagship stop plus one lower-cost option near Gangnam (Line 2)."
+            ]
+          },
+          {
+            "heading": "Tips for Best Cafes In Gangnam",
+            "paragraphs": [
+              "Start near Gangnam (Line 2) and walk through Gangnam so you can compare atmosphere before committing.",
+              "For smoother routing in Seoul, group nearby venues and avoid cross-city hops at night."
+            ]
+          },
+          {
+            "heading": "Is Best Cafes In Gangnam worth it?",
+            "paragraphs": [
+              "Yes for most visitors: Best Cafes In Gangnam reflects the core coffee experience people look for in Seoul.",
+              "If your budget is tight, combine one top pick with lower-cost options in the same area."
+            ]
+          },
+          {
+            "heading": "How Best Cafes In Gangnam works",
+            "paragraphs": [
+              "This page is designed as a step-by-step shortlist: review highlights, shortlist venues, then map your route from Gangnam (Line 2).",
+              "Follow the related blocks to add itineraries and category pages before finalizing your day plan."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/nightlife-itaewon",
+            "label": "best clubs in Seoul",
+            "tier": "tier3"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "bars in Seoul",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best clubs in Seoul",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best street food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/guides/hiking-bukhansan",
+      "pageType": "guides",
+      "titleOld": "Hiking Bukhansan National Park | Seoul | South Korea Travel",
+      "titleNew": "Hiking Bukhansan National Park in Seoul - Prices, Tips & Is It Worth It? | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 4,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 4,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 91,
+      "contentBand": "strong",
+      "warnings": [],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Pricing for Hiking Bukhansan National Park",
+            "paragraphs": [
+              "Hiking Bukhansan National Park in Jongno usually sits in the Free range, with premium spots in Seoul costing more at peak hours.",
+              "A practical split is one flagship stop plus one lower-cost option near Gupabal (Line 3)."
+            ]
+          },
+          {
+            "heading": "Tips for Hiking Bukhansan National Park",
+            "paragraphs": [
+              "Start near Gupabal (Line 3) and walk through Jongno so you can compare atmosphere before committing.",
+              "For smoother routing in Seoul, group nearby venues and avoid cross-city hops at night."
+            ]
+          },
+          {
+            "heading": "Is Hiking Bukhansan National Park worth it?",
+            "paragraphs": [
+              "Yes for most visitors: Hiking Bukhansan National Park reflects the core hiking experience people look for in Seoul.",
+              "If your budget is tight, combine one top pick with lower-cost options in the same area."
+            ]
+          },
+          {
+            "heading": "How Hiking Bukhansan National Park works",
+            "paragraphs": [
+              "This page is designed as a step-by-step shortlist: review highlights, shortlist venues, then map your route from Gupabal (Line 3).",
+              "Follow the related blocks to add itineraries and category pages before finalizing your day plan."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/nightlife-itaewon",
+            "label": "best clubs in Seoul",
+            "tier": "tier3"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "bars in Seoul",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best clubs in Seoul",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best street food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/guides/streetwear-hongdae",
+      "pageType": "guides",
+      "titleOld": "Where to Shop for Streetwear in Hongdae | Seoul | South Korea Travel",
+      "titleNew": "Where to Shop for Streetwear in Hongdae in Seoul - What It Costs, How It Works & Local Tips | South Korea Travel",
+      "titleSimilarity": 0.4166666666666667,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 4,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 4,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 91,
+      "contentBand": "strong",
+      "warnings": [],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Pricing for Where to Shop for Streetwear in Hongdae",
+            "paragraphs": [
+              "For Where to Shop for Streetwear in Hongdae, most travelers in Seoul spend within ₩₩ – ₩₩₩, especially around Hongdae.",
+              "If you're budgeting, plan weekday visits in Hongdae and reserve busier nights for one standout venue."
+            ]
+          },
+          {
+            "heading": "Tips for Where to Shop for Streetwear in Hongdae",
+            "paragraphs": [
+              "In Hongdae, opening times vary by venue, so verify hours before moving between stops.",
+              "Use this guide as a shortlist, then prioritize places that match your shopping preferences."
+            ]
+          },
+          {
+            "heading": "Is Where to Shop for Streetwear in Hongdae worth it?",
+            "paragraphs": [
+              "Where to Shop for Streetwear in Hongdae is worth it if you want a focused shopping route in Hongdae without trial-and-error.",
+              "If you prefer quieter alternatives, use the nearby links below to branch into less crowded districts."
+            ]
+          },
+          {
+            "heading": "How Where to Shop for Streetwear in Hongdae works",
+            "paragraphs": [
+              "Use this guide in three steps: pick the vibe, filter by ₩₩ – ₩₩₩ budget, then cluster stops around Hongdae.",
+              "After this page, move to nearby things and plan-your-trip links to keep your Seoul itinerary connected."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/nightlife-itaewon",
+            "label": "best clubs in Seoul",
+            "tier": "tier3"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "bars in Seoul",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best clubs in Seoul",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best street food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/guides/pc-bang-gaming-seoul",
+      "pageType": "guides",
+      "titleOld": "Top PC Bang Internet Cafes in Seoul for Gaming | Seoul | South Korea Travel",
+      "titleNew": "Top PC Bang Internet Cafes in Seoul for Gaming in Seoul - What It Costs, How It Works & Local Tips | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 4,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 4,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 91,
+      "contentBand": "strong",
+      "warnings": [],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Pricing for Top PC Bang Internet Cafes in Seoul for Gaming",
+            "paragraphs": [
+              "For Top PC Bang Internet Cafes in Seoul for Gaming, most travelers in Seoul spend within ₩, especially around Seoul.",
+              "If you're budgeting, plan weekday visits in Seoul and reserve busier nights for one standout venue."
+            ]
+          },
+          {
+            "heading": "Tips for Top PC Bang Internet Cafes in Seoul for Gaming",
+            "paragraphs": [
+              "In Seoul, opening times vary by venue, so verify hours before moving between stops.",
+              "Use this guide as a shortlist, then prioritize places that match your gaming preferences."
+            ]
+          },
+          {
+            "heading": "Is Top PC Bang Internet Cafes in Seoul for Gaming worth it?",
+            "paragraphs": [
+              "Top PC Bang Internet Cafes in Seoul for Gaming is worth it if you want a focused gaming route in Seoul without trial-and-error.",
+              "If you prefer quieter alternatives, use the nearby links below to branch into less crowded districts."
+            ]
+          },
+          {
+            "heading": "How Top PC Bang Internet Cafes in Seoul for Gaming works",
+            "paragraphs": [
+              "Use this guide in three steps: pick the vibe, filter by ₩ budget, then cluster stops around Seoul.",
+              "After this page, move to nearby things and plan-your-trip links to keep your Seoul itinerary connected."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/nightlife-itaewon",
+            "label": "best clubs in Seoul",
+            "tier": "tier3"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "bars in Seoul",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best clubs in Seoul",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best street food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/category/bars",
+      "pageType": "category",
+      "titleOld": "Bars in Seoul | South Korea Travel",
+      "titleNew": "Bars in Seoul | South Korea Travel",
+      "titleSimilarity": 0.25,
+      "titleSimilaritySafe": false,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 75,
+      "contentBand": "acceptable",
+      "warnings": [
+        "title_similarity_low"
+      ],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Best things to do in Seoul",
+            "paragraphs": [
+              "For bars, Seoul has the best options near the most walkable strips and transit links.",
+              "A good sequence is one anchor stop, one nearby backup, and one optional add-on if timing allows."
+            ]
+          },
+          {
+            "heading": "Where to stay near Seoul",
+            "paragraphs": [
+              "If bars is your focus, stay within easy transit reach of Seoul to reduce evening transfer time.",
+              "Pair your stay choice with the plan-your-trip links so your route stays concentrated."
+            ]
+          },
+          {
+            "heading": "Is Seoul worth visiting?",
+            "paragraphs": [
+              "Seoul is worth visiting when you want reliable options in one area without long transit gaps.",
+              "If crowds are a concern, use weekday slots and rotate to secondary options from the related links."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "best nightlife in Hongdae",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best nightlife in Itaewon",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            },
+            {
+              "label": "restaurants in Seoul",
+              "href": "/south-korea/seoul/category/restaurants"
+            },
+            {
+              "label": "cafes in Seoul",
+              "href": "/south-korea/seoul/category/cafes"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/category/restaurants",
+      "pageType": "category",
+      "titleOld": "Restaurants in Seoul | South Korea Travel",
+      "titleNew": "Restaurants in Seoul | South Korea Travel",
+      "titleSimilarity": 0.2222222222222222,
+      "titleSimilaritySafe": false,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 75,
+      "contentBand": "acceptable",
+      "warnings": [
+        "title_similarity_low"
+      ],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Best things to do in Seoul",
+            "paragraphs": [
+              "For restaurants, Seoul has the best options near the most walkable strips and transit links.",
+              "A good sequence is one anchor stop, one nearby backup, and one optional add-on if timing allows."
+            ]
+          },
+          {
+            "heading": "Where to stay near Seoul",
+            "paragraphs": [
+              "If restaurants is your focus, stay within easy transit reach of Seoul to reduce evening transfer time.",
+              "Pair your stay choice with the plan-your-trip links so your route stays concentrated."
+            ]
+          },
+          {
+            "heading": "Is Seoul worth visiting?",
+            "paragraphs": [
+              "Seoul is worth visiting when you want reliable options in one area without long transit gaps.",
+              "If crowds are a concern, use weekday slots and rotate to secondary options from the related links."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "best nightlife in Hongdae",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best nightlife in Itaewon",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            },
+            {
+              "label": "best bars in Seoul",
+              "href": "/south-korea/seoul/category/bars"
+            },
+            {
+              "label": "cafes in Seoul",
+              "href": "/south-korea/seoul/category/cafes"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/category/cafes",
+      "pageType": "category",
+      "titleOld": "Cafes in Seoul | South Korea Travel",
+      "titleNew": "Cafes in Seoul | South Korea Travel",
+      "titleSimilarity": 0.2857142857142857,
+      "titleSimilaritySafe": false,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 75,
+      "contentBand": "acceptable",
+      "warnings": [
+        "title_similarity_low"
+      ],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Best things to do in Seoul",
+            "paragraphs": [
+              "For cafes, Seoul has the best options near the most walkable strips and transit links.",
+              "A good sequence is one anchor stop, one nearby backup, and one optional add-on if timing allows."
+            ]
+          },
+          {
+            "heading": "Where to stay near Seoul",
+            "paragraphs": [
+              "If cafes is your focus, stay within easy transit reach of Seoul to reduce evening transfer time.",
+              "Pair your stay choice with the plan-your-trip links so your route stays concentrated."
+            ]
+          },
+          {
+            "heading": "Is Seoul worth visiting?",
+            "paragraphs": [
+              "Seoul is worth visiting when you want reliable options in one area without long transit gaps.",
+              "If crowds are a concern, use weekday slots and rotate to secondary options from the related links."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "best nightlife in Hongdae",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best nightlife in Itaewon",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            },
+            {
+              "label": "best bars in Seoul",
+              "href": "/south-korea/seoul/category/bars"
+            },
+            {
+              "label": "restaurants in Seoul",
+              "href": "/south-korea/seoul/category/restaurants"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/category/things-to-do",
+      "pageType": "category",
+      "titleOld": "Things To Do in Seoul | South Korea Travel",
+      "titleNew": "Things To Do in Seoul | South Korea Travel",
+      "titleSimilarity": 0.375,
+      "titleSimilaritySafe": false,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 75,
+      "contentBand": "acceptable",
+      "warnings": [
+        "title_similarity_low"
+      ],
+      "sample": {
+        "intentSections": [
+          {
+            "heading": "Best things to do in Seoul",
+            "paragraphs": [
+              "Seoul is strongest for things to do around its busiest streets, so start with the highest-density pockets first.",
+              "Use the nearby block mid-page to expand into adjacent options without leaving Seoul."
+            ]
+          },
+          {
+            "heading": "Where to stay near Seoul",
+            "paragraphs": [
+              "For travelers prioritizing things to do, areas close to Seoul keep your schedule efficient.",
+              "Compare nightlife-heavy vs quieter streets depending on your return time and comfort level."
+            ]
+          },
+          {
+            "heading": "Is Seoul worth visiting?",
+            "paragraphs": [
+              "Yes for most visitors: Seoul delivers one of the clearest things to do clusters in Seoul.",
+              "For broader trip value, combine this area with one itinerary and one money page before final planning."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "/south-korea/seoul",
+            "label": "things to do in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/guides/best-bars-hongdae",
+            "label": "bars in Seoul",
+            "tier": "tier1"
+          },
+          {
+            "href": "/south-korea/seoul/category/where-to-stay",
+            "label": "where to stay in seoul",
+            "tier": "tier1"
+          }
+        ],
+        "relatedBlocks": {
+          "youMightAlsoLike": [
+            {
+              "label": "best nightlife in Hongdae",
+              "href": "/south-korea/seoul/guides/best-bars-hongdae"
+            },
+            {
+              "label": "best nightlife in Itaewon",
+              "href": "/south-korea/seoul/guides/nightlife-itaewon"
+            },
+            {
+              "label": "best food in Myeongdong",
+              "href": "/south-korea/seoul/guides/best-street-food-myeongdong"
+            }
+          ],
+          "nearbyThings": [
+            {
+              "label": "things to do in Seoul",
+              "href": "/south-korea/seoul"
+            },
+            {
+              "label": "best bars in Seoul",
+              "href": "/south-korea/seoul/category/bars"
+            },
+            {
+              "label": "restaurants in Seoul",
+              "href": "/south-korea/seoul/category/restaurants"
+            }
+          ],
+          "planYourTrip": [
+            {
+              "label": "where to stay in seoul",
+              "href": "/south-korea/seoul/category/where-to-stay"
+            },
+            {
+              "label": "cost of travelling in seoul",
+              "href": "/south-korea/seoul/category/travel-costs"
+            },
+            {
+              "label": "travel comparisons in seoul",
+              "href": "/south-korea/seoul/category/comparisons"
+            },
+            {
+              "label": "itinerary in Seoul",
+              "href": "/itineraries/3-days-in-seoul"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "route": "/south-korea/seoul/itaewon/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Itaewon in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Itaewon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/itaewon/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Itaewon in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Itaewon in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/itaewon/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Itaewon in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Itaewon in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/itaewon/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Itaewon in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Itaewon in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hongdae/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Hongdae in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Hongdae in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hongdae/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Hongdae in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Hongdae in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hongdae/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Hongdae in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Hongdae in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hongdae/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Hongdae in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Hongdae in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Gangnam in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Gangnam in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Gangnam in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Gangnam in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Gangnam in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Gangnam in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Gangnam in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Gangnam in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/myeongdong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Myeongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Myeongdong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/myeongdong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Myeongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Myeongdong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/myeongdong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Myeongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Myeongdong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/myeongdong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Myeongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Myeongdong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/insadong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Insadong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Insadong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/insadong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Insadong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Insadong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/insadong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Insadong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Insadong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/insadong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Insadong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Insadong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Apgujeong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Apgujeong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Apgujeong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Apgujeong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Apgujeong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Apgujeong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Apgujeong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Apgujeong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jamsil/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Jamsil in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Jamsil in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jamsil/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Jamsil in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Jamsil in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jamsil/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Jamsil in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Jamsil in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jamsil/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Jamsil in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Jamsil in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/garosu-gil/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Garosu-gil in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Garosu-gil in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/garosu-gil/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Garosu-gil in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Garosu-gil in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/garosu-gil/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Garosu-gil in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Garosu-gil in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/garosu-gil/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Garosu-gil in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Garosu-gil in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongsu/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Seongsu in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Seongsu in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongsu/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Seongsu in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Seongsu in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongsu/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Seongsu in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Seongsu in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongsu/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Seongsu in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Seongsu in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeonnam/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Yeonnam in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Yeonnam in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeonnam/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Yeonnam in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Yeonnam in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeonnam/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Yeonnam in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Yeonnam in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeonnam/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Yeonnam in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Yeonnam in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hannam/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Hannam in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Hannam in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hannam/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Hannam in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Hannam in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hannam/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Hannam in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Hannam in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/hannam/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Hannam in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Hannam in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/samcheong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Samcheong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Samcheong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/samcheong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Samcheong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Samcheong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/samcheong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Samcheong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Samcheong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/samcheong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Samcheong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Samcheong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/bukchon/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Bukchon in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Bukchon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/bukchon/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Bukchon in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Bukchon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/bukchon/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Bukchon in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Bukchon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/bukchon/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Bukchon in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Bukchon in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/namdaemun/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Namdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Namdaemun in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/namdaemun/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Namdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Namdaemun in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/namdaemun/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Namdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Namdaemun in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/namdaemun/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Namdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Namdaemun in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/sinchon/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Sinchon in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Sinchon in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/sinchon/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Sinchon in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Sinchon in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/sinchon/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Sinchon in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Sinchon in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/sinchon/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Sinchon in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Sinchon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam-station-area/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Gangnam Station Area in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Gangnam Station Area in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5454545454545454,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam-station-area/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Gangnam Station Area in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Gangnam Station Area in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam-station-area/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Gangnam Station Area in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Gangnam Station Area in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5454545454545454,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangnam-station-area/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Gangnam Station Area in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Gangnam Station Area in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5833333333333334,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/coex/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in COEX in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in COEX in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/coex/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in COEX in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in COEX in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/coex/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in COEX in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in COEX in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/coex/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in COEX in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in COEX in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong-rodeo/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Apgujeong Rodeo in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Apgujeong Rodeo in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong-rodeo/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Apgujeong Rodeo in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Apgujeong Rodeo in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong-rodeo/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Apgujeong Rodeo in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Apgujeong Rodeo in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/apgujeong-rodeo/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Apgujeong Rodeo in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Apgujeong Rodeo in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangdong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Gangdong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Gangdong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangdong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Gangdong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Gangdong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangdong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Gangdong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Gangdong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangdong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Gangdong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Gangdong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangbuk/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Gangbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Gangbuk in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangbuk/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Gangbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Gangbuk in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangbuk/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Gangbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Gangbuk in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangbuk/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Gangbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Gangbuk in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangseo/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Gangseo in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Gangseo in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangseo/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Gangseo in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Gangseo in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangseo/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Gangseo in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Gangseo in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gangseo/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Gangseo in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Gangseo in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwanak/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Gwanak in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Gwanak in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwanak/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Gwanak in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Gwanak in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwanak/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Gwanak in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Gwanak in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwanak/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Gwanak in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Gwanak in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwangjin/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Gwangjin in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Gwangjin in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwangjin/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Gwangjin in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Gwangjin in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwangjin/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Gwangjin in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Gwangjin in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/gwangjin/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Gwangjin in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Gwangjin in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/guro/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Guro in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Guro in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/guro/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Guro in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Guro in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/guro/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Guro in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Guro in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/guro/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Guro in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Guro in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/geumcheon/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Geumcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Geumcheon in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/geumcheon/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Geumcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Geumcheon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/geumcheon/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Geumcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Geumcheon in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/geumcheon/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Geumcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Geumcheon in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dobong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Dobong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Dobong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dobong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Dobong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Dobong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dobong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Dobong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Dobong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dobong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Dobong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Dobong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongdaemun/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Dongdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Dongdaemun in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongdaemun/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Dongdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Dongdaemun in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongdaemun/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Dongdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Dongdaemun in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongdaemun/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Dongdaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Dongdaemun in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongjak/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Dongjak in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Dongjak in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongjak/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Dongjak in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Dongjak in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongjak/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Dongjak in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Dongjak in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/dongjak/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Dongjak in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Dongjak in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/eunpyeong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Eunpyeong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Eunpyeong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/eunpyeong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Eunpyeong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Eunpyeong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/eunpyeong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Eunpyeong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Eunpyeong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/eunpyeong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Eunpyeong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Eunpyeong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jongno/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Jongno in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Jongno in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jongno/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Jongno in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Jongno in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jongno/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Jongno in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Jongno in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jongno/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Jongno in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Jongno in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jung/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Jung in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Jung in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jung/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Jung in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Jung in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jung/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Jung in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Jung in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jung/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Jung in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Jung in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jungnang/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Jungnang in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Jungnang in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jungnang/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Jungnang in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Jungnang in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jungnang/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Jungnang in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Jungnang in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/jungnang/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Jungnang in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Jungnang in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/mapo/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Mapo in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Mapo in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/mapo/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Mapo in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Mapo in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/mapo/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Mapo in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Mapo in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/mapo/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Mapo in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Mapo in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/nowon/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Nowon in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Nowon in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/nowon/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Nowon in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Nowon in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/nowon/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Nowon in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Nowon in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/nowon/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Nowon in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Nowon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seocho/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Seocho in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Seocho in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seocho/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Seocho in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Seocho in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seocho/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Seocho in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Seocho in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seocho/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Seocho in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Seocho in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seodaemun/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Seodaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Seodaemun in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seodaemun/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Seodaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Seodaemun in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seodaemun/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Seodaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Seodaemun in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seodaemun/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Seodaemun in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Seodaemun in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongdong/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Seongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Seongdong in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongdong/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Seongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Seongdong in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongdong/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Seongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Seongdong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongdong/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Seongdong in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Seongdong in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongbuk/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Seongbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Seongbuk in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongbuk/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Seongbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Seongbuk in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongbuk/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Seongbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Seongbuk in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/seongbuk/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Seongbuk in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Seongbuk in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/songpa/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Songpa in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Songpa in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/songpa/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Songpa in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Songpa in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/songpa/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Songpa in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Songpa in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/songpa/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Songpa in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Songpa in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yangcheon/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Yangcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Yangcheon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yangcheon/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Yangcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Yangcheon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yangcheon/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Yangcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Yangcheon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yangcheon/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Yangcheon in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Yangcheon in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeongdeungpo/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Yeongdeungpo in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Yeongdeungpo in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeongdeungpo/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Yeongdeungpo in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Yeongdeungpo in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeongdeungpo/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Yeongdeungpo in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Yeongdeungpo in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yeongdeungpo/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Yeongdeungpo in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Yeongdeungpo in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.5,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yongsan/category/bars",
+      "pageType": "activity",
+      "titleOld": "Best Bars in Yongsan in Seoul | South Korea Travel",
+      "titleNew": "Best Bars in Yongsan in Seoul - Prices, Local Tips & What to Expect | South Korea Travel",
+      "titleSimilarity": 0.4444444444444444,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yongsan/category/restaurants",
+      "pageType": "activity",
+      "titleOld": "Best Restaurants in Yongsan in Seoul | South Korea Travel",
+      "titleNew": "Best Restaurants in Yongsan in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yongsan/category/cafes",
+      "pageType": "activity",
+      "titleOld": "Best Cafes in Yongsan in Seoul | South Korea Travel",
+      "titleNew": "Best Cafes in Yongsan in Seoul - How It Works, Budget Tips & Best Picks | South Korea Travel",
+      "titleSimilarity": 0.4,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    },
+    {
+      "route": "/south-korea/seoul/yongsan/category/things-to-do",
+      "pageType": "activity",
+      "titleOld": "Best Things To Do in Yongsan in Seoul | South Korea Travel",
+      "titleNew": "Best Things To Do in Yongsan in Seoul - Is It Worth It? Costs, Areas & Tips | South Korea Travel",
+      "titleSimilarity": 0.45454545454545453,
+      "titleSimilaritySafe": true,
+      "intentSectionCount": 3,
+      "lowSpecificityCount": 0,
+      "internalLinkCount": 3,
+      "hasNextStep": true,
+      "hasItineraryOrMoney": true,
+      "contentScore": 74,
+      "contentBand": "acceptable",
+      "warnings": []
+    }
+  ]
+}

@@ -19,6 +19,14 @@ import { categories } from "@/data/categories";
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
 import { getCityCategoryPath, getItineraryPath, getTravelTipPath, getNeighbourhoodPath, getGuidePath, getCityPath } from "@/lib/canonical";
+import { getMoneyPageContent, MONEY_CATEGORY_SLUGS, isMoneyCategorySlug } from "@/lib/content/moneyPages";
+import {
+  buildAreaIntentSections,
+  buildCategorySeoTitle,
+  buildSeoulScopedLinksForCategory,
+  isSeoRefactorEnabledForPath,
+  recentlyUpdatedSeoulLinks,
+} from "@/lib/seo/refactor";
 
 interface PageProps {
   params: Promise<{ slug: string; categorySlug: string }>;
@@ -28,14 +36,27 @@ export async function generateMetadata({ params }: PageProps) {
   const { slug: citySlug, categorySlug } = await params;
   const city = getCityBySlug(citySlug);
   const category = getCategoryBySlug(categorySlug);
-  if (!city || !category) return {};
+  const moneyPage = getMoneyPageContent(citySlug, categorySlug);
+  if (!city || (!category && !moneyPage)) return {};
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
   const canonical = base + getCityCategoryPath(citySlug, categorySlug);
+  const label = moneyPage?.label ?? category!.label;
+  const description = moneyPage?.description ?? category!.description;
+  const seoEnabled = isSeoRefactorEnabledForPath(
+    getCityCategoryPath(citySlug, categorySlug),
+    citySlug,
+    "category"
+  );
+  const titleResult = seoEnabled
+    ? buildCategorySeoTitle(city.name, label, `${citySlug}:${categorySlug}`)
+    : {
+        title: `${label} in ${city.name} | South Korea Travel`,
+      };
   return {
-    title: `${category.label} in ${city.name} | South Korea Travel`,
-    description: category.description,
+    title: titleResult.title,
+    description,
     alternates: { canonical },
-    openGraph: { title: `${category.label} in ${city.name}`, description: category.description },
+    openGraph: { title: `${label} in ${city.name}`, description },
   };
 }
 
@@ -47,6 +68,11 @@ export async function generateStaticParams() {
     for (const cat of categories) {
       pairs.push({ slug: city.slug, categorySlug: cat.slug });
     }
+    if (city.slug === "seoul") {
+      for (const slug of MONEY_CATEGORY_SLUGS) {
+        pairs.push({ slug: city.slug, categorySlug: slug });
+      }
+    }
   }
   return pairs;
 }
@@ -55,18 +81,47 @@ export default async function CityCategoryPage({ params }: PageProps) {
   const { slug: citySlug, categorySlug } = await params;
   const city = getCityBySlug(citySlug);
   const category = getCategoryBySlug(categorySlug);
+  const moneyPage = getMoneyPageContent(citySlug, categorySlug);
+  const seoEnabled = isSeoRefactorEnabledForPath(
+    getCityCategoryPath(citySlug, categorySlug),
+    citySlug,
+    "category"
+  );
 
-  if (!city || !category) {
+  if (!city || (!category && !moneyPage)) {
     notFound();
   }
+  if (isMoneyCategorySlug(categorySlug) && citySlug !== "seoul") notFound();
 
-  const content = getCityCategoryContent(citySlug, categorySlug);
+  const content = moneyPage
+    ? {
+        guides: getGuidesByCity(citySlug).slice(0, 6),
+        venues: [],
+        itineraries: getItinerariesByCity(citySlug),
+        neighbourhoods: getNeighbourhoodsByCity(citySlug).slice(0, 6),
+        travelTips: [],
+        categoryLabel: moneyPage.label,
+      }
+    : getCityCategoryContent(citySlug, categorySlug);
   const breadcrumbItems = breadcrumbsCityCategory(
     city.name,
     city.slug,
     content.categoryLabel,
     categorySlug
   );
+  const seoLinks = seoEnabled
+    ? buildSeoulScopedLinksForCategory({
+        citySlug,
+        cityName: city.name,
+        categorySlug,
+      })
+    : null;
+  const intentSections =
+    seoEnabled && !moneyPage
+      ? buildAreaIntentSections(city.name, city.name, content.categoryLabel, `${citySlug}:${categorySlug}`)
+      : [];
+  const recentlyUpdated = seoEnabled ? recentlyUpdatedSeoulLinks(10) : [];
+  const categoryDescription = moneyPage?.description ?? category?.description ?? "";
 
   return (
     <div className="min-h-screen bg-background">
@@ -75,17 +130,67 @@ export default async function CityCategoryPage({ params }: PageProps) {
         <h1 className="text-3xl sm:text-4xl font-bold text-foreground mt-4">
           {content.categoryLabel} in {city.name}
         </h1>
-        <p className="text-muted-foreground mt-2">{category.description}</p>
+        <p className="text-muted-foreground mt-2">{categoryDescription}</p>
         <div className="mt-10 max-w-7xl">
-          {getCategoryContentForCity(city, category, content).map((section) => (
-            <ContentSection
-              key={section.heading}
-              heading={section.heading}
-              paragraphs={section.paragraphs}
-            />
-          ))}
+          {moneyPage ? (
+            <>
+              <ContentSection heading="Quick pick summary" paragraphs={moneyPage.quickPick} />
+              <ContentSection heading="Local tip" paragraphs={[moneyPage.localTip]} />
+              {moneyPage.sections.map((section) => (
+                <ContentSection
+                  key={section.heading}
+                  heading={section.heading}
+                  paragraphs={section.paragraphs}
+                />
+              ))}
+            </>
+          ) : (
+            <>
+              {getCategoryContentForCity(city, category!, content).map((section) => (
+                <ContentSection
+                  key={section.heading}
+                  heading={section.heading}
+                  paragraphs={section.paragraphs}
+                />
+              ))}
+              {intentSections.map((section) => (
+                <ContentSection
+                  key={section.heading}
+                  heading={section.heading}
+                  paragraphs={section.paragraphs}
+                />
+              ))}
+            </>
+          )}
         </div>
+        {seoEnabled && seoLinks && (
+          <div className="mt-8">
+            <ExploreMore
+              heading="You might also like"
+              trackBlockType="you_might_also_like"
+              links={seoLinks.relatedBlocks.youMightAlsoLike.map((l) => ({
+                label: l.label,
+                href: l.href,
+                tier: l.tier,
+              }))}
+            />
+          </div>
+        )}
       </section>
+
+      {seoEnabled && seoLinks && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-10">
+          <ExploreMore
+            heading="Nearby things to do"
+            trackBlockType="nearby_things"
+            links={seoLinks.relatedBlocks.nearbyThings.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        </section>
+      )}
 
       {content.guides.length > 0 && (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-10 sm:pb-14">
@@ -215,32 +320,60 @@ export default async function CityCategoryPage({ params }: PageProps) {
         )}
 
       <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-14">
-        <FAQSection items={getFAQForCategory(city.name, content.categoryLabel, "city")} />
-        <ExploreMore
-          links={[
-            ...categories
-              .filter((c) => c.slug !== categorySlug)
-              .slice(0, 5)
-              .map((c) => ({
-                label: `${c.label} in ${city.name}`,
-                href: getCityCategoryPath(city.slug, c.slug),
+        {!moneyPage && (
+          <FAQSection items={getFAQForCategory(city.name, content.categoryLabel, "city")} />
+        )}
+        {seoEnabled && seoLinks ? (
+          <ExploreMore
+            heading="Plan your trip"
+            trackBlockType="plan_your_trip"
+            links={seoLinks.relatedBlocks.planYourTrip.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        ) : (
+          <ExploreMore
+            links={[
+              ...categories
+                .filter((c) => c.slug !== categorySlug)
+                .slice(0, 5)
+                .map((c) => ({
+                  label: `${c.label} in ${city.name}`,
+                  href: getCityCategoryPath(city.slug, c.slug),
+                })),
+              ...getNeighbourhoodsByCity(city.slug).slice(0, 4).map((n) => ({
+                label: n.name,
+                href: getNeighbourhoodPath(city.slug, n.slug),
               })),
-            ...getNeighbourhoodsByCity(city.slug).slice(0, 4).map((n) => ({
-              label: n.name,
-              href: getNeighbourhoodPath(city.slug, n.slug),
-            })),
-            ...getGuidesByCity(city.slug).slice(0, 3).map((g) => ({
-              label: g.title,
-              href: getGuidePath(city.slug, g.slug),
-            })),
-            ...getItinerariesByCity(city.slug).slice(0, 2).map((i) => ({
-              label: i.title,
-              href: getItineraryPath(i.slug),
-            })),
-            { label: `${city.name} guide`, href: getCityPath(city.slug) },
-          ]}
-        />
+              ...getGuidesByCity(city.slug).slice(0, 3).map((g) => ({
+                label: g.title,
+                href: getGuidePath(city.slug, g.slug),
+              })),
+              ...getItinerariesByCity(city.slug).slice(0, 2).map((i) => ({
+                label: i.title,
+                href: getItineraryPath(i.slug),
+              })),
+              { label: `${city.name} guide`, href: getCityPath(city.slug) },
+            ]}
+          />
+        )}
       </section>
+
+      {seoEnabled && recentlyUpdated.length > 0 && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-14">
+          <ExploreMore
+            heading="Recently updated"
+            trackBlockType="recently_updated"
+            links={recentlyUpdated.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        </section>
+      )}
     </div>
   );
 }

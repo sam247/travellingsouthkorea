@@ -37,6 +37,13 @@ import {
   buildProgrammaticGuide,
   getProgrammaticGuideSpecs,
 } from "@/lib/programmaticGuides";
+import {
+  buildGuideIntentSections,
+  buildGuideSeoTitle,
+  buildSeoulScopedLinksForGuide,
+  isSeoRefactorEnabledForPath,
+  recentlyUpdatedSeoulLinks,
+} from "@/lib/seo/refactor";
 
 interface PageProps {
   params: Promise<{ slug: string; guideSlug: string }>;
@@ -57,8 +64,13 @@ export async function generateMetadata({ params }: PageProps) {
   if (!guide || !city) return {};
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
   const canonical = base + getGuidePath(citySlug, guideSlug);
+  const scopedPath = getGuidePath(citySlug, guideSlug);
+  const seoEnabled = isSeoRefactorEnabledForPath(scopedPath, citySlug, "guides");
+  const titleCandidate = seoEnabled
+    ? buildGuideSeoTitle(guide, city.name).title
+    : `${guide.title} | ${city.name} | South Korea Travel`;
   return {
-    title: `${guide.title} | ${city.name} | South Korea Travel`,
+    title: titleCandidate,
     description: guide.summary,
     alternates: { canonical },
     openGraph: { title: guide.title, description: guide.summary },
@@ -91,6 +103,8 @@ export default async function GuidePage({ params }: PageProps) {
   if (!guide || !city) {
     notFound();
   }
+  const scopedPath = getGuidePath(citySlug, guideSlug);
+  const seoEnabled = isSeoRefactorEnabledForPath(scopedPath, citySlug, "guides");
 
   const isCityLevel = !guide.neighbourhoodSlug || guide.neighbourhoodSlug === "";
   const relatedGuides = guide.relatedSlugs
@@ -126,6 +140,13 @@ export default async function GuidePage({ params }: PageProps) {
         guide.title,
         guide.slug
       );
+  const seoIntentSections = seoEnabled
+    ? buildGuideIntentSections(guide, city.name)
+    : [];
+  const seoLinks = seoEnabled
+    ? buildSeoulScopedLinksForGuide(guide)
+    : null;
+  const recentlyUpdated = seoEnabled ? recentlyUpdatedSeoulLinks(8) : [];
 
   return (
     <div className="min-h-screen bg-background">
@@ -175,6 +196,19 @@ export default async function GuidePage({ params }: PageProps) {
         <p className="text-base sm:text-lg text-muted-foreground leading-relaxed mt-6">
           {guide.intro}
         </p>
+        {seoEnabled && seoLinks && (
+          <div className="mt-8">
+            <ExploreMore
+              heading="You might also like"
+              trackBlockType="you_might_also_like"
+              links={seoLinks.relatedBlocks.youMightAlsoLike.map((l) => ({
+                label: l.label,
+                href: l.href,
+                tier: l.tier,
+              }))}
+            />
+          </div>
+        )}
         <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-6">
           <TrackableImageWrapper imageContext={`guide-${guideSlug}-supporting-1`}>
             <div className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50">
@@ -208,6 +242,13 @@ export default async function GuidePage({ params }: PageProps) {
           <LocalInsights {...getLocalInsightsForGuideResolved(guide, city)} />
           <BudgetGuide {...getBudgetGuideForGuideResolved(guide, city)} />
           <LocalEtiquette {...getLocalEtiquetteForGuideResolved(guide, city)} />
+          {seoIntentSections.map((section) => (
+            <ContentSection
+              key={section.heading}
+              heading={section.heading}
+              paragraphs={section.paragraphs}
+            />
+          ))}
         </div>
       </section>
 
@@ -221,6 +262,19 @@ export default async function GuidePage({ params }: PageProps) {
           />
         </TrackableMapSection>
       </section>
+      {seoEnabled && seoLinks && (
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
+          <ExploreMore
+            heading="Nearby things to do"
+            trackBlockType="nearby_things"
+            links={seoLinks.relatedBlocks.nearbyThings.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        </section>
+      )}
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
         <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
@@ -273,25 +327,51 @@ export default async function GuidePage({ params }: PageProps) {
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
         <FAQSection items={getFAQForGuide(guide, city)} />
-        <ExploreMore
-          links={[
-            ...relatedGuides.slice(0, 3).map((g) => ({
-              label: g.title,
-              href: getGuidePath(citySlug, g.slug),
-            })),
-            ...nearbyGuides.slice(0, 3).map((g) => ({
-              label: g.title,
-              href: getGuidePath(citySlug, g.slug),
-            })),
-            ...(guide.neighbourhoodSlug
-              ? [{ label: guide.neighbourhood, href: getNeighbourhoodPath(citySlug, guide.neighbourhoodSlug) }]
-              : []),
-            { label: "Things to do", href: getCityCategoryPath(citySlug, "things-to-do") },
-            { label: "Nightlife", href: getCityCategoryPath(citySlug, "nightlife") },
-            { label: `${city.name} guide`, href: getCityPath(citySlug) },
-          ]}
-        />
+        {seoEnabled && seoLinks ? (
+          <ExploreMore
+            heading="Plan your trip"
+            trackBlockType="plan_your_trip"
+            links={seoLinks.relatedBlocks.planYourTrip.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        ) : (
+          <ExploreMore
+            links={[
+              ...relatedGuides.slice(0, 3).map((g) => ({
+                label: g.title,
+                href: getGuidePath(citySlug, g.slug),
+              })),
+              ...nearbyGuides.slice(0, 3).map((g) => ({
+                label: g.title,
+                href: getGuidePath(citySlug, g.slug),
+              })),
+              ...(guide.neighbourhoodSlug
+                ? [{ label: guide.neighbourhood, href: getNeighbourhoodPath(citySlug, guide.neighbourhoodSlug) }]
+                : []),
+              { label: "Things to do", href: getCityCategoryPath(citySlug, "things-to-do") },
+              { label: "Nightlife", href: getCityCategoryPath(citySlug, "nightlife") },
+              { label: `${city.name} guide`, href: getCityPath(citySlug) },
+            ]}
+          />
+        )}
       </section>
+
+      {seoEnabled && recentlyUpdated.length > 0 && (
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
+          <ExploreMore
+            heading="Recently updated"
+            trackBlockType="recently_updated"
+            links={recentlyUpdated.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        </section>
+      )}
     </div>
   );
 }

@@ -5,10 +5,17 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "tsx scripts/pingSitemaps.ts || true",
     "start": "next start",
     "lint": "next lint",
     "generate-content": "tsx scripts/generateGuides.ts",
-    "generate-images": "tsx scripts/generateImages.ts"
+    "generate-images": "tsx scripts/generateImages.ts",
+    "seo:preview": "tsx scripts/seoRefactor.ts preview --limit 5",
+    "seo:report": "tsx scripts/seoRefactor.ts report --out scripts/reports/seo-report.json",
+    "seo:snapshot": "tsx scripts/seoRefactor.ts snapshot --out scripts/reports/seo-snapshot.json",
+    "seo:baseline": "tsx scripts/seoRefactor.ts report --out scripts/reports/seo-baseline.json",
+    "seo:post": "tsx scripts/seoRefactor.ts report --out scripts/reports/seo-post.json",
+    "seo:ping-sitemaps": "tsx scripts/pingSitemaps.ts"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

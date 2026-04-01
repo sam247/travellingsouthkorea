@@ -18,6 +18,13 @@ function sendEvent(
   window.gtag("event", eventName, params);
 }
 
+export type InternalLinkTier = "tier1" | "tier2" | "tier3";
+export type InternalLinkBlockType =
+  | "you_might_also_like"
+  | "nearby_things"
+  | "plan_your_trip"
+  | "recently_updated";
+
 /** Scroll depth: 50%, 75%, 100%. Fire each once per page (caller tracks). */
 export function trackScrollDepth(scrollPercent: number): void {
   sendEvent("scroll_depth", {
@@ -80,5 +87,20 @@ export function trackImageView(imageContext: string): void {
   sendEvent("image_view", {
     image_context: imageContext,
     page_location: getPageLocation(),
+  });
+}
+
+/** Normalized internal link click tracking for SEO blocks. */
+export function trackInternalLinkClick(params: {
+  blockType: InternalLinkBlockType;
+  sourcePage: string;
+  targetPage: string;
+  linkTier: InternalLinkTier;
+}): void {
+  sendEvent("internal_link_click", {
+    block_type: params.blockType,
+    source_page: params.sourcePage,
+    target_page: params.targetPage,
+    link_tier: params.linkTier,
   });
 }

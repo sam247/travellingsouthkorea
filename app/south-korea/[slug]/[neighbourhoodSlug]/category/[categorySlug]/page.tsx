@@ -14,6 +14,13 @@ import { breadcrumbsNeighbourhoodCategory } from "@/lib/breadcrumbs";
 import { getCategoryContentForNeighbourhood } from "@/lib/content/categoryContent";
 import { getGuidesByNeighbourhood } from "@/data/guides";
 import { getNeighbourhoodCategoryPath, getNeighbourhoodPath, getGuidePath, getCityPath, getCityCategoryPath } from "@/lib/canonical";
+import {
+  buildAreaIntentSections,
+  buildCategorySeoTitle,
+  buildSeoulScopedLinksForCategory,
+  isSeoRefactorEnabledForPath,
+  recentlyUpdatedSeoulLinks,
+} from "@/lib/seo/refactor";
 
 const NEIGHBOURHOOD_CATEGORY_SLUGS = ["bars", "restaurants", "cafes", "things-to-do"] as const;
 
@@ -31,7 +38,18 @@ export async function generateMetadata({ params }: PageProps) {
     return {};
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
   const canonical = base + getNeighbourhoodCategoryPath(citySlug, neighbourhoodSlug, categorySlug);
-  const title = `Best ${category.label} in ${neighbourhood.name}, ${city.name} | South Korea Travel`;
+  const seoEnabled = isSeoRefactorEnabledForPath(
+    getNeighbourhoodCategoryPath(citySlug, neighbourhoodSlug, categorySlug),
+    citySlug,
+    "activity"
+  );
+  const title = seoEnabled
+    ? buildCategorySeoTitle(
+        city.name,
+        `Best ${category.label} in ${neighbourhood.name}`,
+        `${citySlug}:${neighbourhoodSlug}:${categorySlug}`
+      ).title
+    : `Best ${category.label} in ${neighbourhood.name}, ${city.name} | South Korea Travel`;
   const description = `Discover ${category.label.toLowerCase()}, cafes, restaurants and things to do in ${neighbourhood.name}, one of ${city.name}'s most popular neighbourhoods.`;
   return {
     title,
@@ -69,6 +87,11 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
   if (!city || !neighbourhood || neighbourhood.citySlug !== citySlug) notFound();
   if (!category || !NEIGHBOURHOOD_CATEGORY_SLUGS.includes(categorySlug as (typeof NEIGHBOURHOOD_CATEGORY_SLUGS)[number]))
     notFound();
+  const seoEnabled = isSeoRefactorEnabledForPath(
+    getNeighbourhoodCategoryPath(citySlug, neighbourhoodSlug, categorySlug),
+    citySlug,
+    "activity"
+  );
 
   const content = getNeighbourhoodCategoryContent(neighbourhoodSlug, categorySlug);
   const breadcrumbItems = breadcrumbsNeighbourhoodCategory(
@@ -78,6 +101,23 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
     neighbourhood.slug,
     content.categoryLabel
   );
+  const seoIntentSections = seoEnabled
+    ? buildAreaIntentSections(
+        city.name,
+        neighbourhood.name,
+        content.categoryLabel,
+        `${citySlug}:${neighbourhoodSlug}:${categorySlug}`
+      )
+    : [];
+  const seoLinks = seoEnabled
+    ? buildSeoulScopedLinksForCategory({
+        citySlug,
+        cityName: city.name,
+        categorySlug,
+        neighbourhoodSlug,
+      })
+    : null;
+  const recentlyUpdated = seoEnabled ? recentlyUpdatedSeoulLinks(8) : [];
 
   return (
     <div className="min-h-screen bg-background">
@@ -98,7 +138,27 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
               paragraphs={section.paragraphs}
             />
           ))}
+          {seoIntentSections.map((section) => (
+            <ContentSection
+              key={section.heading}
+              heading={section.heading}
+              paragraphs={section.paragraphs}
+            />
+          ))}
         </div>
+        {seoEnabled && seoLinks && (
+          <div className="mt-8">
+            <ExploreMore
+              heading="You might also like"
+              trackBlockType="you_might_also_like"
+              links={seoLinks.relatedBlocks.youMightAlsoLike.map((l) => ({
+                label: l.label,
+                href: l.href,
+                tier: l.tier,
+              }))}
+            />
+          </div>
+        )}
       </section>
 
       {content.guides.length > 0 && (
@@ -122,6 +182,19 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
           </div>
         </section>
       )}
+      {seoEnabled && seoLinks && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-10">
+          <ExploreMore
+            heading="Nearby things to do"
+            trackBlockType="nearby_things"
+            links={seoLinks.relatedBlocks.nearbyThings.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        </section>
+      )}
 
       {content.guides.length === 0 && content.venues.length === 0 && (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 py-20 text-center">
@@ -131,22 +204,50 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
 
       <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-14">
         <FAQSection items={getFAQForCategory(neighbourhood.name, content.categoryLabel, "neighbourhood")} />
-        <ExploreMore
-          links={[
-            ...NEIGHBOURHOOD_CATEGORY_SLUGS.filter((s) => s !== categorySlug).map((slug) => {
-              const cat = getCategoryBySlug(slug);
-              return { label: cat ? `${cat.label} in ${neighbourhood.name}` : slug, href: getNeighbourhoodCategoryPath(citySlug, neighbourhoodSlug, slug) };
-            }),
-            { label: neighbourhood.name, href: getNeighbourhoodPath(citySlug, neighbourhoodSlug) },
-            ...getGuidesByNeighbourhood(neighbourhoodSlug).slice(0, 3).map((g) => ({
-              label: g.title,
-              href: getGuidePath(citySlug, g.slug),
-            })),
-            { label: `${city.name} guide`, href: getCityPath(citySlug) },
-            { label: `Things to do in ${city.name}`, href: getCityCategoryPath(citySlug, "things-to-do") },
-          ]}
-        />
+        {seoEnabled && seoLinks ? (
+          <ExploreMore
+            heading="Plan your trip"
+            trackBlockType="plan_your_trip"
+            links={seoLinks.relatedBlocks.planYourTrip.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        ) : (
+          <ExploreMore
+            links={[
+              ...NEIGHBOURHOOD_CATEGORY_SLUGS.filter((s) => s !== categorySlug).map((slug) => {
+                const cat = getCategoryBySlug(slug);
+                return {
+                  label: cat ? `${cat.label} in ${neighbourhood.name}` : slug,
+                  href: getNeighbourhoodCategoryPath(citySlug, neighbourhoodSlug, slug),
+                };
+              }),
+              { label: neighbourhood.name, href: getNeighbourhoodPath(citySlug, neighbourhoodSlug) },
+              ...getGuidesByNeighbourhood(neighbourhoodSlug).slice(0, 3).map((g) => ({
+                label: g.title,
+                href: getGuidePath(citySlug, g.slug),
+              })),
+              { label: `${city.name} guide`, href: getCityPath(citySlug) },
+              { label: `Things to do in ${city.name}`, href: getCityCategoryPath(citySlug, "things-to-do") },
+            ]}
+          />
+        )}
       </section>
+      {seoEnabled && recentlyUpdated.length > 0 && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 pb-14">
+          <ExploreMore
+            heading="Recently updated"
+            trackBlockType="recently_updated"
+            links={recentlyUpdated.map((l) => ({
+              label: l.label,
+              href: l.href,
+              tier: l.tier,
+            }))}
+          />
+        </section>
+      )}
     </div>
   );
 }
