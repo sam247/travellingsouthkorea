@@ -50,11 +50,14 @@ export default function BreweryMapLeaflet({ markers, flyTarget }: Props) {
     markers.forEach((m) => {
       const color = REGION_COLORS[m.region] ?? "#6366f1";
       const marker = L.marker([m.lat, m.lng], { icon: makeIcon(color) }).addTo(map);
+      const directionsUrl = `https://map.naver.com/v5/directions/-/-/-/transit?c=${m.lng},${m.lat},15,0,0,0,dh`;
       marker.bindPopup(
-        `<div style="font-family:system-ui;min-width:160px">
+        `<div style="font-family:system-ui;min-width:180px">
           <strong style="font-size:14px">${m.name}</strong>
           <div style="color:#6b7280;font-size:12px;margin-top:2px">${m.region}</div>
           ${m.description ? `<div style="font-size:12px;margin-top:6px;color:#374151">${m.description}</div>` : ""}
+          ${m.address ? `<div style="font-size:11px;margin-top:6px;color:#6b7280">${m.address}</div>` : ""}
+          <a href="${directionsUrl}" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:8px;font-size:12px;font-weight:500;color:#2563eb;text-decoration:none">Get Directions →</a>
         </div>`
       );
     });

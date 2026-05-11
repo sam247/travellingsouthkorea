@@ -10,7 +10,20 @@ const STATIC_EXT =
 /** Legitimate crawlers — checked before block rules (many contain "bot"). */
 function isAllowlistedCrawler(userAgent: string): boolean {
   const ua = userAgent.toLowerCase();
-  return ua.includes("googlebot") || ua.includes("bingbot");
+  return (
+    ua.includes("googlebot") ||
+    ua.includes("bingbot") ||
+    ua.includes("ahrefsbot") ||
+    ua.includes("ahrefssiteaudit") ||
+    ua.includes("semrushbot") ||
+    ua.includes("dotbot") ||
+    ua.includes("screaming frog") ||
+    ua.includes("yandexbot") ||
+    ua.includes("slurp") ||
+    ua.includes("duckduckbot") ||
+    ua.includes("baiduspider") ||
+    ua.includes("dataforseo")
+  );
 }
 
 /** Obvious automation / scrapers — not exhaustive; keep checks cheap. */

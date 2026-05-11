@@ -10,6 +10,7 @@ export interface BreweryMarker {
   lng: number;
   region: string;
   description?: string;
+  address?: string;
 }
 
 const REGION_DOT_COLORS: Record<string, string> = {

@@ -17,19 +17,19 @@ import { BreweryMap, type BreweryMarker } from "@/components/BreweryMap";
 const BREWERY_MAP_SPLIT = "## The Korean Craft Renaissance: From Macro-Lagers to Micro-Brews";
 
 const BREWERY_MARKERS: BreweryMarker[] = [
-  { name: "Magpie Brewing Co.", lat: 37.5340, lng: 126.9870, region: "Seoul", description: "Pioneering pale ale taproom in Itaewon" },
-  { name: "The Booth", lat: 37.5345, lng: 126.9930, region: "Seoul", description: "From Gyeongnidan to nationwide acclaim" },
-  { name: "Amazing Brewing Company", lat: 37.5445, lng: 127.0560, region: "Seoul", description: "Cathedral-sized taproom in Seongsu" },
-  { name: "Seoul Brewery", lat: 37.5450, lng: 127.0540, region: "Seoul", description: "Technical precision meets modern design" },
-  { name: "Artmonster Brewery", lat: 37.5660, lng: 126.9920, region: "Seoul", description: "Neon-lit brewing in Hip-jiro / Euljiro" },
-  { name: "Euljiro Brewing", lat: 37.5665, lng: 126.9935, region: "Seoul", description: "Neighbourhood beer in old-Seoul alleys" },
-  { name: "Kiwa Taproom", lat: 37.5820, lng: 126.9850, region: "Seoul", description: "Craft beer in a traditional hanok house" },
-  { name: "Brew 3.14", lat: 37.5720, lng: 126.9770, region: "Seoul", description: "Intimate small-batch taproom" },
-  { name: "Ale Dang", lat: 37.5560, lng: 126.9230, region: "Seoul", description: "Cosy small-batch brews in a historic setting" },
-  { name: "Gorilla Brewing", lat: 35.1535, lng: 129.1185, region: "Busan", description: "Coastal stouts and IPAs near Gwangalli Beach" },
-  { name: "Wild Wave Brewing", lat: 35.1580, lng: 129.1600, region: "Busan", description: "Pioneers of the Korean sour beer scene" },
-  { name: "Budnamu Brewery", lat: 37.7510, lng: 128.8960, region: "Gangneung", description: "Pine-scented ales in a converted grain store" },
-  { name: "Magpie Jeju", lat: 33.4530, lng: 126.5700, region: "Jeju", description: "Farm brewery on the Island of the Gods" },
+  { name: "Magpie Brewing Co.", lat: 37.5340, lng: 126.9870, region: "Seoul", description: "Pioneering pale ale taproom in Itaewon", address: "244-1 Noksapyeong-daero, Yongsan-gu, Seoul" },
+  { name: "The Booth", lat: 37.5345, lng: 126.9930, region: "Seoul", description: "From Gyeongnidan to nationwide acclaim", address: "130 Itaewon-ro, Yongsan-gu, Seoul" },
+  { name: "Amazing Brewing Company", lat: 37.5445, lng: 127.0560, region: "Seoul", description: "Cathedral-sized taproom in Seongsu", address: "8 Seongsui-ro 10-gil, Seongdong-gu, Seoul" },
+  { name: "Seoul Brewery", lat: 37.5450, lng: 127.0540, region: "Seoul", description: "Technical precision meets modern design", address: "Seongsui-ro, Seongdong-gu, Seoul" },
+  { name: "Artmonster Brewery", lat: 37.5660, lng: 126.9920, region: "Seoul", description: "Neon-lit brewing in Hip-jiro / Euljiro", address: "Euljiro 3-ga, Jung-gu, Seoul" },
+  { name: "Euljiro Brewing", lat: 37.5665, lng: 126.9935, region: "Seoul", description: "Neighbourhood beer in old-Seoul alleys", address: "Euljiro 4-ga, Jung-gu, Seoul" },
+  { name: "Kiwa Taproom", lat: 37.5820, lng: 126.9850, region: "Seoul", description: "Craft beer in a traditional hanok house", address: "Bukchon-ro, Jongno-gu, Seoul" },
+  { name: "Brew 3.14", lat: 37.5720, lng: 126.9770, region: "Seoul", description: "Intimate small-batch taproom", address: "Gyeonghuigung-gil, Jongno-gu, Seoul" },
+  { name: "Ale Dang", lat: 37.5560, lng: 126.9230, region: "Seoul", description: "Cosy small-batch brews in a historic setting", address: "Mapo-gu, Seoul" },
+  { name: "Gorilla Brewing", lat: 35.1535, lng: 129.1185, region: "Busan", description: "Coastal stouts and IPAs near Gwangalli Beach", address: "Gwangalli-ro, Suyeong-gu, Busan" },
+  { name: "Wild Wave Brewing", lat: 35.1580, lng: 129.1600, region: "Busan", description: "Pioneers of the Korean sour beer scene", address: "Haeundae-gu, Busan" },
+  { name: "Budnamu Brewery", lat: 37.7510, lng: 128.8960, region: "Gangneung", description: "Pine-scented ales in a converted grain store", address: "Gyeonggang-ro, Gangneung-si, Gangwon-do" },
+  { name: "Magpie Jeju", lat: 33.4530, lng: 126.5700, region: "Jeju", description: "Farm brewery on the Island of the Gods", address: "Hallim-eup, Jeju-si, Jeju-do" },
 ];
 
 interface PageProps {
