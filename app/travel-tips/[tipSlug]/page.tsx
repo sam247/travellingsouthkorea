@@ -14,7 +14,7 @@ import { AdSenseUnit } from "@/components/analytics/AdSenseUnit";
 import { AD_SLOTS } from "@/lib/adsenseConfig";
 import { BreweryMap, type BreweryMarker } from "@/components/BreweryMap";
 
-const BREWERY_MAP_HEADING = "## Where to Find Every Brewery on the Map";
+const BREWERY_MAP_SPLIT = "## The Korean Craft Renaissance: From Macro-Lagers to Micro-Brews";
 
 const BREWERY_MARKERS: BreweryMarker[] = [
   { name: "Magpie Brewing Co.", lat: 37.5340, lng: 126.9870, region: "Seoul", description: "Pioneering pale ale taproom in Itaewon" },
@@ -125,27 +125,11 @@ export default async function TravelTipPage({ params }: PageProps) {
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
         <div className="prose prose-neutral dark:prose-invert max-w-none">
-          {tip.slug === "breweries-in-south-korea" && tip.content.includes(BREWERY_MAP_HEADING) ? (
+          {tip.slug === "breweries-in-south-korea" && tip.content.includes(BREWERY_MAP_SPLIT) ? (
             <>
-              {renderTipContent(tip.content.split(BREWERY_MAP_HEADING)[0])}
-              <h2 className="text-lg sm:text-xl font-bold text-foreground mt-8 mb-3">
-                Where to Find Every Brewery on the Map
-              </h2>
-              {renderTipContent(
-                tip.content
-                  .split(BREWERY_MAP_HEADING)[1]
-                  .split("\n\n")
-                  .slice(0, 2)
-                  .join("\n\n")
-              )}
+              {renderTipContent(tip.content.split(BREWERY_MAP_SPLIT)[0])}
               <BreweryMap markers={BREWERY_MARKERS} />
-              {renderTipContent(
-                tip.content
-                  .split(BREWERY_MAP_HEADING)[1]
-                  .split("\n\n")
-                  .slice(2)
-                  .join("\n\n")
-              )}
+              {renderTipContent(BREWERY_MAP_SPLIT + tip.content.split(BREWERY_MAP_SPLIT)[1])}
             </>
           ) : (
             renderTipContent(tip.content)
