@@ -12,6 +12,25 @@ import { resolveTravelTipHero, resolveTravelTipThumbnail } from "@/lib/resolveUn
 import { UnsplashAttributionLine } from "@/components/UnsplashAttribution";
 import { AdSenseUnit } from "@/components/analytics/AdSenseUnit";
 import { AD_SLOTS } from "@/lib/adsenseConfig";
+import { BreweryMap, type BreweryMarker } from "@/components/BreweryMap";
+
+const BREWERY_MAP_HEADING = "## Where to Find Every Brewery on the Map";
+
+const BREWERY_MARKERS: BreweryMarker[] = [
+  { name: "Magpie Brewing Co.", lat: 37.5340, lng: 126.9870, region: "Seoul", description: "Pioneering pale ale taproom in Itaewon" },
+  { name: "The Booth", lat: 37.5345, lng: 126.9930, region: "Seoul", description: "From Gyeongnidan to nationwide acclaim" },
+  { name: "Amazing Brewing Company", lat: 37.5445, lng: 127.0560, region: "Seoul", description: "Cathedral-sized taproom in Seongsu" },
+  { name: "Seoul Brewery", lat: 37.5450, lng: 127.0540, region: "Seoul", description: "Technical precision meets modern design" },
+  { name: "Artmonster Brewery", lat: 37.5660, lng: 126.9920, region: "Seoul", description: "Neon-lit brewing in Hip-jiro / Euljiro" },
+  { name: "Euljiro Brewing", lat: 37.5665, lng: 126.9935, region: "Seoul", description: "Neighbourhood beer in old-Seoul alleys" },
+  { name: "Kiwa Taproom", lat: 37.5820, lng: 126.9850, region: "Seoul", description: "Craft beer in a traditional hanok house" },
+  { name: "Brew 3.14", lat: 37.5720, lng: 126.9770, region: "Seoul", description: "Intimate small-batch taproom" },
+  { name: "Ale Dang", lat: 37.5560, lng: 126.9230, region: "Seoul", description: "Cosy small-batch brews in a historic setting" },
+  { name: "Gorilla Brewing", lat: 35.1535, lng: 129.1185, region: "Busan", description: "Coastal stouts and IPAs near Gwangalli Beach" },
+  { name: "Wild Wave Brewing", lat: 35.1580, lng: 129.1600, region: "Busan", description: "Pioneers of the Korean sour beer scene" },
+  { name: "Budnamu Brewery", lat: 37.7510, lng: 128.8960, region: "Gangneung", description: "Pine-scented ales in a converted grain store" },
+  { name: "Magpie Jeju", lat: 33.4530, lng: 126.5700, region: "Jeju", description: "Farm brewery on the Island of the Gods" },
+];
 
 interface PageProps {
   params: Promise<{ tipSlug: string }>;
@@ -106,7 +125,31 @@ export default async function TravelTipPage({ params }: PageProps) {
 
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
         <div className="prose prose-neutral dark:prose-invert max-w-none">
-          {renderTipContent(tip.content)}
+          {tip.slug === "breweries-in-south-korea" && tip.content.includes(BREWERY_MAP_HEADING) ? (
+            <>
+              {renderTipContent(tip.content.split(BREWERY_MAP_HEADING)[0])}
+              <h2 className="text-lg sm:text-xl font-bold text-foreground mt-8 mb-3">
+                Where to Find Every Brewery on the Map
+              </h2>
+              {renderTipContent(
+                tip.content
+                  .split(BREWERY_MAP_HEADING)[1]
+                  .split("\n\n")
+                  .slice(0, 2)
+                  .join("\n\n")
+              )}
+              <BreweryMap markers={BREWERY_MARKERS} />
+              {renderTipContent(
+                tip.content
+                  .split(BREWERY_MAP_HEADING)[1]
+                  .split("\n\n")
+                  .slice(2)
+                  .join("\n\n")
+              )}
+            </>
+          ) : (
+            renderTipContent(tip.content)
+          )}
         </div>
       </section>
 

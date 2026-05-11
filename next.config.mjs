@@ -38,6 +38,14 @@ const nextConfig = {
         source: "/top-pc-bang-internet-cafes-in-seoul-for-gaming",
         destination: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming",
       },
+      {
+        source: "/breweries-in-south-korea",
+        destination: "/travel-tips/breweries-in-south-korea",
+      },
+      {
+        source: "/what-is-maeshilju",
+        destination: "/travel-tips/what-is-maeshilju",
+      },
     ];
   },
 };
