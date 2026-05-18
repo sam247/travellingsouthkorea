@@ -137,6 +137,8 @@ export interface TravelTip {
   authorSlug: string;
   updatedDate: string;
   contentType: "travel-tip";
+  metaTitle?: string;
+  metaDescription?: string;
   /** In-content supporting images: e.g. /images/travel-tips/{slug}-1.jpg, -2.jpg */
   supportingImages?: string[];
   /** Public URL path for this tip (e.g. legacy ranking URL). Defaults to /travel-tips/{slug}. */

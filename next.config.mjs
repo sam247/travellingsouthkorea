@@ -16,7 +16,7 @@ const nextConfig = {
   },
   async redirects() {
     return [
-      { source: "/things-to-do-in-itaewon", destination: "/south-korea/seoul/guides/things-to-do-itaewon", permanent: true },
+      { source: "/things-to-do-in-itaewon", destination: "/south-korea/seoul/itaewon/category/things-to-do", permanent: true },
       { source: "/navigate-seoul-the-ultimate-mrt-map-guide", destination: "/travel-tips/seoul-subway-guide", permanent: true },
       { source: "/the-evolution-of-k-pop-a-journey-through-time", destination: "/travel-tips/k-pop-history", permanent: true },
       { source: "/10-most-handsome-kpop-male-idols-2025", destination: "/travel-tips/k-pop-male-idols", permanent: true },
@@ -27,6 +27,8 @@ const nextConfig = {
       { source: "/travel-tips/arex-train-schedule", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/arex-airport-train-guide", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/buying-bedding-in-south-korea", destination: "/buying-bedding-in-south-korea", permanent: true },
+      { source: "/travel-tips/seoul-subway-cheat-sheet", destination: "/seoul-subway-a-cheat-sheet", permanent: true },
+      { source: "/travel-tips/jeju-loveland", destination: "/jeju-loveland", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
     ];
   },
@@ -34,6 +36,8 @@ const nextConfig = {
     return [
       { source: "/arex-train-schedule", destination: "/travel-tips/arex-train-schedule" },
       { source: "/buying-bedding-in-south-korea", destination: "/travel-tips/buying-bedding-in-south-korea" },
+      { source: "/seoul-subway-a-cheat-sheet", destination: "/travel-tips/seoul-subway-cheat-sheet" },
+      { source: "/jeju-loveland", destination: "/travel-tips/jeju-loveland" },
       {
         source: "/top-pc-bang-internet-cafes-in-seoul-for-gaming",
         destination: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming",

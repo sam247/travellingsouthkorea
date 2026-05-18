@@ -42,11 +42,13 @@ export async function generateMetadata({ params }: PageProps) {
   if (!tip) return {};
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
   const canonical = base + getTravelTipPath(tipSlug);
+  const title = tip.metaTitle ?? `${tip.title} | Travel Tips | South Korea Travel`;
+  const description = tip.metaDescription ?? tip.summary;
   return {
-    title: `${tip.title} | Travel Tips | South Korea Travel`,
-    description: tip.summary,
+    title,
+    description,
     alternates: { canonical },
-    openGraph: { title: tip.title, description: tip.summary },
+    openGraph: { title, description },
   };
 }
 

@@ -17,3 +17,10 @@ Slug-based paths for content images. Missing files fall back to placeholder in U
 Prompts for batch generation: `data/imagePrompts.ts`
 
 **Generating the first 50 hero images:** Run `npm run generate-images` (or `npx tsx scripts/generateImages.ts --limit 50`). Requires `OPENAI_API_KEY` in the environment. The script skips any path that already has a file and writes new images under `public/images/`. Optional: `--types city,neighbourhood,guide,culture,cinema` to limit which content types to generate.
+
+## Unsplash manifest
+
+Some content types (cities, neighbourhoods, regions, venues) can use a committed Unsplash URL manifest instead of local files.
+
+- Generate/refresh: `npm run generate-unsplash-manifest` (requires `UNSPLASH_ACCESS_KEY`)
+- Validate: `npm run validate-images`

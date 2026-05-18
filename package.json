@@ -10,6 +10,8 @@
     "lint": "next lint",
     "generate-content": "tsx scripts/generateGuides.ts",
     "generate-images": "tsx scripts/generateImages.ts",
+    "generate-unsplash-manifest": "tsx scripts/generateUnsplashManifest.ts",
+    "validate-images": "tsx scripts/validateImages.ts",
     "seo:preview": "tsx scripts/seoRefactor.ts preview --limit 5",
     "seo:report": "tsx scripts/seoRefactor.ts report --out scripts/reports/seo-report.json",
     "seo:snapshot": "tsx scripts/seoRefactor.ts snapshot --out scripts/reports/seo-snapshot.json",

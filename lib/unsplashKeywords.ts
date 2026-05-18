@@ -100,3 +100,46 @@ export function buildSearchCategoryUnsplashQuery(
   const city = cityName?.trim() ?? "South Korea";
   return `${compactWords(title, 8)} ${city} travel`.trim();
 }
+
+export function buildCityUnsplashQuery(cityName: string): string {
+  const city = cityName.trim();
+  return `${city} skyline street South Korea`.trim();
+}
+
+export function buildRegionUnsplashQuery(regionName: string): string {
+  const region = regionName.trim();
+  return `${region} landscape nature South Korea`.trim();
+}
+
+export function buildNeighbourhoodUnsplashQuery(
+  cityName: string,
+  neighbourhoodName: string,
+  vibe?: string
+): string {
+  const city = cityName.trim();
+  const n = neighbourhoodName.trim();
+  const vibePart = vibe ? compactWords(vibe, 4) : "";
+  return [n, city, vibePart, "streets cafes nightlife", "South Korea"]
+    .filter(Boolean)
+    .join(" ")
+    .trim();
+}
+
+export function buildVenueUnsplashQuery(
+  venueName: string,
+  cityName: string,
+  category: string
+): string {
+  const city = cityName.trim();
+  const name = compactWords(venueName, 5);
+  const c = category.trim().toLowerCase();
+  const byCategory: Record<string, string> = {
+    bar: "bar cocktail nightlife interior",
+    club: "nightclub nightlife interior",
+    restaurant: "Korean restaurant food interior",
+    cafe: "cafe coffee interior",
+    attraction: "tourist attraction landmark",
+  };
+  const anchor = byCategory[c] ?? `${c} interior`;
+  return `${name} ${city} ${anchor} South Korea`.trim();
+}

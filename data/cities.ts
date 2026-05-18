@@ -1,7 +1,8 @@
 import type { City } from "@/types";
 import { getCityImagePath } from "@/lib/imagePaths";
+import { getManifestImageUrl } from "@/lib/unsplashManifest";
 
-export const cities: City[] = [
+const citiesBase: City[] = [
   // Metropolitan cities
   {
     slug: "seoul",
@@ -422,6 +423,11 @@ export const cities: City[] = [
     bestFor: ["nature", "hiking", "food"],
   },
 ];
+
+export const cities: City[] = citiesBase.map((c) => ({
+  ...c,
+  image: getManifestImageUrl(`city:${c.slug}`) ?? c.image,
+}));
 
 export const getCities = () => [...cities];
 

@@ -1,7 +1,8 @@
 import { getRegionImagePath } from "@/lib/imagePaths";
+import { getManifestImageUrl } from "@/lib/unsplashManifest";
 import type { Region } from "@/types";
 
-export const regions: Region[] = [
+const regionsBase: Region[] = [
   {
     slug: "seoul-metropolitan",
     name: "Seoul",
@@ -122,6 +123,11 @@ export const regions: Region[] = [
     citySlugs: ["jeju", "seogwipo"],
   },
 ];
+
+export const regions: Region[] = regionsBase.map((r) => ({
+  ...r,
+  image: getManifestImageUrl(`region:${r.slug}`) ?? r.image,
+}));
 
 export const getRegionBySlug = (slug: string) => regions.find((r) => r.slug === slug);
 

@@ -2,8 +2,13 @@ import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { GuideCard } from "@/components/GuideCard";
 import { VenueListCard } from "@/components/VenueListCard";
+import { TopHighlights } from "@/components/TopHighlights";
+import { GuidePageToc } from "@/components/GuidePageToc";
+import { GuideSidebarRelatedGuides } from "@/components/GuideSidebarRelatedGuides";
+import { GuideSidebarExplore } from "@/components/GuideSidebarExplore";
+import { GuideSidebarAdPlaceholder } from "@/components/GuideSidebarAdPlaceholder";
 import { getCityBySlug } from "@/data/cities";
-import { getNeighbourhoodBySlug } from "@/data/neighbourhoods";
+import { getNeighbourhoodBySlug, getNeighbourhoodsByCity } from "@/data/neighbourhoods";
 import { getCategoryBySlug } from "@/data/categories";
 import { ContentSection } from "@/components/ContentSection";
 import { FAQSection } from "@/components/FAQSection";
@@ -12,8 +17,11 @@ import { getFAQForCategory } from "@/lib/content/faqContent";
 import { getNeighbourhoodCategoryContent } from "@/lib/queries";
 import { breadcrumbsNeighbourhoodCategory } from "@/lib/breadcrumbs";
 import { getCategoryContentForNeighbourhood } from "@/lib/content/categoryContent";
+import { getTopHighlightsForCity } from "@/lib/content/cityContent";
 import { getGuidesByNeighbourhood } from "@/data/guides";
 import { getNeighbourhoodCategoryPath, getNeighbourhoodPath, getGuidePath, getCityPath, getCityCategoryPath } from "@/lib/canonical";
+import { SafeImage } from "@/components/SafeImage";
+import { AD_SLOTS } from "@/lib/adsenseConfig";
 import {
   buildAreaIntentSections,
   buildCategorySeoTitle,
@@ -118,6 +126,172 @@ export default async function NeighbourhoodCategoryPage({ params }: PageProps) {
       })
     : null;
   const recentlyUpdated = seoEnabled ? recentlyUpdatedSeoulLinks(8) : [];
+
+  if (categorySlug === "things-to-do") {
+    const cityNeighbourhoods = getNeighbourhoodsByCity(city.slug);
+    const tocItems = [
+      { id: "overview", label: "Overview" },
+      ...(content.guides.length > 0 ? [{ id: "guides", label: "Guides" }] : []),
+      ...(content.venues.length > 0 ? [{ id: "venues", label: "Venues" }] : []),
+      { id: "faq", label: "FAQs" },
+    ];
+    return (
+      <div className="min-h-screen bg-background">
+        <section className="relative h-[50vh] min-h-[350px] flex items-end overflow-hidden">
+          <SafeImage src={city.image} alt={`${neighbourhood.name} things to do`} fill className="object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent" />
+          <div className="relative z-10 max-w-7xl mx-auto w-full px-4 sm:px-6 pb-8 sm:pb-12">
+            <h1 className="text-3xl sm:text-5xl font-bold text-white">
+              Things to Do in {neighbourhood.name}
+            </h1>
+            <p className="mt-2 text-base sm:text-lg text-white/80 max-w-2xl font-editorial">
+              {neighbourhood.intro}
+            </p>
+          </div>
+        </section>
+
+        <div className="max-w-7xl mx-auto px-4 sm:px-6">
+          <div className="lg:grid lg:grid-cols-[1fr_300px] lg:gap-10 lg:items-start">
+            <div className="min-w-0 max-w-[760px]">
+              <section className="pt-6">
+                <Breadcrumbs items={breadcrumbItems} />
+              </section>
+
+              <div className="mt-10" id="overview">
+                <TopHighlights {...getTopHighlightsForCity(city, cityNeighbourhoods)} id="overview" />
+                {getCategoryContentForNeighbourhood(neighbourhood, city, category, content).map((section) => (
+                  <ContentSection key={section.heading} heading={section.heading} paragraphs={section.paragraphs} />
+                ))}
+                {seoIntentSections.map((section) => (
+                  <ContentSection key={section.heading} heading={section.heading} paragraphs={section.paragraphs} />
+                ))}
+                {seoEnabled && seoLinks && (
+                  <div className="mt-8">
+                    <ExploreMore
+                      heading="You might also like"
+                      trackBlockType="you_might_also_like"
+                      links={seoLinks.relatedBlocks.youMightAlsoLike.map((l) => ({
+                        label: l.label,
+                        href: l.href,
+                        tier: l.tier,
+                      }))}
+                    />
+                  </div>
+                )}
+              </div>
+
+              {content.guides.length > 0 && (
+                <section className="pb-14" id="guides">
+                  <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">Guides</h2>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+                    {content.guides.map((guide) => (
+                      <GuideCard key={guide.slug} guide={guide} />
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {content.venues.length > 0 && (
+                <section className="pb-14" id="venues">
+                  <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">Venues</h2>
+                  <div className="flex flex-col gap-3">
+                    {content.venues.map((v) => (
+                      <VenueListCard key={v.slug} venue={v} />
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {seoEnabled && seoLinks && (
+                <section className="pb-10">
+                  <ExploreMore
+                    heading="Nearby things to do"
+                    trackBlockType="nearby_things"
+                    links={seoLinks.relatedBlocks.nearbyThings.map((l) => ({
+                      label: l.label,
+                      href: l.href,
+                      tier: l.tier,
+                    }))}
+                  />
+                </section>
+              )}
+
+              <section className="pb-14" id="faq">
+                <FAQSection items={getFAQForCategory(neighbourhood.name, content.categoryLabel, "neighbourhood")} />
+                {seoEnabled && seoLinks ? (
+                  <ExploreMore
+                    heading="Plan your trip"
+                    trackBlockType="plan_your_trip"
+                    links={seoLinks.relatedBlocks.planYourTrip.map((l) => ({
+                      label: l.label,
+                      href: l.href,
+                      tier: l.tier,
+                    }))}
+                  />
+                ) : (
+                  <ExploreMore
+                    links={[
+                      ...NEIGHBOURHOOD_CATEGORY_SLUGS.filter((s) => s !== categorySlug).map((slug) => {
+                        const cat = getCategoryBySlug(slug);
+                        return {
+                          label: cat ? `${cat.label} in ${neighbourhood.name}` : slug,
+                          href: getNeighbourhoodCategoryPath(citySlug, neighbourhoodSlug, slug),
+                        };
+                      }),
+                      { label: neighbourhood.name, href: getNeighbourhoodPath(citySlug, neighbourhoodSlug) },
+                      ...getGuidesByNeighbourhood(neighbourhoodSlug).slice(0, 3).map((g) => ({
+                        label: g.title,
+                        href: getGuidePath(citySlug, g.slug),
+                      })),
+                      { label: `${city.name} guide`, href: getCityPath(citySlug) },
+                      { label: `Things to do in ${city.name}`, href: getCityCategoryPath(citySlug, "things-to-do") },
+                    ]}
+                  />
+                )}
+              </section>
+
+              {seoEnabled && recentlyUpdated.length > 0 && (
+                <section className="pb-14">
+                  <ExploreMore
+                    heading="Recently updated"
+                    trackBlockType="recently_updated"
+                    links={recentlyUpdated.map((l) => ({
+                      label: l.label,
+                      href: l.href,
+                      tier: l.tier,
+                    }))}
+                  />
+                </section>
+              )}
+
+              <div className="lg:hidden mt-10">
+                <GuideSidebarRelatedGuides guides={content.guides} getGuidePath={getGuidePath} citySlug={city.slug} />
+                <GuideSidebarExplore
+                  city={city}
+                  neighbourhoods={cityNeighbourhoods}
+                  getNeighbourhoodPath={getNeighbourhoodPath}
+                  getCityCategoryPath={getCityCategoryPath}
+                />
+              </div>
+            </div>
+
+            <aside className="hidden lg:block sticky top-8 space-y-6" aria-label="Page navigation and related links">
+              <GuidePageToc items={tocItems} />
+              <GuideSidebarRelatedGuides guides={content.guides} getGuidePath={getGuidePath} citySlug={city.slug} />
+              <GuideSidebarExplore
+                city={city}
+                neighbourhoods={cityNeighbourhoods}
+                getNeighbourhoodPath={getNeighbourhoodPath}
+                getCityCategoryPath={getCityCategoryPath}
+              />
+              <GuideSidebarAdPlaceholder slot={AD_SLOTS.square} />
+              <GuideSidebarAdPlaceholder slot={AD_SLOTS.vertical} />
+            </aside>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-background">

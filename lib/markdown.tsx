@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
+import { ChevronDown } from "lucide-react";
 
 function renderInlineBold(text: string): ReactNode[] {
   const parts = text.split(/(\*\*[^*]+\*\*)/g);
@@ -67,6 +68,7 @@ export function renderTipContent(content: string): ReactNode[] {
   const lines = content.split("\n");
   const elements: React.ReactNode[] = [];
   let i = 0;
+  let inFaqSection = false;
 
   while (i < lines.length) {
     const line = lines[i];
@@ -83,17 +85,49 @@ export function renderTipContent(content: string): ReactNode[] {
         </figure>
       );
     } else if (trimmed.startsWith("## ")) {
+      inFaqSection = /faq/i.test(trimmed.slice(3));
       elements.push(
         <h2 key={i} className="text-lg sm:text-xl font-bold text-foreground mt-8 mb-3">
           {trimmed.slice(3)}
         </h2>
       );
     } else if (trimmed.startsWith("### ")) {
+      if (inFaqSection) {
+        const question = trimmed.slice(4);
+        const answerLines: string[] = [];
+        let j = i + 1;
+        while (j < lines.length) {
+          const t = lines[j].trim();
+          if (t.startsWith("## ") || t.startsWith("### ")) break;
+          if (t.length > 0) answerLines.push(t);
+          j++;
+        }
+        elements.push(
+          <details
+            key={`faq-${i}`}
+            className="group not-prose rounded-xl border border-border bg-background/50 mb-3"
+          >
+            <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-4 py-3 [&::-webkit-details-marker]:hidden">
+              <span className="text-sm sm:text-base font-semibold text-foreground">
+                {question}
+              </span>
+              <ChevronDown className="h-4 w-4 text-muted-foreground transition-transform group-open:rotate-180" />
+            </summary>
+            <div className="px-4 pb-4 text-sm sm:text-base text-muted-foreground leading-relaxed space-y-3">
+              {answerLines.map((t, k) => (
+                <p key={`${i}-a-${k}`}>{renderInlineFormatting(t)}</p>
+              ))}
+            </div>
+          </details>
+        );
+        i = j - 1;
+      } else {
       elements.push(
         <h3 key={i} className="text-base sm:text-lg font-semibold text-foreground mt-6 mb-2">
           {trimmed.slice(4)}
         </h3>
       );
+      }
     } else if (trimmed.startsWith("- **")) {
       const match = trimmed.match(/^- \*\*(.+?)\*\*\s*[—–-]\s*(.+)$/);
       if (match) {

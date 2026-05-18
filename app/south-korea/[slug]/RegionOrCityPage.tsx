@@ -32,7 +32,14 @@ import {
   getBudgetGuideForCity,
   getLocalEtiquetteForCity,
 } from "@/lib/content/insights";
-import { getCityCategoryPath, getMapPath, getNeighbourhoodPath, getGuidePath, getItineraryPath } from "@/lib/canonical";
+import {
+  getCityCategoryPath,
+  getMapPath,
+  getNeighbourhoodPath,
+  getGuidePath,
+  getItineraryPath,
+  getTravelTipPath,
+} from "@/lib/canonical";
 import { getCitiesByRegion } from "@/data/cities";
 import { getGuidesByCity } from "@/data/guides";
 import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
@@ -366,6 +373,17 @@ export function RegionOrCityPage({
                       label: i.title,
                       href: getItineraryPath(i.slug),
                     })),
+                    ...(city.slug === "jeju"
+                      ? [{ label: "Jeju Loveland", href: getTravelTipPath("jeju-loveland") }]
+                      : []),
+                    ...(city.slug === "seoul"
+                      ? [
+                          {
+                            label: "Seoul subway cheat sheet",
+                            href: getTravelTipPath("seoul-subway-cheat-sheet"),
+                          },
+                        ]
+                      : []),
                     { label: "Things to do", href: getCityCategoryPath(city.slug, "things-to-do") },
                     { label: "Nightlife", href: getCityCategoryPath(city.slug, "nightlife") },
                     { label: "Restaurants", href: getCityCategoryPath(city.slug, "restaurants") },

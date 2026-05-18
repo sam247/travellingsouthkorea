@@ -1,7 +1,8 @@
 import type { Venue } from "@/types";
 import { getVenueImagePath } from "@/lib/imagePaths";
+import { getManifestImageUrl } from "@/lib/unsplashManifest";
 
-export const venues: Venue[] = [
+const venuesBase: Venue[] = [
   {
     slug: "cafe-abyss",
     name: "Café Abyss",
@@ -270,6 +271,11 @@ export const venues: Venue[] = [
   { slug: "gangneung-odaesan", name: "Odaesan National Park", citySlug: "gangneung", category: "attraction", image: getVenueImagePath("gangneung-odaesan"), description: "Mountain park with temples and trails.", address: "Jinbu-myeon", priceLevel: "₩", openingHours: "Sunrise – Sunset", overview: "Woljeongsa and hiking.", whyVisit: "Nature and temples.", tips: [], lat: 37.7850, lng: 128.6020, contentType: "venue" },
   { slug: "gangneung-chodang-tofu", name: "Chodang Tofu Village", citySlug: "gangneung", category: "restaurant", image: getVenueImagePath("gangneung-chodang-tofu"), description: "Famous soft tofu in Gangneung.", address: "Chodang-dong", priceLevel: "₩₩", openingHours: "10 AM – 8 PM", overview: "Silken tofu and seafood.", whyVisit: "Gangneung specialty.", tips: [], lat: 37.7520, lng: 128.8950, contentType: "venue" },
 ];
+
+export const venues: Venue[] = venuesBase.map((v) => ({
+  ...v,
+  image: getManifestImageUrl(`venue:${v.slug}`) ?? v.image,
+}));
 
 export const getVenueBySlug = (slug: string) => venues.find((v) => v.slug === slug);
 export const getVenuesByCity = (citySlug: string) =>

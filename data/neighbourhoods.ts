@@ -1,7 +1,8 @@
 import type { Neighbourhood } from "@/types";
 import { getNeighbourhoodImagePath } from "@/lib/imagePaths";
+import { getManifestImageUrl } from "@/lib/unsplashManifest";
 
-export const neighbourhoods: Neighbourhood[] = [
+const neighbourhoodsBase: Neighbourhood[] = [
   // ——— Popular Seoul neighbourhoods (existing + new) ———
   {
     slug: "itaewon",
@@ -490,6 +491,11 @@ export const neighbourhoods: Neighbourhood[] = [
     priceRange: "₩ – ₩₩",
   },
 ];
+
+export const neighbourhoods: Neighbourhood[] = neighbourhoodsBase.map((n) => ({
+  ...n,
+  image: getManifestImageUrl(`neighbourhood:${n.citySlug}:${n.slug}`) ?? n.image,
+}));
 
 export const getNeighbourhoodBySlug = (slug: string) =>
   neighbourhoods.find((n) => n.slug === slug);

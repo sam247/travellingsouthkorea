@@ -26,7 +26,14 @@ import {
   getAuthorPerspective,
 } from "@/lib/content/insights";
 import { breadcrumbsItinerary } from "@/lib/breadcrumbs";
-import { getItineraryPath, getGuidePath, getCityCategoryPath, getCityPath, getNeighbourhoodPath } from "@/lib/canonical";
+import {
+  getItineraryPath,
+  getGuidePath,
+  getCityCategoryPath,
+  getCityPath,
+  getNeighbourhoodPath,
+  getTravelTipPath,
+} from "@/lib/canonical";
 import { getItinerarySupportingImagePath } from "@/lib/imagePaths";
 import { ContentSection } from "@/components/ContentSection";
 
@@ -187,6 +194,17 @@ export default async function ItineraryPage({ params }: PageProps) {
               label: n.name,
               href: getNeighbourhoodPath(itinerary.citySlug, n.slug),
             })),
+            ...(itinerary.citySlug === "jeju"
+              ? [{ label: "Jeju Loveland", href: getTravelTipPath("jeju-loveland") }]
+              : []),
+            ...(itinerary.citySlug === "seoul"
+              ? [
+                  {
+                    label: "Seoul subway cheat sheet",
+                    href: getTravelTipPath("seoul-subway-cheat-sheet"),
+                  },
+                ]
+              : []),
             { label: `${city?.name ?? itinerary.citySlug} guide`, href: getCityPath(itinerary.citySlug) },
             { label: "Things to do", href: getCityCategoryPath(itinerary.citySlug, "things-to-do") },
             { label: "Nightlife", href: getCityCategoryPath(itinerary.citySlug, "nightlife") },

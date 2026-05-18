@@ -31,7 +31,13 @@ import { getTravelTipsForGuide, getAuthorPerspective } from "@/lib/content/insig
 import { getCityBySlug } from "@/data/cities";
 import { guides } from "@/data/guides";
 import { breadcrumbsGuide, breadcrumbsCityGuide } from "@/lib/breadcrumbs";
-import { getGuidePath, getNeighbourhoodPath, getCityCategoryPath, getCityPath } from "@/lib/canonical";
+import {
+  getGuidePath,
+  getNeighbourhoodPath,
+  getCityCategoryPath,
+  getCityPath,
+  getTravelTipPath,
+} from "@/lib/canonical";
 import {
   getProgrammaticGuideSpec,
   buildProgrammaticGuide,
@@ -350,6 +356,17 @@ export default async function GuidePage({ params }: PageProps) {
               })),
               ...(guide.neighbourhoodSlug
                 ? [{ label: guide.neighbourhood, href: getNeighbourhoodPath(citySlug, guide.neighbourhoodSlug) }]
+                : []),
+              ...(citySlug === "jeju"
+                ? [{ label: "Jeju Loveland", href: getTravelTipPath("jeju-loveland") }]
+                : []),
+              ...(citySlug === "seoul"
+                ? [
+                    {
+                      label: "Seoul subway cheat sheet",
+                      href: getTravelTipPath("seoul-subway-cheat-sheet"),
+                    },
+                  ]
                 : []),
               { label: "Things to do", href: getCityCategoryPath(citySlug, "things-to-do") },
               { label: "Nightlife", href: getCityCategoryPath(citySlug, "nightlife") },

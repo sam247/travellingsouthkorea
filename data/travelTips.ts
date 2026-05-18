@@ -15,14 +15,13 @@ export const travelTips: TravelTip[] = [
   {
     slug: "seoul-subway-guide",
     title: "How To Use The Seoul Subway",
-    image: getTravelTipImagePath("seoul-subway-guide"),
-    supportingImages: supportingImages("seoul-subway-guide"),
+    image: "/images/blogs/subway/ks-kyung-XLGLgGcnkf8-unsplash.jpg",
     summary: "Everything you need to know about navigating Seoul's metro system — apps, etiquette and tips.",
     content: `**Quick summary:** Get a T-Money card, use Naver Map for directions, and avoid rush hour if you can. The subway is safe, clean and the fastest way to get around Seoul.
 
 ## Seoul's Subway Is Your Best Friend
 
-Seoul's subway system is one of the best in the world. Clean, punctual, cheap and easy to navigate — even if you don't speak Korean. Here's everything you need to know.
+Seoul's subway system is one of the best in the world. Clean, punctual, cheap and easy to navigate — even if you don't speak Korean. Here's everything you need to know. If you want the fastest overview version, use our [Seoul subway cheat sheet](/seoul-subway-a-cheat-sheet).
 
 ## Getting a T-Money Card
 
@@ -61,10 +60,111 @@ A single journey starts at ₩1,350 with a T-Money card. Transfers between subwa
     contentType: "travel-tip",
   },
   {
+    slug: "seoul-subway-cheat-sheet",
+    title: "Seoul Subway Cheat Sheet: How To Travel Quickly, Cheaply and Efficiently",
+    image: "/images/blogs/subway/ks-kyung-XLGLgGcnkf8-unsplash.jpg",
+    canonicalPath: "/seoul-subway-a-cheat-sheet",
+    metaTitle: "Seoul Subway Cheat Sheet: The Fastest Way to Travel Around Seoul",
+    metaDescription:
+      "Use this Seoul subway cheat sheet to travel quickly, cheaply, and efficiently with map tips, fare basics, transfer advice, and traveler-friendly route planning.",
+    summary:
+      "A quick, traveller-friendly Seoul subway cheat sheet: fares, T-money basics, map tips, transfers, and the best neighbourhoods to reach by metro.",
+    content: `Seoul’s subway is one of the best ways to move around the city because it is fast, affordable, and reliable. For travellers, it removes the stress of traffic and makes it easy to reach major neighbourhoods, shopping areas, and attractions without needing to rely on taxis.
+
+This cheat sheet is designed to help visitors use the Seoul subway with confidence. If you are planning a trip to South Korea and want the quickest, cheapest way to get across the city, the subway is usually the smartest choice. For the longer, detailed version, see our full guide on [how to use the Seoul subway](/travel-tips/seoul-subway-guide).
+
+![Seoul subway map](/images/blogs/subway/seoul_map.jpg)
+
+## Why The Seoul Subway Is So Useful
+
+The Seoul subway covers a huge part of the city and connects many of the places visitors actually want to see. Whether you are heading to [Myeongdong](/south-korea/seoul/guides/best-street-food-myeongdong), [Hongdae](/south-korea/seoul/guides/best-bars-hongdae), [Gangnam](/south-korea/seoul/guides/cafes-gangnam), Dongdaemun, or Jamsil, there is usually a direct or easy-transfer route.
+
+It is especially useful if you want to save money and time. Compared with taxis, the subway is much cheaper, and compared with buses, it is often easier to follow for first-time visitors because routes are clearly marked and stations are numbered.
+
+## How To Pay For The Subway
+
+The easiest way to ride the Seoul subway is with a rechargeable transport card such as T-money. This makes entering and exiting stations much faster than buying a single ticket every time. If you want a full breakdown (where to buy, how to top up, refunds), use our [T-money card guide](/travel-tips/t-money-card-guide).
+
+Single-use tickets are available too, but they are less convenient if you plan to make more than one or two journeys. For most travellers, a transport card is the simplest and most efficient option.
+
+## How To Read The Subway Map
+
+At first glance, the Seoul subway map can look intimidating because there are so many lines and intersections. The good news is that the system becomes much easier once you focus on three things: line colour, station number, and transfer point.
+
+Each line has its own colour, which makes it easier to follow visually. Station numbers also help you confirm you are heading in the right direction, and transfer stations are clearly marked so you can change lines without guesswork.
+
+## The Fastest Way To Use The Subway
+
+The fastest subway journeys are usually the ones with the fewest transfers. If you can stay on one line, that is usually better than switching lines multiple times, even if the route looks slightly longer on the map.
+
+It also helps to plan by neighbourhood rather than by exact station alone. Many of Seoul’s best-known areas are linked closely enough that one smart transfer can save a lot of time.
+
+## Subway Transfer Tips
+
+Transfers are a normal part of using the Seoul subway, and they are usually easy once you understand the signs. The most important rule is to stay inside the paid area until you are done with your journey, unless you actually want to exit the station.
+
+When transferring, follow the coloured signs for your next line and pay attention to platform direction. A small amount of route planning before you leave your hotel can save a lot of confusion once you are underground.
+
+## Budget Travel Tip
+
+If you are trying to travel cheaply in Seoul, the subway is almost always the best option. The fare is low, the network is extensive, and the system is built for fast city movement.
+
+This is especially useful for travellers staying several days in the city. If you use the subway for sightseeing, shopping, dining, and airport connections, the savings compared with taxis can be significant. For airport transfers, also see [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul).
+
+## Best Areas To Reach By Subway
+
+Some of the easiest and most useful parts of Seoul to reach by subway include:
+
+- Myeongdong for shopping and street food.
+- Hongdae for nightlife, cafés, and younger energy.
+- Gangnam for business, dining, and modern city life.
+- Dongdaemun for fashion, markets, and late-night shopping.
+- Jamsil for major landmarks, malls, and sports venues.
+
+These areas are all visitor-friendly and make a strong base for first-time travellers who want to explore efficiently.
+
+## How To Travel Faster
+
+The best way to travel faster is to combine the subway map with a route planning app before you leave. That lets you check transfers, station exits, and journey times in advance.
+
+You should also avoid peak commuting periods when possible, because trains can be crowded. If your schedule is flexible, travelling a little earlier or later can make the trip much more comfortable.
+
+## Why The Seoul Subway Is Great For Tourists
+
+For tourists, the subway is one of the easiest ways to build a flexible itinerary. You can visit multiple neighbourhoods in one day without worrying about traffic, parking, or unpredictable taxi costs.
+
+It is also a good choice for travellers who want independence. Once you understand the map and the payment system, you can move around Seoul with very little effort.
+
+## Seoul Subway FAQs
+
+### What is the easiest way to use the Seoul subway?
+
+The easiest way is to use a rechargeable transport card and follow the line colours, station numbers, and transfer signs.
+
+### Is the Seoul subway cheap for tourists?
+
+Yes, it is one of the cheapest and most efficient ways to travel around the city.
+
+### Do I need a transport card for the Seoul subway?
+
+You do not strictly need one, but a transport card is much faster and more convenient than using single-use tickets.
+
+### Is the Seoul subway easy for first-time visitors?
+
+Yes, once you understand the colour-coded lines and station numbers, it becomes very easy to use.
+
+### What areas of Seoul are best reached by subway?
+
+Popular areas like Myeongdong, Hongdae, Gangnam, Dongdaemun, and Jamsil are all easy to reach by subway.`,
+    tags: ["Transport", "Subway", "Seoul", "Practical"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-05-18",
+    contentType: "travel-tip",
+  },
+  {
     slug: "incheon-airport-to-seoul",
     title: "How To Get From Incheon Airport To Seoul",
-    image: getTravelTipImagePath("incheon-airport-to-seoul"),
-    supportingImages: supportingImages("incheon-airport-to-seoul"),
+    image: "/images/blogs/arex/seoul-airport-express-train-13.jpg",
     summary: "AREX, bus, taxi or KTX — the best ways to get from Incheon Airport to central Seoul.",
     content: `**Pro tip:** For most travellers, the AREX Express to Seoul Station is the best balance of speed and cost. Book nothing in advance — just buy at the station.
 
@@ -101,8 +201,7 @@ Take the AREX Express to Seoul Station, then transfer to the subway. It's the fa
   {
     slug: "t-money-card-guide",
     title: "T-Money Card Guide",
-    image: getTravelTipImagePath("t-money-card-guide"),
-    supportingImages: supportingImages("t-money-card-guide"),
+    image: "/images/blogs/subway/ks-kyung-XLGLgGcnkf8-unsplash.jpg",
     summary: "How to buy, load and use Korea's essential transport card for subway, bus and taxis.",
     content: `**Quick summary:** Buy at any convenience store or airport, load ₩10,000–30,000 for a few days, and tap on every subway and bus. Refund leftover credit before you leave.
 
@@ -139,8 +238,7 @@ If you have a compatible phone, you can use the T-Money app instead of a physica
   {
     slug: "sim-cards-korea",
     title: "SIM Cards & WiFi In Korea",
-    image: getTravelTipImagePath("sim-cards-korea"),
-    supportingImages: supportingImages("sim-cards-korea"),
+    image: "/images/hero/hero-south-korea.jpg",
     summary: "Prepaid SIM cards, eSIMs and portable WiFi — staying connected in South Korea.",
     content: `**Pro tip:** An eSIM bought before you fly is the smoothest option — you land with data and no queue. Free WiFi is everywhere, but having your own data makes maps and translation hassle-free.
 
@@ -939,6 +1037,94 @@ The Korean craft beer scene has transformed from an overlooked market into a vib
     tags: ["Beer", "Craft Beer", "Seoul", "Busan", "Jeju", "Nightlife", "Food"],
     authorSlug: "james-jeong",
     updatedDate: "2026-05-11",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "jeju-loveland",
+    title: "Jeju Loveland: A Unique Adult Attraction on Jeju Island",
+    image: "/images/blogs/loveland/loveland.jpg",
+    canonicalPath: "/jeju-loveland",
+    metaTitle: "Jeju Loveland Guide: South Korea’s Most Unusual Adult Sculpture Park",
+    metaDescription:
+      "Discover Jeju Loveland in South Korea, an adult-themed sculpture park on Jeju Island known for bold art, quirky attractions, and a truly unique travel experience.",
+    summary:
+      "Jeju Loveland is an adult-themed sculpture park on Jeju Island known for bold erotic art, playful installations, and an offbeat travel experience.",
+    content: `Jeju Loveland is one of the most unusual attractions in South Korea, and it has become a must-see for travellers who want something bold, memorable, and completely different from the usual temple, museum, or beach stop. Located on [Jeju Island](/south-korea/jeju), this outdoor sculpture park is known for its erotic art, playful installations, and open celebration of human sexuality through creative expression.
+
+For many visitors, Jeju Loveland is less about shock value and more about curiosity. It offers a rare example of a travel attraction that mixes humour, art, and cultural commentary in a way that feels distinctly local. If you are planning a Jeju Island itinerary (for example, a [2-day Jeju itinerary](/itineraries/2-days-in-jeju)) and want to include one truly unforgettable stop, this is the one that stands out.
+
+## What Is Jeju Loveland?
+
+Jeju Loveland is an adult sculpture park built around erotic and sensual art. Instead of traditional monuments or landscape displays, the park features sculptures and installations that present sexuality in a humorous, artistic, and visually striking way. It is designed for adults and is not generally considered suitable for children.
+
+The attraction has earned a reputation as one of the most talked-about places on Jeju Island because it is so unlike the typical sightseeing experience. While Jeju is famous for beaches, volcanic scenery, and natural landmarks, Jeju Loveland adds a completely different layer to the island’s tourism appeal.
+
+## Why Jeju Loveland Is So Popular
+
+Jeju Loveland is popular because it surprises people. Travellers often expect Jeju Island to be all about scenic drives, waterfalls, lava tubes, and coastal views, then suddenly find an attraction that is bold, cheeky, and highly original. That contrast is part of its charm.
+
+It is also widely shared online because it makes for a memorable travel story. Visitors often include it in “weirdest places in South Korea” lists or “unique things to do in Jeju” roundups. For content creators, it is an especially strong topic because it naturally attracts curiosity-driven search traffic.
+
+## What To Expect During Your Visit
+
+A visit to Jeju Loveland is generally short and easy to fit into a half-day itinerary. The park is outdoor-based, so you can walk through the displays at your own pace and take in the sculptures without needing a long time commitment.
+
+The experience is playful, explicit, and intentionally provocative, but it is presented more as art than as a crude novelty attraction. That said, it is still an adult-themed venue, so travellers should go in with the right expectations and avoid bringing anyone who may be uncomfortable with sexual imagery.
+
+## Is Jeju Loveland Worth Visiting?
+
+If you enjoy unusual attractions, yes. Jeju Loveland is one of the most distinctive places in South Korea, and it offers a travel experience that is genuinely different from the standard itinerary.
+
+If you prefer traditional sightseeing, it may not be essential. But for travellers who like quirky museums, unusual sculpture parks, and offbeat cultural stops, it is one of the most memorable things to do on Jeju Island.
+
+## Best Time To Visit Jeju Loveland
+
+Jeju Island is a year-round destination, but spring and autumn are often the easiest seasons for sightseeing because the weather is more comfortable for exploring the island overall. Since Jeju Loveland is typically part of a broader Jeju itinerary, it makes sense to visit when you can also enjoy the island’s other outdoor attractions (like the [Jeju waterfalls guide](/south-korea/jeju/guides/jeju-waterfalls)).
+
+Summer can be busy and warm, while winter may be quieter but less ideal for long days of travel. If you are building a road trip or a multi-stop day around Jeju, any season with mild weather will make the overall experience smoother.
+
+## How To Add It To A Jeju Itinerary
+
+Jeju Loveland works best as a short stop rather than the centrepiece of your day. You can pair it with coastal drives, local food stops, or one of Jeju’s many scenic natural attractions.
+
+That balance is what makes the attraction useful in travel planning. It gives your itinerary some personality while still leaving plenty of time for the island’s better-known landscapes, beaches, and hiking spots.
+
+## Travel Tips For Visitors
+
+Go with an open mind and the right audience. The attraction is adult-themed, so it is best suited to couples, solo travellers, or adult groups who are comfortable with the concept.
+
+It is also smart to combine it with other Jeju attractions so the visit feels more worthwhile. Since the park is relatively compact, you will get the most value by treating it as one stop in a fuller island day rather than a standalone outing.
+
+## Why It Works For SEO
+
+Jeju Loveland is a strong SEO topic because it combines a unique place name with high-interest search intent. People search for things like “unique places in South Korea,” “Jeju Island attractions,” and “what is Jeju Loveland,” which means the topic naturally supports discoverability.
+
+The best search angle is to position it as an unusual adult attraction on Jeju Island with travel context. That gives the article both curiosity appeal and practical value.
+
+## Jeju Loveland FAQs
+
+### What is Jeju Loveland?
+
+Jeju Loveland is an adult sculpture park on Jeju Island, South Korea, known for erotic art and playful installations.
+
+### Is Jeju Loveland suitable for children?
+
+No, it is an adult-themed attraction and is generally not suitable for children.
+
+### How long do you need at Jeju Loveland?
+
+Most visitors spend a short amount of time there, making it easy to include in a half-day Jeju itinerary.
+
+### Is Jeju Loveland worth visiting?
+
+Yes, if you enjoy unusual, quirky, and offbeat attractions. It is one of the most distinctive stops on Jeju Island.
+
+### Where is Jeju Loveland located?
+
+It is located on Jeju Island in South Korea.`,
+    tags: ["Jeju", "Attractions", "Art", "Unusual", "Travel Guide"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-05-18",
     contentType: "travel-tip",
   },
   {
