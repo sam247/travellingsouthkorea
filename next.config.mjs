@@ -29,6 +29,7 @@ const nextConfig = {
       { source: "/travel-tips/buying-bedding-in-south-korea", destination: "/buying-bedding-in-south-korea", permanent: true },
       { source: "/travel-tips/seoul-subway-cheat-sheet", destination: "/seoul-subway-a-cheat-sheet", permanent: true },
       { source: "/travel-tips/jeju-loveland", destination: "/jeju-loveland", permanent: true },
+      { source: "/travel-tips/how-bad-is-air-quality-in-south-korea", destination: "/how-bad-is-air-quality-in-south-korea", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
     ];
   },
@@ -49,6 +50,10 @@ const nextConfig = {
       {
         source: "/what-is-maeshilju",
         destination: "/travel-tips/what-is-maeshilju",
+      },
+      {
+        source: "/how-bad-is-air-quality-in-south-korea",
+        destination: "/travel-tips/how-bad-is-air-quality-in-south-korea",
       },
     ];
   },
