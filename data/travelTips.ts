@@ -109,7 +109,7 @@ When transferring, follow the coloured signs for your next line and pay attentio
 
 If you are trying to travel cheaply in Seoul, the subway is almost always the best option. The fare is low, the network is extensive, and the system is built for fast city movement.
 
-This is especially useful for travellers staying several days in the city. If you use the subway for sightseeing, shopping, dining, and airport connections, the savings compared with taxis can be significant. For airport transfers, also see [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul).
+This is especially useful for travellers staying several days in the city. If you use the subway for sightseeing, shopping, dining, and airport connections, the savings compared with taxis can be significant. For airport transfers, also see [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul). If you are budgeting in pounds, dollars, or euros, exchange rates matter too — see [Korean won currency ETFs: a traveller’s overview](/travel-tips/korean-won-etf-guide).
 
 ## Best Areas To Reach By Subway
 
@@ -229,7 +229,9 @@ You can get remaining credit refunded (minus ₩500 fee) at convenience stores o
 
 ## Mobile T-Money
 
-If you have a compatible phone, you can use the T-Money app instead of a physical card. Works with NFC on most Android phones. iPhone support is limited.`,
+If you have a compatible phone, you can use the T-Money app instead of a physical card. Works with NFC on most Android phones. iPhone support is limited.
+
+If you are planning a bigger trip budget from abroad, it helps to understand how won strength can change costs over time — see [Korean won currency ETFs: a traveller’s overview](/travel-tips/korean-won-etf-guide).`,
     tags: ["Transport", "Money", "Practical"],
     authorSlug: "mina-park",
     updatedDate: "2026-02-25",
@@ -818,21 +820,138 @@ For gamers, it's one of the most memorable things you can do in the city. For cu
     image: getTravelTipImagePath("korean-won-etf-guide"),
     supportingImages: supportingImages("korean-won-etf-guide"),
     summary: "What travellers should know about the Korean won, exchange rates and currency-focused ETFs.",
-    content: `**Quick summary:** Use ATMs or banks in Korea for better rates; carry some cash for markets and small vendors. Cards work almost everywhere in cities. Currency ETFs are for investors, not day-to-day travel.
+    content: `**Quick summary:** Korean won strength changes what your South Korea trip costs in real terms. Currency ETFs are mainly for investors, but the exchange-rate lesson is useful for travellers budgeting from abroad.
 
-## The Korean Won (KRW)
+If you are planning a trip to South Korea, the Korean won is one of the most important things to understand before you go. Even if you never buy an investment product in your life, the strength or weakness of the won can affect everything from hotel prices and restaurant bills to how far your budget stretches once you land in Seoul, Busan, Jeju, or beyond.
 
-The South Korean won (₩) is the official currency. For travellers, exchanging at banks or ATMs in Korea usually gives better rates than at home. T-Money and cards cover most transport and shopping; carry some cash for markets and small vendors.
+That is where Korean won currency ETFs enter the conversation. These funds are not travel products in the usual sense, but they can help investors, expats, and frequent visitors understand how currency movements affect the real cost of South Korea. For travellers, they are best thought of as a background concept rather than something to actively buy for a holiday. Still, if you spend time researching South Korea travel costs, exchange rates, or long-stay budgeting, it helps to know what these funds are, how they work, and why they sometimes matter.
 
-## Currency and Travel
+In this guide, we will break down Korean won currency ETFs in plain English, explain the difference between hedged and unhedged exposure, and show why the won’s movement can influence your travel budget. We will also look at the types of ETFs most commonly used for Korea exposure, what they mean for travellers, and when they are relevant to anyone planning a trip.
 
-- **ATMs:** Many accept international cards; look for "Global ATM" or "International" stickers. Withdrawal limits and fees vary.
-- **Cards:** Visa and Mastercard are widely accepted in cities. American Express less so.
-- **Cash:** Useful for traditional markets, street food and small shops.
+## What is the Korean won?
 
-## ETFs and the Won
+The Korean won is the official currency of South Korea. It is the money you will use for almost every everyday purchase, whether you are paying for street food in Seoul, a taxi from Incheon Airport, or a boutique hotel in Busan. The won is usually written as KRW, and in markets it is often referenced against major currencies such as the US dollar, British pound, or euro.
 
-Currency ETFs that track the Korean won are investment products, not travel products. If you're researching them for investment purposes, check your local broker and the fund's prospectus. This guide focuses on practical travel money: bring a mix of card and cash, use ATMs for local currency, and enjoy your trip.`,
+For travellers, the most important thing to understand is not the technical structure of the currency, but the way exchange rates change. A stronger won means your pounds, dollars, or euros buy less in South Korea. A weaker won means your money goes further. That difference can have a real effect on the total cost of a trip, especially if you are staying for more than a few days or visiting during a period of higher inflation, higher hotel rates, or a volatile exchange market.
+
+For SEO purposes, this is an important distinction too. Searchers looking into “Korean won currency ETFs” are often not just investors. Some are travellers, digital nomads, or people preparing for long-term stays who want to understand how currency risk affects their spending.
+
+If you are working out day-to-day spending in Korea, start with practical basics like the [T-Money card guide](/travel-tips/t-money-card-guide) and the [Seoul subway cheat sheet](/seoul-subway-a-cheat-sheet). This article focuses on the bigger picture: how the won’s strength can shift your overall trip budget.
+
+## What is a Korean won currency ETF?
+
+A currency ETF is an exchange-traded fund that gives investors exposure to a currency or to assets affected by that currency. In the case of Korea, most products marketed around the country are not pure won funds in the strictest sense. Instead, they are usually Korea equity ETFs that carry exposure to the won through the underlying holdings and their valuation in local currency.
+
+That matters because there are two broad ways currency risk can show up in an ETF:
+
+- Unhedged exposure, where the investor experiences both the market return and the currency movement
+- Hedged exposure, where the fund tries to reduce or remove the impact of exchange-rate changes
+
+In simple terms, if you buy an unhedged Korea ETF and the won rises against your home currency, your returns may improve. If the won falls, your returns may suffer. A hedged fund tries to keep the currency movement from affecting performance as much, which can make returns smoother, but also changes the overall profile of the investment.
+
+For travellers, the practical lesson is clear: exchange rates matter. Whether you are buying currency directly, budgeting for a trip, or investing in a Korea-linked fund, you are dealing with the same basic force — the relative value of money over time.
+
+## Why travellers should pay attention to the won
+
+Even if you have no interest in ETFs, the won still matters if you are going to South Korea. Exchange rates can alter the real cost of your itinerary in several ways.
+
+First, they affect your daily spending power. A restaurant meal that feels reasonable one month may feel noticeably more expensive the next if the won strengthens. Second, they affect bigger travel costs such as hotels, domestic flights, tours, and private transfers. Third, they can matter for longer stays, including working holidays, study trips, family visits, and remote-working stays where you are spending money locally for weeks or months.
+
+For UK travellers in particular, this can be important because the pound-to-won exchange rate is not fixed. It moves constantly, meaning the same hotel in Myeongdong or the same guesthouse in Gyeongju may cost more or less in sterling terms depending on when you book and when you pay. If you are researching a future trip, it is worth checking whether the won has been trending stronger or weaker relative to your home currency before finalising your budget.
+
+That is where the ETF conversation becomes useful. Currency ETFs are a way investors try to manage or profit from these kinds of moves, but for travellers they are more of a learning tool. They show that currency volatility is real, and that travel pricing is not static.
+
+## Hedged vs unhedged exposure
+
+One of the most important concepts to understand is the difference between hedged and unhedged exposure. This is where a lot of people get confused.
+
+An unhedged Korea ETF leaves currency risk in place. If the won strengthens, that can boost performance for investors whose base currency is weaker than the won. If the won weakens, it can drag performance down. This makes unhedged funds more sensitive to exchange-rate movements, which can increase volatility.
+
+A hedged ETF uses financial contracts to reduce the impact of currency swings. The goal is not to eliminate all risk, but to focus more on the underlying market rather than exchange-rate changes. For someone who wants to invest in Korean companies without being too exposed to the won’s direction, that can be useful.
+
+For travellers, the same idea applies in a different way. If you are booking a trip months in advance, you are naturally exposed to currency swings unless you lock in your spending in some way. If the won becomes more expensive before you travel, your budget gets tighter. If it weakens, your money goes further. In that sense, hedging is just a more technical version of the question every traveller asks: should I buy now or wait?
+
+## Are there pure Korean won ETFs?
+
+This is where search intent gets a little messy. Many people search for Korean won ETFs expecting a direct, pure currency product. In reality, most of the available products linked to Korea are broader equity funds rather than simple “won trackers”.
+
+That means the ETF may include large South Korean companies rather than just representing the currency itself. So if someone wants to “bet on the won,” the fund may not behave the way they expect. It may rise or fall because of stock-market performance, company earnings, geopolitical news, global semiconductor demand, or broader Asian market sentiment, not just because of the exchange rate.
+
+This is why article structure matters for SEO. If you are targeting a travel audience, it is best to make the distinction clearly:
+
+- If you are a traveller, the won matters as a spending currency
+- If you are an investor, ETF structure matters because it changes your exposure
+- If you are both, you need to understand how currency and market risk interact
+
+That clarity helps users and also helps search engines understand the purpose of the page.
+
+## How currency moves affect a South Korea trip
+
+Let’s make this practical.
+
+Imagine you are planning a 10-day trip to Seoul and Busan. You have a budget of £1,500 for accommodation, food, transport, and activities. If the won weakens against the pound between the moment you research the trip and the moment you pay for everything, your budget may stretch further than expected. You might be able to afford a better hotel, more dining out, or extra day trips.
+
+If the won strengthens, the opposite happens. The same hotel that looked affordable six months ago may now take a bigger slice of your budget. Your coffee, metro rides, and restaurant meals might still seem reasonable individually, but over the course of a trip the change adds up.
+
+That is why many seasoned travellers monitor exchange rates alongside airline prices and accommodation deals. It is not just a finance habit; it is a travel budget habit. A currency ETF does not solve that problem, but it does mirror the same underlying principle: if a currency moves, the value of money changes.
+
+## Examples of Korea-related ETFs
+
+Most funds linked to South Korea are equity ETFs rather than pure currency products. Popular examples include broad South Korea funds that hold major listed companies and may carry indirect currency exposure. These types of funds are often used by investors who want to access the Korean market through a single listed product.
+
+Some funds are unhedged, which means investors experience the full impact of the won’s movement. Others use currency hedging to reduce that effect. The most important thing to remember is that a fund’s name does not always tell you whether currency risk is included. You need to look at the fund’s structure, holdings, and hedging policy.
+
+For a travel website, this section should stay simple. You do not need to turn the article into a fund comparison page. Instead, explain that Korea-related ETFs exist, but most are aimed at investors, not travellers. Then move back to what the reader actually cares about: what the won means for spending in South Korea.
+
+## When a traveller might actually care about ETFs
+
+There are a few situations where a traveller may pay more attention to Korean won ETFs than usual.
+
+One is if they are a frequent visitor to South Korea and regularly move money between currencies. Another is if they are living there temporarily and want to understand the currency environment more deeply. A third is if they are financially curious and want to understand how exchange-rate risk works before making a major trip or relocation.
+
+For most people, though, buying an ETF is not necessary. A better use of time is usually to:
+
+- Track the exchange rate before booking
+- Compare booking dates to see whether the currency has moved
+- Decide whether to prepay some expenses
+- Keep a small buffer in the budget for currency swings
+- Use a debit or credit card with low foreign exchange fees
+
+That is much more relevant to the average traveller than trying to build an ETF position around a holiday.
+
+## How to budget for won movements
+
+If your trip is several months away, it is smart to budget with a margin of safety. Exchange rates can change quickly, and even small shifts can have a meaningful effect on a long stay or a higher-end itinerary.
+
+A simple approach is to set a base budget using the current rate, then add a 5 to 10 percent cushion for currency movement and price changes. That way, if the won strengthens, you are not caught short. If it weakens, you will have extra room to spend.
+
+This is especially useful if you are booking accommodation in advance or planning expensive experiences such as private tours, domestic flights, or specialist activities. You cannot predict the won perfectly, but you can avoid being surprised by it.
+
+## SEO-focused article angle
+
+If you are publishing this on travellingsouthkorea.com, the article should sit somewhere between travel finance and destination planning. That gives it a broader audience than a pure investing post and makes it more useful for travellers who want practical budgeting guidance.
+
+Strong supporting keywords could include:
+
+- Korean won exchange rate
+- won to pound travel budget
+- South Korea travel costs
+- Korean won forecast for travellers
+- currency exchange South Korea
+- hedged vs unhedged ETF
+- South Korea money tips
+
+A good internal linking strategy would point readers to related travel pages such as the [Seoul subway cheat sheet](/seoul-subway-a-cheat-sheet), the [T-Money card guide](/travel-tips/t-money-card-guide), and airport arrival advice like [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul). That helps the article feel part of a wider travel resource rather than a standalone finance explainer.
+
+## Conclusion
+
+Korean won currency ETFs are best understood as a finance concept with travel relevance, not as a must-have product for holidaymakers. They show how currency movements can affect value, but for travellers the real takeaway is simpler: the won influences how much a South Korea trip costs, and that can change over time.
+
+## Related tips
+
+- [T-Money card guide](/travel-tips/t-money-card-guide) — how to buy, top up, and refund Korea’s transport card.
+- [Seoul subway cheat sheet](/seoul-subway-a-cheat-sheet) — fares, route planning, and the fastest way around the city.
+- [How to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul) — AREX vs bus vs taxi costs and timing.`,
     tags: ["Money", "Currency", "Practical", "Investing"],
     authorSlug: "mina-park",
     updatedDate: "2026-03-10",
@@ -1083,6 +1202,8 @@ Jeju Island is a year-round destination, but spring and autumn are often the eas
 
 Summer can be busy and warm, while winter may be quieter but less ideal for long days of travel. If you are building a road trip or a multi-stop day around Jeju, any season with mild weather will make the overall experience smoother.
 
+If you are travelling in spring, it is also worth checking air quality (fine dust and PM2.5) before planning long outdoor days — see [how bad is air quality in South Korea?](/how-bad-is-air-quality-in-south-korea).
+
 ## How To Add It To A Jeju Itinerary
 
 Jeju Loveland works best as a short stop rather than the centrepiece of your day. You can pair it with coastal drives, local food stops, or one of Jeju’s many scenic natural attractions.
@@ -1094,12 +1215,6 @@ That balance is what makes the attraction useful in travel planning. It gives yo
 Go with an open mind and the right audience. The attraction is adult-themed, so it is best suited to couples, solo travellers, or adult groups who are comfortable with the concept.
 
 It is also smart to combine it with other Jeju attractions so the visit feels more worthwhile. Since the park is relatively compact, you will get the most value by treating it as one stop in a fuller island day rather than a standalone outing.
-
-## Why It Works For SEO
-
-Jeju Loveland is a strong SEO topic because it combines a unique place name with high-interest search intent. People search for things like “unique places in South Korea,” “Jeju Island attractions,” and “what is Jeju Loveland,” which means the topic naturally supports discoverability.
-
-The best search angle is to position it as an unusual adult attraction on Jeju Island with travel context. That gives the article both curiosity appeal and practical value.
 
 ## Jeju Loveland FAQs
 
@@ -1214,6 +1329,130 @@ For travellers, it offers a simple but memorable way to taste something distinct
     tags: ["Drinks", "Traditional", "Food", "Culture", "Plum Wine"],
     authorSlug: "mina-park",
     updatedDate: "2026-05-11",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "how-bad-is-air-quality-in-south-korea",
+    title: "How Bad Is Air Quality in South Korea?",
+    image: "/images/blogs/air/danielle-austria-d7-dyUYp-a0-unsplash.jpg",
+    canonicalPath: "/how-bad-is-air-quality-in-south-korea",
+    metaTitle: "How Bad Is Air Quality in South Korea? Fine Dust, PM2.5 and Travel Tips",
+    metaDescription:
+      "A traveller-friendly guide to South Korea air quality: when fine dust (PM2.5) is worst, where is better (Jeju and the coast), and how to check AQI before sightseeing.",
+    summary:
+      "South Korea’s air quality changes by season and region. Here’s what fine dust (PM2.5) means for travellers, when it is worst, and how to plan your days around it.",
+    content: `South Korea is a country of dramatic seasonal change, and that includes the air you breathe. On many days, the air quality is perfectly fine, especially in coastal areas and after rain, but at other times, fine dust and PM2.5 pollution can create hazy skies and uncomfortable outdoor conditions, particularly in [Seoul](/south-korea/seoul) and other major urban areas.
+
+For travellers, this matters because air quality can affect how much time you want to spend outside, what you pack, and even how you plan your day. If you are visiting South Korea for sightseeing, hiking, or exploring cities on foot, it is worth understanding when the air tends to be worse, which regions are more affected, and how to check conditions before heading out.
+
+## What air quality means in South Korea
+
+South Korea commonly tracks air pollution using PM10, PM2.5, and ozone, with PM2.5 being especially important because it refers to fine particles small enough to enter deep into the lungs. AirKorea, the country’s official air quality service, uses a four-tier scale: Good, Moderate, Unhealthy, and Very Unhealthy.
+
+That scale is simple, but it is useful for travellers. A “Good” or “Moderate” day usually means normal sightseeing conditions, while “Unhealthy” conditions can make long walks, outdoor markets, and strenuous activities feel less comfortable, especially for children, older travellers, and anyone with asthma or heart or lung conditions.
+
+The key thing to remember is that South Korea does not have one permanent air quality level. Conditions change by season, weather pattern, and location, so the answer to “how bad is air quality in South Korea?” is often “it depends on where you are and when you go”.
+
+## Why air quality can be poor
+
+The biggest issue for many visitors is fine dust, often referred to locally as “yellow dust” or “fine dust.” This pollution can build up when weather conditions trap particles near the ground, and it may be worsened by regional pollution transport as well as local emissions from traffic and industry.
+
+Spring is often the most noticeable period for poor air quality. Recent reporting in March 2026 showed Seoul and most regions were expected to stay at unhealthy levels through the weekend, with Seoul’s PM2.5 measured at 44 micrograms per cubic metre, above the national “bad” threshold of 35. The same reporting noted that poor air quality had been recorded roughly every other day in Seoul during that month.
+
+Traffic congestion also contributes, especially in dense urban areas. In major cities, pollution can build up when wind is weak and the atmosphere is stagnant, which is why some days look much clearer than others even within the same week.
+
+## How bad is it in Seoul?
+
+Seoul is the city most travellers worry about, and for good reason. It is South Korea’s biggest travel hub, and when air quality turns bad, it is usually most visible there first. In February 2026, Seoul’s air quality sat at “unhealthy” levels on the US AQI scale, driven mainly by high PM2.5 concentrations.
+
+That does not mean Seoul is constantly smoggy. Real-time AirKorea readings often move between categories, and some days are good or moderate. But Seoul is dense, busy, and exposed to the same spring dust episodes that affect much of the country, so it is one of the places where visitors are most likely to notice haze or reduced visibility.
+
+If you are spending time in Seoul, the practical advice is simple: check the day’s air quality before scheduling a long walking itinerary, rooftop viewpoint, palace visit, or mountain hike. On bad days, you may still be able to enjoy the city, but you will be better off balancing outdoor time with cafés, museums, shopping malls, and underground transport.
+
+If you are planning outdoor days in the city, guides like [hiking Bukhansan National Park](/south-korea/seoul/guides/hiking-bukhansan) are much more enjoyable on good-air days.
+
+## Which parts of South Korea are better?
+
+Air quality is not the same everywhere in the country. Coastal and less densely populated areas can often have better readings than central Seoul, and recent reporting noted relatively better conditions along parts of Gangwon’s east coast and in [Jeju](/south-korea/jeju) when much of the country was affected by poor air.
+
+That matters for itinerary planning. If you are moving around South Korea, you may notice that air quality varies from place to place even on the same day. Mountainous areas, islands, and some rural regions can feel noticeably cleaner than crowded metropolitan zones, although they are not immune to dust events.
+
+For travellers deciding where to stay, this can be a useful tie-breaker. If clean air is important to you, spending a night or two on Jeju or in coastal destinations may feel more pleasant than staying in the most traffic-heavy parts of Seoul during a spring dust spell. If you are building a Jeju plan, our [2-day Jeju itinerary](/itineraries/2-days-in-jeju) is a good starting point.
+
+## When air quality is worst
+
+The worst periods are often linked to seasonal weather patterns, especially spring. That is when travellers are most likely to run into dust and haze, and it is also when many people visit for cherry blossoms, outdoor festivals, and mild temperatures, which makes the issue more noticeable.
+
+Recent coverage also pointed out that fine dust concentrations often peak between 10 a.m. and noon, a window that can be uncomfortable for outdoor activity. That is useful for tourists because it suggests you may want to do earlier morning or later afternoon sightseeing, or simply be flexible with outdoor plans if pollution is high around midday.
+
+Poor air quality can also occur outside spring, but spring tends to be the season that creates the most headlines. During these episodes, even people without pre-existing health issues may feel throat irritation, watery eyes, or a general sense that the air feels heavy.
+
+## How to check current air quality
+
+The easiest way to stay informed is to use South Korea’s official AirKorea service, which provides current readings by location.
+
+Third-party trackers can also help you compare cities or check real-time AQI before heading out. AQICN and AccuWeather both provide live air quality dashboards, and AQICN’s Seoul page shows real-time readings that can help travellers decide whether a day is suitable for outdoor sightseeing.
+
+For travel planning, the goal is simple: check the day’s reading in the morning, then adjust your itinerary if conditions look unhealthy.
+
+## What the numbers mean
+
+South Korea’s official system uses four main categories: Good, Moderate, Unhealthy, and Very Unhealthy. In spring 2026 reporting, PM2.5 above 35 micrograms per cubic metre was classified as “bad,” and above 75 as “very bad” under the national system.
+
+Travellers often see different scales online and wonder which one to trust. AirKorea uses local thresholds, while some international apps convert conditions into US AQI or other scoring systems. The safest approach is to focus on the practical meaning: good and moderate are usually fine for normal travel, while unhealthy and very unhealthy should prompt caution, especially for prolonged outdoor exposure.
+
+## Who should be most careful
+
+Most healthy adults can usually cope with a poor air day by reducing outdoor time, but some people should be more cautious. That includes children, older adults, and anyone with asthma, chronic lung conditions, cardiovascular disease, or other respiratory sensitivities.
+
+Travellers who exercise outdoors should also pay attention. If you are planning long runs, hiking days, cycling trips, or all-day walking tours, poor air quality can make the experience more tiring and less enjoyable. On the worst days, indoor alternatives are often the better choice.
+
+## What travellers can do
+
+The easiest way to handle air quality is to plan around it rather than panic about it. Start by checking the forecast before you go out each morning, especially in spring. If the air is poor, move more of your day indoors and save your outdoor activities for a better time.
+
+A few practical travel tips make a big difference:
+
+- Check air quality before booking long walking or hiking days
+- Keep a well-fitting mask in your bag for dusty or smoggy days
+- Use public transport instead of long street-level walks when conditions are poor
+- Book accommodation with good ventilation and air conditioning
+- Build flexibility into your itinerary so you can swap outdoor and indoor days
+
+These are not dramatic measures. They are just sensible trip-planning habits when travelling in a country with seasonal dust and urban pollution.
+
+## Is South Korea still worth visiting?
+
+Yes. Poor air quality is a real issue, but it is not constant, and it should not scare visitors away. Many travellers spend time in South Korea with no major problems at all, especially if they travel outside the worst dust periods or remain flexible on days when readings are high.
+
+The most useful mindset is to treat air quality like weather. You would not assume every day in London or Paris will be sunny, and you should not assume every day in Seoul will be hazy either. South Korea can have excellent clear-air days, and the right response is simply to plan around the occasional bad one.
+
+If your trip is short, this is especially important. A one-week itinerary gives you less room for bad-air days, so checking forecasts and keeping backups for indoor attractions can help you make the most of the visit.
+
+## FAQ
+
+### Is air quality in South Korea bad all year?
+
+No. Air quality varies by season and location, and many days are good or moderate, but spring can bring worse fine-dust episodes.
+
+### Is Seoul the worst place for air pollution?
+
+Seoul is one of the most visible and commonly affected cities, but air quality changes across the country and some coastal or rural areas can be better.
+
+### What is PM2.5?
+
+PM2.5 is fine particulate matter small enough to enter deep into the lungs, which is why it is a major health concern during pollution episodes.
+
+### How can I check air quality before going out?
+
+Use AirKorea for official data and a real-time AQI app such as AQICN or AccuWeather for quick traveller-friendly checks.
+
+### Should I cancel a trip because of air quality?
+
+Usually no. It is better to monitor the forecast, stay flexible, and adjust your itinerary if a few days are poor rather than cancelling the whole trip.`,
+    tags: ["Air Quality", "Health", "Seoul", "Jeju", "Practical"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-05-21",
     contentType: "travel-tip",
   },
 ];
