@@ -109,7 +109,7 @@ When transferring, follow the coloured signs for your next line and pay attentio
 
 If you are trying to travel cheaply in Seoul, the subway is almost always the best option. The fare is low, the network is extensive, and the system is built for fast city movement.
 
-This is especially useful for travellers staying several days in the city. If you use the subway for sightseeing, shopping, dining, and airport connections, the savings compared with taxis can be significant. For airport transfers, also see [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul). If you are budgeting in pounds, dollars, or euros, exchange rates matter too — see [Korean won currency ETFs: a traveller’s overview](/travel-tips/korean-won-etf-guide).
+This is especially useful for travellers staying several days in the city. If you use the subway for sightseeing, shopping, dining, and airport connections, the savings compared with taxis can be significant. For airport transfers, also see [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul) and the [AREX train schedule](/arex-train-schedule) for Express vs All Stop times. If you are budgeting in pounds, dollars, or euros, exchange rates matter too — see [Korean won currency ETFs: a traveller’s overview](/travel-tips/korean-won-etf-guide).
 
 ## Best Areas To Reach By Subway
 
@@ -174,9 +174,11 @@ Incheon International Airport (ICN) is about 60km west of central Seoul. Here ar
 
 ## AREX (Airport Railroad Express)
 
-**Best for most travellers.** The express train takes 43 minutes non-stop to Seoul Station. Costs ₩9,500. Trains run every 30-40 minutes.
+**Best for most travellers.** The Express train takes 43 minutes non-stop from Terminal 1 to Seoul Station (51 minutes from Terminal 2). The current adult fare is ₩13,000. Trains run about every 30–40 minutes.
 
-The all-stop version takes about 58 minutes and costs ₩4,750. Both accept T-Money cards.
+The All Stop train takes about 59 minutes from Terminal 1 (66 minutes from Terminal 2) and costs around ₩4,750 with a T-Money card. T-Money works on All Stop; Express needs its own ticket.
+
+For first and last trains, the full Express timetable, and which service to take, see the [AREX train schedule](/arex-train-schedule).
 
 ## Airport Limousine Bus
 
@@ -195,7 +197,7 @@ If heading to Busan or other cities, you can catch the KTX directly from Incheon
 Take the AREX Express to Seoul Station, then transfer to the subway. It's the fastest, cheapest and most reliable option.`,
     tags: ["Transport", "Airport", "Seoul", "Practical"],
     authorSlug: "james-jeong",
-    updatedDate: "2026-03-08",
+    updatedDate: "2026-09-07",
     contentType: "travel-tip",
   },
   {
@@ -207,7 +209,7 @@ Take the AREX Express to Seoul Station, then transfer to the subway. It's the fa
 
 ## What Is T-Money?
 
-T-Money is Korea's rechargeable transport card. It works on subways, buses, some taxis and even convenience store purchases. It's the first thing you should buy when you arrive.
+T-Money is Korea's rechargeable transport card. It works on subways, buses, some taxis and even convenience store purchases. It's the first thing you should buy when you arrive. It also works on the [AREX All Stop train](/arex-train-schedule) from Incheon Airport; the AREX Express needs a separate ticket.
 
 ## Where To Buy
 
@@ -375,123 +377,255 @@ If you're interested in other traditional Korean liquors, try [maeshil-ju](/what
     title: "AREX Train Schedule: Incheon Airport to Seoul",
     image: "/images/blogs/arex/seoul-airport-express-train-13.jpg",
     canonicalPath: "/arex-train-schedule",
+    metaTitle: "AREX Train Schedule: Express vs All Stop Timetable (Incheon to Seoul)",
+    metaDescription:
+      "AREX Express and All Stop train schedules from Incheon Airport to Seoul Station — first and last trains, journey times, fares, and which service to take.",
     summary:
-      "AREX Express vs All Stop: schedules, first and last trains, journey times, and how to plan your Incheon Airport to Seoul transfer.",
-    content: `If you're looking for the AREX train schedule, the good news is that the Airport Railroad is one of the easiest ways to travel from Incheon International Airport to Seoul Station. It offers both the Express Train and the All Stop Train, so travellers can choose between speed and price depending on their plans.
+      "AREX Express vs All Stop: official-style timetables, first and last trains, journey times, fares, and how to plan your Incheon Airport to Seoul transfer.",
+    content: `If you're looking for the AREX train schedule, the Airport Railroad Express is the rail link from Incheon International Airport to Seoul Station. There are two services with different timetables: the **Express Train** (non-stop, reserved seat) and the **All Stop Train** (commuter-style, cheaper, more frequent).
 
-The Express Train is the fastest option, while the All Stop Train is the cheaper choice. If you're arriving in South Korea for the first time, knowing the schedule in advance makes the airport arrival much smoother.
+Checked against the official [AREX Express timetable](https://www.arex.or.kr/express/info.do?menuNo=MN201503300000000002) in September 2026. Times can change — always confirm on station boards or the AREX site if your flight is close to the first or last train.
+
+| | Express Train | All Stop Train |
+| --- | --- | --- |
+| Stops | Seoul Station, Incheon Airport T1, T2 only | All 14 AREX stations, including Hongdae and Gimpo Airport |
+| Time from T1 | 43 minutes | About 59 minutes |
+| Time from T2 | 51 minutes | About 66 minutes |
+| Adult fare | ₩13,000 (child ₩9,500) | About ₩4,750 from T1 / ₩5,350 from T2 with a transport card |
+| Frequency | About every 30–40 minutes | About every 6–12 minutes in the day |
+| Payment | Separate Express ticket | T-Money / transit card or single-use ticket |
+| First from airport (T2 / T1) | 05:15 / 05:23 | Earlier than Express — confirm on the station timetable |
+| Last from airport (T2 / T1) | 22:40 / 22:48 | Later than Express, typically after 23:30 |
 
 ![Airport Railroad Express (AREX) at Incheon](/images/blogs/arex/big_file_9827.jpg)
 
 ## What is AREX?
 
-AREX is the airport railway connecting Incheon Airport with Seoul Station. It is one of the most useful transport options for visitors because it avoids road traffic and gives you a predictable journey into the city.
+AREX (Airport Railroad Express) is the airport railway between Incheon Airport and Seoul Station. It avoids road traffic and gives you a predictable journey into the city.
 
-There are two services:
+There are two services, with different signs at the station:
 
-- **Express Train** — direct service with reserved seating.
-- **All Stop Train** — commuter-style service that stops at multiple stations.
+- **Express Train (orange)** — non-stop between the airport terminals and Seoul Station, with reserved seats and luggage space.
+- **All Stop Train (blue)** — commuter train that stops at every station on the line. Think of it as the airport subway.
+
+Follow orange signs for Express and blue signs for All Stop. Mixing them up is the most common first-day mistake.
 
 ![AREX route map: Express and All Stop](/images/blogs/arex/AREX_Route_Map-2.png)
 
 ## AREX Express Train schedule
 
-The Express Train is designed for travellers who want a faster, more comfortable trip into Seoul. It runs directly between Incheon Airport and Seoul Station, which makes it a popular choice for people arriving with luggage or staying in central Seoul.
+The Express Train is the direct reserved-seat service. Official journey times are **43 minutes** from Terminal 1 and **51 minutes** from Terminal 2 to Seoul Station. Adult fare is **₩13,000** (child **₩9,500**), published on AREX as a discounted Express fare versus the higher normal fare.
 
-### Why people search for the Express schedule
+You do not need to book days ahead. Buy at the AREX ticket machines or counter on B1 at Incheon Airport, or on B2 at Seoul Station. Online purchase is also available via the [AREX / Airport Railroad site](https://www.airportrailroad.com/). Seats are assigned, so popular departures can sell out closer to departure.
 
-Most visitors want to know:
+### Express first and last trains
 
-- when the first train leaves,
-- when the last train runs,
-- how long the journey takes,
-- and whether they need to book in advance.
+From the official AREX Express timetable:
 
-The Express Train is usually the best option if you want a simple airport-to-city transfer without multiple stops.
+| Direction | First train | Last train |
+| --- | --- | --- |
+| Airport T2 → Seoul Station | 05:15 | 22:40 |
+| Airport T1 → Seoul Station | 05:23 | 22:48 |
+| Seoul Station → Airport (weekday) | 06:00 | 22:50 |
+| Seoul Station → Airport (holiday) | 06:10 | 22:50 |
+
+If you land after about 22:00, allow time for immigration, bags, and the walk to B1. Missing the last Express does not mean you are stuck — the All Stop train usually runs later.
 
 ![AREX Express Train at the platform](/images/blogs/arex/p1010629-2.jpg)
 
+### Express timetable: airport to Seoul Station (weekdays)
+
+Source: [AREX Express train times](https://www.arex.or.kr/express/info.do?menuNo=MN201503300000000002).
+
+| Terminal 2 | Terminal 1 | Seoul Station |
+| --- | --- | --- |
+| 05:15 | 05:23 | 06:07 |
+| 05:50 | 05:58 | 06:41 |
+| 06:30 | 06:38 | 07:21 |
+| 07:05 | 07:13 | 07:57 |
+| 08:10 | 08:18 | 09:03 |
+| 08:40 | 08:48 | 09:31 |
+| 09:20 | 09:28 | 10:11 |
+| 10:00 | 10:08 | 10:51 |
+| 10:40 | 10:48 | 11:31 |
+| 11:20 | 11:28 | 12:11 |
+| 12:00 | 12:08 | 12:51 |
+| 12:40 | 12:48 | 13:34 |
+| 13:20 | 13:28 | 14:11 |
+| 14:00 | 14:08 | 14:51 |
+| 14:40 | 14:48 | 15:31 |
+| 15:20 | 15:28 | 16:11 |
+| 16:00 | 16:08 | 16:51 |
+| 16:40 | 16:48 | 17:31 |
+| 17:25 | 17:33 | 18:17 |
+| 18:00 | 18:08 | 18:52 |
+| 18:45 | 18:53 | 19:38 |
+| 19:29 | 19:37 | 20:20 |
+| 20:00 | 20:08 | 20:51 |
+| 20:50 | 20:58 | 21:41 |
+| 21:36 | 21:44 | 22:27 |
+| 22:40 | 22:48 | 23:31 |
+
+### Express timetable: Seoul Station to the airport (weekdays)
+
+| Seoul Station | Terminal 1 | Terminal 2 |
+| --- | --- | --- |
+| 06:00 | 06:43 | 06:51 |
+| 06:47 | 07:30 | 07:38 |
+| 07:30 | 08:14 | 08:22 |
+| 08:10 | 08:54 | 09:02 |
+| 08:50 | 09:33 | 09:41 |
+| 09:32 | 10:15 | 10:23 |
+| 10:10 | 10:53 | 11:01 |
+| 10:50 | 11:33 | 11:41 |
+| 11:30 | 12:13 | 12:21 |
+| 12:10 | 12:53 | 13:01 |
+| 12:50 | 13:33 | 13:41 |
+| 13:30 | 14:13 | 14:21 |
+| 14:10 | 14:53 | 15:01 |
+| 14:50 | 15:33 | 15:41 |
+| 15:30 | 16:13 | 16:21 |
+| 16:10 | 16:53 | 17:01 |
+| 16:50 | 17:34 | 17:42 |
+| 17:20 | 18:03 | 18:11 |
+| 17:57 | 18:40 | 18:48 |
+| 18:50 | 19:33 | 19:41 |
+| 19:32 | 20:15 | 20:23 |
+| 20:15 | 20:58 | 21:06 |
+| 20:50 | 21:33 | 21:41 |
+| 21:30 | 22:13 | 22:21 |
+| 22:10 | 22:53 | 23:01 |
+| 22:50 | 23:33 | 23:41 |
+
+### Express holiday timetable notes
+
+Airport → Seoul first and last trains are the same on holidays (T2 05:15 / 22:40, T1 05:23 / 22:48). From Seoul Station the first holiday departure is **06:10** instead of 06:00; the last is still **22:50**. Midday holiday times are similar to weekdays, with a slightly more even 40-minute pattern in the morning and evening. Use the official [weekday and holiday Express tables](https://www.arex.or.kr/express/info.do?menuNo=MN201503300000000002) the day you travel.
+
 ## AREX All Stop Train schedule
 
-The All Stop Train is the slower but cheaper option. It stops at several stations along the way, which makes it useful if your hotel is near one of those stops or if you want a lower-cost transfer.
+The All Stop Train (also called the commuter or 일반열차 service) is the cheaper, more frequent timetable. It stops at every station between Incheon Airport Terminal 2 and Seoul Station.
 
-This service is better for:
+Official AREX journey times are about **59 minutes** from Terminal 1 and **66 minutes** from Terminal 2 to Seoul Station. With a transport card, the fare is typically about **₩4,750 from Terminal 1** and **₩5,350 from Terminal 2** to Seoul Station.
 
-- budget travellers,
-- people staying near Hongdae or other connected stations,
-- and visitors who do not mind a longer ride.
+There is no reserved seat. Buy nothing extra if you already have a [T-Money card](/travel-tips/t-money-card-guide) — tap in and tap out like the Seoul subway.
 
 ![AREX All Stop Train](/images/blogs/arex/IMG_0168-300x225-1.jpg)
 
+### All Stop first and last trains
+
+AREX does not publish one short All Stop PDF the way it does for Express. First and last trains vary by station, and some late trains terminate at Geomam rather than the airport. Check the live [T1 station timetable](https://www.arex.or.kr/station/trainTime.do?stnCd=100&menuNo=MN201503300000000014&tab=0) or [Seoul Station timetable](https://www.arex.or.kr/station/trainTime.do?stnCd=010&menuNo=MN201503300000000012&tab=0) on the day.
+
+Typical pattern for travellers:
+
+| From | First trains (typical) | Last trains toward the far end (typical) |
+| --- | --- | --- |
+| Incheon Airport toward Seoul | Around 05:15 from the terminals | After 23:30 — later than the last Express |
+| Seoul Station toward the airport | Around 05:20 | Around 23:40 to Terminal 2; a later train may end at Geomam |
+
+All Stop is the service to use if you miss the last Express, as long as you still catch the last commuter train to your station. After that, you need an airport bus or taxi.
+
+### All Stop stations (airport to Seoul)
+
+Useful stops for visitors, in order from the airport:
+
+- **Incheon Airport T2 / T1** — start of the line; AREX is on B1 in both terminals.
+- **Gimpo Airport** — transfer for Gimpo domestic/international flights and subway Lines 5 and 9.
+- **Digital Media City** — transfer to Line 6.
+- **Hongik University (Hongdae)** — the stop most travellers want for Hongdae, Yeonnam, and nearby hostels. Do not ride Express to Seoul Station and backtrack.
+- **Gongdeok** — transfer to Lines 5 and 6, and the Gyeongui–Jungang Line.
+- **Seoul Station** — transfer to Lines 1 and 4, KTX, and the rest of the subway.
+
+The full All Stop list also includes Airport Cargo Terminal, Unseo, Yeongjong, Cheongna International City, Geomam, Gyeyang, and Magongnaru.
+
 ## Which AREX train should you take?
 
-If you care most about schedule and convenience, the Express Train is usually the best choice. If you care more about price and your destination is near one of the route stations, the All Stop Train may be enough.
+Match the timetable to your hotel, not to the word “Seoul”.
 
-A simple rule:
-
-- **Choose Express** if you want speed and comfort.
-- **Choose All Stop** if you want a cheaper fare.
+- **Choose Express** if you want a reserved seat, you are staying near Seoul Station or Myeongdong, or you are connecting onward from Seoul Station.
+- **Choose All Stop** if you want the lower fare, you are staying in Hongdae, or you arrive after the last Express.
+- **Skip both** if you land after All Stop finishes, or your hotel is far from the AREX line — then an airport bus or taxi is usually simpler. See [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul).
 
 ![Choosing Express or All Stop for your hotel](/images/blogs/arex/cc.jpg)
 
 ## How long does AREX take?
 
-The journey time depends on the train type:
+Door-to-platform time matters as much as the published ride:
 
-- **Express Train** — fastest route into Seoul Station.
-- **All Stop Train** — longer because it stops at multiple stations.
+- **Express** — 43 minutes from T1, 51 minutes from T2, plus ticket purchase and the walk to the platform.
+- **All Stop** — about 59 minutes from T1, 66 minutes from T2, plus waiting (usually shorter than Express because trains are more frequent).
+- **Hongdae on All Stop** — shorter than riding all the way to Seoul Station.
 
-For most travellers, the schedule matters less than the total travel time. If you're tired after a long flight, the shorter direct trip can be worth the extra cost.
+If an All Stop train is at the platform and the next Express is 25 minutes away, All Stop can be the faster door-to-door choice.
 
-## Tips for checking the schedule
+## Tickets, T-Money, and where to board
 
-Before you travel, always check:
-
-- terminal departure point,
-- whether you need the Express or All Stop service,
-- whether your arrival time is late at night,
-- and whether your hotel is easier to reach by Seoul Station or another stop.
-
-If you're travelling South Korea for the first time, this small bit of planning can save a lot of stress.
-
-![Seoul Station AREX](/images/blogs/arex/AREX-Seoul-Station-2.jpeg)
+- **Express:** dedicated ticket, assigned seat. T-Money does not replace the Express ticket. Follow orange Express signs.
+- **All Stop:** tap a T-Money, Cashbee, or other compatible card, or buy a single-use ticket. Follow blue All Stop signs.
+- **Airport:** Transportation Center, B1, both terminals. [Incheon Airport’s railroad guide](https://airport.kr/ap_en/1512/subview.do) points to ticket machines and the AREX hotline 1599-7788.
+- **Seoul Station:** Express facilities are on B2; All Stop platforms are deeper in the AREX station. Allow extra walking time with luggage.
+- **City Airport Terminal:** at Seoul Station, Express passengers can use downtown check-in / baggage drop during published hours (typically 05:20–19:00, airline-dependent). Details are on the [AREX City Airport Terminal page](https://www.arex.or.kr/content.do?menuNo=MN201503300000000026).
 
 ## Best time to use AREX
 
-AREX is ideal when:
+AREX is ideal when you land during normal operating hours, want to avoid taxi traffic, and your hotel is on or near the AREX line. The All Stop train can get crowded in Seoul rush hours (roughly 07:00–09:00 and 18:00–19:30). Express is calmer with luggage.
 
-- you are landing during normal operating hours,
-- you want to avoid taxi traffic,
-- you are staying near Seoul Station,
-- or you want a clear, reliable connection into central Seoul.
+If you arrive very late, or your accommodation is in Gangnam, Jamsil, or another area that still needs a long subway ride after Seoul Station, compare an airport bus before you commit.
 
-If you arrive very late or your accommodation is far from Seoul Station, an airport bus or taxi may be more convenient.
+![Seoul Station AREX](/images/blogs/arex/AREX-Seoul-Station-2.jpeg)
+
+## Official AREX schedule sources
+
+- [AREX Express timetable (weekday and holiday)](https://www.arex.or.kr/express/info.do?menuNo=MN201503300000000002)
+- [AREX homepage and live train lookup](https://www.arex.or.kr/)
+- [Incheon Airport — Airport Railroad guide](https://airport.kr/ap_en/1512/subview.do)
+- AREX customer line: 1599-7788
 
 ## FAQs about the AREX train schedule
 
 ### Is AREX running every day?
 
-Yes, AREX operates daily, but train times vary by service and terminal.
+Yes. Express and All Stop both run daily, including weekends and public holidays. Express times differ slightly on holidays, mainly the first departure from Seoul Station (06:10 instead of 06:00).
+
+### What is the AREX Express schedule from Incheon Airport?
+
+On the official timetable, the first Express leaves Terminal 2 at 05:15 and Terminal 1 at 05:23. The last Express leaves Terminal 2 at 22:40 and Terminal 1 at 22:48. Trains run about every 30–40 minutes. The full list is in the Express timetable above.
+
+### What is the AREX All Stop train schedule?
+
+All Stop is the frequent commuter timetable, not a short reserved-seat list. Trains typically start around 05:15–05:20 and continue later than Express, with last airport-bound trains after 23:30 depending on station. Confirm first and last times on the official AREX station timetable, because some late trains do not run all the way to Terminal 2.
 
 ### Is the Express Train faster than the All Stop Train?
 
-Yes. The Express Train is the quicker, direct service.
+Yes on the rails: 43 vs about 59 minutes from Terminal 1 to Seoul Station. All Stop can still win door-to-door if you would otherwise wait a long time for Express, or if you are getting off at Hongdae.
 
-### Can I use a transport card on AREX?
+### Can I use a T-Money card on AREX?
 
-The All Stop Train is typically easier for transport-card users, while the Express Train is usually ticket-based.
+On All Stop, yes. On Express, no — you need an Express ticket. See our [T-Money card guide](/travel-tips/t-money-card-guide) for buying and topping up at the airport.
 
-### Is AREX good for tourists?
+### Do I need to book AREX in advance?
 
-Yes. It is one of the easiest airport transfer options for first-time visitors to Seoul.
+No. Buy Express on the day at the station or online shortly before travel. All Stop needs no reservation.
+
+### Which AREX train should I take to Hongdae?
+
+Take the **All Stop** train and get off at Hongik University Station. Express does not stop in Hongdae.
+
+### What if my flight lands after the last Express?
+
+Use All Stop if it is still running to your station. After the last All Stop, use an airport bus or taxi. Check station boards before you leave arrivals — immigration time is unpredictable.
+
+### How do I get from Incheon Airport to Seoul if AREX is not right for me?
+
+Compare buses, taxis, and KTX in [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul). Once you are in the city, the [Seoul subway cheat sheet](/seoul-subway-a-cheat-sheet) covers transfers.
 
 ## Related tips
 
-- [Buying bedding in South Korea](/buying-bedding-in-south-korea) — quilts, sheets, and where to shop in Seoul.
-- [Top PC bang internet cafes in Seoul for gaming](/top-pc-bang-internet-cafes-in-seoul-for-gaming) — Korean gaming cafe culture after dark.`,
+- [How to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul) — AREX vs bus vs taxi.
+- [Seoul subway cheat sheet](/seoul-subway-a-cheat-sheet) — fares, transfers, and how to move around after you arrive.
+- [T-Money card guide](/travel-tips/t-money-card-guide) — the card that works on All Stop, subway, and buses.`,
     tags: ["Transport", "AREX", "Airport", "Seoul", "Practical"],
     authorSlug: "james-jeong",
-    updatedDate: "2026-03-28",
+    updatedDate: "2026-09-07",
     contentType: "travel-tip",
   },
   {
