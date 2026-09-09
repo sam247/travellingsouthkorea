@@ -60,9 +60,54 @@ function renderInlineFormatting(text: string): ReactNode[] {
   return out;
 }
 
+const TABLE_SEPARATOR = /^\|\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|?\s*$/;
+
+function parseTableCells(line: string): string[] {
+  return line
+    .replace(/^\|/, "")
+    .replace(/\|$/, "")
+    .split("|")
+    .map((cell) => cell.trim());
+}
+
+function plainTextForSchema(text: string): string {
+  return text
+    .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .trim();
+}
+
+function collectMarkdownFaqItems(
+  lines: string[],
+  startIndex: number
+): { question: string; answer: string }[] {
+  const items: { question: string; answer: string }[] = [];
+  let j = startIndex;
+  while (j < lines.length) {
+    const t = lines[j].trim();
+    if (t.startsWith("## ") && !/faq/i.test(t.slice(3))) break;
+    if (t.startsWith("### ")) {
+      const question = t.slice(4);
+      const answerLines: string[] = [];
+      j += 1;
+      while (j < lines.length) {
+        const next = lines[j].trim();
+        if (next.startsWith("## ") || next.startsWith("### ")) break;
+        if (next.length > 0) answerLines.push(plainTextForSchema(next));
+        j += 1;
+      }
+      items.push({ question, answer: answerLines.join(" ") });
+      continue;
+    }
+    j += 1;
+  }
+  return items;
+}
+
 /**
  * Minimal markdown-to-JSX for travel tip content: ## / ### headings, paragraphs,
- * - list items, **bold**, [links](/path), and ![alt](url) image lines.
+ * - list items, **bold**, [links](/path), ![alt](url) images, GFM tables, and
+ * FAQPage JSON-LD when a heading contains "FAQ".
  */
 export function renderTipContent(content: string): ReactNode[] {
   const lines = content.split("\n");
@@ -86,11 +131,84 @@ export function renderTipContent(content: string): ReactNode[] {
       );
     } else if (trimmed.startsWith("## ")) {
       inFaqSection = /faq/i.test(trimmed.slice(3));
+      if (inFaqSection) {
+        const faqItems = collectMarkdownFaqItems(lines, i + 1);
+        if (faqItems.length > 0) {
+          const schema = {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: faqItems.map((item) => ({
+              "@type": "Question",
+              name: item.question,
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: item.answer,
+              },
+            })),
+          };
+          elements.push(
+            <script
+              key={`faq-schema-${i}`}
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+            />
+          );
+        }
+      }
       elements.push(
         <h2 key={i} className="text-lg sm:text-xl font-bold text-foreground mt-8 mb-3">
           {trimmed.slice(3)}
         </h2>
       );
+    } else if (trimmed.startsWith("|") && trimmed.includes("|", 1)) {
+      const tableLines: string[] = [];
+      let j = i;
+      while (j < lines.length && lines[j].trim().startsWith("|")) {
+        tableLines.push(lines[j].trim());
+        j += 1;
+      }
+      const rows = tableLines
+        .filter((line) => !TABLE_SEPARATOR.test(line))
+        .map(parseTableCells);
+      if (rows.length > 0) {
+        const [header, ...body] = rows;
+        elements.push(
+          <div
+            key={`table-${i}`}
+            className="not-prose my-6 overflow-x-auto rounded-xl border border-border"
+          >
+            <table className="w-full min-w-[28rem] text-sm">
+              <thead className="bg-secondary/60">
+                <tr>
+                  {header.map((cell, hi) => (
+                    <th
+                      key={hi}
+                      className="px-3 py-2 text-left font-semibold text-foreground whitespace-nowrap"
+                    >
+                      {renderInlineFormatting(cell)}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {body.map((row, ri) => (
+                  <tr key={ri} className="border-t border-border even:bg-secondary/20">
+                    {row.map((cell, ci) => (
+                      <td
+                        key={ci}
+                        className="px-3 py-2 text-muted-foreground whitespace-nowrap"
+                      >
+                        {renderInlineFormatting(cell)}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        );
+      }
+      i = j - 1;
     } else if (trimmed.startsWith("### ")) {
       if (inFaqSection) {
         const question = trimmed.slice(4);
