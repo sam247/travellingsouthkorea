@@ -1589,6 +1589,325 @@ Usually no. It is better to monitor the forecast, stay flexible, and adjust your
     updatedDate: "2026-05-21",
     contentType: "travel-tip",
   },
+  {
+    slug: "most-popular-korean-bikini-models-in-2025",
+    title: "Most Popular Korean Bikini Models in 2026: 10 Swimsuit & Fitness Stars",
+    image: "/images/blogs/most-popular-korean-bikini-models-in-2025/korean-bikini-models-2026-haeundae-beach.jpg",
+    canonicalPath: "/most-popular-korean-bikini-models-in-2025",
+    metaTitle: "Korean Bikini Models 2026: 10 Hottest Swimsuit & Fitness Stars",
+    metaDescription:
+      "From Waterbomb Goddess Kwon Eun-bi to Miss Bikini champ Shim Eu-ddeum: the Korean bikini models, fitness stars and summer icons to know in 2026.",
+    summary:
+      "The real Korean bikini models, fitness champions and summer-festival icons of 2026, with verified careers, latest news and where to see Korea's swimsuit culture in person.",
+    content: `Search "Korean bikini models" and you get a mess: actresses, idols, fitness pros and random Instagram accounts, often with made-up bios. This 2026 update cleans that up. Every name below is a real adult public figure whose swimsuit, fitness or summer-stage fame is on the record, and we checked every career detail against current reporting (as of October 2026).
+
+The list pulls from three worlds that overlap in Korea more than anywhere else: competition-tested fitness and bikini models, K-pop stars who rule the summer festival circuit, and actresses whose body-confident image made headlines. Travelling? Scroll to the end for where to see Korea's swimsuit culture in person, from Waterbomb to Haeundae Beach.
+
+## Korean Bikini Models 2026 at a Glance
+
+| Name | Famous for | Latest |
+| --- | --- | --- |
+| Kwon Eun-bi | The "Waterbomb Goddess" since 2023 | Joined RBW, single "Dejavu" (Sept 2026) |
+| Shim Eu-ddeum | 2015 NABBA Korea Miss Bikini winner | Sydney Marathon finisher (Aug 2026) |
+| Yoo Seung-ok | First Asian woman in Muscle Mania's top five | Fitness YouTube channel launched 2025 |
+| Hwasa | Mamamoo's curve-proud star | Face of Comfort Lab's "I love my curve" (2026) |
+| Ye Jung-hwa | Fitness model turned TV host | Married to actor Ma Dong-seok |
+| Clara | The 2013 leggings first pitch | Chinese-language film career |
+| Nana | After School, Mask Girl | Confirmed dating T.O.P (Oct 2026) |
+| Hyuna | K-pop's boldest solo concepts | Latest single "Mrs. Nail" (2025) |
+| Lee Hyori | Korea's original "sexy superstar" | Back in Seoul since 2024 |
+| Karina | aespa leader, Waterbomb headliner | On the Waterbomb Seoul 2026 bill |
+
+## 1. Kwon Eun-bi: The "Waterbomb Goddess"
+
+![Kwon Eun-bi in May 2026](/images/blogs/most-popular-korean-bikini-models-in-2025/kwon-eun-bi-2026.jpg)
+
+Kwon Eun-bi in May 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kwon_Eun-bi_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kwon Eun-bi (born 27 September 1995) first found fame as leader of Iz*One, the group formed on Mnet's Produce 48 in 2018, and went solo in August 2021 after the group disbanded. Her summer-icon status comes down to one night. Her set at Waterbomb Seoul on 23 June 2023 went viral, Korean outlets including The Korea Economic Daily and Hankook Ilbo dubbed her the "Waterbomb Goddess" and the new "Summer Queen", and her song "Underwater" shot back up the charts.
+
+The nickname stuck. Korean headlines still use it in 2026: in April she left Woollim Entertainment and signed with RBW, Mamamoo's agency, and on 3 September 2026 she released "Dejavu", her first single in about 16 months. Brands have leaned into the same image, with Sprite among her past endorsements.
+
+## 2. Shim Eu-ddeum: Miss Bikini Champion Turned Fitness Star
+
+![Shim Eu-ddeum at SPOEX 2015](/images/blogs/most-popular-korean-bikini-models-in-2025/shim-eu-ddeum-fitness-model.jpg)
+
+Shim Eu-ddeum at SPOEX 2015. Photo: pdfman via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%28%EC%8A%A4%ED%8F%AC%EC%97%91%EC%8A%A42015%29_%EC%86%8C%EB%8B%89%EC%8A%A4_%EB%B6%80%EC%8A%A4%EC%97%90%EC%84%9C_%EB%B0%9C%EA%B2%AC%ED%95%9C_%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%9D%BC%EC%9D%B8%EC%9D%98_%EB%AF%B8%EB%8B%88_%EC%9C%A0%EC%8A%B9%EC%98%A5%28%3F%29_%28Shim_Euddeum%29_%285%29.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+If you want a genuine bikini champion, Shim Eu-ddeum (born 1990) is it. In 2015 she won the Miss Bikini category at NABBA Korea. Her record also includes sports-model titles at WBC and NABBA Korea between 2014 and 2016, and second place in the figure category at Muscle Mania in 2014. She studied physical education at Dongduk Women's University and built a second career as a Pilates instructor and YouTuber. Her channel is called 힙으뜸 ("Hip Eu-ddeum").
+
+Mainstream TV followed. She competed on Netflix's Physical: 100 in 2023 and played for FC Streaming Fighter on SBS's women's football show Goal Girls. In July 2026 she left Goal Girls after three years and three months, saying a new challenge lay ahead. In August she posted her finish at the 2026 Sydney Marathon, and her Bali holiday workout posts in September kept her in Korea's entertainment news.
+
+## 3. Yoo Seung-ok: Korea's Original "Muscle Queen"
+
+![Yoo Seung-ok at the Fitness Model Awards, 2015](/images/blogs/most-popular-korean-bikini-models-in-2025/yoo-seung-ok-fitness-model-awards.jpg)
+
+Yoo Seung-ok at the Fitness Model Awards, 2015. Photo: SJ via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EC%9C%A0%EC%8A%B9%EC%98%A5_%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4_%EB%AA%A8%EB%8D%B8_%EC%96%B4%EC%9B%8C%EB%93%9C%28Fitness_Model_Awards%29_in_%EC%BD%94%EB%A6%AC%EC%95%84_%E7%BE%8E_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_01.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Yoo Seung-ok (born 21 June 1990) won a special prize at the 2013 Miss Chungbuk Korea pageant and worked as a show model at the 2013 Seoul Motor Show. In November 2014 she became the first Asian woman to reach the top five at Muscle Mania in Las Vegas. In 2015 she was Maxim Korea's April cover girl and Korea's first UFC Octagon girl.
+
+Small film roles followed, including Fabricated City (2017) and Champion (2018), along with variety appearances such as Running Man. In 2025 she launched a YouTube channel, 옥케이, covering her training, cycle-race preparation and taekwondo. In October 2025 she attended a photocall at Fashion Code 2026 S/S, and Korean entertainment sites were still running stories on her workout posts in autumn 2026.
+
+## 4. Hwasa: The Curve-Proud Stage Icon
+
+![Hwasa live in Seattle, March 2025](/images/blogs/most-popular-korean-bikini-models-in-2025/hwasa-live-seattle-2025.jpg)
+
+Hwasa live in Seattle, March 2025. Photo: David Lee via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HWASA_in_Seattle_-_54382519362.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+
+Hwasa (Ahn Hye-jin, born 23 July 1995) is the Mamamoo member who made body confidence her brand. After moving to P Nation in 2023 she released "I Love My Body", which made the top ten of the Circle Digital Chart. In April 2026 the fitted-underwear brand Comfort Lab signed her as its model for an "I love my curve" campaign, built around respecting different body shapes instead of squeezing into standard sizes.
+
+Her live shows push the same message. Her 2025 tour opened its North American leg in Seattle in March 2025 (pictured), and on 19 November 2025 her "Good Goodbye" performance with actor Park Jeong-min at the 46th Blue Dragon Film Awards went viral and sent the song back up the charts.
+
+## 5. Ye Jung-hwa: The Fitness Model Who Married Ma Dong-seok
+
+![Ye Jung-hwa at the 2015 World Diet Expo](/images/blogs/most-popular-korean-bikini-models-in-2025/ye-jung-hwa-fitness-model.jpg)
+
+Ye Jung-hwa at the 2015 World Diet Expo. Photo: 따시기콘텐츠 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2015%EB%85%84_%EC%84%B8%EA%B3%84%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%97%91%EC%8A%A4%ED%8F%AC_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C_%EC%98%88%EC%A0%95%ED%99%94_%283%29.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Ye Jung-hwa (born 23 May 1988) became a national name in 2015 through MBC's My Little Television, where she first drew national attention. She went on to host beauty and diet programmes, starred in the SBS web drama Girl's Love Story, and made a cameo in the 2017 crime hit The Outlaws.
+
+She is married to actor Ma Dong-seok (Don Lee). The couple registered their marriage in 2021 and held a private wedding ceremony on 26 May 2024, with Outlaws co-stars among the guests.
+
+## 6. Clara: The First Pitch That Broke the Internet
+
+![Clara in December 2024](/images/blogs/most-popular-korean-bikini-models-in-2025/clara-lee-2024.jpg)
+
+Clara in December 2024. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clara_Lee_in_December_2024.png), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Clara (Lee Sung-min, born 1985) is the daughter of Lee Seung-kyu of the band Koreana. She became an overnight sensation in May 2013 when she threw a ceremonial first pitch at a professional baseball game in skin-tight leggings. Korean media hailed her as a sex symbol, and the "Clara pitch" is still the reference point whenever a celebrity first pitch goes viral.
+
+After 2015 she moved into Chinese-language film, starring in the box-office hit Some Like It Hot (2016) and appearing in The Wandering Earth 2 (2023). In 2024 she picked up acting awards at the Asia International Film Festival for her Chinese work. In October 2025 she announced that she and the businessman she married in 2019 had completed an amicable divorce that August.
+
+## 7. Nana: After School Star and 2026's Biggest Headline
+
+![Nana in September 2026](/images/blogs/most-popular-korean-bikini-models-in-2025/nana-2026.jpg)
+
+Nana in September 2026. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nana_in_September_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Nana (Im Jin-ah, born 14 September 1991) rose to fame in After School and its subunit Orange Caramel, then topped TC Candler's 100 Most Beautiful Faces list in 2014 and 2015. Her acting breakthrough came with Netflix's Mask Girl (2023), where she took on a demanding dual role. In September 2024 she left Pledis Entertainment after 15 years and signed with Sublime.
+
+She's also the newest headline on this list. On 2 October 2026 both agencies confirmed she is dating rapper T.O.P, saying the pair met while filming his music video and began dating around June.
+
+## 8. Hyuna: K-pop's Boldest Summer Queen
+
+![Hyuna in July 2023](/images/blogs/most-popular-korean-bikini-models-in-2025/hyuna-2023.jpg)
+
+Hyuna in July 2023. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20230720_Kim_HyunA_in_July_2023_07.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Hyuna (Kim Hyun-ah, born 6 June 1992) debuted with Wonder Girls in 2007, became a star in 4Minute from 2009, and built a solo career on provocative, high-energy concepts that made her one of K-pop's most talked-about performers. She married singer Yong Jun-hyung on 11 October 2024.
+
+Her latest single, "Mrs. Nail", came out on 30 April 2025. In February 2026 her side dismissed pregnancy rumours, saying she was exercising regularly and working on an album.
+
+## 9. Lee Hyori: The Original Sexy Superstar
+
+![Lee Hyori in May 2025](/images/blogs/most-popular-korean-bikini-models-in-2025/lee-hyori-2025.jpg)
+
+Lee Hyori in May 2025. Photo: Marie Claire Korea via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lee_Hyori_in_May_2025_01.png), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Lee Hyori (born 10 May 1979) went from Fin.K.L, one of the biggest girl groups of the late 1990s, to a 2003 solo debut that made her Korea's defining "sexy superstar". The bikini connection is part of the legend. When SsangYong Motor laid off workers in 2014, she tweeted that if the new Tivoli sold well enough for them to be rehired, she would dance in front of the car in a bikini.
+
+She married guitarist Lee Sang-soon in 2013 and lived on Jeju for more than a decade before moving back to Seoul in September 2024. That year she also hosted the KBS talk show The Seasons: Lee Hyori's Red Carpet.
+
+## 10. Karina: Waterbomb's Headline Act
+
+![Karina at Waterbomb Seoul, July 2025](/images/blogs/most-popular-korean-bikini-models-in-2025/karina-waterbomb-2025.jpg)
+
+Karina at Waterbomb Seoul, July 2025. Photo: TheGsd via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aespa_Karina_at_the_2025_Waterbomb_Festival.png), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Karina (Yu Ji-min, born 11 April 2000) leads SM Entertainment's aespa. At Waterbomb Seoul 2025 on 5 July at KINTEX she performed "Up" and "Whiplash" on the main stage, then took over the Sprite stage with a water gun. Korean entertainment outlets and the Sprite campaign called her a "Waterbomb goddess" too. She was booked again for Waterbomb Seoul 2026, on 25 July.
+
+## Miss Maxim: Where Korea's New Bikini Models Come From
+
+Maxim Korea's annual Miss Maxim Contest is the closest thing Korea has to a public bikini-model audition. Readers pick the winner by online vote, with no judges' scores. Rounds have included uniform, bikini, costume and lingerie themes, and the entrants range from professional models to students and office workers.
+
+The 2024 winner, a 20-year-old university student known as Jyu, took home ₩10 million and Maxim's December 2024 cover. The 2025 final (voting ran 7 to 10 November 2025) went to graduate student Chae Sol with 9,135 of 23,662 votes, the widest winning margin since 2019. Maxim also runs a separate plus-size contest, which we cover in our guide to [Korea's top plus-size models](/top-korean-plus-sized-models-in-2025).
+
+## Where to See Korea's Swimsuit Culture in Person
+
+### Waterbomb festival
+
+Waterbomb is Korea's biggest water-fight music festival. Fans and artists split into teams and soak each other while K-pop, hip-hop and EDM acts perform. It started in 2015, and the 2026 Seoul edition ran from 24 to 26 July at KINTEX in Goyang and its lineup included Taemin, Jay Park, Karina and Sunmi. The festival now tours other Korean cities and goes abroad: Singapore hosted an edition in August 2025. Wear quick-dry clothes and keep your phone in a waterproof pouch.
+
+### Haeundae Beach, Busan
+
+Haeundae is Korea's most famous city beach and the classic summer photoshoot backdrop. Our [Haeundae Beach guide](/south-korea/busan/guides/haeundae-beach-guide) covers the practical side. One thing to know before you go: plenty of Korean beachgoers wear rash guards and cover-ups, so a bikini gets more attention here than it would in Europe.
+
+### Jeju Island
+
+Jeju's beaches are another favourite for swimwear shoots. Pair a beach day with something cheekier at [Jeju Loveland](/jeju-loveland), the island's adults-only sculpture park.
+
+## Why Korea's Bikini Look Has Changed
+
+For years, Korea's ideal was simply "slim". The rise of fitness models like Yoo Seung-ok and Shim Eu-ddeum moved it towards toned and athletic, and stars like Hwasa have pushed the conversation further towards curves and body confidence. You'll see all three looks on Korean social media and in summer ads. For the background, read our guides to [Korean beauty standards](/culture/korean-beauty-standards) and [Korean fitness models and gym culture](/culture/korean-fitness-models).
+
+## Korean Bikini Models FAQ
+
+### Who is the most popular Korean bikini model in 2026?
+
+There's no official ranking. Kwon Eun-bi (the "Waterbomb Goddess"), fitness champion Shim Eu-ddeum and Muscle Mania pioneer Yoo Seung-ok are the names most closely tied to swimsuit and summer fame, while Hwasa, Nana and Karina are the biggest mainstream stars on this list.
+
+### Why is Kwon Eun-bi called the "Waterbomb Goddess"?
+
+Her performance at Waterbomb Seoul in June 2023 went viral, and Korean media began calling her the "Waterbomb Goddess" and the new "Summer Queen". Headlines still use the name in 2026.
+
+### Does Korea have bikini competitions?
+
+Yes. Fitness federations such as NABBA Korea run bikini and sports-model categories (Shim Eu-ddeum won Miss Bikini at NABBA Korea in 2015), and Muscle Mania has launched several Korean careers. Maxim Korea's reader-voted Miss Maxim Contest also includes a bikini round.
+
+### When is Waterbomb festival?
+
+Waterbomb runs in summer. The 2026 Seoul edition was held from 24 to 26 July at KINTEX in Goyang, with more dates in other cities. Check the official Waterbomb channels for next year's lineup.
+
+### Is it OK to wear a bikini at Korean beaches?
+
+Yes. Bikinis are fine at Korean beaches and pools, although many locals prefer rash guards and cover-ups. Cover up when you leave the beach, especially in town or on public transport.
+
+## Photo Credits
+
+All photos of people are from Wikimedia Commons under Creative Commons licences. Each was resized and, where needed, cropped or padded to a 16:9 frame.
+
+- Hero image (Haeundae Beach, Busan): StephNurnberg, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:Haeundae_Beach_in_Busan.jpg)
+- Kwon Eun-bi in May 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kwon_Eun-bi_in_May_2026.png)
+- Shim Eu-ddeum at SPOEX 2015: pdfman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:%28%EC%8A%A4%ED%8F%AC%EC%97%91%EC%8A%A42015%29_%EC%86%8C%EB%8B%89%EC%8A%A4_%EB%B6%80%EC%8A%A4%EC%97%90%EC%84%9C_%EB%B0%9C%EA%B2%AC%ED%95%9C_%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%9D%BC%EC%9D%B8%EC%9D%98_%EB%AF%B8%EB%8B%88_%EC%9C%A0%EC%8A%B9%EC%98%A5%28%3F%29_%28Shim_Euddeum%29_%285%29.jpg)
+- Yoo Seung-ok at the Fitness Model Awards, 2015: SJ, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:%EC%9C%A0%EC%8A%B9%EC%98%A5_%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4_%EB%AA%A8%EB%8D%B8_%EC%96%B4%EC%9B%8C%EB%93%9C%28Fitness_Model_Awards%29_in_%EC%BD%94%EB%A6%AC%EC%95%84_%E7%BE%8E_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_01.jpg)
+- Hwasa live in Seattle, March 2025: David Lee, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:HWASA_in_Seattle_-_54382519362.jpg)
+- Ye Jung-hwa at the 2015 World Diet Expo: 따시기콘텐츠, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:2015%EB%85%84_%EC%84%B8%EA%B3%84%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%97%91%EC%8A%A4%ED%8F%AC_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C_%EC%98%88%EC%A0%95%ED%99%94_%283%29.jpg)
+- Clara in December 2024: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Clara_Lee_in_December_2024.png)
+- Nana in September 2026: K-POPIT 케이팝잇, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Nana_in_September_2026.png)
+- Hyuna in July 2023: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:20230720_Kim_HyunA_in_July_2023_07.jpg)
+- Lee Hyori in May 2025: Marie Claire Korea, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Lee_Hyori_in_May_2025_01.png)
+- Karina at Waterbomb Seoul, July 2025: TheGsd, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Aespa_Karina_at_the_2025_Waterbomb_Festival.png)`,
+    tags: ["Culture", "Models", "Fitness", "K-pop", "Waterbomb", "Busan"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-04",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "top-korean-plus-sized-models-in-2025",
+    title: "Top Korean Plus-Size Models in 2026: The Curvy Stars Rewriting K-Beauty",
+    image: "/images/blogs/top-korean-plus-sized-models-in-2025/korean-plus-size-models-2026-ddp-seoul.jpg",
+    canonicalPath: "/top-korean-plus-sized-models-in-2025",
+    metaTitle: "Korean Plus-Size Models 2026: Top Curvy Models & Icons",
+    metaDescription:
+      "Meet Korea's top plus-size models in 2026, from pioneer Kim Ji-yang to Maxim contest winners Ssunbiki, Ah Seung-yeon and Jang Ye-na, plus Hwasa's curve campaign.",
+    summary:
+      "Korea's plus-size and curvy modelling scene in 2026: the pioneer who started it, the Maxim contest winners, the agencies changing the industry and tips for curvy travellers.",
+    content: `Korea is famous for one of the world's toughest beauty standards. That's exactly why its plus-size models get so much attention. They've built careers in an industry that barely made room for them, through self-published magazines, viral contests and a new wave of size-diverse agencies.
+
+This 2026 guide covers the real names behind Korea's plus-size and curvy modelling scene: who they are, what they've achieved, and what they're doing now. Every fact is checked against Korean and international reporting (as of October 2026), and everyone featured is an adult.
+
+## Korean Plus-Size Models 2026 at a Glance
+
+| Name | Breakthrough | Why she matters |
+| --- | --- | --- |
+| Kim Ji-yang (Gee-yang Kim) | Full Figured Fashion Week, LA, 2010 | Korea's first plus-size model; founded 66100 |
+| Ssunbiki | Won Maxim's first natural-size contest, 2021 | Maxim cover; Netflix's The Influencer (2024) |
+| Ah Seung-yeon | Won Maxim's plus-size contest, 2022 | Maxim August 2022 cover |
+| Jang Ye-na | Won Maxim's plus-size contest, 2023 | Maxim's flagship plus-size model in 2025–26 |
+| Hwasa | "I Love My Body" (2023) | Face of Comfort Lab's "I love my curve" (2026) |
+
+## What Counts as "Plus-Size" in Korea?
+
+Less than you'd think. Korean women's clothing is traditionally sized 44, 55, 66 and 77, and The Korea Times has noted that a Korean 66 is roughly a US size 6. Kim Ji-yang sums up the gap: "When I was in LA, I was too skinny to do plus-size modelling, but in Korea, I am just a fat woman." When Maxim Korea and the Korea Model Association launched their contest in 2021, the only entry requirement was wearing a women's size 66 or above. There were no limits on height, weight, age, nationality or experience.
+
+## 1. Kim Ji-yang: Korea's First Plus-Size Model
+
+Kim Ji-yang (also written Gee-yang Kim, born 1986 in Seoul) couldn't get work in Korea, so she went abroad. After sending photos to agencies worldwide, she debuted at Full Figured Fashion Week in Los Angeles in 2010 and went on to model in the US and the Caribbean.
+
+Back home, she made her own platform. In summer 2014 she launched 66100, Korea's first plus-size fashion magazine. The name combines the largest standard sizes in Korean womenswear (66) and menswear (100). 66100 grew into a clothing brand, and she says 66100 was the first to make 120-size (4XL) underwear.
+
+The pushback was brutal. AFP reported in 2016 that she had faced death threats and online abuse, and that she had taken some trolls to court. She has also printed hateful comments in her own magazine to take away their power. She published a book in 2023, and in a June 2025 Korea Herald feature, novelist Erin Zhurkin pointed to her as one of the people speaking up for change.
+
+## 2. Ssunbiki: The Contest Winner Who Went Viral
+
+![Ssunbiki at the 2021 Maxim Natural Size Model Contest](/images/blogs/top-korean-plus-sized-models-in-2025/ssunbiki-maxim-natural-size-contest-2021.jpg)
+
+Ssunbiki at the 2021 Maxim Natural Size Model Contest. Photo: 머길 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EC%8D%AC%EB%B9%84%ED%82%A4_%EB%A7%A5%EC%8B%AC_%EB%82%B4%EC%B6%94%EB%9F%B4%EC%82%AC%EC%9D%B4%EC%A6%88_%EB%AA%A8%EB%8D%B8_%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Ssunbiki won the grand prize at the first Maxim Natural Size Model Contest in July 2021, co-hosted by Maxim Korea and the Korea Model Association. The prize was ₩10 million and the cover of Maxim's August 2021 issue. The Korean outlet Insight framed it as the first time in Maxim Korea's 20 years that a plus-size model had made the cover. Maxim later said videos of the contest and its winner had passed 10 million YouTube views.
+
+![Ssunbiki on the contest runway, 2021](/images/blogs/top-korean-plus-sized-models-in-2025/ssunbiki-runway-2021.jpg)
+
+Ssunbiki on the contest runway, 2021. Photo: 머길 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ssunbiki_full_body_view.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+She has since moved into influencer work and took part in Netflix's 2024 survival show The Influencer.
+
+## 3. Ah Seung-yeon: Back-to-Back Maxim Honours
+
+Ah Seung-yeon took the Korea Model Association Chairman's Prize at the 2021 contest, then returned to win the grand prize at the second edition, now officially called the Maxim Plus-Size Model Contest, held at a Seoul hotel on 6 July 2022. Like Ssunbiki, she landed Maxim's August cover, in an issue built around the curvy look.
+
+## 4. Jang Ye-na: Maxim's Plus-Size Cover Star
+
+Jang Ye-na entered the third Maxim Plus-Size Model Contest in 2023 at 20, saying she wanted to be famous and "let the world know who I am". She won the grand prize and was picked as a Miss Maxim. She has since become Maxim's flagship plus-size model. At 23 she led the April 2025 issue with a lingerie shoot themed "the return of Venus", and in January 2026 she shot a Western cowgirl spread for the Year of the Horse. Her next goal, she says, is America: she wants to land a US Maxim cover.
+
+## 5. Hwasa: The Mainstream Face of Curves
+
+![Hwasa in January 2026](/images/blogs/top-korean-plus-sized-models-in-2025/hwasa-2026.jpg)
+
+Hwasa in January 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hwasa_in_January_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+No Korean star has done more to make curves mainstream than Mamamoo's Hwasa (born 1995). Her 2023 single "I Love My Body" made the top ten of the Circle Digital Chart. In April 2026 the fitted-underwear brand Comfort Lab chose her for its "I love my curve" campaign, which tells women to respect their own shape instead of squeezing into standard sizes. She isn't a plus-size model, but she's the reason "curvy" now sells in Korean advertising.
+
+## The Agencies and Contests Changing the Industry
+
+Two changes in the 2020s made plus-size modelling a real career path in Korea. First, after the 2021 Maxim contest the Korea Model Association created a plus-size model division and began issuing official certificates to models in the category. Second, specialist agencies appeared. The Curve Korea describes itself as Korea's first size-diversity modelling agency, and its founder started out as a plus-size model in London in 2019. In a December 2023 interview, the agency said Korean brands were asking for more diverse models, but that many still wanted "natural-size" talent closer to a Korean 55 than true plus-size.
+
+## Why It Matters: Body Pressure in Korea
+
+The pressure these models push against is real. In 2016 Kim Ji-yang told AFP that "in South Korea, the ideal weight for women is 50kg", a standard she called impossible. Korean women's rights groups have also criticised clothing companies for stocking a narrow size range and using unrealistically thin mannequins (The Korea Herald). For more background, read our guide to [Korean beauty standards and K-beauty culture](/culture/korean-beauty-standards).
+
+## Style and Shopping Tips for Curvy Travellers in Seoul
+
+![Hongdae's shopping streets, Seoul](/images/blogs/top-korean-plus-sized-models-in-2025/hongdae-shopping-street-seoul.jpg)
+
+Hongdae's shopping streets, Seoul. Photo: lumoplank via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Korean sizing runs small, and street-fashion shops often sell "free size" (one-size) pieces cut for slim frames. Bring the basics you rely on, especially underwear and swimwear. For extended sizes, Korean plus-size labels such as 66100 sell online.
+
+For browsing and street style, [Hongdae](/south-korea/seoul/guides/streetwear-hongdae) is the best area for bold, individual looks, and the [Seoul guide](/south-korea/seoul) covers the rest of the city.
+
+![Dongdaemun Design Plaza (DDP), Seoul](/images/blogs/top-korean-plus-sized-models-in-2025/korean-plus-size-models-2026-ddp-seoul.jpg)
+
+Dongdaemun Design Plaza (DDP), Seoul. Photo: lumoplank via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2369.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Dongdaemun Design Plaza (DDP), Seoul's futuristic design landmark, sits next to the Dongdaemun fashion district's malls and is worth seeing at night.
+
+## Korean Plus-Size Models FAQ
+
+### Who was Korea's first plus-size model?
+
+Kim Ji-yang (Gee-yang Kim) is widely described as Korea's first plus-size model. She debuted at Full Figured Fashion Week in Los Angeles in 2010 and founded 66100, Korea's first plus-size fashion magazine, in 2014.
+
+### What size is considered plus-size in Korea?
+
+Much smaller than in the West. A Korean women's 66 is roughly a US 6, and Maxim Korea's plus-size contest accepts entrants who wear a 66 or above.
+
+### Who won the Maxim Korea plus-size model contest?
+
+Ssunbiki won the first edition (called the Natural Size Model Contest) in 2021, Ah Seung-yeon won in 2022, and Jang Ye-na won in 2023.
+
+### Is Hwasa a plus-size model?
+
+No. Hwasa is a singer, but she's Korea's best-known champion of curves and body confidence, through songs like "I Love My Body" and Comfort Lab's 2026 "I love my curve" campaign.
+
+### Is there a plus-size modelling agency in Korea?
+
+Yes. The Curve Korea describes itself as Korea's first size-diversity modelling agency. The Korea Model Association also has a plus-size division.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each was resized and, where needed, cropped or padded to a 16:9 frame.
+
+- Hero and in-article image (Dongdaemun Design Plaza, Seoul): lumoplank, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2369.jpg)
+- Ssunbiki at the 2021 Maxim Natural Size Model Contest: 머길, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:%EC%8D%AC%EB%B9%84%ED%82%A4_%EB%A7%A5%EC%8B%AC_%EB%82%B4%EC%B6%94%EB%9F%B4%EC%82%AC%EC%9D%B4%EC%A6%88_%EB%AA%A8%EB%8D%B8_%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8.jpg)
+- Ssunbiki on the contest runway, 2021: 머길, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Ssunbiki_full_body_view.jpg)
+- Hwasa in January 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hwasa_in_January_2026.png)
+- Hongdae's shopping streets, Seoul: lumoplank, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg)`,
+    tags: ["Culture", "Models", "Fashion", "Body Positivity", "Seoul"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-04",
+    contentType: "travel-tip",
+  },
 ];
 
 export const getTravelTipBySlug = (slug: string) => travelTips.find((t) => t.slug === slug);
