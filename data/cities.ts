@@ -60,7 +60,7 @@ const citiesBase: City[] = [
     description: "The cultural capital of the southwest. Gwangju's art biennale is world-class, its food scene rivals Seoul's and its role in Korea's democracy movement gives it a powerful sense of identity.",
     image: getCityImagePath("gwangju"),
     regionSlug: "gwangju-metropolitan",
-    bestFor: ["art", "food", "culture"],
+    bestFor: ["art", "food", "culture", "nightlife"],
   },
   {
     slug: "ulsan",
@@ -355,7 +355,7 @@ const citiesBase: City[] = [
     description: "Famous for Andong soju, the Hahoe Folk Village and mask dance. The heart of Korean traditional culture.",
     image: getCityImagePath("andong"),
     regionSlug: "north-gyeongsang",
-    bestFor: ["culture", "food", "cafes", "history"],
+    bestFor: ["culture", "food", "cafes", "history", "nightlife"],
   },
   {
     slug: "yeongju",
@@ -383,7 +383,7 @@ const citiesBase: City[] = [
     description: "Jinju Fortress and the famous Jinju Lantern Festival. Historic battles and riverside beauty.",
     image: getCityImagePath("jinju"),
     regionSlug: "south-gyeongsang",
-    bestFor: ["history", "festivals", "culture"],
+    bestFor: ["history", "festivals", "culture", "food"],
   },
   {
     slug: "geoje",
@@ -392,7 +392,7 @@ const citiesBase: City[] = [
     description: "Korea's second-largest island. Beaches, hiking trails and the shipbuilding industry. Oedo Botania and Haegeumgang.",
     image: getCityImagePath("geoje"),
     regionSlug: "south-gyeongsang",
-    bestFor: ["nature", "beaches", "islands"],
+    bestFor: ["nature", "beaches", "islands", "nightlife"],
   },
   {
     slug: "tongyeong",
@@ -411,7 +411,7 @@ const citiesBase: City[] = [
     description: "Capital of Jeju Island. Gateway to lava tubes, tangerine orchards, waterfall hikes and boutique cafes in converted farmhouses.",
     image: getCityImagePath("jeju"),
     regionSlug: "jeju-do",
-    bestFor: ["nature", "food", "culture"],
+    bestFor: ["nature", "food", "culture", "nightlife"],
   },
   {
     slug: "seogwipo",
