@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { City } from "@/types";
 import type { Neighbourhood } from "@/types";
+import { shouldEmitCityCategoryParam } from "@/lib/cityCategoryParams";
 
 interface ExploreLink {
   label: string;
@@ -37,7 +38,9 @@ export function GuideSidebarExplore({
       label: n.name,
       href: getNeighbourhoodPath(city.slug, n.slug),
     }));
-  const categoryLinks: ExploreLink[] = CATEGORY_LINKS.map(({ label, slug }) => ({
+  const categoryLinks: ExploreLink[] = CATEGORY_LINKS.filter(({ slug }) =>
+    shouldEmitCityCategoryParam(city.slug, slug)
+  ).map(({ label, slug }) => ({
     label,
     href: getCityCategoryPath(city.slug, slug),
   }));

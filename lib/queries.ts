@@ -7,7 +7,7 @@ import { getCities as getCitiesList, cities } from "@/data/cities";
 import { guides } from "@/data/guides";
 import { venues } from "@/data/venues";
 import { itineraries } from "@/data/itineraries";
-import { travelTips } from "@/data/travelTips";
+import { getTravelTipsForCity } from "@/lib/cityCategoryParams";
 import { getGuidesByCategory, getGuidesByCity, getGuidesByNeighbourhood, getGuidesByAuthor } from "@/data/guides";
 import { getVenuesByCity, getVenuesByNeighbourhood, getVenuesByCategory } from "@/data/venues";
 import { getItinerariesByAuthor, getItinerariesByCity } from "@/data/itineraries";
@@ -167,7 +167,7 @@ export function getCityCategoryContent(
       venues: [],
       itineraries: [],
       neighbourhoods: [],
-      travelTips,
+      travelTips: getTravelTipsForCity(citySlug),
       categoryLabel,
     };
   }
