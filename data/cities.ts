@@ -42,7 +42,7 @@ const citiesBase: City[] = [
     description: "Korea's fourth-largest city is known for its searing summers, textile markets, excellent food scene and growing cafe culture.",
     image: getCityImagePath("daegu"),
     regionSlug: "daegu-metropolitan",
-    bestFor: ["food", "shopping", "culture"],
+    bestFor: ["food", "nightlife", "shopping", "culture"],
   },
   {
     slug: "daejeon",
@@ -78,7 +78,7 @@ const citiesBase: City[] = [
     description: "Korea's planned administrative capital since 2012. Government offices, research institutes and a growing cultural scene in a purpose-built city.",
     image: getCityImagePath("sejong"),
     regionSlug: "sejong-metropolitan",
-    bestFor: ["culture", "architecture"],
+    bestFor: ["nightlife", "culture", "architecture"],
   },
   // Gyeonggi
   {
@@ -124,7 +124,7 @@ const citiesBase: City[] = [
     description: "Known for Bucheon International Fantastic Film Festival (BIFAN). A dense city between Seoul and Incheon with a strong arts scene.",
     image: getCityImagePath("bucheon"),
     regionSlug: "gyeonggi",
-    bestFor: ["culture", "film"],
+    bestFor: ["cafes", "culture", "film"],
   },
   {
     slug: "anyang",
@@ -151,7 +151,7 @@ const citiesBase: City[] = [
     description: "Major port and home to US military base Camp Humphreys. Growing expat community and coastal access.",
     image: getCityImagePath("pyeongtaek"),
     regionSlug: "gyeonggi",
-    bestFor: ["culture", "coast"],
+    bestFor: ["nightlife", "culture", "coast"],
   },
   // Gangwon
   {
@@ -179,7 +179,7 @@ const citiesBase: City[] = [
     description: "Historic city with Chiak Mountain and healing resorts. Gateway to the inner Gangwon highlands.",
     image: getCityImagePath("wonju"),
     regionSlug: "gangwon",
-    bestFor: ["nature", "history"],
+    bestFor: ["nightlife", "nature", "history"],
   },
   {
     slug: "sokcho",
@@ -188,7 +188,7 @@ const citiesBase: City[] = [
     description: "Coastal gateway to Seoraksan National Park. Beaches, fresh seafood and the cable car to Ulsanbawi.",
     image: getCityImagePath("sokcho"),
     regionSlug: "gangwon",
-    bestFor: ["nature", "food", "beaches"],
+    bestFor: ["nightlife", "nature", "beaches", "food"],
   },
   // North Chungcheong
   {
@@ -198,7 +198,7 @@ const citiesBase: City[] = [
     description: "Birthplace of the world's oldest movable metal type. Historic centre and gateway to Songnisan National Park.",
     image: getCityImagePath("cheongju"),
     regionSlug: "north-chungcheong",
-    bestFor: ["history", "nature"],
+    bestFor: ["nightlife", "history", "nature"],
   },
   {
     slug: "chungju",
@@ -272,7 +272,7 @@ const citiesBase: City[] = [
     description: "Historic port city with a well-preserved Japanese colonial district. Dongguksa Temple and coastal scenery.",
     image: getCityImagePath("gunsan"),
     regionSlug: "north-jeolla",
-    bestFor: ["history", "culture"],
+    bestFor: ["nightlife", "history", "culture"],
   },
   {
     slug: "iksan",
@@ -281,7 +281,7 @@ const citiesBase: City[] = [
     description: "Mireuksa Temple site and Baekje heritage. A quiet city with significant archaeological sites.",
     image: getCityImagePath("iksan"),
     regionSlug: "north-jeolla",
-    bestFor: ["history", "culture"],
+    bestFor: ["nightlife", "history", "culture"],
   },
   {
     slug: "namwon",
@@ -355,7 +355,7 @@ const citiesBase: City[] = [
     description: "Famous for Andong soju, the Hahoe Folk Village and mask dance. The heart of Korean traditional culture.",
     image: getCityImagePath("andong"),
     regionSlug: "north-gyeongsang",
-    bestFor: ["culture", "food", "history"],
+    bestFor: ["culture", "food", "cafes", "history"],
   },
   {
     slug: "yeongju",
@@ -374,7 +374,7 @@ const citiesBase: City[] = [
     description: "Korea's first planned city. Industrial base with beaches, Jinhae's cherry blossoms and a growing arts scene.",
     image: getCityImagePath("changwon"),
     regionSlug: "south-gyeongsang",
-    bestFor: ["nature", "culture", "industry"],
+    bestFor: ["nightlife", "nature", "culture"],
   },
   {
     slug: "jinju",
