@@ -1377,6 +1377,309 @@ It is located on Jeju Island in South Korea.`,
     contentType: "travel-tip",
   },
   {
+    slug: "korean-sexuality",
+    title: "Sex, Dating and Intimacy in South Korea: A Frank 2026 Guide",
+    image: "/images/blogs/korean-sexuality/couple-gwanghwamun-gate-night.jpg",
+    canonicalPath: "/korean-sexuality",
+    metaTitle: "Korean Sexuality 2026: Dating, Love Motels, Laws & Culture",
+    metaDescription:
+      "A frank 2026 guide to sex and dating in South Korea: love motels, dating apps, the age of consent, contraception for travellers, LGBTQ+ life and the 4B debate.",
+    summary:
+      "How sex, dating and intimacy really work in South Korea in 2026: couple culture, love motels, dating apps, the laws visitors need to know, sexual-health access and the debates reshaping Korean relationships.",
+    content: `South Korea can look buttoned-up from the outside. Public displays of affection are mild, sex education is famously thin and many young adults live with their parents until they marry. Then you notice the neon hearts above the motel alleys, the couples in matching outfits and the padlocks piled up on Namsan. Korea's attitudes to sex and dating are full of contradictions, and they're changing fast.
+
+This guide is for adult travellers, expats and the curious. It covers how dating works, why love motels exist, what the law actually says, how to get contraception and sexual-health care as a visitor, and the big debates shaping Korea in 2026. Legal and health facts were checked against current Korean and international reporting in October 2026. It's a frank explainer, not explicit content, and it's not legal or medical advice.
+
+## Korean Sex and Dating Laws at a Glance (2026)
+
+| Topic | Where things stand in 2026 |
+| --- | --- |
+| Age of consent | 16, raised from 13 by a Criminal Act amendment in May 2020 |
+| Adultery | Not a crime since the Constitutional Court struck the law down in February 2015 |
+| Buying or selling sex | Illegal under the 2004 sex-trade punishment law, for foreigners too |
+| Pornography | Distributing obscene material is illegal, and major porn sites are blocked |
+| Sexual deepfakes | Possessing, buying, storing or even viewing them is a crime (law passed September 2024) |
+| Same-sex marriage | Not recognised; a July 2024 Supreme Court ruling gave same-sex partners health-insurance dependant rights |
+| Abortion | No longer criminalised since 2021, but there's still no replacement law; abortion pills are due by March 2027 |
+| Emergency contraception | Prescription only |
+| Birth rate | 0.80 children per woman in 2025 (preliminary), up from 0.75 in 2024 |
+
+![Neon hearts above a motel alley, the classic look of Korea's love-motel districts (illustration)](/images/blogs/korean-sexuality/seoul-love-motel-alley-illustration.jpg)
+
+Neon hearts above a motel alley, the classic look of Korea's love-motel districts (illustration). AI-generated illustration (not a photo of a real place or person).
+
+## Conservative on the Surface, Busy in Private
+
+Korean culture still leans conservative in public. Big public kisses get looks, sex is rarely discussed at home and school sex education is widely criticised as outdated. Many unmarried Koreans live with their parents into their late twenties or thirties, partly because housing is so expensive.
+
+That's the main reason Korea has such a huge love-motel industry. If neither of you can take a partner home, you rent a room by the hour. Nobody treats it as seedy. Students, office workers and married couples all use them, and the motels compete on themed rooms, giant TVs, game consoles and spa baths.
+
+## How Dating Works in Korea
+
+Korean dating culture is intense, coupley and very calendar-driven.
+
+- **Sogaeting (소개팅):** a blind date set up by friends. It's still one of the most common ways to meet someone.
+- **"Some" (썸):** the flirty, undefined stage before you're officially a couple. A lot of Korean pop songs are about it.
+- **Couple culture:** matching outfits, matching rings, couple phone cases and shared profile photos are all normal.
+- **Anniversaries:** couples count days, not months. The 100-day anniversary is a big deal, followed by 200, 300 and 1,000 days.
+- **Romance holidays:** on Valentine's Day (14 February) women traditionally give chocolate, on White Day (14 March) men return the favour, and on Black Day (14 April) singles eat jjajangmyeon (black-bean noodles) together.
+
+![A Korean couple's anniversary celebration, with candles spelling out a message around a cake](/images/blogs/korean-sexuality/couple-anniversary-candles.jpg)
+
+A Korean couple's anniversary celebration, with candles spelling out a message around a cake. Photo: Beskilbe via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Candle_of_Lover%27s_Anniversary%28Feb,_2007,_Korea%29.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Dating Apps
+
+Apps are now mainstream. Tinder led Korea's dating-app market on monthly active users at the end of 2025, ahead of the Korean apps Glam and Wippy, according to Digital Daily. Market tracker Sensor Tower reported that Tinder overtook Wippy on monthly in-app revenue for the first time in January 2026. Amanda, one of the older Korean apps, is also still around. As a foreigner you'll mostly meet people on Tinder, especially in Seoul. Be ready for a lot of language-exchange openers.
+
+### The Love Locks of Namsan
+
+The terraces around N Seoul Tower on Namsan are covered in thousands of padlocks left by couples, often with names and dates written on them. It's one of Seoul's classic date spots, especially at sunset.
+
+![Love locks left by couples at N Seoul Tower on Namsan, Seoul](/images/blogs/korean-sexuality/n-seoul-tower-love-locks.jpg)
+
+Love locks left by couples at N Seoul Tower on Namsan, Seoul. Photo: Republic of Korea (Korea.net) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Korea_N_Seoul_Tower_20140722_05_%2814743588703%29.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Love Motels: A Practical Guide
+
+Love motels (often just called motels, 모텔) cluster around subway stations, university districts and nightlife areas. They're easy to spot thanks to neon signs and car-park entrances screened by plastic strip curtains.
+
+- **Daesil (대실) vs sukbak (숙박):** daesil is a daytime "rest" of a few hours and costs a fraction of the overnight rate. Sukbak is a normal overnight stay, usually with a late check-in after the daesil window closes.
+- **Booking:** the big Korean apps are Yanolja and Yeogi Eottae, which are largely Korean-language. Visitors can book many motels through Agoda, Booking.com, Trip.com or NOL World, Yanolja's site for international users, or just walk in.
+- **Privacy:** check-in is designed to be discreet. Some places use key-drop windows or self-check-in kiosks.
+- **Value:** for budget travellers, a modern motel is often a cleaner and better-equipped option than a hostel or an ageing hotel.
+- **Rules:** guests must be adults. Unmarried couples, foreigners and same-sex couples can all book rooms, though how staff behave varies by property.
+
+![Hongdae at night, one of the Seoul nightlife districts where young couples meet](/images/blogs/korean-sexuality/hongdae-night-seoul.jpg)
+
+Hongdae at night, one of the Seoul nightlife districts where young couples meet. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## What the Law Says
+
+**Age of consent.** In 2020 Korea raised the age of consent from 13 to 16. Sex with anyone under 16 is treated as statutory rape. For victims aged 13 to 15, this applies to offenders aged 19 or older.
+
+**Adultery.** Korea used to jail people for cheating on a spouse. The Constitutional Court ruled the adultery law unconstitutional in February 2015. Infidelity can still matter in divorce cases.
+
+**Prostitution.** Buying and selling sex is illegal under a law passed in 2004, and foreigners can be prosecuted too. Hostess bars and "room salons" are best avoided. They're expensive, they can turn into cost traps, and they sit in a legal grey zone at best.
+
+**Porn.** Distributing obscene material is illegal, and Korea's communications regulator blocks most major porn sites. That's why so many people in Korea use VPNs.
+
+**Deepfakes and spy cams.** After a wave of deepfake sex crimes, the National Assembly voted on 26 September 2024 to criminalise possessing, buying, storing or viewing sexually explicit deepfakes. The penalty is up to three years in prison or a fine of up to 30 million won. Secretly filming people (molka) is also a serious crime. In public toilets, changing rooms and cheap accommodation, it's worth a quick look for tiny holes or odd fittings.
+
+## Sexual Health for Travellers
+
+- **Condoms** are sold openly at convenience stores (GS25, CU, 7-Eleven, Emart24) and pharmacies.
+- **The daily contraceptive pill** is generally sold over the counter at pharmacies (약국), although some brands need a prescription.
+- **Emergency contraception (the morning-after pill) needs a prescription.** Go to an obstetrics and gynaecology clinic (산부인과, sanbuingwa) or a hospital emergency room, then take the prescription to a pharmacy. In Seoul, many clinics have English-speaking doctors.
+- **Abortion.** The Constitutional Court ruled the abortion ban unconstitutional in 2019, and the criminal ban lost effect on 1 January 2021. Lawmakers still haven't passed a replacement law, so services are legal but unregulated. In September 2026 the government announced a plan to introduce medication abortion for pregnancies up to nine weeks by the end of March 2027. For the first two years, prescribing and dispensing will happen only at hospitals. The pill (Mifegymiso) was still under review by the Ministry of Food and Drug Safety at the time of writing.
+- **STI testing** is available at urology (비뇨기과) and OB/GYN clinics. Many clinics take walk-ins.
+
+![Jeju Loveland at sunset. The sculpture park is Korea's best-known adult attraction](/images/blogs/korean-sexuality/jeju-loveland-sunset.jpg)
+
+Jeju Loveland at sunset. The sculpture park is Korea's best-known adult attraction. Photo: Damara Avila via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunset_at_Love_Land_at_Jeju_Island_-_25779887283.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Sex, Art and Humour: Korea's Adult Attractions
+
+Korea has a cheeky side. [Jeju Loveland](/jeju-loveland) is an outdoor park of erotic sculptures, and it's a staple of Jeju trips for adults. Haesindang Park in Samcheok, on the east coast, is filled with phallic carvings linked to a local fishing-village legend. Both are tongue-in-cheek and adults-only in spirit, so they're not for kids.
+
+## LGBTQ+ Life in Korea
+
+Korea doesn't recognise same-sex marriage or civil unions, and there's no national anti-discrimination law. There has been progress, though. In July 2024 the Supreme Court ruled that the National Health Insurance Service had to give So Seong-wook dependant coverage through his partner Kim Yong-min, a first for a same-sex couple. The ruling didn't legalise same-sex marriage.
+
+Seoul's queer scene is centred on Itaewon's "Homo Hill" and the bars of Jongno 3-ga. The Seoul Queer Culture Festival is held in central Seoul every early summer. It draws big crowds and, every year, a loud counter-protest from conservative church groups. See our [Itaewon nightlife guide](/south-korea/seoul/guides/nightlife-itaewon) for the wider area.
+
+![The Seoul Queer Culture Festival at Seoul Plaza in 2018, behind a police line](/images/blogs/korean-sexuality/seoul-queer-culture-festival-2018.jpg)
+
+The Seoul Queer Culture Festival at Seoul Plaza in 2018, behind a police line. Photo: revi via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018_%EC%84%9C%EC%9A%B8%ED%80%B4%EC%96%B4%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C_01.jpg), [CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/).
+
+## The Bigger Debates: Birth Rates and the Gender Divide
+
+Korea has the world's lowest fertility rate. Official preliminary figures released in February 2026 put it at 0.80 children per woman for 2025, up from 0.75 in 2024 and 0.72 in 2023. That's the first meaningful rebound in years, but it's still far below the 2.1 a population needs to replace itself.
+
+Behind the numbers is a sharp gender divide among young Koreans. The online "4B" movement, which rejects dating, sex, marriage and childbirth with men, began in Korea and drew worldwide attention in late 2024. It's a small movement, but it reflects real frustration with workplace inequality, the burden of childcare and digital sex crimes. Meanwhile, many young men complain about mandatory military service and feeling blamed. If you date in Korea, you'll probably hear about both sides.
+
+## Etiquette Tips for Visitors
+
+- Keep PDA moderate. Holding hands and a quick kiss are fine, but anything more draws stares.
+- Consent matters, and so does the law. "No" in any language means no, and drink-spiking does happen in nightlife districts. Watch your drink.
+- Don't assume a language-exchange meet-up is a date, or the other way round. Ask.
+- Be discreet about relationships at work. Office romances are common but kept quiet.
+- Read up on [Korean nightlife culture](/culture/korean-nightlife-culture) and [drinking culture](/culture/korean-drinking-culture) before a big night out.
+
+## Korean Sexuality FAQ
+
+### What is the age of consent in South Korea?
+
+The age of consent in South Korea is 16. It was raised from 13 by a Criminal Act amendment in May 2020.
+
+### Is adultery still illegal in Korea?
+
+No. The Constitutional Court struck down the adultery law in February 2015, so cheating is no longer a crime. It can still matter in divorce proceedings.
+
+### Can unmarried couples share a hotel room in Korea?
+
+Yes. Hotels, guesthouses and love motels don't ask about marital status. Guests just need to be adults.
+
+### Is porn legal in South Korea?
+
+Distributing obscene material is illegal and most major porn sites are blocked in Korea. Sexually explicit deepfakes are a separate crime: since September 2024, even viewing or possessing them is punishable.
+
+### Can I get the morning-after pill at a Korean pharmacy?
+
+Not without a prescription. See an OB/GYN clinic (산부인과) or a hospital emergency room first, then take the prescription to a pharmacy.
+
+### Is South Korea LGBTQ-friendly?
+
+It's mixed. Same-sex relationships are legal but not recognised in marriage law. Seoul has an established queer scene in Itaewon and Jongno and an annual Queer Culture Festival, but attitudes outside the big cities are more conservative.
+
+### What dating apps do Koreans use?
+
+Tinder leads the market, followed by Korean apps such as Glam and Wippy. Amanda is another long-running Korean app.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences. Each was resized and cropped to a 16:9 frame. Illustrations marked as such are AI-generated and don't show real people or places.
+
+- Hero image (a couple at Gwanghwamun Gate, Gyeongbokgung Palace, at night): Insightwm, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Couple_embracing_in_front_of_Gyeongbokgung_Palace_amid_traffic.jpg)
+- Neon hearts above a motel alley, the classic look of Korea's love-motel districts (illustration): AI-generated illustration created for Travelling South Korea
+- A Korean couple's anniversary celebration, with candles spelling out a message around a cake: Beskilbe, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Candle_of_Lover%27s_Anniversary%28Feb,_2007,_Korea%29.jpg)
+- Love locks left by couples at N Seoul Tower on Namsan, Seoul: Republic of Korea (Korea.net), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Korea_N_Seoul_Tower_20140722_05_%2814743588703%29.jpg)
+- Hongdae at night, one of the Seoul nightlife districts where young couples meet: Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg)
+- Jeju Loveland at sunset. The sculpture park is Korea's best-known adult attraction: Damara Avila, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Sunset_at_Love_Land_at_Jeju_Island_-_25779887283.jpg)
+- The Seoul Queer Culture Festival at Seoul Plaza in 2018, behind a police line: revi, [CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/), [source](https://commons.wikimedia.org/wiki/File:2018_%EC%84%9C%EC%9A%B8%ED%80%B4%EC%96%B4%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C_01.jpg)`,
+    tags: ["Culture", "Dating", "Relationships", "Nightlife", "Seoul", "Practical"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-05",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "gonjiam-haunted-asylum",
+    title: "Gonjiam Psychiatric Hospital: The Real Story of Korea's Most Haunted Asylum",
+    image: "/images/blogs/gonjiam-haunted-asylum/gonjiam-asylum-corridor-illustration.jpg",
+    canonicalPath: "/gonjiam-haunted-asylum",
+    metaTitle: "Gonjiam Haunted Asylum: The Real Story, the Film & Can You Visit?",
+    metaDescription:
+      "The true story of Gonjiam Psychiatric Hospital: why it closed, the legends, the 2018 horror film, its 2018 demolition, what's on the site now and Halloween 2026 alternatives.",
+    summary:
+      "The real history behind Korea's most famous haunted asylum, from the CNN list and the hit 2018 horror film to its demolition, what stands there now and where to get scared near Seoul instead.",
+    content: `For years, an empty hospital on a wooded hillside south-east of Seoul was the most famous haunted place in Korea. CNN listed it among the world's freakiest places, YouTubers live-streamed midnight break-ins, and in 2018 it inspired one of Korea's biggest horror hits. Then, two months after the film came out, the bulldozers arrived.
+
+This is the real story of Gonjiam Psychiatric Hospital: what it was, why it closed, what's true about the legends, what's on the site now and where to get your scare instead this Halloween. Facts were checked against Korean reporting and the Korean Film Council's figures in October 2026.
+
+## Gonjiam Asylum at a Glance
+
+| Fact | Details |
+| --- | --- |
+| Real name | Namyang Neuropsychiatric Hospital (남양신경정신병원) |
+| Location | Sindae-ri, Gonjiam-eup, Gwangju-si, Gyeonggi-do (about 40 km south-east of central Seoul) |
+| Opened | Early 1980s (the main three-storey building was approved for use in August 1982) |
+| Closed | 1996 |
+| Famous for | CNN's 2012 list of the "7 freakiest places" in the world, and the 2018 film Gonjiam: Haunted Asylum |
+| Demolished | 28–30 May 2018 |
+| Can you visit? | No. The building is gone and the land is private property |
+
+## What Gonjiam Psychiatric Hospital Really Was
+
+Despite the nickname, it wasn't a state asylum. Namyang Neuropsychiatric Hospital was a private psychiatric clinic in the village of Sindae-ri, in the Gonjiam area of Gwangju (the Gyeonggi city, not the bigger Gwangju in the south-west). The JoongAng Ilbo reported in 2018 that its main three-storey building was approved for use in August 1982, and two smaller buildings were added in the early 1990s.
+
+It closed suddenly in 1996. The JoongAng Ilbo's account is undramatic. After the founder died, his two sons inherited the hospital, but both lived in the United States. Stricter environmental rules meant it would have needed new sewage facilities, so they gave up running it. The building then sat empty for more than 20 years.
+
+![Gwangju, Gyeonggi Province: the hills and river valley around the Gonjiam area](/images/blogs/gonjiam-haunted-asylum/gwangju-gyeonggi-panorama.jpg)
+
+Gwangju, Gyeonggi Province: the hills and river valley around the Gonjiam area. Photo: Academy of Korean Studies via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Gwangju,_Gyeonggi.jpg), [KOGL Type 1](https://www.kogl.or.kr/info/licenseTypeEn.do).
+
+## The Legends and the Truth
+
+An abandoned hospital in the woods was always going to attract stories. The best-known legends say the director went mad and killed himself, that patients died in mysterious ways, or that the hospital closed after mass deaths. There's no record supporting any of them. The closure came down to inheritance and regulation, not ghosts.
+
+The legends didn't need to be true to spread, though. The site became a staple of Korea's heungga chehom (흉가 체험) culture, where people film themselves exploring "haunted houses". In 2012 CNN put Gonjiam on its list of the seven freakiest places on the planet, alongside spots like the Sedlec Ossuary in the Czech Republic. That made it a pilgrimage site for thrill-seekers, who left graffiti and rubbish behind. Locals complained for years about trespassers arriving at night.
+
+## Gonjiam: Haunted Asylum, the 2018 Film
+
+Director Jung Bum-shik turned the legend into Gonjiam: Haunted Asylum, a found-footage horror film released on 28 March 2018. In the film, the crew of a horror web show live-stream their exploration of the hospital and fake a few scares to boost viewer numbers, until things stop being fake. The cast includes Wi Ha-joon, who later found global fame in Squid Game.
+
+The low-budget film was a surprise smash. It opened at No. 1, and the Korean Film Council (KOFIC) puts its total at **2,689,877 admissions** and about US$15.1 million in Korea. At the time, it was one of the most successful Korean horror films ever.
+
+The building's owner tried to stop it. They applied for an injunction against the release, arguing the film would wreck an ongoing sale of the property. In March 2018 the Seoul Central District Court rejected the request. It said the film was obviously fiction, wasn't about the owner, and that the rumours had circulated long before it was made. The producers said they didn't film inside the real hospital and recreated it from photos and videos already online.
+
+## The Demolition and What's There Now
+
+Two months after the film opened, the hospital was gone. A buyer for the land had finally been found, demolition was reported, and the buildings were pulled down between 28 and 30 May 2018. The new owner told local reporters there were too many complaints from residents to keep it standing.
+
+The land changed hands again in April 2020, selling for about 4.99 billion won, according to Chosun Ilbo's property site Ddangjibgo. In September 2026, after a viral claim that a Coupang warehouse had been built on the site, Ddangjibgo checked and found the rumour was false. The Coupang Gonjiam 2 Center is about 200 metres away. The old hospital plot now holds three single-storey light-steel buildings owned by a glamping and accommodation company based in Paju.
+
+So there's nothing left to explore, and the land is private. Please don't go looking for it at night. Trespassing is illegal, and the neighbours have had enough.
+
+![Gonjiam Rock in the centre of Gonjiam-eup, the landmark that gives the town its name](/images/blogs/gonjiam-haunted-asylum/gonjiam-rock.jpg)
+
+Gonjiam Rock in the centre of Gonjiam-eup, the landmark that gives the town its name. Photo: Trainholic via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gonjiam.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Visiting Gonjiam Today
+
+Gonjiam is now better known for autumn leaves and ski slopes than for ghosts.
+
+- **Getting there:** Gonjiam Station is on the Gyeonggang Line between Pangyo and Yeoju. Pangyo connects to the Shinbundang Line from Gangnam.
+- **Hwadam Forest (화담숲):** a beautifully landscaped forest garden at Konjiam Resort, famous for its autumn colour. Tickets for the peak foliage season, from late October to mid-November, sell out, so book on the official site and check opening days before you go.
+- **Konjiam Resort:** one of the closest ski resorts to Seoul in winter.
+- **Gonjiam Rock:** the rock and pine tree in the town centre that gives Gonjiam its name.
+
+![Gonjiam Station on the Gyeonggang Line, the easiest way to reach Gonjiam from Seoul](/images/blogs/gonjiam-haunted-asylum/gonjiam-station.jpg)
+
+Gonjiam Station on the Gyeonggang Line, the easiest way to reach Gonjiam from Seoul. Photo: Vitzro2011 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gonjiam_Station.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+![Hwadam Forest at Konjiam Resort, Gonjiam's big draw in autumn](/images/blogs/gonjiam-haunted-asylum/hwadam-forest-gonjiam.jpg)
+
+Hwadam Forest at Konjiam Resort, Gonjiam's big draw in autumn. Photo: Thqkrdl via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%ED%99%94%EB%8B%B4%EC%88%B2.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Where to Get Scared Instead: Halloween 2026 Near Seoul
+
+If you want the Gonjiam thrill without breaking any laws, Seoul's theme parks go all-out for horror season.
+
+- **Everland, Blood City Zero (Yongin):** the 10th edition of Everland's horror zone runs from 12 September to 22 November 2026, daily from 4pm to 9pm. It's an outdoor immersive show across five themed zones, directed by film-maker Lee Seok-hoon, and it's included with park admission.
+- **Lotte World Adventure, "Invitation to a Strange World" (Jamsil):** a horror season in collaboration with the Junji Ito Collection anime, running from 19 September to 15 November 2026. The new night parade, Dark Fantasy Festival, starts at 8:20pm.
+- **Korean horror on screen:** after Gonjiam, try A Tale of Two Sisters (2003), The Wailing (2016) and Train to Busan (2016). Explore more in our [Korean cinema guides](/cinema).
+
+## Gonjiam Haunted Asylum FAQ
+
+### Is Gonjiam Psychiatric Hospital real?
+
+Yes. It was a real private psychiatric hospital, Namyang Neuropsychiatric Hospital, in Gonjiam-eup, Gwangju, Gyeonggi Province. It closed in 1996 and was demolished in May 2018.
+
+### Can you visit the Gonjiam asylum?
+
+No. The building was demolished in 2018 and the site is private land with new buildings on it. There's nothing left to see, and trespassing is illegal.
+
+### Why did Gonjiam Psychiatric Hospital close?
+
+According to the JoongAng Ilbo, the founder died and his sons, who lived in the United States, decided not to run it. Stricter environmental rules would have required new sewage facilities. The ghost stories about the director and patients have no factual basis.
+
+### Was Gonjiam: Haunted Asylum filmed at the real hospital?
+
+No. The production said it recreated the hospital using photos and videos of the real building, and a court found the film was clearly fiction.
+
+### How many people watched Gonjiam: Haunted Asylum?
+
+The Korean Film Council records 2,689,877 admissions in Korea.
+
+### Is there a Coupang warehouse on the Gonjiam asylum site?
+
+No. That rumour went viral, but Chosun Ilbo's property site checked in September 2026. The Coupang Gonjiam 2 Center is about 200 metres away. The hospital plot itself holds small light-steel buildings owned by a glamping and accommodation company.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons, public-domain or KOGL licences. Each was resized and cropped or padded to a 16:9 frame. The hero image is an AI-generated illustration of an abandoned hospital corridor, not a photo of the real Gonjiam building.
+
+- Hero image (an abandoned hospital corridor, illustration): AI-generated illustration created for Travelling South Korea
+- Gwangju, Gyeonggi Province: the hills and river valley around the Gonjiam area: Academy of Korean Studies, [KOGL Type 1](https://www.kogl.or.kr/info/licenseTypeEn.do), [source](https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Gwangju,_Gyeonggi.jpg)
+- Gonjiam Rock in the centre of Gonjiam-eup, the landmark that gives the town its name: Trainholic, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Gonjiam.jpg)
+- Gonjiam Station on the Gyeonggang Line, the easiest way to reach Gonjiam from Seoul: Vitzro2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Gonjiam_Station.jpg)
+- Hwadam Forest at Konjiam Resort, Gonjiam's big draw in autumn: Thqkrdl, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:%ED%99%94%EB%8B%B4%EC%88%B2.jpg)`,
+    tags: ["Culture", "Horror", "Film", "Gyeonggi", "Halloween", "Unusual"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-05",
+    contentType: "travel-tip",
+  },
+  {
     slug: "what-is-maeshilju",
     title: "What Is Maeshil-Ju?",
     image: "/images/blogs/maeshilju/f918b5a38b86407282c40d956d28b6f9.jpg",
