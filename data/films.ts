@@ -29,7 +29,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul"],
   }),
   film("train-to-busan", {
-    imdbId: "tt5433138",
+    imdbId: "tt2582496",
     title: "Train to Busan",
     year: 2016,
     directorSlug: "yeon-sang-ho",
@@ -89,7 +89,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul"],
   }),
   film("decision-to-leave", {
-    imdbId: "tt13238346",
+    imdbId: "tt12477480",
     title: "Decision to Leave",
     year: 2022,
     directorSlug: "park-chan-wook",

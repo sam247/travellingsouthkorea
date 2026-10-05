@@ -335,8 +335,10 @@ const citiesBase: City[] = [
     name: "Gyeongju",
     tagline: "Museum without walls",
     description: "The ancient capital of the Silla Kingdom. Royal tombs, thousand-year-old temples and the night views of Anapji Pond.",
-    image: getCityImagePath("gyeongju"),
+    image: "https://images.unsplash.com/photo-1573057284059-827a26b093f4?w=1200&q=80",
     regionSlug: "north-gyeongsang",
+    lat: 35.8562,
+    lng: 129.2247,
     bestFor: ["history", "culture", "temples"],
   },
   {

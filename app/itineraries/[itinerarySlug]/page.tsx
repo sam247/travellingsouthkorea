@@ -34,7 +34,6 @@ import {
   getNeighbourhoodPath,
   getTravelTipPath,
 } from "@/lib/canonical";
-import { getItinerarySupportingImagePath } from "@/lib/imagePaths";
 import { ContentSection } from "@/components/ContentSection";
 
 interface PageProps {
@@ -80,6 +79,13 @@ export default async function ItineraryPage({ params }: PageProps) {
     itinerary.title,
     itinerary.slug
   );
+
+  // Prefer day-plan slot images (real Unsplash URLs) over missing local -1/-2 files.
+  const slotImages = itinerary.dayPlans.flatMap((d) =>
+    d.timeSlots.map((s) => s.image).filter(Boolean)
+  );
+  const supportingImage1 = slotImages[0] ?? itinerary.image;
+  const supportingImage2 = slotImages[1] ?? slotImages[0] ?? itinerary.image;
 
   return (
     <div className="min-h-screen bg-background">
@@ -135,7 +141,7 @@ export default async function ItineraryPage({ params }: PageProps) {
         <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-6">
           <div className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50">
             <SafeImage
-              src={getItinerarySupportingImagePath(itinerarySlug, "1")}
+              src={supportingImage1}
               alt={`${itinerary.title} — scene`}
               fill
               className="object-cover"
@@ -143,7 +149,7 @@ export default async function ItineraryPage({ params }: PageProps) {
           </div>
           <div className="relative aspect-video rounded-xl overflow-hidden bg-secondary/50">
             <SafeImage
-              src={getItinerarySupportingImagePath(itinerarySlug, "2")}
+              src={supportingImage2}
               alt={`${itinerary.title} — scene`}
               fill
               className="object-cover"

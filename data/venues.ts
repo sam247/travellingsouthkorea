@@ -121,7 +121,7 @@ const venuesBase: Venue[] = [
     slug: "baegundae-peak",
     name: "Baegundae Peak Trail",
     citySlug: "seoul",
-    neighbourhoodSlug: "jamsil",
+    neighbourhoodSlug: "dobong",
     category: "attraction",
     image: getVenueImagePath("baegundae-peak"),
     description: "The most popular trail to Bukhansan's highest point at 836 metres with panoramic city views.",

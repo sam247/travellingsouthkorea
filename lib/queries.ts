@@ -13,6 +13,11 @@ import { getVenuesByCity, getVenuesByNeighbourhood, getVenuesByCategory } from "
 import { getItinerariesByAuthor, getItinerariesByCity } from "@/data/itineraries";
 import { getTravelTipsByAuthor, getFeaturedEditorialTravelTips } from "@/data/travelTips";
 import { getCategoryBySlug } from "@/data/categories";
+import {
+  getProgrammaticGuideSpecs,
+  buildProgrammaticGuide,
+  type ProgrammaticGuideType,
+} from "@/lib/programmaticGuides";
 import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
 import type { Guide } from "@/types";
 import type { Venue } from "@/types";
@@ -185,4 +190,66 @@ export function getCityCategoryContent(
     travelTips: [],
     categoryLabel,
   };
+}
+
+/** URL category slug → editorial Guide.category (shared with city category pages). */
+export const globalGuideCategoryMap: Record<string, string> = {
+  bars: "nightlife",
+  restaurants: "food",
+  cafes: "food",
+  nightlife: "nightlife",
+  food: "food",
+  "things-to-do": "things-to-do",
+};
+
+/** Programmatic guide types that belong on each global /category/[slug] listing. */
+const globalProgrammaticTypes: Record<string, ProgrammaticGuideType[]> = {
+  bars: ["best-bars"],
+  nightlife: ["best-bars"],
+  restaurants: ["best-restaurants"],
+  cafes: ["best-cafes"],
+  food: ["best-restaurants", "best-cafes"],
+  "things-to-do": ["things-to-do"],
+};
+
+function isCafeOrientedGuide(g: Guide): boolean {
+  if (/cafe|coffee/i.test(g.slug)) return true;
+  return g.tags.some((t) => /cafe|coffee|brunch|dessert/i.test(t));
+}
+
+/**
+ * Guides for global /category/[categorySlug] pages.
+ * Maps bars/restaurants/cafes to editorial nightlife/food categories (same as
+ * city category pages) and merges qualifying programmatic guides so listings
+ * are not empty when homepage links to those category URLs.
+ */
+export function getGuidesForGlobalCategory(categorySlug: string): Guide[] {
+  const guideCategory =
+    globalGuideCategoryMap[categorySlug] ??
+    guideCategoryMap[categorySlug] ??
+    categorySlug;
+  let editorial = getGuidesByCategory(guideCategory);
+
+  if (categorySlug === "cafes") {
+    editorial = editorial.filter(isCafeOrientedGuide);
+  } else if (categorySlug === "restaurants") {
+    editorial = editorial.filter((g) => !isCafeOrientedGuide(g));
+  }
+
+  const progTypes = globalProgrammaticTypes[categorySlug] ?? [];
+  const programmatic =
+    progTypes.length === 0
+      ? []
+      : getProgrammaticGuideSpecs()
+          .filter((s) => progTypes.includes(s.guideType))
+          .map(buildProgrammaticGuide);
+
+  const seen = new Set<string>();
+  const out: Guide[] = [];
+  for (const g of [...editorial, ...programmatic]) {
+    if (seen.has(g.slug)) continue;
+    seen.add(g.slug);
+    out.push(g);
+  }
+  return out;
 }

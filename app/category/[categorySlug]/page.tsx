@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getCategoryBySlug } from "@/data/categories";
-import { getGuidesByCategory } from "@/data/guides";
+import { getGuidesForGlobalCategory } from "@/lib/queries";
 import { neighbourhoods } from "@/data/neighbourhoods";
 import { itineraries } from "@/data/itineraries";
 import { travelTips } from "@/data/travelTips";
@@ -114,7 +114,7 @@ export default async function GlobalCategoryPage({ params }: PageProps) {
     );
   }
 
-  const allGuides = getGuidesByCategory(categorySlug);
+  const allGuides = getGuidesForGlobalCategory(categorySlug);
 
   return (
     <div className="min-h-screen bg-background">

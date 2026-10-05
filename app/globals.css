@@ -92,3 +92,26 @@
     text-wrap: balance;
   }
 }
+
+/* QA-2026-10-05-10: sticky/overlay ad viewport cap (Sam GO) */
+.tsk-sticky-ad-cap,
+.tsk-sticky-ad-cap ins.adsbygoogle {
+  max-height: 15vh !important;
+  overflow: hidden !important;
+}
+
+/* Google Auto ads: anchor / vignette / auto-placed overlays must not dominate */
+ins.adsbygoogle[data-anchor-status],
+ins.adsbygoogle[data-ad-status="filled"][data-anchor-status],
+.google-auto-placed,
+div[id^="google_ads_iframe_"][style*="fixed"],
+iframe[id^="google_ads_iframe_"][name*="anchor"] {
+  max-height: 15vh !important;
+}
+
+/* Keep Auto-ad in-page cards from ballooning inside sticky sidebars */
+aside.sticky .tsk-sticky-ad-cap,
+aside[class*="sticky"] .tsk-sticky-ad-cap {
+  max-height: 15vh !important;
+  overflow: hidden !important;
+}
