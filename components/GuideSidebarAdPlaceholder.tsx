@@ -11,8 +11,8 @@ interface GuideSidebarAdPlaceholderProps {
 
 /**
  * Sidebar ad slot used inside sticky asides.
- * Caps rendered height to ~15vh so sticky/overlay ads cannot dominate the
- * viewport (Sam GO on QA-2026-10-05-10 density).
+ * Our own placeholder container is capped to ~15vh (.tsk-sticky-ad-cap) so it
+ * cannot dominate the viewport (Sam GO on QA-2026-10-05-10 density).
  */
 export function GuideSidebarAdPlaceholder({
   slot,
@@ -20,21 +20,14 @@ export function GuideSidebarAdPlaceholder({
   description,
 }: GuideSidebarAdPlaceholderProps) {
   if (slot) {
-    return (
-      <div className="tsk-sticky-ad-cap max-h-[15vh] overflow-hidden">
-        <AdSenseUnit
-          slot={slot}
-          format="rectangle"
-          fullWidthResponsive={false}
-          className="max-h-[15vh]"
-          style={{ display: "block", maxHeight: "15vh", overflow: "hidden" }}
-        />
-      </div>
-    );
+    // Real AdSense unit: rendered unmodified. The 15vh cap is NOT applied
+    // here because it would only work by clipping or resizing the
+    // Google-served ad (policy risk). See QA-2026-10-05-10 proposal.
+    return <AdSenseUnit slot={slot} />;
   }
 
   return (
-    <div className="mb-6 rounded-lg border border-border bg-secondary/40 p-4 max-h-[15vh] overflow-hidden">
+    <div className="tsk-sticky-ad-cap mb-6 rounded-lg border border-border bg-secondary/40 p-4">
       {title && (
         <p className="text-sm font-semibold text-foreground mb-1">{title}</p>
       )}

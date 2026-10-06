@@ -6,7 +6,6 @@ import { SiteFooter } from "@/components/layout/SiteFooter";
 import { GoogleAnalytics } from "@/components/analytics/GoogleAnalytics";
 import { ScrollDepthTracker } from "@/components/analytics/ScrollDepthTracker";
 import { OutboundClickTracker } from "@/components/analytics/OutboundClickTracker";
-import { StripAdLinksFromHeadings } from "@/components/analytics/StripAdLinksFromHeadings";
 
 export const metadata: Metadata = {
   title: "Travelling South Korea | Travel Guides, Neighbourhoods & Itineraries",
@@ -30,7 +29,6 @@ export default function RootLayout({
         <GoogleAnalytics />
         <ScrollDepthTracker />
         <OutboundClickTracker />
-        <StripAdLinksFromHeadings />
         <SiteNav />
         <main className="min-h-screen">{children}</main>
         <SiteFooter />
