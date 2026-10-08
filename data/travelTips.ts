@@ -1092,6 +1092,254 @@ Korean won currency ETFs are best understood as a finance concept with travel re
     contentType: "travel-tip",
   },
   {
+    slug: "most-beautiful-korean-actresses",
+    title: "15 Most Beautiful Korean Actresses in 2026 (and What They're Starring In)",
+    image: "/images/blogs/most-beautiful-korean-actresses/busan-cinema-center-night.jpg",
+    canonicalPath: "/most-beautiful-korean-actresses",
+    metaTitle: "Most Beautiful Korean Actresses 2026: 15 Hottest K-Drama Stars",
+    metaDescription:
+      "Song Hye-kyo, Jun Ji-hyun, Kim Ji-won, IU, Han So-hee and more: the 15 most beautiful and popular Korean actresses of 2026, their best dramas and what's new.",
+    summary:
+      "Our 2026 list of the most beautiful and in-demand Korean actresses, from Song Hye-kyo and Jun Ji-hyun to Kim Ji-won, IU, Go Youn-jung and Jung Ho-yeon, with their best-known dramas and films and what they're working on now.",
+    content: `Korean dramas and films have made a generation of South Korean actresses famous far beyond Korea, and "who is the most beautiful Korean actress?" is one of the questions fans search for most. There's no official answer, so this list does something more useful: it picks 15 actresses who are at the top of their game in 2026, tells you what they're known for, and shows what they're working on right now.
+
+Everyone here is an adult, and every photo is a licensed image from a public event. We chose them on recent work, awards and popularity (including Gallup Korea's annual actor polls), not just looks. Song Hye-kyo, for one, has said she'd rather be recognised for her acting than her looks, and the 2025 and 2026 work below shows why these 15 are at the top.
+
+## The List at a Glance
+
+| # | Actress | Hangul | Born | Best known for | What's new in 2025–26 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Song Hye-kyo | 송혜교 | 1981 | Descendants of the Sun, The Glory | Netflix series *Tantara* with Gong Yoo |
+| 2 | Jun Ji-hyun | 전지현 | 1981 | My Sassy Girl, My Love from the Star | Zombie thriller *Colony* (Cannes 2026) |
+| 3 | Son Ye-jin | 손예진 | 1982 | The Classic, Crash Landing on You | Blue Dragon Best Actress for *No Other Choice* |
+| 4 | Kim Ji-won | 김지원 | 1992 | Queen of Tears, My Liberation Notes | SBS medical noir *Doctor X: Mafia in White* |
+| 5 | IU | 아이유 | 1993 | My Mister, When Life Gives You Tangerines | Royal romance *Perfect Crown* |
+| 6 | Bae Suzy | 배수지 | 1994 | Architecture 101, While You Were Sleeping | Netflix fantasy *Genie, Make a Wish* |
+| 7 | Han So-hee | 한소희 | 1993 | The World of the Married, My Name | Crime film *Project Y* |
+| 8 | Kim Tae-ri | 김태리 | 1990 | The Handmaiden, Twenty-Five Twenty-One | Variety show *Curtain Up, Class!* |
+| 9 | Go Youn-jung | 고윤정 | 1996 | Moving, Resident Playbook | Netflix romance *Can This Love Be Translated?* |
+| 10 | Kim Go-eun | 김고은 | 1991 | Goblin, Exhuma | Netflix series *You and Everything Else* |
+| 11 | Jung Ho-yeon | 정호연 | 1994 | Squid Game | Na Hong-jin's *Hope* (Cannes competition) |
+| 12 | Kim Yoo-jung | 김유정 | 1999 | Love in the Moonlight, My Demon | Thriller *Dear X* |
+| 13 | Shin Min-a | 신민아 | 1984 | Hometown Cha-Cha-Cha, Oh My Venus | Netflix thriller *Karma*; married Kim Woo-bin |
+| 14 | Moon Ga-young | 문가영 | 1996 | True Beauty, The Interest of Love | Hit romance film *Once We Were Us* |
+| 15 | Park Min-young | 박민영 | 1986 | What's Wrong with Secretary Kim, Marry My Husband | Con-artist series *Confidence Queen* |
+
+## 1. Song Hye-kyo (송혜교)
+
+![Song Hye-kyo at a public event in July 2023](/images/blogs/most-beautiful-korean-actresses/song-hye-kyo.jpg)
+
+Song Hye-kyo at a public event in July 2023. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Song Hye-kyo has been one of Korea's defining screen beauties for more than two decades. Korean media long grouped her with Kim Tae-hee and Jun Ji-hyun as the "Tae-Hye-Ji" trio, the shorthand for the country's most iconic actresses. Her hits run from *Autumn in My Heart* (2000) and *Full House* (2004) to *Descendants of the Sun* (2016) and Netflix's revenge drama *The Glory* (2022–23), which won her the Baeksang Arts Award for Best Actress in television.
+
+**Now:** She led the supernatural thriller film *Dark Nuns* in January 2025 and made a special appearance in Netflix's *Genie, Make a Wish*. Her next big series is Netflix's period drama *Tantara* with Gong Yoo, which Netflix has slated for December 2026. Off screen, she became a global ambassador for Guerlain in 2026 and a brand ambassador for Bottega Veneta in September 2026. In a January 2025 interview she said newer actors should carry the "Tae-Hye-Ji" torch now, and that she'd rather be recognised for her acting than her looks.
+
+## 2. Jun Ji-hyun (전지현)
+
+![Jun Ji-hyun at a public event in April 2026](/images/blogs/most-beautiful-korean-actresses/jun-ji-hyun-2026.jpg)
+
+Jun Ji-hyun at a public event in April 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jun_Ji-hyun_in_April_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Known internationally as Gianna Jun, Jun Ji-hyun became a pan-Asian star with the romantic comedy *My Sassy Girl* (2001). She later starred in the films *The Thieves* (2012) and *Assassination* (2015), and in the dramas *My Love from the Star* (2013–14) and *The Legend of the Blue Sea* (2016–17).
+
+**Now:** 2026 is her big-screen comeback. Yeon Sang-ho's zombie thriller *Colony*, her first film since *Assassination*, premiered in the Midnight Screenings section of the Cannes Film Festival on 15 May 2026 and opened in Korean cinemas on 21 May. She plays a woman trapped inside a quarantined building who becomes the survivors' leader. Yeon is the director of *Train to Busan*, and you can read more about him in our [Yeon Sang-ho profile](/cinema/directors/yeon-sang-ho) and our guide to [Korean zombie movies](/cinema/articles/korean-zombie-movies). Piaget also named her its global ambassador in April 2025.
+
+## 3. Son Ye-jin (손예진)
+
+![Son Ye-jin at the Baeksang Arts Awards in May 2026](/images/blogs/most-beautiful-korean-actresses/son-ye-jin-2026.jpg)
+
+Son Ye-jin at the Baeksang Arts Awards in May 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Son_Ye-jin_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Son Ye-jin earned the nickname "Nation's First Love" with early romances such as *The Classic* (2003) and *A Moment to Remember* (2004). Global audiences know her best from *Crash Landing on You* (2019–20), where she played a South Korean heiress who falls for a North Korean officer, played by Hyun Bin, whom she later married.
+
+**Now:** She starred in Park Chan-wook's dark comedy *No Other Choice* (2025), and won Best Actress at the 46th Blue Dragon Film Awards for it in November 2025, her second win in that category. For more on the director, see our [Park Chan-wook profile](/cinema/directors/park-chan-wook).
+
+## 4. Kim Ji-won (김지원)
+
+![Kim Ji-won at a public event in May 2026](/images/blogs/most-beautiful-korean-actresses/kim-ji-won-2026.jpg)
+
+Kim Ji-won at a public event in May 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kim_Ji-won_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Ji-won broke through in *The Heirs* (2013) and *Descendants of the Sun* (2016), then led *Fight for My Way* (2017) and *My Liberation Notes* (2022). Her chaebol-heiress role in *Queen of Tears* (2024) made her a global name: its finale hit 24.9% nationwide ratings, which made it tvN's highest-rated drama at the time. She came third in Gallup Korea's Television Actor of the Year poll in both 2024 and 2025.
+
+**Now:** After a two-year break she returns in SBS's *Doctor X: Mafia in White*, the Korean remake of the Japanese hit *Doctor X*, which premieres on Friday 9 October 2026. She plays Gye Soo-jung, a maverick genius surgeon, and cut her hair into a bob for the role.
+
+## 5. IU (아이유)
+
+![IU on the red carpet at the Blue Dragon Series Awards in July 2025](/images/blogs/most-beautiful-korean-actresses/iu-2025.jpg)
+
+IU on the red carpet at the Blue Dragon Series Awards in July 2025. Photo: 티비텐 TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IU_at_Blue_Dragon_Series_Awards_on_18072025_%281%29.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+IU (real name Lee Ji-eun) is that rare star who is at the very top of both K-pop and K-drama. As an actress she's best known for *My Mister* (2018) and *When Life Gives You Tangerines* (2025), the Netflix family saga with Park Bo-gum that's set on [Jeju Island](/south-korea/jeju). Tangerines won her Best Actress at the 4th Blue Dragon Series Awards and the grand prize at the 2025 APAN Star Awards.
+
+**Now:** In April 2026 she starred opposite Byeon Woo-seok in *Perfect Crown*, a romantic comedy set in an imagined modern Korea that still has a royal family. Gallup Korea named her Singer of the Year for 2025 and ranked her second among TV actors, the first artist to make the top two of both lists in the same year. For the music side of her career, see our [K-pop history guide](/travel-tips/k-pop-history).
+
+## 6. Bae Suzy (배수지)
+
+![Bae Suzy at a campaign event in April 2024](/images/blogs/most-beautiful-korean-actresses/bae-suzy.jpg)
+
+Bae Suzy at a campaign event in April 2024. Photo: K-POPIT 케이팝잇 (TV10) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bae_Suzy_at_OB_Beer_Hanmac_%27As_Smooth_As_Possible%27_campaign,_3_April_2024_01.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Suzy started out in the girl group miss A and became the second "Nation's First Love" after the film *Architecture 101* (2012). Her dramas include *Gu Family Book* (2013), *Uncontrollably Fond* (2016) and *While You Were Sleeping* (2017).
+
+**Now:** She starred with Kim Woo-bin in *Genie, Make a Wish*, a Netflix romantic fantasy by Kim Eun-sook (the writer of *Descendants of the Sun* and *The Glory*), released on 3 October 2025. In 2026 she voiced and narrated the animated film *Long Long Night*, which premiered at the Toronto International Film Festival in September. She also released her first single in two years, "Come Back", in February 2025.
+
+## 7. Han So-hee (한소희)
+
+![Han So-hee at the 2025 Toronto International Film Festival](/images/blogs/most-beautiful-korean-actresses/han-so-hee-tiff-2025.jpg)
+
+Han So-hee at the 2025 Toronto International Film Festival. Photo: Desmond Herzfelder via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Han_So-Hee_at_the_2025_Toronto_International_Film_Festival.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Han So-hee made her name as the other woman in *The World of the Married* (2020), then led the romance *Nevertheless* (2021), the Netflix action series *My Name* (2021) and the period monster drama *Gyeongseong Creature* (2023–24).
+
+**Now:** She co-leads the crime film *Project Y* with Jeon Jong-seo, about two friends who try to steal black money and gold bars in Gangnam. It premiered at the Toronto International Film Festival in September 2025 (the photo above is from that trip) and opened in Korea on 21 January 2026, with a near-simultaneous release in Japan two days later.
+
+## 8. Kim Tae-ri (김태리)
+
+![Kim Tae-ri at a public event in April 2026](/images/blogs/most-beautiful-korean-actresses/kim-tae-ri-2026.jpg)
+
+Kim Tae-ri at a public event in April 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kim_Tae-ri_in_April_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Tae-ri burst onto the scene in Park Chan-wook's *The Handmaiden* (2016), which won her the Blue Dragon Award for Best New Actress. See our guide to [The Handmaiden](/cinema/films/the-handmaiden) and its [filming locations](/cinema/locations/the-handmaiden-filming-locations). On TV she led *Mr. Sunshine* (2018), *Twenty-Five Twenty-One* (2022) and *Jeongnyeon: The Star Is Born* (2024), winning Baeksang Best Actress for the last two.
+
+**Now:** She made her voice-acting debut in *Lost in Starlight* (2025), the first Korean feature-length animated film released on Netflix, and joined tvN's 2026 variety show *Curtain Up, Class!* as a regular. In July 2026 her agency said she was positively considering the drama *Sister, I'm the Queen in This Life*, which would be her first drama in about three years.
+
+## 9. Go Youn-jung (고윤정)
+
+![Go Youn-jung at a public event in May 2026](/images/blogs/most-beautiful-korean-actresses/go-youn-jung-2026.jpg)
+
+Go Youn-jung at a public event in May 2026. Photo: K-POPit 티비텐 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Go_Youn-jung_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Go Youn-jung is one of the fastest-rising leads of the decade. She broke through with the film *The Hunt* (2022) and Disney+'s superhero hit *Moving* (2023), then led *Alchemy of Souls* season 2 and the medical drama *Resident Playbook* (2025), which topped Good Data Corporation's buzzworthy-actor chart for four weeks running.
+
+**Now:** 2026 has been her busiest year yet. Netflix's romance *Can This Love Be Translated?*, with Kim Seon-ho as a multilingual interpreter, premiered on 16 January 2026, and JTBC's *We Are All Trying Here*, written by Park Hae-young, aired from April to May. Tiffany & Co. named her an ambassador in August 2026.
+
+## 10. Kim Go-eun (김고은)
+
+![Kim Go-eun at the Baeksang Arts Awards in May 2026](/images/blogs/most-beautiful-korean-actresses/kim-go-eun-baeksang-2026.jpg)
+
+Kim Go-eun at the Baeksang Arts Awards in May 2026. Photo: TV10 / Ten Asia via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Go-eun debuted in the film *Eungyo* (2012) and became a household name with *Cheese in the Trap* (2016) and *Guardian: The Lonely and Great God* (2016–17), better known as *Goblin*. Her shaman role in the occult hit *Exhuma* (2024) won her both the Baeksang Arts Award and the Blue Dragon Film Award.
+
+**Now:** In September 2025 Netflix released *You and Everything Else*, a 15-episode series in which she plays one of two lifelong friends whose friendship, envy and rivalry play out over decades.
+
+## 11. Jung Ho-yeon (정호연)
+
+![Jung Ho-yeon at the 2026 Cannes Film Festival](/images/blogs/most-beautiful-korean-actresses/jung-ho-yeon-cannes-2026.jpg)
+
+Jung Ho-yeon at the 2026 Cannes Film Festival. Photo: Gabriel Hutchinson via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jung_Ho-Yeon_at_the_2026_Cannes_Film_Festival_03_%28cropped%29.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Jung Ho-yeon was a fashion model first. She was runner-up on *Korea's Next Top Model* in 2013 and walked international runways before her acting debut as Kang Sae-byeok in Netflix's *Squid Game* (2021) made her a global star overnight.
+
+**Now:** Her first film, Na Hong-jin's science-fiction thriller *Hope*, competed for the Palme d'Or at Cannes, where it premiered on 17 May 2026. She plays Sung-ae, a rookie village police officer, alongside Hwang Jung-min, Zo In-sung, Michael Fassbender and Alicia Vikander. It's Na's first film since *The Wailing* (2016); see our [Na Hong-jin profile](/cinema/directors/na-hong-jin).
+
+## 12. Kim Yoo-jung (김유정)
+
+![Kim Yoo-jung at a public event in October 2025](/images/blogs/most-beautiful-korean-actresses/kim-yoo-jung-2025.jpg)
+
+Kim Yoo-jung at a public event in October 2025. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kim_Yoo-jung_in_October_2025_02.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Yoo-jung started acting as a child and was once nicknamed the "Nation's Little Sister". Now 27, she has led *Love in the Moonlight* (2016), *Backstreet Rookie* (2020), *Lovers of the Red Sky* (2021) and the fantasy romance *My Demon* (2023–24).
+
+**Now:** She took a darker turn in the psychological thriller *Dear X*, which premiered on TVING on 6 November 2025. Earlier that autumn she became the first winner of the Busan International Actors Award at the 30th [Busan](/south-korea/busan) International Film Festival.
+
+## 13. Shin Min-a (신민아)
+
+![Shin Min-a at a Louis Vuitton event in 2025](/images/blogs/most-beautiful-korean-actresses/shin-min-a-2025.jpg)
+
+Shin Min-a at a Louis Vuitton event in 2025. Photo: 티비텐 TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shin_Min-a_at_an_event_for_Louis_Vuitton_in_2025_1.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Shin Min-a began as a model before acting, and she's still one of Korea's most in-demand faces for fashion brands. Her best-loved dramas include *My Girlfriend Is a Gumiho* (2010), *Oh My Venus* (2015), the seaside romance *Hometown Cha-Cha-Cha* (2021) and *Our Blues* (2022).
+
+**Now:** She starred in Netflix's crime thriller *Karma* in 2025, then married actor Kim Woo-bin on 20 December 2025 at the Shilla Hotel in Seoul, after a decade-long public relationship. The couple marked the wedding with a donation, and her lifetime charitable giving passed ₩4 billion in 2025.
+
+## 14. Moon Ga-young (문가영)
+
+![Moon Ga-young at a photo call in March 2025](/images/blogs/most-beautiful-korean-actresses/moon-ga-young-2025.jpg)
+
+Moon Ga-young at a photo call in March 2025. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20250319_Moon_Ga-young_at_a_photo_call_event_01.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Moon Ga-young started as a child model and actress, then became a lead with *Tempted* (2018), *True Beauty* (2020–21) and *The Interest of Love* (2022–23).
+
+**Now:** Her romance film *Once We Were Us*, with Koo Kyo-hwan, opened on 31 December 2025 and became a genuine hit. It crossed 2 million admissions on 26 January 2026, the first Korean romance film to pass that mark in years, and went on to more than 2.5 million. She also starred in the drama *My Dearest Nemesis* (2025).
+
+## 15. Park Min-young (박민영)
+
+![Park Min-young at Incheon Airport in March 2026](/images/blogs/most-beautiful-korean-actresses/park-min-young-2026.jpg)
+
+Park Min-young at Incheon Airport in March 2026. Photo: 티비텐 TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Park_Min-young_at_Incheon_Airport_on_02032026_%282%29.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Park Min-young rose to fame in the historical drama *Sungkyunkwan Scandal* (2010) and is one of Korea's best-loved romantic-comedy leads, thanks to *Healer* (2014–15), *What's Wrong with Secretary Kim* (2018) and the revenge drama *Marry My Husband* (2024).
+
+**Now:** In September 2025 she played a genius con artist in *Confidence Queen*, the Korean remake of Japan's *The Confidence Man JP*. It aired on TV Chosun in Korea and streams worldwide on Prime Video as the first Korean Amazon Original drama.
+
+## Where to See Korean Stars in Person
+
+You won't bump into these actresses on the street very often, but there are a few reliable places where Korean stars appear in public:
+
+- **Film festival red carpets.** The [Busan](/south-korea/busan) International Film Festival every autumn is Korea's biggest, with open-air screenings and red carpets at the Busan Cinema Center (pictured at the top of this page).
+- **Awards shows.** The Baeksang Arts Awards (spring) and the Blue Dragon Film Awards (late autumn) in Seoul draw the biggest names, and fans gather outside the venues.
+- **Airports.** Korean entertainment media film stars leaving from Incheon and Gimpo for overseas events, which is where several of the photos on this page come from.
+- **Filming locations.** You can visit the places where your favourite dramas and films were shot; start with our [Korean cinema guide](/cinema).
+
+Please be respectful: don't follow anyone, crowd them at the airport, or photograph them in private.
+
+## What Makes Korean Actresses So Admired?
+
+Korean beauty ideals are a big topic in themselves (we cover them in our guide to [Korean beauty standards](/culture/korean-beauty-standards)), but the actresses above are admired for more than looks. Many have built careers that run for decades, often moving from romance into thrillers, period dramas and film. Their style also shapes trends across Asia, which is why so many of them are luxury-brand ambassadors.
+
+If you're interested in Korean swimwear and fitness stars, see our explainers on [Korean bikini models](/culture/korean-bikini-models) and [Korean fitness models](/culture/korean-fitness-models).
+
+## Korean Actresses FAQ
+
+### Who is the most beautiful Korean actress in 2026?
+
+There's no official ranking. Song Hye-kyo, Jun Ji-hyun and Son Ye-jin are the classic answers in Korea, while Kim Ji-won, IU, Go Youn-jung and Han So-hee are among the most popular younger stars right now. Gallup Korea's 2025 Television Actor of the Year poll put IU second and Kim Ji-won third.
+
+### What does "Tae-Hye-Ji" mean?
+
+It's a nickname Korean media gave to Kim Tae-hee, Song Hye-kyo and Jun Ji-hyun, taking one syllable from each name, as the country's most iconic actresses of their generation.
+
+### Who is called the "Nation's First Love"?
+
+Son Ye-jin was first given the title for her early-2000s romance films, and Bae Suzy got it after *Architecture 101* (2012).
+
+### Which Korean actresses are in new dramas in 2026?
+
+Kim Ji-won's *Doctor X: Mafia in White* starts on SBS on 9 October 2026, and Song Hye-kyo's Netflix series *Tantara* is slated for December 2026. Earlier in 2026, IU starred in *Perfect Crown* and Go Youn-jung in *Can This Love Be Translated?* and *We Are All Trying Here*.
+
+### Which Korean actresses were at Cannes in 2026?
+
+Jun Ji-hyun went with Yeon Sang-ho's *Colony* (Midnight Screenings), and Jung Ho-yeon went with Na Hong-jin's *Hope*, which competed for the Palme d'Or.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences. Each was resized and cropped, or padded with a blurred background, to a 16:9 frame.
+
+- Hero image (the Busan Cinema Center, home of the Busan International Film Festival, at night): Raja Syazwina RS, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:Busan_Cinema_Center_and_Centum_City_Skyline_at_Night.jpg)
+- Song Hye-kyo at a public event in July 2023: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg)
+- Jun Ji-hyun at a public event in April 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Jun_Ji-hyun_in_April_2026.png)
+- Son Ye-jin at the Baeksang Arts Awards in May 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Son_Ye-jin_in_May_2026.png)
+- Kim Ji-won at a public event in May 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kim_Ji-won_in_May_2026.png)
+- IU on the red carpet at the Blue Dragon Series Awards in July 2025: 티비텐 TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:IU_at_Blue_Dragon_Series_Awards_on_18072025_%281%29.png)
+- Bae Suzy at a campaign event in April 2024: K-POPIT 케이팝잇 (TV10), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Bae_Suzy_at_OB_Beer_Hanmac_%27As_Smooth_As_Possible%27_campaign,_3_April_2024_01.jpg)
+- Han So-hee at the 2025 Toronto International Film Festival: Desmond Herzfelder, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Han_So-Hee_at_the_2025_Toronto_International_Film_Festival.jpg)
+- Kim Tae-ri at a public event in April 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kim_Tae-ri_in_April_2026.png)
+- Go Youn-jung at a public event in May 2026: K-POPit 티비텐, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Go_Youn-jung_in_May_2026.png)
+- Kim Go-eun at the Baeksang Arts Awards in May 2026: TV10 / Ten Asia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png)
+- Jung Ho-yeon at the 2026 Cannes Film Festival: Gabriel Hutchinson, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Jung_Ho-Yeon_at_the_2026_Cannes_Film_Festival_03_%28cropped%29.jpg)
+- Kim Yoo-jung at a public event in October 2025: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kim_Yoo-jung_in_October_2025_02.png)
+- Shin Min-a at a Louis Vuitton event in 2025: 티비텐 TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Shin_Min-a_at_an_event_for_Louis_Vuitton_in_2025_1.png)
+- Moon Ga-young at a photo call in March 2025: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:20250319_Moon_Ga-young_at_a_photo_call_event_01.jpg)
+- Park Min-young at Incheon Airport in March 2026: 티비텐 TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Park_Min-young_at_Incheon_Airport_on_02032026_%282%29.png)`,
+    tags: ["Culture", "K-Drama", "Celebrities", "Korean Film", "Entertainment"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-08",
+    contentType: "travel-tip",
+  },
+  {
     slug: "breweries-in-south-korea",
     title: "Best Craft Breweries in South Korea to Visit",
     image: "/images/blogs/breweries/defne-kucukmustafa-wYDUZux2wE8-unsplash.jpg",
