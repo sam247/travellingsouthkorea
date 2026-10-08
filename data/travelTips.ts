@@ -497,7 +497,7 @@ A bunch of three love locks at N Seoul Tower, which the photographer captioned "
 - **Keep it polite at first.** Use *-yo* endings until you're invited to speak casually.
 - **Public affection is mild.** Holding hands and matching outfits are normal; big public kisses still get looks, especially from older people.
 
-## Frequently Asked Questions
+## Korean Terms of Endearment FAQ
 
 ### What does jagiya mean in Korean?
 
