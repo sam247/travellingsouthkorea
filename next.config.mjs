@@ -16,6 +16,9 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      { source: "/travel-tips/korean-sexuality", destination: "/korean-sexuality", permanent: true },
+      { source: "/travel-tips/gonjiam-haunted-asylum", destination: "/gonjiam-haunted-asylum", permanent: true },
+      { source: "/gonjiam-asylum", destination: "/gonjiam-haunted-asylum", permanent: true },
       { source: "/things-to-do-in-itaewon", destination: "/south-korea/seoul/itaewon/category/things-to-do", permanent: true },
       { source: "/navigate-seoul-the-ultimate-mrt-map-guide", destination: "/travel-tips/seoul-subway-guide", permanent: true },
       { source: "/the-evolution-of-k-pop-a-journey-through-time", destination: "/travel-tips/k-pop-history", permanent: true },
@@ -47,6 +50,8 @@ const nextConfig = {
       { source: "/buying-bedding-in-south-korea", destination: "/travel-tips/buying-bedding-in-south-korea" },
       { source: "/seoul-subway-a-cheat-sheet", destination: "/travel-tips/seoul-subway-cheat-sheet" },
       { source: "/jeju-loveland", destination: "/travel-tips/jeju-loveland" },
+      { source: "/korean-sexuality", destination: "/travel-tips/korean-sexuality" },
+      { source: "/gonjiam-haunted-asylum", destination: "/travel-tips/gonjiam-haunted-asylum" },
       {
         source: "/top-pc-bang-internet-cafes-in-seoul-for-gaming",
         destination: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming",
