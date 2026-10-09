@@ -27,6 +27,7 @@ const nextConfig = {
       { source: "/south-korea/seoul/guides/pc-bang-gaming-seoul", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
       { source: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
       { source: "/what-is-sansachun", destination: "/travel-tips/sansachun-drink-guide", permanent: true },
+      { source: "/travel-tips/south-korean-terms-of-endearment", destination: "/south-korean-terms-of-endearment", permanent: true },
       { source: "/travel-tips/arex-train-schedule", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/arex-airport-train-guide", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/buying-bedding-in-south-korea", destination: "/buying-bedding-in-south-korea", permanent: true },
@@ -55,6 +56,10 @@ const nextConfig = {
       {
         source: "/top-pc-bang-internet-cafes-in-seoul-for-gaming",
         destination: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming",
+      },
+      {
+        source: "/south-korean-terms-of-endearment",
+        destination: "/travel-tips/south-korean-terms-of-endearment",
       },
       {
         source: "/breweries-in-south-korea",

@@ -341,6 +341,206 @@ Respect privacy: idols are people too. Don't follow them in person or at private
     contentType: "travel-tip",
   },
   {
+    slug: "south-korean-terms-of-endearment",
+    title: "Korean Terms of Endearment: Jagiya, Yeobo, Aegiya and How to Flirt in Korean (2026)",
+    image: "/images/blogs/south-korean-terms-of-endearment/hanbok-couple-gyeongbokgung.jpg",
+    canonicalPath: "/south-korean-terms-of-endearment",
+    metaTitle: "Korean Terms of Endearment: Jagiya, Yeobo & Flirting (2026)",
+    metaDescription:
+      "What jagiya, yeobo, aegiya, oppa and naekkeo really mean, who can say them, plus Korean flirting phrases, KakaoTalk texting slang and couple culture in 2026.",
+    summary:
+      "The Korean pet names couples actually use (jagiya, yeobo, aegiya, oppa and more), what they mean and when they sound odd, plus flirting phrases, KakaoTalk texting slang and Korea's couple anniversaries.",
+    content: `Korean couples don't just say "babe". They have a whole vocabulary of pet names, a calendar of couple anniversaries and a set of texting habits that can make or break a new romance. If you've heard *jagiya* in a K-drama, been called *oppa* by a friend or wondered why your Korean date went quiet after reading your message, this guide is for you.
+
+Below you'll find the Korean terms of endearment people actually use in 2026, what each one means, who can say it to whom, and the flirting phrases and dating etiquette that go with them. Every term comes with Hangul, a romanisation you can read out loud, and a note on when it would sound odd.
+
+## Korean Terms of Endearment at a Glance
+
+| Korean | Romanisation | Meaning | Who uses it |
+| --- | --- | --- | --- |
+| 자기야 | jagiya | honey, babe, darling | Dating or married couples |
+| 자기 | jagi | the shorter, softer form of jagiya | Couples |
+| 여보 | yeobo | honey, dear | Mostly married couples |
+| 애기야 | aegiya | baby | Couples, and parents to small children |
+| 내 사랑 | nae sarang | my love | Couples, often in messages |
+| 공주님 | gongjunim | princess | Playful, usually to a girlfriend |
+| 왕자님 | wangjanim | prince | Playful, usually to a boyfriend |
+| 귀요미 | gwiyomi | cutie | Couples and close friends |
+| 내꺼 | naekkeo | mine | Couples, playful and possessive |
+| 오빠 | oppa | older brother | A woman to an older man she's close to, including a boyfriend |
+| 누나 | nuna (noona) | older sister | A man to an older woman he's close to, including a girlfriend |
+| 애인 | aein | sweetheart, partner | Describing your partner, not calling them |
+| 여친 / 남친 | yeochin / namchin | girlfriend / boyfriend | Casual, everyday words |
+
+![A couple in hanbok at Gyeongbokgung Palace in Seoul, one of the city's classic date spots](/images/blogs/south-korean-terms-of-endearment/hanbok-couple-gyeongbokgung.jpg)
+
+A couple in hanbok at Gyeongbokgung Palace in Seoul, one of the city's classic date spots. Photo: Andamy via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Couple_waring_traditional_Korean_costumes_in_Gyeongbokgung,the_Seoul_palace_05.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## What Does Jagiya Mean?
+
+**자기야 (jagiya)** is the most common thing Korean couples call each other. It translates best as "honey" or "babe". *Jagi* (자기) on its own literally means "oneself", so calling your partner jagi is a bit like saying they're a part of you. The *-ya* ending is the friendly way of calling someone's name.
+
+You'll hear jagiya in almost every romantic K-drama, and couples use it for years. Some tips:
+
+- **Use it with your partner only.** Calling a friend or a stranger jagiya sounds like flirting, or like a joke.
+- **Jagi is softer.** Couples often switch between *jagi* and *jagiya* depending on the sentence, for example *jagi, mwohae?* (자기, 뭐해?, "babe, what are you doing?").
+- **Couples of any gender use it.** It isn't tied to men or women.
+
+## What Does Yeobo Mean?
+
+**여보 (yeobo)** means "honey" or "dear", and it's the classic term between husbands and wives. Your Korean friends' parents almost certainly call each other yeobo. Younger couples who aren't married sometimes use it as a joke or a sign they're very serious, but on a first or second date it would sound like you're already picking out wedding rings.
+
+A related word is **당신 (dangsin)**. Between spouses it's an affectionate "you" or "dear". Between strangers, though, dangsin can sound cold or even confrontational, so don't use it as a polite "you".
+
+## What Does Aegiya Mean?
+
+**애기야 (aegiya)** means "baby". *Aegi* is the everyday way of saying *agi* (아기), "baby", and the *-ya* is the same calling ending as in jagiya. Parents say it to small children, and couples say it to each other, often in a teasing, cute tone. If someone calls you aegiya in a sweet voice, that's usually *aegyo* (애교), the deliberately cute, childlike way of talking that many Korean couples use with each other.
+
+## Oppa, Nuna, Hyeong and Eonni: The Age Words
+
+Korean has different words for "older brother" and "older sister" depending on your own gender, and people use them for close friends and partners, not just family.
+
+- **오빠 (oppa):** what a woman calls an older brother, an older male friend, or a boyfriend who's older than her. *Saranghae, oppa* (사랑해 오빠) is "I love you, oppa", a line you'll hear in plenty of K-pop songs and dramas.
+- **누나 (nuna, often spelled noona):** what a man calls an older sister, an older female friend, or an older girlfriend. "Noona romance" (연상연하, *yeonsang-yeonha*) is the Korean term for relationships where the woman is older.
+- **형 (hyeong, often spelled hyung):** what a man calls an older brother or older male friend.
+- **언니 (eonni, often spelled unnie):** what a woman calls an older sister or older female friend. Women also use it for slightly older women in shops and restaurants.
+- **동생 (dongsaeng):** a younger sibling or a younger friend, of either gender.
+
+These words are about age, and age matters in Korea. That's why one of the first questions on a Korean date is often 몇 살이에요? (*myeot sarieyo?*, "How old are you?"). It isn't rude. It tells both of you which words and which level of politeness to use.
+
+## Korean Words for Love and Dating
+
+| Korean | Romanisation | Meaning |
+| --- | --- | --- |
+| 사랑해 / 사랑해요 | saranghae / saranghaeyo | I love you (casual / polite) |
+| 좋아해 / 좋아해요 | joahae / joahaeyo | I like you (casual / polite) |
+| 보고 싶어 | bogo sipeo | I miss you |
+| 잘 자 | jal ja | Good night, sleep well |
+| 사귀자 | sagwija | Let's go out (asking someone to be your partner) |
+| 고백 | gobaek | A confession of feelings, the moment you ask someone out |
+| 썸 | sseom | The flirty "something" stage before you're official |
+| 썸남 / 썸녀 | sseomnam / sseomnyeo | The guy / the girl you're in a "some" with |
+| 밀당 | mildang | Push and pull, playing hard to get |
+| 꽁냥꽁냥 | kkongnyang-kkongnyang | Being lovey-dovey in public |
+| 커플룩 | keopeul luk | Matching couple outfits |
+| 커플링 | keopeul ring | Matching couple rings |
+
+*Saranghae* is a big word. Many Koreans don't say it until they're properly a couple, so *joahae* ("I like you") is the usual way to confess feelings early on.
+
+## How to Flirt in Korean: Phrases That Actually Work
+
+Most first conversations will be in polite Korean (ending in *-yo*). Here are phrases that are friendly without being cheesy:
+
+| Korean | Romanisation | Meaning |
+| --- | --- | --- |
+| 같이 커피 한잔 할래요? | gachi keopi hanjan hallaeyo? | Shall we get a coffee together? |
+| 카톡 아이디 있어요? | katok aidi isseoyo? | Do you have a KakaoTalk ID? |
+| 번호 알려 줄 수 있어요? | beonho allyeo jul su isseoyo? | Could you give me your number? |
+| 이상형이 뭐예요? | isanghyeong-i mwoyeyo? | What's your ideal type? |
+| 웃는 게 예뻐요 | unneun ge yeppeoyo | You have a pretty smile |
+| 오늘 즐거웠어요 | oneul jeulgeowosseoyo | I had a great time today |
+| 또 만나요 | tto mannayo | Let's meet again |
+| 말 편하게 해도 돼요? | mal pyeonhage haedo dwaeyo? | Can we talk casually? |
+
+That last line matters. Korean has polite speech (존댓말, *jondaenmal*) and casual speech (반말, *banmal*). When someone suggests dropping the formal endings and speaking banmal, it's a real step closer, so don't switch on your own before the other person agrees.
+
+![Heart-shaped padlocks of the kind couples leave at N Seoul Tower on Namsan](/images/blogs/south-korean-terms-of-endearment/heart-padlocks-n-seoul-tower.jpg)
+
+Heart-shaped padlocks of the kind couples leave at N Seoul Tower on Namsan. Photo: Republic of Korea (Korea.net) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_romantic_hotspot,_N_Seoul_Tower_%286937546713%29.png), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Texting Your Korean Crush on KakaoTalk
+
+Korean dating happens on KakaoTalk (카톡, *katok*), the messaging app almost everyone in Korea uses. You'll need a phone number to set it up, so see our [guide to Korean SIM cards](/travel-tips/sim-cards-korea) if you're visiting. The texting slang to know:
+
+- **ㅋㅋㅋ (kkk):** laughing, like "haha". More ㅋ means funnier.
+- **ㅎㅎ (hh):** a softer, friendlier laugh or smile.
+- **ㅠㅠ:** crying eyes, used for "so sad" or "aww".
+- **뭐해? (mwohae?):** "What are you doing?", the classic opener.
+- **읽씹 (ilkssip):** being "left on read". In KakaoTalk, a little number 1 next to your message disappears once the other person has read it, so everyone knows when they've been read and ignored.
+- **안읽씹 (an-ilkssip):** being ignored without the message even being opened.
+
+Being left on read is taken personally in Korea, so a quick reply, even just "바빠서 나중에 연락할게" (*bappaseo najung-e yeollakhalge*, "I'm busy, I'll message you later"), goes a long way.
+
+## Korean Couple Culture: Anniversaries and Romance Holidays
+
+Once you're official, Korean couple culture kicks in.
+
+- **Counting days, not months.** Couples celebrate their 100-day anniversary (백일, *baegil*), then 200 days, 300 days and 1,000 days, as well as yearly anniversaries.
+- **Valentine's Day (14 February):** traditionally, women give chocolate to men.
+- **White Day (14 March):** men return the favour with sweets and gifts.
+- **Black Day (14 April):** singles who got nothing on either day eat *jjajangmyeon* (black-bean noodles) together.
+- **Pepero Day (11 November):** people swap boxes of Pepero, the chocolate-dipped biscuit sticks, because the date 11.11 looks like four sticks.
+- **Christmas Eve:** in Korea it's a couples' night out more than a family holiday, so restaurants and hotels book up.
+
+![A Pepero Day display at a Korean convenience store, with a sign promoting a month of Pepero deals through November](/images/blogs/south-korean-terms-of-endearment/pepero-day-convenience-store.jpg)
+
+A Pepero Day display at a Korean convenience store, with a sign promoting a month of Pepero deals through November. Photo: Saipiny via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pepero_day.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Romantic Things to Do in Seoul as a Couple
+
+- **Leave a love lock on Namsan.** The terraces around N Seoul Tower are covered in padlocks left by couples, often with names and dates written on them.
+- **Wear hanbok to a palace.** Visitors wearing a complete hanbok get into Gyeongbokgung and Seoul's other royal palaces free, and rental shops near the palace gates make it easy. You need both a top (*jeogori*) and a skirt or trousers to qualify.
+- **Picnic by the Han River.** On warm evenings, couples spread out mats in the riverside parks with fried chicken and beer (*chimaek*).
+- **Cafe-hop.** Korea's [cafe culture](/culture/korean-cafe-culture) is built for long dates, from dessert cafes to themed spots.
+- **Go out in Hongdae.** The university district is full of young couples, buskers and [bars](/south-korea/seoul/hongdae/category/bars). For the bigger picture, see our guide to [Korean nightlife culture](/culture/korean-nightlife-culture) and [Korean drinking culture](/culture/korean-drinking-culture).
+- **For something cheekier,** adults can visit [Jeju Loveland](/jeju-loveland), Jeju's sculpture park of erotic art.
+
+![A bunch of three love locks at N Seoul Tower, which the photographer captioned "relationships are complicated"](/images/blogs/south-korean-terms-of-endearment/love-locks-namsan-view.jpg)
+
+A bunch of three love locks at N Seoul Tower, which the photographer captioned "relationships are complicated". Photo: hojusaram via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Relationships_are_complicated_%282527256358%29.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Etiquette: How Not to Get It Wrong
+
+- **Don't use couple words on strangers.** Calling a bartender jagiya won't land the way it does in a K-drama.
+- **Don't call your date ajumma or ajeossi.** These mean a middle-aged woman and man. They aren't terms of endearment.
+- **Oppa only works if he's older.** If a younger man insists on being called oppa, it's a joke, not a rule.
+- **Keep it polite at first.** Use *-yo* endings until you're invited to speak casually.
+- **Public affection is mild.** Holding hands and matching outfits are normal; big public kisses still get looks, especially from older people.
+
+## Korean Terms of Endearment FAQ
+
+### What does jagiya mean in Korean?
+
+Jagiya (자기야) means "honey", "babe" or "darling". It's the most common pet name between Korean couples, whether they're dating or married.
+
+### What's the difference between jagiya and yeobo?
+
+Both mean something like "honey". Jagiya is used by any couple. Yeobo (여보) is mostly used by married couples, so it sounds more serious.
+
+### What does aegiya mean?
+
+Aegiya (애기야) means "baby". Couples use it affectionately, and parents use it with small children.
+
+### What does naekkeo mean?
+
+Naekkeo (내꺼, also spelled naekko) means "mine". The standard spelling is 내 거. Couples use it playfully, as in *neon naekkeoya* (넌 내꺼야, "you're mine").
+
+### What does aein mean?
+
+Aein (애인) means "sweetheart" or "partner". It's a word for describing your boyfriend or girlfriend to other people, rather than something you call them to their face.
+
+### Can a man call his girlfriend oppa?
+
+No. Oppa is only used by women, toward older men. A man calls an older girlfriend nuna, and a younger one by her name or a pet name such as jagiya.
+
+### How do you say "I love you" in Korean?
+
+Saranghae (사랑해) is casual and saranghaeyo (사랑해요) is polite. Between partners, the casual form is normal.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each was resized and cropped to a 16:9 frame.
+
+- Hero image (a couple in hanbok at Gyeongbokgung Palace, Seoul): Andamy, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Couple_waring_traditional_Korean_costumes_in_Gyeongbokgung,the_Seoul_palace_05.jpg)
+- Heart-shaped padlocks at N Seoul Tower: Republic of Korea (Korea.net), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:A_romantic_hotspot,_N_Seoul_Tower_%286937546713%29.png)
+- A Pepero Day display at a Korean convenience store: Saipiny, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Pepero_day.jpg)
+- Three love locks at N Seoul Tower: hojusaram, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Relationships_are_complicated_%282527256358%29.jpg)`,
+    tags: ["Culture", "Language", "Dating", "Relationships", "Seoul"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-07",
+    contentType: "travel-tip",
+  },
+  {
     slug: "sansachun-drink-guide",
     title: "What Is Sansachun?",
     image: getTravelTipImagePath("sansachun-drink-guide"),
