@@ -23,6 +23,7 @@ import {
   URLSET_HEADER,
   URLSET_FOOTER,
 } from "@/lib/sitemapHelpers";
+import { shouldEmitCityCategoryParam } from "@/lib/cityCategoryParams";
 
 const lastMod = new Date();
 const NEIGHBOURHOOD_CATEGORY_SLUGS = ["bars", "restaurants", "cafes", "things-to-do"];
@@ -38,11 +39,12 @@ export function GET() {
   );
 
   cities.forEach((city) => {
-    categories.forEach((cat) =>
+    categories.forEach((cat) => {
+      if (!shouldEmitCityCategoryParam(city.slug, cat.slug)) return;
       entries.push(
         urlEntry(getCityCategoryPath(city.slug, cat.slug), lastMod)
-      )
-    );
+      );
+    });
     if (city.slug === "seoul") {
       MONEY_CATEGORY_SLUGS.forEach((slug) =>
         entries.push(urlEntry(getCityCategoryPath(city.slug, slug), lastMod))

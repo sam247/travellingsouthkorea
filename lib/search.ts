@@ -24,6 +24,7 @@ import {
 import { cities } from "@/data/cities";
 import { getAllCultureArticles } from "@/data/cultureArticles";
 import { neighbourhoods } from "@/data/neighbourhoods";
+import { shouldEmitCityCategoryParam } from "@/lib/cityCategoryParams";
 import { guides } from "@/data/guides";
 import { getProgrammaticGuideSpecs, buildProgrammaticGuide } from "@/lib/programmaticGuides";
 import { venues } from "@/data/venues";
@@ -256,6 +257,7 @@ function buildSearchIndex(): SearchEntry[] {
   const cityCategorySlugs = ["bars", "restaurants", "cafes", "things-to-do", "itineraries", "travel-tips", "neighbourhoods"];
   cities.forEach((c) => {
     cityCategorySlugs.forEach((categorySlug) => {
+      if (!shouldEmitCityCategoryParam(c.slug, categorySlug)) return;
       const category = getCategoryBySlug(categorySlug);
       const label = category?.label ?? categorySlug;
       const title = `${label} in ${c.name}`;
