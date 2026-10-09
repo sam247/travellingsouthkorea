@@ -31,6 +31,14 @@ const nextConfig = {
       { source: "/travel-tips/jeju-loveland", destination: "/jeju-loveland", permanent: true },
       { source: "/travel-tips/how-bad-is-air-quality-in-south-korea", destination: "/how-bad-is-air-quality-in-south-korea", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
+      { source: "/travel-tips/most-popular-korean-bikini-models-in-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
+      { source: "/culture/most-popular-korean-bikini-models-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
+      { source: "/most-popular-korean-bikini-models-in-2024", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
+      { source: "/most-popular-korean-bikini-models-in-2023", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
+      { source: "/most-popular-korean-bikini-models-in-2022", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
+      { source: "/travel-tips/top-korean-plus-sized-models-in-2025", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
+      { source: "/top-korean-plus-sized-models-in-2024", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
+      { source: "/top-korean-plus-sized-models-in-2023", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
     ];
   },
   async rewrites() {
@@ -54,6 +62,14 @@ const nextConfig = {
       {
         source: "/how-bad-is-air-quality-in-south-korea",
         destination: "/travel-tips/how-bad-is-air-quality-in-south-korea",
+      },
+      {
+        source: "/most-popular-korean-bikini-models-in-2025",
+        destination: "/travel-tips/most-popular-korean-bikini-models-in-2025",
+      },
+      {
+        source: "/top-korean-plus-sized-models-in-2025",
+        destination: "/travel-tips/top-korean-plus-sized-models-in-2025",
       },
     ];
   },
