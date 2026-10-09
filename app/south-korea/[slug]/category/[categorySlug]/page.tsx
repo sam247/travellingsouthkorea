@@ -1,4 +1,8 @@
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
+import {
+  shouldEmitCityCategoryParam,
+  getCityCategoryStaticParams,
+} from "@/lib/cityCategoryParams";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { GuideCard } from "@/components/GuideCard";
 import { VenueListCard } from "@/components/VenueListCard";
@@ -25,7 +29,7 @@ import { categories } from "@/data/categories";
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
 import { getCityCategoryPath, getItineraryPath, getTravelTipPath, getNeighbourhoodPath, getGuidePath, getCityPath } from "@/lib/canonical";
-import { getMoneyPageContent, MONEY_CATEGORY_SLUGS, isMoneyCategorySlug } from "@/lib/content/moneyPages";
+import { getMoneyPageContent, isMoneyCategorySlug } from "@/lib/content/moneyPages";
 import { AD_SLOTS } from "@/lib/adsenseConfig";
 import {
   buildAreaIntentSections,
@@ -45,6 +49,8 @@ export async function generateMetadata({ params }: PageProps) {
   const category = getCategoryBySlug(categorySlug);
   const moneyPage = getMoneyPageContent(citySlug, categorySlug);
   if (!city || (!category && !moneyPage)) return {};
+  // Gated pairs redirect at page runtime; skip metadata so we do not self-canonicalise them.
+  if (category && !shouldEmitCityCategoryParam(citySlug, categorySlug)) return {};
   const base = process.env.NEXT_PUBLIC_SITE_URL || "";
   const canonical = base + getCityCategoryPath(citySlug, categorySlug);
   const label = moneyPage?.label ?? category!.label;
@@ -68,20 +74,7 @@ export async function generateMetadata({ params }: PageProps) {
 }
 
 export async function generateStaticParams() {
-  const { cities } = await import("@/data/cities");
-  const { categories } = await import("@/data/categories");
-  const pairs: { slug: string; categorySlug: string }[] = [];
-  for (const city of cities) {
-    for (const cat of categories) {
-      pairs.push({ slug: city.slug, categorySlug: cat.slug });
-    }
-    if (city.slug === "seoul") {
-      for (const slug of MONEY_CATEGORY_SLUGS) {
-        pairs.push({ slug: city.slug, categorySlug: slug });
-      }
-    }
-  }
-  return pairs;
+  return getCityCategoryStaticParams();
 }
 
 export default async function CityCategoryPage({ params }: PageProps) {
@@ -99,6 +92,11 @@ export default async function CityCategoryPage({ params }: PageProps) {
     notFound();
   }
   if (isMoneyCategorySlug(categorySlug) && citySlug !== "seoul") notFound();
+
+  // Shared param gate: soft-land gated city×category URLs on the city hub (permanent).
+  if (category && !shouldEmitCityCategoryParam(citySlug, categorySlug)) {
+    permanentRedirect(getCityPath(citySlug));
+  }
 
   const content = moneyPage
     ? {

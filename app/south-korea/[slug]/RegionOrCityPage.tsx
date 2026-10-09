@@ -43,6 +43,7 @@ import {
 import { getCitiesByRegion } from "@/data/cities";
 import { getGuidesByCity } from "@/data/guides";
 import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
+import { shouldEmitCityCategoryParam } from "@/lib/cityCategoryParams";
 import { getVenuesByCity } from "@/data/venues";
 import { getItinerariesByCity } from "@/data/itineraries";
 import type { City } from "@/types";
@@ -135,7 +136,9 @@ export function RegionOrCityPage({
   }
 
   if (type === "city" && city) {
-    const exploreCards = exploreCategoryImages ?? fallbackExploreCards;
+    const exploreCards = (exploreCategoryImages ?? fallbackExploreCards).filter((card) =>
+      shouldEmitCityCategoryParam(city.slug, card.category)
+    );
     const cityGuides = getGuidesByCity(city.slug);
     const cityNeighbourhoods = getNeighbourhoodsByCity(city.slug);
     const cityVenues = getVenuesByCity(city.slug).slice(0, 6);
@@ -304,7 +307,9 @@ export function RegionOrCityPage({
                     { label: "Itineraries", slug: "itineraries" },
                     { label: "Travel tips", slug: "travel-tips" },
                     { label: "Neighbourhoods", slug: "neighbourhoods" },
-                  ].map(({ label, slug }) => (
+                  ]
+                    .filter(({ slug }) => shouldEmitCityCategoryParam(city.slug, slug))
+                    .map(({ label, slug }) => (
                     <CityCategoryLink
                       key={slug}
                       href={getCityCategoryPath(city.slug, slug)}

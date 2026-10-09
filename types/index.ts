@@ -143,6 +143,8 @@ export interface TravelTip {
   supportingImages?: string[];
   /** Public URL path for this tip (e.g. legacy ranking URL). Defaults to /travel-tips/{slug}. */
   canonicalPath?: string;
+  /** Cities this tip is scoped to. Empty/omitted = national tip (not city×travel-tips content). */
+  citySlugs?: string[];
 }
 
 export interface Author {

@@ -341,6 +341,206 @@ Respect privacy: idols are people too. Don't follow them in person or at private
     contentType: "travel-tip",
   },
   {
+    slug: "south-korean-terms-of-endearment",
+    title: "Korean Terms of Endearment: Jagiya, Yeobo, Aegiya and How to Flirt in Korean (2026)",
+    image: "/images/blogs/south-korean-terms-of-endearment/hanbok-couple-gyeongbokgung.jpg",
+    canonicalPath: "/south-korean-terms-of-endearment",
+    metaTitle: "Korean Terms of Endearment: Jagiya, Yeobo & Flirting (2026)",
+    metaDescription:
+      "What jagiya, yeobo, aegiya, oppa and naekkeo really mean, who can say them, plus Korean flirting phrases, KakaoTalk texting slang and couple culture in 2026.",
+    summary:
+      "The Korean pet names couples actually use (jagiya, yeobo, aegiya, oppa and more), what they mean and when they sound odd, plus flirting phrases, KakaoTalk texting slang and Korea's couple anniversaries.",
+    content: `Korean couples don't just say "babe". They have a whole vocabulary of pet names, a calendar of couple anniversaries and a set of texting habits that can make or break a new romance. If you've heard *jagiya* in a K-drama, been called *oppa* by a friend or wondered why your Korean date went quiet after reading your message, this guide is for you.
+
+Below you'll find the Korean terms of endearment people actually use in 2026, what each one means, who can say it to whom, and the flirting phrases and dating etiquette that go with them. Every term comes with Hangul, a romanisation you can read out loud, and a note on when it would sound odd.
+
+## Korean Terms of Endearment at a Glance
+
+| Korean | Romanisation | Meaning | Who uses it |
+| --- | --- | --- | --- |
+| 자기야 | jagiya | honey, babe, darling | Dating or married couples |
+| 자기 | jagi | the shorter, softer form of jagiya | Couples |
+| 여보 | yeobo | honey, dear | Mostly married couples |
+| 애기야 | aegiya | baby | Couples, and parents to small children |
+| 내 사랑 | nae sarang | my love | Couples, often in messages |
+| 공주님 | gongjunim | princess | Playful, usually to a girlfriend |
+| 왕자님 | wangjanim | prince | Playful, usually to a boyfriend |
+| 귀요미 | gwiyomi | cutie | Couples and close friends |
+| 내꺼 | naekkeo | mine | Couples, playful and possessive |
+| 오빠 | oppa | older brother | A woman to an older man she's close to, including a boyfriend |
+| 누나 | nuna (noona) | older sister | A man to an older woman he's close to, including a girlfriend |
+| 애인 | aein | sweetheart, partner | Describing your partner, not calling them |
+| 여친 / 남친 | yeochin / namchin | girlfriend / boyfriend | Casual, everyday words |
+
+![A couple in hanbok at Gyeongbokgung Palace in Seoul, one of the city's classic date spots](/images/blogs/south-korean-terms-of-endearment/hanbok-couple-gyeongbokgung.jpg)
+
+A couple in hanbok at Gyeongbokgung Palace in Seoul, one of the city's classic date spots. Photo: Andamy via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Couple_waring_traditional_Korean_costumes_in_Gyeongbokgung,the_Seoul_palace_05.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## What Does Jagiya Mean?
+
+**자기야 (jagiya)** is the most common thing Korean couples call each other. It translates best as "honey" or "babe". *Jagi* (자기) on its own literally means "oneself", so calling your partner jagi is a bit like saying they're a part of you. The *-ya* ending is the friendly way of calling someone's name.
+
+You'll hear jagiya in almost every romantic K-drama, and couples use it for years. Some tips:
+
+- **Use it with your partner only.** Calling a friend or a stranger jagiya sounds like flirting, or like a joke.
+- **Jagi is softer.** Couples often switch between *jagi* and *jagiya* depending on the sentence, for example *jagi, mwohae?* (자기, 뭐해?, "babe, what are you doing?").
+- **Couples of any gender use it.** It isn't tied to men or women.
+
+## What Does Yeobo Mean?
+
+**여보 (yeobo)** means "honey" or "dear", and it's the classic term between husbands and wives. Your Korean friends' parents almost certainly call each other yeobo. Younger couples who aren't married sometimes use it as a joke or a sign they're very serious, but on a first or second date it would sound like you're already picking out wedding rings.
+
+A related word is **당신 (dangsin)**. Between spouses it's an affectionate "you" or "dear". Between strangers, though, dangsin can sound cold or even confrontational, so don't use it as a polite "you".
+
+## What Does Aegiya Mean?
+
+**애기야 (aegiya)** means "baby". *Aegi* is the everyday way of saying *agi* (아기), "baby", and the *-ya* is the same calling ending as in jagiya. Parents say it to small children, and couples say it to each other, often in a teasing, cute tone. If someone calls you aegiya in a sweet voice, that's usually *aegyo* (애교), the deliberately cute, childlike way of talking that many Korean couples use with each other.
+
+## Oppa, Nuna, Hyeong and Eonni: The Age Words
+
+Korean has different words for "older brother" and "older sister" depending on your own gender, and people use them for close friends and partners, not just family.
+
+- **오빠 (oppa):** what a woman calls an older brother, an older male friend, or a boyfriend who's older than her. *Saranghae, oppa* (사랑해 오빠) is "I love you, oppa", a line you'll hear in plenty of K-pop songs and dramas.
+- **누나 (nuna, often spelled noona):** what a man calls an older sister, an older female friend, or an older girlfriend. "Noona romance" (연상연하, *yeonsang-yeonha*) is the Korean term for relationships where the woman is older.
+- **형 (hyeong, often spelled hyung):** what a man calls an older brother or older male friend.
+- **언니 (eonni, often spelled unnie):** what a woman calls an older sister or older female friend. Women also use it for slightly older women in shops and restaurants.
+- **동생 (dongsaeng):** a younger sibling or a younger friend, of either gender.
+
+These words are about age, and age matters in Korea. That's why one of the first questions on a Korean date is often 몇 살이에요? (*myeot sarieyo?*, "How old are you?"). It isn't rude. It tells both of you which words and which level of politeness to use.
+
+## Korean Words for Love and Dating
+
+| Korean | Romanisation | Meaning |
+| --- | --- | --- |
+| 사랑해 / 사랑해요 | saranghae / saranghaeyo | I love you (casual / polite) |
+| 좋아해 / 좋아해요 | joahae / joahaeyo | I like you (casual / polite) |
+| 보고 싶어 | bogo sipeo | I miss you |
+| 잘 자 | jal ja | Good night, sleep well |
+| 사귀자 | sagwija | Let's go out (asking someone to be your partner) |
+| 고백 | gobaek | A confession of feelings, the moment you ask someone out |
+| 썸 | sseom | The flirty "something" stage before you're official |
+| 썸남 / 썸녀 | sseomnam / sseomnyeo | The guy / the girl you're in a "some" with |
+| 밀당 | mildang | Push and pull, playing hard to get |
+| 꽁냥꽁냥 | kkongnyang-kkongnyang | Being lovey-dovey in public |
+| 커플룩 | keopeul luk | Matching couple outfits |
+| 커플링 | keopeul ring | Matching couple rings |
+
+*Saranghae* is a big word. Many Koreans don't say it until they're properly a couple, so *joahae* ("I like you") is the usual way to confess feelings early on.
+
+## How to Flirt in Korean: Phrases That Actually Work
+
+Most first conversations will be in polite Korean (ending in *-yo*). Here are phrases that are friendly without being cheesy:
+
+| Korean | Romanisation | Meaning |
+| --- | --- | --- |
+| 같이 커피 한잔 할래요? | gachi keopi hanjan hallaeyo? | Shall we get a coffee together? |
+| 카톡 아이디 있어요? | katok aidi isseoyo? | Do you have a KakaoTalk ID? |
+| 번호 알려 줄 수 있어요? | beonho allyeo jul su isseoyo? | Could you give me your number? |
+| 이상형이 뭐예요? | isanghyeong-i mwoyeyo? | What's your ideal type? |
+| 웃는 게 예뻐요 | unneun ge yeppeoyo | You have a pretty smile |
+| 오늘 즐거웠어요 | oneul jeulgeowosseoyo | I had a great time today |
+| 또 만나요 | tto mannayo | Let's meet again |
+| 말 편하게 해도 돼요? | mal pyeonhage haedo dwaeyo? | Can we talk casually? |
+
+That last line matters. Korean has polite speech (존댓말, *jondaenmal*) and casual speech (반말, *banmal*). When someone suggests dropping the formal endings and speaking banmal, it's a real step closer, so don't switch on your own before the other person agrees.
+
+![Heart-shaped padlocks of the kind couples leave at N Seoul Tower on Namsan](/images/blogs/south-korean-terms-of-endearment/heart-padlocks-n-seoul-tower.jpg)
+
+Heart-shaped padlocks of the kind couples leave at N Seoul Tower on Namsan. Photo: Republic of Korea (Korea.net) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_romantic_hotspot,_N_Seoul_Tower_%286937546713%29.png), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Texting Your Korean Crush on KakaoTalk
+
+Korean dating happens on KakaoTalk (카톡, *katok*), the messaging app almost everyone in Korea uses. You'll need a phone number to set it up, so see our [guide to Korean SIM cards](/travel-tips/sim-cards-korea) if you're visiting. The texting slang to know:
+
+- **ㅋㅋㅋ (kkk):** laughing, like "haha". More ㅋ means funnier.
+- **ㅎㅎ (hh):** a softer, friendlier laugh or smile.
+- **ㅠㅠ:** crying eyes, used for "so sad" or "aww".
+- **뭐해? (mwohae?):** "What are you doing?", the classic opener.
+- **읽씹 (ilkssip):** being "left on read". In KakaoTalk, a little number 1 next to your message disappears once the other person has read it, so everyone knows when they've been read and ignored.
+- **안읽씹 (an-ilkssip):** being ignored without the message even being opened.
+
+Being left on read is taken personally in Korea, so a quick reply, even just "바빠서 나중에 연락할게" (*bappaseo najung-e yeollakhalge*, "I'm busy, I'll message you later"), goes a long way.
+
+## Korean Couple Culture: Anniversaries and Romance Holidays
+
+Once you're official, Korean couple culture kicks in.
+
+- **Counting days, not months.** Couples celebrate their 100-day anniversary (백일, *baegil*), then 200 days, 300 days and 1,000 days, as well as yearly anniversaries.
+- **Valentine's Day (14 February):** traditionally, women give chocolate to men.
+- **White Day (14 March):** men return the favour with sweets and gifts.
+- **Black Day (14 April):** singles who got nothing on either day eat *jjajangmyeon* (black-bean noodles) together.
+- **Pepero Day (11 November):** people swap boxes of Pepero, the chocolate-dipped biscuit sticks, because the date 11.11 looks like four sticks.
+- **Christmas Eve:** in Korea it's a couples' night out more than a family holiday, so restaurants and hotels book up.
+
+![A Pepero Day display at a Korean convenience store, with a sign promoting a month of Pepero deals through November](/images/blogs/south-korean-terms-of-endearment/pepero-day-convenience-store.jpg)
+
+A Pepero Day display at a Korean convenience store, with a sign promoting a month of Pepero deals through November. Photo: Saipiny via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pepero_day.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Romantic Things to Do in Seoul as a Couple
+
+- **Leave a love lock on Namsan.** The terraces around N Seoul Tower are covered in padlocks left by couples, often with names and dates written on them.
+- **Wear hanbok to a palace.** Visitors wearing a complete hanbok get into Gyeongbokgung and Seoul's other royal palaces free, and rental shops near the palace gates make it easy. You need both a top (*jeogori*) and a skirt or trousers to qualify.
+- **Picnic by the Han River.** On warm evenings, couples spread out mats in the riverside parks with fried chicken and beer (*chimaek*).
+- **Cafe-hop.** Korea's [cafe culture](/culture/korean-cafe-culture) is built for long dates, from dessert cafes to themed spots.
+- **Go out in Hongdae.** The university district is full of young couples, buskers and [bars](/south-korea/seoul/hongdae/category/bars). For the bigger picture, see our guide to [Korean nightlife culture](/culture/korean-nightlife-culture) and [Korean drinking culture](/culture/korean-drinking-culture).
+- **For something cheekier,** adults can visit [Jeju Loveland](/jeju-loveland), Jeju's sculpture park of erotic art.
+
+![A bunch of three love locks at N Seoul Tower, which the photographer captioned "relationships are complicated"](/images/blogs/south-korean-terms-of-endearment/love-locks-namsan-view.jpg)
+
+A bunch of three love locks at N Seoul Tower, which the photographer captioned "relationships are complicated". Photo: hojusaram via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Relationships_are_complicated_%282527256358%29.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Etiquette: How Not to Get It Wrong
+
+- **Don't use couple words on strangers.** Calling a bartender jagiya won't land the way it does in a K-drama.
+- **Don't call your date ajumma or ajeossi.** These mean a middle-aged woman and man. They aren't terms of endearment.
+- **Oppa only works if he's older.** If a younger man insists on being called oppa, it's a joke, not a rule.
+- **Keep it polite at first.** Use *-yo* endings until you're invited to speak casually.
+- **Public affection is mild.** Holding hands and matching outfits are normal; big public kisses still get looks, especially from older people.
+
+## Korean Terms of Endearment FAQ
+
+### What does jagiya mean in Korean?
+
+Jagiya (자기야) means "honey", "babe" or "darling". It's the most common pet name between Korean couples, whether they're dating or married.
+
+### What's the difference between jagiya and yeobo?
+
+Both mean something like "honey". Jagiya is used by any couple. Yeobo (여보) is mostly used by married couples, so it sounds more serious.
+
+### What does aegiya mean?
+
+Aegiya (애기야) means "baby". Couples use it affectionately, and parents use it with small children.
+
+### What does naekkeo mean?
+
+Naekkeo (내꺼, also spelled naekko) means "mine". The standard spelling is 내 거. Couples use it playfully, as in *neon naekkeoya* (넌 내꺼야, "you're mine").
+
+### What does aein mean?
+
+Aein (애인) means "sweetheart" or "partner". It's a word for describing your boyfriend or girlfriend to other people, rather than something you call them to their face.
+
+### Can a man call his girlfriend oppa?
+
+No. Oppa is only used by women, toward older men. A man calls an older girlfriend nuna, and a younger one by her name or a pet name such as jagiya.
+
+### How do you say "I love you" in Korean?
+
+Saranghae (사랑해) is casual and saranghaeyo (사랑해요) is polite. Between partners, the casual form is normal.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each was resized and cropped to a 16:9 frame.
+
+- Hero image (a couple in hanbok at Gyeongbokgung Palace, Seoul): Andamy, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Couple_waring_traditional_Korean_costumes_in_Gyeongbokgung,the_Seoul_palace_05.jpg)
+- Heart-shaped padlocks at N Seoul Tower: Republic of Korea (Korea.net), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:A_romantic_hotspot,_N_Seoul_Tower_%286937546713%29.png)
+- A Pepero Day display at a Korean convenience store: Saipiny, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Pepero_day.jpg)
+- Three love locks at N Seoul Tower: hojusaram, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Relationships_are_complicated_%282527256358%29.jpg)`,
+    tags: ["Culture", "Language", "Dating", "Relationships", "Seoul"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-07",
+    contentType: "travel-tip",
+  },
+  {
     slug: "sansachun-drink-guide",
     title: "What Is Sansachun?",
     image: getTravelTipImagePath("sansachun-drink-guide"),
@@ -1092,6 +1292,254 @@ Korean won currency ETFs are best understood as a finance concept with travel re
     contentType: "travel-tip",
   },
   {
+    slug: "most-beautiful-korean-actresses",
+    title: "15 Most Beautiful Korean Actresses in 2026 (and What They're Starring In)",
+    image: "/images/blogs/most-beautiful-korean-actresses/busan-cinema-center-night.jpg",
+    canonicalPath: "/most-beautiful-korean-actresses",
+    metaTitle: "Most Beautiful Korean Actresses 2026: 15 Hottest K-Drama Stars",
+    metaDescription:
+      "Song Hye-kyo, Jun Ji-hyun, Kim Ji-won, IU, Han So-hee and more: the 15 most beautiful and popular Korean actresses of 2026, their best dramas and what's new.",
+    summary:
+      "Our 2026 list of the most beautiful and in-demand Korean actresses, from Song Hye-kyo and Jun Ji-hyun to Kim Ji-won, IU, Go Youn-jung and Jung Ho-yeon, with their best-known dramas and films and what they're working on now.",
+    content: `Korean dramas and films have made a generation of South Korean actresses famous far beyond Korea, and "who is the most beautiful Korean actress?" is one of the questions fans search for most. There's no official answer, so this list does something more useful: it picks 15 actresses who are at the top of their game in 2026, tells you what they're known for, and shows what they're working on right now.
+
+Everyone here is an adult, and every photo is a licensed image from a public event. We chose them on recent work, awards and popularity (including Gallup Korea's annual actor polls), not just looks. Song Hye-kyo, for one, has said she'd rather be recognised for her acting than her looks, and the 2025 and 2026 work below shows why these 15 are at the top.
+
+## The List at a Glance
+
+| # | Actress | Hangul | Born | Best known for | What's new in 2025–26 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Song Hye-kyo | 송혜교 | 1981 | Descendants of the Sun, The Glory | Netflix series *Tantara* with Gong Yoo |
+| 2 | Jun Ji-hyun | 전지현 | 1981 | My Sassy Girl, My Love from the Star | Zombie thriller *Colony* (Cannes 2026) |
+| 3 | Son Ye-jin | 손예진 | 1982 | The Classic, Crash Landing on You | Blue Dragon Best Actress for *No Other Choice* |
+| 4 | Kim Ji-won | 김지원 | 1992 | Queen of Tears, My Liberation Notes | SBS medical noir *Doctor X: Mafia in White* |
+| 5 | IU | 아이유 | 1993 | My Mister, When Life Gives You Tangerines | Royal romance *Perfect Crown* |
+| 6 | Bae Suzy | 배수지 | 1994 | Architecture 101, While You Were Sleeping | Netflix fantasy *Genie, Make a Wish* |
+| 7 | Han So-hee | 한소희 | 1993 | The World of the Married, My Name | Crime film *Project Y* |
+| 8 | Kim Tae-ri | 김태리 | 1990 | The Handmaiden, Twenty-Five Twenty-One | Variety show *Curtain Up, Class!* |
+| 9 | Go Youn-jung | 고윤정 | 1996 | Moving, Resident Playbook | Netflix romance *Can This Love Be Translated?* |
+| 10 | Kim Go-eun | 김고은 | 1991 | Goblin, Exhuma | Netflix series *You and Everything Else* |
+| 11 | Jung Ho-yeon | 정호연 | 1994 | Squid Game | Na Hong-jin's *Hope* (Cannes competition) |
+| 12 | Kim Yoo-jung | 김유정 | 1999 | Love in the Moonlight, My Demon | Thriller *Dear X* |
+| 13 | Shin Min-a | 신민아 | 1984 | Hometown Cha-Cha-Cha, Oh My Venus | Netflix thriller *Karma*; married Kim Woo-bin |
+| 14 | Moon Ga-young | 문가영 | 1996 | True Beauty, The Interest of Love | Hit romance film *Once We Were Us* |
+| 15 | Park Min-young | 박민영 | 1986 | What's Wrong with Secretary Kim, Marry My Husband | Con-artist series *Confidence Queen* |
+
+## 1. Song Hye-kyo (송혜교)
+
+![Song Hye-kyo at a public event in July 2023](/images/blogs/most-beautiful-korean-actresses/song-hye-kyo.jpg)
+
+Song Hye-kyo at a public event in July 2023. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Song Hye-kyo has been one of Korea's defining screen beauties for more than two decades. Korean media long grouped her with Kim Tae-hee and Jun Ji-hyun as the "Tae-Hye-Ji" trio, the shorthand for the country's most iconic actresses. Her hits run from *Autumn in My Heart* (2000) and *Full House* (2004) to *Descendants of the Sun* (2016) and Netflix's revenge drama *The Glory* (2022–23), which won her the Baeksang Arts Award for Best Actress in television.
+
+**Now:** She led the supernatural thriller film *Dark Nuns* in January 2025 and made a special appearance in Netflix's *Genie, Make a Wish*. Her next big series is Netflix's period drama *Tantara* with Gong Yoo, which Netflix has slated for December 2026. Off screen, she became a global ambassador for Guerlain in 2026 and a brand ambassador for Bottega Veneta in September 2026. In a January 2025 interview she said newer actors should carry the "Tae-Hye-Ji" torch now, and that she'd rather be recognised for her acting than her looks.
+
+## 2. Jun Ji-hyun (전지현)
+
+![Jun Ji-hyun at a public event in April 2026](/images/blogs/most-beautiful-korean-actresses/jun-ji-hyun-2026.jpg)
+
+Jun Ji-hyun at a public event in April 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jun_Ji-hyun_in_April_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Known internationally as Gianna Jun, Jun Ji-hyun became a pan-Asian star with the romantic comedy *My Sassy Girl* (2001). She later starred in the films *The Thieves* (2012) and *Assassination* (2015), and in the dramas *My Love from the Star* (2013–14) and *The Legend of the Blue Sea* (2016–17).
+
+**Now:** 2026 is her big-screen comeback. Yeon Sang-ho's zombie thriller *Colony*, her first film since *Assassination*, premiered in the Midnight Screenings section of the Cannes Film Festival on 15 May 2026 and opened in Korean cinemas on 21 May. She plays a woman trapped inside a quarantined building who becomes the survivors' leader. Yeon is the director of *Train to Busan*, and you can read more about him in our [Yeon Sang-ho profile](/cinema/directors/yeon-sang-ho) and our guide to [Korean zombie movies](/cinema/articles/korean-zombie-movies). Piaget also named her its global ambassador in April 2025.
+
+## 3. Son Ye-jin (손예진)
+
+![Son Ye-jin at the Baeksang Arts Awards in May 2026](/images/blogs/most-beautiful-korean-actresses/son-ye-jin-2026.jpg)
+
+Son Ye-jin at the Baeksang Arts Awards in May 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Son_Ye-jin_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Son Ye-jin earned the nickname "Nation's First Love" with early romances such as *The Classic* (2003) and *A Moment to Remember* (2004). Global audiences know her best from *Crash Landing on You* (2019–20), where she played a South Korean heiress who falls for a North Korean officer, played by Hyun Bin, whom she later married.
+
+**Now:** She starred in Park Chan-wook's dark comedy *No Other Choice* (2025), and won Best Actress at the 46th Blue Dragon Film Awards for it in November 2025, her second win in that category. For more on the director, see our [Park Chan-wook profile](/cinema/directors/park-chan-wook).
+
+## 4. Kim Ji-won (김지원)
+
+![Kim Ji-won at a public event in May 2026](/images/blogs/most-beautiful-korean-actresses/kim-ji-won-2026.jpg)
+
+Kim Ji-won at a public event in May 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kim_Ji-won_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Ji-won broke through in *The Heirs* (2013) and *Descendants of the Sun* (2016), then led *Fight for My Way* (2017) and *My Liberation Notes* (2022). Her chaebol-heiress role in *Queen of Tears* (2024) made her a global name: its finale hit 24.9% nationwide ratings, which made it tvN's highest-rated drama at the time. She came third in Gallup Korea's Television Actor of the Year poll in both 2024 and 2025.
+
+**Now:** After a two-year break she returns in SBS's *Doctor X: Mafia in White*, the Korean remake of the Japanese hit *Doctor X*, which premieres on Friday 9 October 2026. She plays Gye Soo-jung, a maverick genius surgeon, and cut her hair into a bob for the role.
+
+## 5. IU (아이유)
+
+![IU on the red carpet at the Blue Dragon Series Awards in July 2025](/images/blogs/most-beautiful-korean-actresses/iu-2025.jpg)
+
+IU on the red carpet at the Blue Dragon Series Awards in July 2025. Photo: 티비텐 TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IU_at_Blue_Dragon_Series_Awards_on_18072025_%281%29.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+IU (real name Lee Ji-eun) is that rare star who is at the very top of both K-pop and K-drama. As an actress she's best known for *My Mister* (2018) and *When Life Gives You Tangerines* (2025), the Netflix family saga with Park Bo-gum that's set on [Jeju Island](/south-korea/jeju). Tangerines won her Best Actress at the 4th Blue Dragon Series Awards and the grand prize at the 2025 APAN Star Awards.
+
+**Now:** In April 2026 she starred opposite Byeon Woo-seok in *Perfect Crown*, a romantic comedy set in an imagined modern Korea that still has a royal family. Gallup Korea named her Singer of the Year for 2025 and ranked her second among TV actors, the first artist to make the top two of both lists in the same year. For the music side of her career, see our [K-pop history guide](/travel-tips/k-pop-history).
+
+## 6. Bae Suzy (배수지)
+
+![Bae Suzy at a campaign event in April 2024](/images/blogs/most-beautiful-korean-actresses/bae-suzy.jpg)
+
+Bae Suzy at a campaign event in April 2024. Photo: K-POPIT 케이팝잇 (TV10) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bae_Suzy_at_OB_Beer_Hanmac_%27As_Smooth_As_Possible%27_campaign,_3_April_2024_01.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Suzy started out in the girl group miss A and became the second "Nation's First Love" after the film *Architecture 101* (2012). Her dramas include *Gu Family Book* (2013), *Uncontrollably Fond* (2016) and *While You Were Sleeping* (2017).
+
+**Now:** She starred with Kim Woo-bin in *Genie, Make a Wish*, a Netflix romantic fantasy by Kim Eun-sook (the writer of *Descendants of the Sun* and *The Glory*), released on 3 October 2025. In 2026 she voiced and narrated the animated film *Long Long Night*, which premiered at the Toronto International Film Festival in September. She also released her first single in two years, "Come Back", in February 2025.
+
+## 7. Han So-hee (한소희)
+
+![Han So-hee at the 2025 Toronto International Film Festival](/images/blogs/most-beautiful-korean-actresses/han-so-hee-tiff-2025.jpg)
+
+Han So-hee at the 2025 Toronto International Film Festival. Photo: Desmond Herzfelder via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Han_So-Hee_at_the_2025_Toronto_International_Film_Festival.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Han So-hee made her name as the other woman in *The World of the Married* (2020), then led the romance *Nevertheless* (2021), the Netflix action series *My Name* (2021) and the period monster drama *Gyeongseong Creature* (2023–24).
+
+**Now:** She co-leads the crime film *Project Y* with Jeon Jong-seo, about two friends who try to steal black money and gold bars in Gangnam. It premiered at the Toronto International Film Festival in September 2025 (the photo above is from that trip) and opened in Korea on 21 January 2026, with a near-simultaneous release in Japan two days later.
+
+## 8. Kim Tae-ri (김태리)
+
+![Kim Tae-ri at a public event in April 2026](/images/blogs/most-beautiful-korean-actresses/kim-tae-ri-2026.jpg)
+
+Kim Tae-ri at a public event in April 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kim_Tae-ri_in_April_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Tae-ri burst onto the scene in Park Chan-wook's *The Handmaiden* (2016), which won her the Blue Dragon Award for Best New Actress. See our guide to [The Handmaiden](/cinema/films/the-handmaiden) and its [filming locations](/cinema/locations/the-handmaiden-filming-locations). On TV she led *Mr. Sunshine* (2018), *Twenty-Five Twenty-One* (2022) and *Jeongnyeon: The Star Is Born* (2024), winning Baeksang Best Actress for the last two.
+
+**Now:** She made her voice-acting debut in *Lost in Starlight* (2025), the first Korean feature-length animated film released on Netflix, and joined tvN's 2026 variety show *Curtain Up, Class!* as a regular. In July 2026 her agency said she was positively considering the drama *Sister, I'm the Queen in This Life*, which would be her first drama in about three years.
+
+## 9. Go Youn-jung (고윤정)
+
+![Go Youn-jung at a public event in May 2026](/images/blogs/most-beautiful-korean-actresses/go-youn-jung-2026.jpg)
+
+Go Youn-jung at a public event in May 2026. Photo: K-POPit 티비텐 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Go_Youn-jung_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Go Youn-jung is one of the fastest-rising leads of the decade. She broke through with the film *The Hunt* (2022) and Disney+'s superhero hit *Moving* (2023), then led *Alchemy of Souls* season 2 and the medical drama *Resident Playbook* (2025), which topped Good Data Corporation's buzzworthy-actor chart for four weeks running.
+
+**Now:** 2026 has been her busiest year yet. Netflix's romance *Can This Love Be Translated?*, with Kim Seon-ho as a multilingual interpreter, premiered on 16 January 2026, and JTBC's *We Are All Trying Here*, written by Park Hae-young, aired from April to May. Tiffany & Co. named her an ambassador in August 2026.
+
+## 10. Kim Go-eun (김고은)
+
+![Kim Go-eun at the Baeksang Arts Awards in May 2026](/images/blogs/most-beautiful-korean-actresses/kim-go-eun-baeksang-2026.jpg)
+
+Kim Go-eun at the Baeksang Arts Awards in May 2026. Photo: TV10 / Ten Asia via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Go-eun debuted in the film *Eungyo* (2012) and became a household name with *Cheese in the Trap* (2016) and *Guardian: The Lonely and Great God* (2016–17), better known as *Goblin*. Her shaman role in the occult hit *Exhuma* (2024) won her both the Baeksang Arts Award and the Blue Dragon Film Award.
+
+**Now:** In September 2025 Netflix released *You and Everything Else*, a 15-episode series in which she plays one of two lifelong friends whose friendship, envy and rivalry play out over decades.
+
+## 11. Jung Ho-yeon (정호연)
+
+![Jung Ho-yeon at the 2026 Cannes Film Festival](/images/blogs/most-beautiful-korean-actresses/jung-ho-yeon-cannes-2026.jpg)
+
+Jung Ho-yeon at the 2026 Cannes Film Festival. Photo: Gabriel Hutchinson via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jung_Ho-Yeon_at_the_2026_Cannes_Film_Festival_03_%28cropped%29.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Jung Ho-yeon was a fashion model first. She was runner-up on *Korea's Next Top Model* in 2013 and walked international runways before her acting debut as Kang Sae-byeok in Netflix's *Squid Game* (2021) made her a global star overnight.
+
+**Now:** Her first film, Na Hong-jin's science-fiction thriller *Hope*, competed for the Palme d'Or at Cannes, where it premiered on 17 May 2026. She plays Sung-ae, a rookie village police officer, alongside Hwang Jung-min, Zo In-sung, Michael Fassbender and Alicia Vikander. It's Na's first film since *The Wailing* (2016); see our [Na Hong-jin profile](/cinema/directors/na-hong-jin).
+
+## 12. Kim Yoo-jung (김유정)
+
+![Kim Yoo-jung at a public event in October 2025](/images/blogs/most-beautiful-korean-actresses/kim-yoo-jung-2025.jpg)
+
+Kim Yoo-jung at a public event in October 2025. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kim_Yoo-jung_in_October_2025_02.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kim Yoo-jung started acting as a child and was once nicknamed the "Nation's Little Sister". Now 27, she has led *Love in the Moonlight* (2016), *Backstreet Rookie* (2020), *Lovers of the Red Sky* (2021) and the fantasy romance *My Demon* (2023–24).
+
+**Now:** She took a darker turn in the psychological thriller *Dear X*, which premiered on TVING on 6 November 2025. Earlier that autumn she became the first winner of the Busan International Actors Award at the 30th [Busan](/south-korea/busan) International Film Festival.
+
+## 13. Shin Min-a (신민아)
+
+![Shin Min-a at a Louis Vuitton event in 2025](/images/blogs/most-beautiful-korean-actresses/shin-min-a-2025.jpg)
+
+Shin Min-a at a Louis Vuitton event in 2025. Photo: 티비텐 TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shin_Min-a_at_an_event_for_Louis_Vuitton_in_2025_1.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Shin Min-a began as a model before acting, and she's still one of Korea's most in-demand faces for fashion brands. Her best-loved dramas include *My Girlfriend Is a Gumiho* (2010), *Oh My Venus* (2015), the seaside romance *Hometown Cha-Cha-Cha* (2021) and *Our Blues* (2022).
+
+**Now:** She starred in Netflix's crime thriller *Karma* in 2025, then married actor Kim Woo-bin on 20 December 2025 at the Shilla Hotel in Seoul, after a decade-long public relationship. The couple marked the wedding with a donation, and her lifetime charitable giving passed ₩4 billion in 2025.
+
+## 14. Moon Ga-young (문가영)
+
+![Moon Ga-young at a photo call in March 2025](/images/blogs/most-beautiful-korean-actresses/moon-ga-young-2025.jpg)
+
+Moon Ga-young at a photo call in March 2025. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20250319_Moon_Ga-young_at_a_photo_call_event_01.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Moon Ga-young started as a child model and actress, then became a lead with *Tempted* (2018), *True Beauty* (2020–21) and *The Interest of Love* (2022–23).
+
+**Now:** Her romance film *Once We Were Us*, with Koo Kyo-hwan, opened on 31 December 2025 and became a genuine hit. It crossed 2 million admissions on 26 January 2026, the first Korean romance film to pass that mark in years, and went on to more than 2.5 million. She also starred in the drama *My Dearest Nemesis* (2025).
+
+## 15. Park Min-young (박민영)
+
+![Park Min-young at Incheon Airport in March 2026](/images/blogs/most-beautiful-korean-actresses/park-min-young-2026.jpg)
+
+Park Min-young at Incheon Airport in March 2026. Photo: 티비텐 TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Park_Min-young_at_Incheon_Airport_on_02032026_%282%29.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Park Min-young rose to fame in the historical drama *Sungkyunkwan Scandal* (2010) and is one of Korea's best-loved romantic-comedy leads, thanks to *Healer* (2014–15), *What's Wrong with Secretary Kim* (2018) and the revenge drama *Marry My Husband* (2024).
+
+**Now:** In September 2025 she played a genius con artist in *Confidence Queen*, the Korean remake of Japan's *The Confidence Man JP*. It aired on TV Chosun in Korea and streams worldwide on Prime Video as the first Korean Amazon Original drama.
+
+## Where to See Korean Stars in Person
+
+You won't bump into these actresses on the street very often, but there are a few reliable places where Korean stars appear in public:
+
+- **Film festival red carpets.** The [Busan](/south-korea/busan) International Film Festival every autumn is Korea's biggest, with open-air screenings and red carpets at the Busan Cinema Center (pictured at the top of this page).
+- **Awards shows.** The Baeksang Arts Awards (spring) and the Blue Dragon Film Awards (late autumn) in Seoul draw the biggest names, and fans gather outside the venues.
+- **Airports.** Korean entertainment media film stars leaving from Incheon and Gimpo for overseas events, which is where several of the photos on this page come from.
+- **Filming locations.** You can visit the places where your favourite dramas and films were shot; start with our [Korean cinema guide](/cinema).
+
+Please be respectful: don't follow anyone, crowd them at the airport, or photograph them in private.
+
+## What Makes Korean Actresses So Admired?
+
+Korean beauty ideals are a big topic in themselves (we cover them in our guide to [Korean beauty standards](/culture/korean-beauty-standards)), but the actresses above are admired for more than looks. Many have built careers that run for decades, often moving from romance into thrillers, period dramas and film. Their style also shapes trends across Asia, which is why so many of them are luxury-brand ambassadors.
+
+If you're interested in Korean swimwear and fitness stars, see our explainers on [Korean bikini models](/culture/korean-bikini-models) and [Korean fitness models](/culture/korean-fitness-models).
+
+## Korean Actresses FAQ
+
+### Who is the most beautiful Korean actress in 2026?
+
+There's no official ranking. Song Hye-kyo, Jun Ji-hyun and Son Ye-jin are the classic answers in Korea, while Kim Ji-won, IU, Go Youn-jung and Han So-hee are among the most popular younger stars right now. Gallup Korea's 2025 Television Actor of the Year poll put IU second and Kim Ji-won third.
+
+### What does "Tae-Hye-Ji" mean?
+
+It's a nickname Korean media gave to Kim Tae-hee, Song Hye-kyo and Jun Ji-hyun, taking one syllable from each name, as the country's most iconic actresses of their generation.
+
+### Who is called the "Nation's First Love"?
+
+Son Ye-jin was first given the title for her early-2000s romance films, and Bae Suzy got it after *Architecture 101* (2012).
+
+### Which Korean actresses are in new dramas in 2026?
+
+Kim Ji-won's *Doctor X: Mafia in White* starts on SBS on 9 October 2026, and Song Hye-kyo's Netflix series *Tantara* is slated for December 2026. Earlier in 2026, IU starred in *Perfect Crown* and Go Youn-jung in *Can This Love Be Translated?* and *We Are All Trying Here*.
+
+### Which Korean actresses were at Cannes in 2026?
+
+Jun Ji-hyun went with Yeon Sang-ho's *Colony* (Midnight Screenings), and Jung Ho-yeon went with Na Hong-jin's *Hope*, which competed for the Palme d'Or.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences. Each was resized and cropped, or padded with a blurred background, to a 16:9 frame.
+
+- Hero image (the Busan Cinema Center, home of the Busan International Film Festival, at night): Raja Syazwina RS, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:Busan_Cinema_Center_and_Centum_City_Skyline_at_Night.jpg)
+- Song Hye-kyo at a public event in July 2023: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg)
+- Jun Ji-hyun at a public event in April 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Jun_Ji-hyun_in_April_2026.png)
+- Son Ye-jin at the Baeksang Arts Awards in May 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Son_Ye-jin_in_May_2026.png)
+- Kim Ji-won at a public event in May 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kim_Ji-won_in_May_2026.png)
+- IU on the red carpet at the Blue Dragon Series Awards in July 2025: 티비텐 TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:IU_at_Blue_Dragon_Series_Awards_on_18072025_%281%29.png)
+- Bae Suzy at a campaign event in April 2024: K-POPIT 케이팝잇 (TV10), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Bae_Suzy_at_OB_Beer_Hanmac_%27As_Smooth_As_Possible%27_campaign,_3_April_2024_01.jpg)
+- Han So-hee at the 2025 Toronto International Film Festival: Desmond Herzfelder, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Han_So-Hee_at_the_2025_Toronto_International_Film_Festival.jpg)
+- Kim Tae-ri at a public event in April 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kim_Tae-ri_in_April_2026.png)
+- Go Youn-jung at a public event in May 2026: K-POPit 티비텐, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Go_Youn-jung_in_May_2026.png)
+- Kim Go-eun at the Baeksang Arts Awards in May 2026: TV10 / Ten Asia, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:050826_Kim_Go-eun_at_the_2026_Baeksang_Arts_Awards.png)
+- Jung Ho-yeon at the 2026 Cannes Film Festival: Gabriel Hutchinson, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Jung_Ho-Yeon_at_the_2026_Cannes_Film_Festival_03_%28cropped%29.jpg)
+- Kim Yoo-jung at a public event in October 2025: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kim_Yoo-jung_in_October_2025_02.png)
+- Shin Min-a at a Louis Vuitton event in 2025: 티비텐 TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Shin_Min-a_at_an_event_for_Louis_Vuitton_in_2025_1.png)
+- Moon Ga-young at a photo call in March 2025: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:20250319_Moon_Ga-young_at_a_photo_call_event_01.jpg)
+- Park Min-young at Incheon Airport in March 2026: 티비텐 TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Park_Min-young_at_Incheon_Airport_on_02032026_%282%29.png)`,
+    tags: ["Culture", "K-Drama", "Celebrities", "Korean Film", "Entertainment"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-08",
+    contentType: "travel-tip",
+  },
+  {
     slug: "breweries-in-south-korea",
     title: "Best Craft Breweries in South Korea to Visit",
     image: "/images/blogs/breweries/defne-kucukmustafa-wYDUZux2wE8-unsplash.jpg",
@@ -1377,6 +1825,309 @@ It is located on Jeju Island in South Korea.`,
     contentType: "travel-tip",
   },
   {
+    slug: "korean-sexuality",
+    title: "Sex, Dating and Intimacy in South Korea: A Frank 2026 Guide",
+    image: "/images/blogs/korean-sexuality/couple-gwanghwamun-gate-night.jpg",
+    canonicalPath: "/korean-sexuality",
+    metaTitle: "Korean Sexuality 2026: Dating, Love Motels, Laws & Culture",
+    metaDescription:
+      "A frank 2026 guide to sex and dating in South Korea: love motels, dating apps, the age of consent, contraception for travellers, LGBTQ+ life and the 4B debate.",
+    summary:
+      "How sex, dating and intimacy really work in South Korea in 2026: couple culture, love motels, dating apps, the laws visitors need to know, sexual-health access and the debates reshaping Korean relationships.",
+    content: `South Korea can look buttoned-up from the outside. Public displays of affection are mild, sex education is famously thin and many young adults live with their parents until they marry. Then you notice the neon hearts above the motel alleys, the couples in matching outfits and the padlocks piled up on Namsan. Korea's attitudes to sex and dating are full of contradictions, and they're changing fast.
+
+This guide is for adult travellers, expats and the curious. It covers how dating works, why love motels exist, what the law actually says, how to get contraception and sexual-health care as a visitor, and the big debates shaping Korea in 2026. Legal and health facts were checked against current Korean and international reporting in October 2026. It's a frank explainer, not explicit content, and it's not legal or medical advice.
+
+## Korean Sex and Dating Laws at a Glance (2026)
+
+| Topic | Where things stand in 2026 |
+| --- | --- |
+| Age of consent | 16, raised from 13 by a Criminal Act amendment in May 2020 |
+| Adultery | Not a crime since the Constitutional Court struck the law down in February 2015 |
+| Buying or selling sex | Illegal under the 2004 sex-trade punishment law, for foreigners too |
+| Pornography | Distributing obscene material is illegal, and major porn sites are blocked |
+| Sexual deepfakes | Possessing, buying, storing or even viewing them is a crime (law passed September 2024) |
+| Same-sex marriage | Not recognised; a July 2024 Supreme Court ruling gave same-sex partners health-insurance dependant rights |
+| Abortion | No longer criminalised since 2021, but there's still no replacement law; abortion pills are due by March 2027 |
+| Emergency contraception | Prescription only |
+| Birth rate | 0.80 children per woman in 2025 (preliminary), up from 0.75 in 2024 |
+
+![Neon hearts above a motel alley, the classic look of Korea's love-motel districts (illustration)](/images/blogs/korean-sexuality/seoul-love-motel-alley-illustration.jpg)
+
+Neon hearts above a motel alley, the classic look of Korea's love-motel districts (illustration). AI-generated illustration (not a photo of a real place or person).
+
+## Conservative on the Surface, Busy in Private
+
+Korean culture still leans conservative in public. Big public kisses get looks, sex is rarely discussed at home and school sex education is widely criticised as outdated. Many unmarried Koreans live with their parents into their late twenties or thirties, partly because housing is so expensive.
+
+That's the main reason Korea has such a huge love-motel industry. If neither of you can take a partner home, you rent a room by the hour. Nobody treats it as seedy. Students, office workers and married couples all use them, and the motels compete on themed rooms, giant TVs, game consoles and spa baths.
+
+## How Dating Works in Korea
+
+Korean dating culture is intense, coupley and very calendar-driven.
+
+- **Sogaeting (소개팅):** a blind date set up by friends. It's still one of the most common ways to meet someone.
+- **"Some" (썸):** the flirty, undefined stage before you're officially a couple. A lot of Korean pop songs are about it.
+- **Couple culture:** matching outfits, matching rings, couple phone cases and shared profile photos are all normal.
+- **Anniversaries:** couples count days, not months. The 100-day anniversary is a big deal, followed by 200, 300 and 1,000 days.
+- **Romance holidays:** on Valentine's Day (14 February) women traditionally give chocolate, on White Day (14 March) men return the favour, and on Black Day (14 April) singles eat jjajangmyeon (black-bean noodles) together.
+
+![A Korean couple's anniversary celebration, with candles spelling out a message around a cake](/images/blogs/korean-sexuality/couple-anniversary-candles.jpg)
+
+A Korean couple's anniversary celebration, with candles spelling out a message around a cake. Photo: Beskilbe via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Candle_of_Lover%27s_Anniversary%28Feb,_2007,_Korea%29.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Dating Apps
+
+Apps are now mainstream. Tinder led Korea's dating-app market on monthly active users at the end of 2025, ahead of the Korean apps Glam and Wippy, according to Digital Daily. Market tracker Sensor Tower reported that Tinder overtook Wippy on monthly in-app revenue for the first time in January 2026. Amanda, one of the older Korean apps, is also still around. As a foreigner you'll mostly meet people on Tinder, especially in Seoul. Be ready for a lot of language-exchange openers.
+
+### The Love Locks of Namsan
+
+The terraces around N Seoul Tower on Namsan are covered in thousands of padlocks left by couples, often with names and dates written on them. It's one of Seoul's classic date spots, especially at sunset.
+
+![Love locks left by couples at N Seoul Tower on Namsan, Seoul](/images/blogs/korean-sexuality/n-seoul-tower-love-locks.jpg)
+
+Love locks left by couples at N Seoul Tower on Namsan, Seoul. Photo: Republic of Korea (Korea.net) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Korea_N_Seoul_Tower_20140722_05_%2814743588703%29.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Love Motels: A Practical Guide
+
+Love motels (often just called motels, 모텔) cluster around subway stations, university districts and nightlife areas. They're easy to spot thanks to neon signs and car-park entrances screened by plastic strip curtains.
+
+- **Daesil (대실) vs sukbak (숙박):** daesil is a daytime "rest" of a few hours and costs a fraction of the overnight rate. Sukbak is a normal overnight stay, usually with a late check-in after the daesil window closes.
+- **Booking:** the big Korean apps are Yanolja and Yeogi Eottae, which are largely Korean-language. Visitors can book many motels through Agoda, Booking.com, Trip.com or NOL World, Yanolja's site for international users, or just walk in.
+- **Privacy:** check-in is designed to be discreet. Some places use key-drop windows or self-check-in kiosks.
+- **Value:** for budget travellers, a modern motel is often a cleaner and better-equipped option than a hostel or an ageing hotel.
+- **Rules:** guests must be adults. Unmarried couples, foreigners and same-sex couples can all book rooms, though how staff behave varies by property.
+
+![Hongdae at night, one of the Seoul nightlife districts where young couples meet](/images/blogs/korean-sexuality/hongdae-night-seoul.jpg)
+
+Hongdae at night, one of the Seoul nightlife districts where young couples meet. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## What the Law Says
+
+**Age of consent.** In 2020 Korea raised the age of consent from 13 to 16. Sex with anyone under 16 is treated as statutory rape. For victims aged 13 to 15, this applies to offenders aged 19 or older.
+
+**Adultery.** Korea used to jail people for cheating on a spouse. The Constitutional Court ruled the adultery law unconstitutional in February 2015. Infidelity can still matter in divorce cases.
+
+**Prostitution.** Buying and selling sex is illegal under a law passed in 2004, and foreigners can be prosecuted too. Hostess bars and "room salons" are best avoided. They're expensive, they can turn into cost traps, and they sit in a legal grey zone at best.
+
+**Porn.** Distributing obscene material is illegal, and Korea's communications regulator blocks most major porn sites. That's why so many people in Korea use VPNs.
+
+**Deepfakes and spy cams.** After a wave of deepfake sex crimes, the National Assembly voted on 26 September 2024 to criminalise possessing, buying, storing or viewing sexually explicit deepfakes. The penalty is up to three years in prison or a fine of up to 30 million won. Secretly filming people (molka) is also a serious crime. In public toilets, changing rooms and cheap accommodation, it's worth a quick look for tiny holes or odd fittings.
+
+## Sexual Health for Travellers
+
+- **Condoms** are sold openly at convenience stores (GS25, CU, 7-Eleven, Emart24) and pharmacies.
+- **The daily contraceptive pill** is generally sold over the counter at pharmacies (약국), although some brands need a prescription.
+- **Emergency contraception (the morning-after pill) needs a prescription.** Go to an obstetrics and gynaecology clinic (산부인과, sanbuingwa) or a hospital emergency room, then take the prescription to a pharmacy. In Seoul, many clinics have English-speaking doctors.
+- **Abortion.** The Constitutional Court ruled the abortion ban unconstitutional in 2019, and the criminal ban lost effect on 1 January 2021. Lawmakers still haven't passed a replacement law, so services are legal but unregulated. In September 2026 the government announced a plan to introduce medication abortion for pregnancies up to nine weeks by the end of March 2027. For the first two years, prescribing and dispensing will happen only at hospitals. The pill (Mifegymiso) was still under review by the Ministry of Food and Drug Safety at the time of writing.
+- **STI testing** is available at urology (비뇨기과) and OB/GYN clinics. Many clinics take walk-ins.
+
+![Jeju Loveland at sunset. The sculpture park is Korea's best-known adult attraction](/images/blogs/korean-sexuality/jeju-loveland-sunset.jpg)
+
+Jeju Loveland at sunset. The sculpture park is Korea's best-known adult attraction. Photo: Damara Avila via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunset_at_Love_Land_at_Jeju_Island_-_25779887283.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+## Sex, Art and Humour: Korea's Adult Attractions
+
+Korea has a cheeky side. [Jeju Loveland](/jeju-loveland) is an outdoor park of erotic sculptures, and it's a staple of Jeju trips for adults. Haesindang Park in Samcheok, on the east coast, is filled with phallic carvings linked to a local fishing-village legend. Both are tongue-in-cheek and adults-only in spirit, so they're not for kids.
+
+## LGBTQ+ Life in Korea
+
+Korea doesn't recognise same-sex marriage or civil unions, and there's no national anti-discrimination law. There has been progress, though. In July 2024 the Supreme Court ruled that the National Health Insurance Service had to give So Seong-wook dependant coverage through his partner Kim Yong-min, a first for a same-sex couple. The ruling didn't legalise same-sex marriage.
+
+Seoul's queer scene is centred on Itaewon's "Homo Hill" and the bars of Jongno 3-ga. The Seoul Queer Culture Festival is held in central Seoul every early summer. It draws big crowds and, every year, a loud counter-protest from conservative church groups. See our [Itaewon nightlife guide](/south-korea/seoul/guides/nightlife-itaewon) for the wider area.
+
+![The Seoul Queer Culture Festival at Seoul Plaza in 2018, behind a police line](/images/blogs/korean-sexuality/seoul-queer-culture-festival-2018.jpg)
+
+The Seoul Queer Culture Festival at Seoul Plaza in 2018, behind a police line. Photo: revi via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018_%EC%84%9C%EC%9A%B8%ED%80%B4%EC%96%B4%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C_01.jpg), [CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/).
+
+## The Bigger Debates: Birth Rates and the Gender Divide
+
+Korea has the world's lowest fertility rate. Official preliminary figures released in February 2026 put it at 0.80 children per woman for 2025, up from 0.75 in 2024 and 0.72 in 2023. That's the first meaningful rebound in years, but it's still far below the 2.1 a population needs to replace itself.
+
+Behind the numbers is a sharp gender divide among young Koreans. The online "4B" movement, which rejects dating, sex, marriage and childbirth with men, began in Korea and drew worldwide attention in late 2024. It's a small movement, but it reflects real frustration with workplace inequality, the burden of childcare and digital sex crimes. Meanwhile, many young men complain about mandatory military service and feeling blamed. If you date in Korea, you'll probably hear about both sides.
+
+## Etiquette Tips for Visitors
+
+- Keep PDA moderate. Holding hands and a quick kiss are fine, but anything more draws stares.
+- Consent matters, and so does the law. "No" in any language means no, and drink-spiking does happen in nightlife districts. Watch your drink.
+- Don't assume a language-exchange meet-up is a date, or the other way round. Ask.
+- Be discreet about relationships at work. Office romances are common but kept quiet.
+- Read up on [Korean nightlife culture](/culture/korean-nightlife-culture) and [drinking culture](/culture/korean-drinking-culture) before a big night out.
+
+## Korean Sexuality FAQ
+
+### What is the age of consent in South Korea?
+
+The age of consent in South Korea is 16. It was raised from 13 by a Criminal Act amendment in May 2020.
+
+### Is adultery still illegal in Korea?
+
+No. The Constitutional Court struck down the adultery law in February 2015, so cheating is no longer a crime. It can still matter in divorce proceedings.
+
+### Can unmarried couples share a hotel room in Korea?
+
+Yes. Hotels, guesthouses and love motels don't ask about marital status. Guests just need to be adults.
+
+### Is porn legal in South Korea?
+
+Distributing obscene material is illegal and most major porn sites are blocked in Korea. Sexually explicit deepfakes are a separate crime: since September 2024, even viewing or possessing them is punishable.
+
+### Can I get the morning-after pill at a Korean pharmacy?
+
+Not without a prescription. See an OB/GYN clinic (산부인과) or a hospital emergency room first, then take the prescription to a pharmacy.
+
+### Is South Korea LGBTQ-friendly?
+
+It's mixed. Same-sex relationships are legal but not recognised in marriage law. Seoul has an established queer scene in Itaewon and Jongno and an annual Queer Culture Festival, but attitudes outside the big cities are more conservative.
+
+### What dating apps do Koreans use?
+
+Tinder leads the market, followed by Korean apps such as Glam and Wippy. Amanda is another long-running Korean app.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences. Each was resized and cropped to a 16:9 frame. Illustrations marked as such are AI-generated and don't show real people or places.
+
+- Hero image (a couple at Gwanghwamun Gate, Gyeongbokgung Palace, at night): Insightwm, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Couple_embracing_in_front_of_Gyeongbokgung_Palace_amid_traffic.jpg)
+- Neon hearts above a motel alley, the classic look of Korea's love-motel districts (illustration): AI-generated illustration created for Travelling South Korea
+- A Korean couple's anniversary celebration, with candles spelling out a message around a cake: Beskilbe, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Candle_of_Lover%27s_Anniversary%28Feb,_2007,_Korea%29.jpg)
+- Love locks left by couples at N Seoul Tower on Namsan, Seoul: Republic of Korea (Korea.net), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Korea_N_Seoul_Tower_20140722_05_%2814743588703%29.jpg)
+- Hongdae at night, one of the Seoul nightlife districts where young couples meet: Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg)
+- Jeju Loveland at sunset. The sculpture park is Korea's best-known adult attraction: Damara Avila, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Sunset_at_Love_Land_at_Jeju_Island_-_25779887283.jpg)
+- The Seoul Queer Culture Festival at Seoul Plaza in 2018, behind a police line: revi, [CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/), [source](https://commons.wikimedia.org/wiki/File:2018_%EC%84%9C%EC%9A%B8%ED%80%B4%EC%96%B4%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C_01.jpg)`,
+    tags: ["Culture", "Dating", "Relationships", "Nightlife", "Seoul", "Practical"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-05",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "gonjiam-haunted-asylum",
+    title: "Gonjiam Psychiatric Hospital: The Real Story of Korea's Most Haunted Asylum",
+    image: "/images/blogs/gonjiam-haunted-asylum/gonjiam-asylum-corridor-illustration.jpg",
+    canonicalPath: "/gonjiam-haunted-asylum",
+    metaTitle: "Gonjiam Haunted Asylum: The Real Story, the Film & Can You Visit?",
+    metaDescription:
+      "The true story of Gonjiam Psychiatric Hospital: why it closed, the legends, the 2018 horror film, its 2018 demolition, what's on the site now and Halloween 2026 alternatives.",
+    summary:
+      "The real history behind Korea's most famous haunted asylum, from the CNN list and the hit 2018 horror film to its demolition, what stands there now and where to get scared near Seoul instead.",
+    content: `For years, an empty hospital on a wooded hillside south-east of Seoul was the most famous haunted place in Korea. CNN listed it among the world's freakiest places, YouTubers live-streamed midnight break-ins, and in 2018 it inspired one of Korea's biggest horror hits. Then, two months after the film came out, the bulldozers arrived.
+
+This is the real story of Gonjiam Psychiatric Hospital: what it was, why it closed, what's true about the legends, what's on the site now and where to get your scare instead this Halloween. Facts were checked against Korean reporting and the Korean Film Council's figures in October 2026.
+
+## Gonjiam Asylum at a Glance
+
+| Fact | Details |
+| --- | --- |
+| Real name | Namyang Neuropsychiatric Hospital (남양신경정신병원) |
+| Location | Sindae-ri, Gonjiam-eup, Gwangju-si, Gyeonggi-do (about 40 km south-east of central Seoul) |
+| Opened | Early 1980s (the main three-storey building was approved for use in August 1982) |
+| Closed | 1996 |
+| Famous for | CNN's 2012 list of the "7 freakiest places" in the world, and the 2018 film Gonjiam: Haunted Asylum |
+| Demolished | 28–30 May 2018 |
+| Can you visit? | No. The building is gone and the land is private property |
+
+## What Gonjiam Psychiatric Hospital Really Was
+
+Despite the nickname, it wasn't a state asylum. Namyang Neuropsychiatric Hospital was a private psychiatric clinic in the village of Sindae-ri, in the Gonjiam area of Gwangju (the Gyeonggi city, not the bigger Gwangju in the south-west). The JoongAng Ilbo reported in 2018 that its main three-storey building was approved for use in August 1982, and two smaller buildings were added in the early 1990s.
+
+It closed suddenly in 1996. The JoongAng Ilbo's account is undramatic. After the founder died, his two sons inherited the hospital, but both lived in the United States. Stricter environmental rules meant it would have needed new sewage facilities, so they gave up running it. The building then sat empty for more than 20 years.
+
+![Gwangju, Gyeonggi Province: the hills and river valley around the Gonjiam area](/images/blogs/gonjiam-haunted-asylum/gwangju-gyeonggi-panorama.jpg)
+
+Gwangju, Gyeonggi Province: the hills and river valley around the Gonjiam area. Photo: Academy of Korean Studies via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Gwangju,_Gyeonggi.jpg), [KOGL Type 1](https://www.kogl.or.kr/info/licenseTypeEn.do).
+
+## The Legends and the Truth
+
+An abandoned hospital in the woods was always going to attract stories. The best-known legends say the director went mad and killed himself, that patients died in mysterious ways, or that the hospital closed after mass deaths. There's no record supporting any of them. The closure came down to inheritance and regulation, not ghosts.
+
+The legends didn't need to be true to spread, though. The site became a staple of Korea's heungga chehom (흉가 체험) culture, where people film themselves exploring "haunted houses". In 2012 CNN put Gonjiam on its list of the seven freakiest places on the planet, alongside spots like the Sedlec Ossuary in the Czech Republic. That made it a pilgrimage site for thrill-seekers, who left graffiti and rubbish behind. Locals complained for years about trespassers arriving at night.
+
+## Gonjiam: Haunted Asylum, the 2018 Film
+
+Director Jung Bum-shik turned the legend into Gonjiam: Haunted Asylum, a found-footage horror film released on 28 March 2018. In the film, the crew of a horror web show live-stream their exploration of the hospital and fake a few scares to boost viewer numbers, until things stop being fake. The cast includes Wi Ha-joon, who later found global fame in Squid Game.
+
+The low-budget film was a surprise smash. It opened at No. 1, and the Korean Film Council (KOFIC) puts its total at **2,689,877 admissions** and about US$15.1 million in Korea. At the time, it was one of the most successful Korean horror films ever.
+
+The building's owner tried to stop it. They applied for an injunction against the release, arguing the film would wreck an ongoing sale of the property. In March 2018 the Seoul Central District Court rejected the request. It said the film was obviously fiction, wasn't about the owner, and that the rumours had circulated long before it was made. The producers said they didn't film inside the real hospital and recreated it from photos and videos already online.
+
+## The Demolition and What's There Now
+
+Two months after the film opened, the hospital was gone. A buyer for the land had finally been found, demolition was reported, and the buildings were pulled down between 28 and 30 May 2018. The new owner told local reporters there were too many complaints from residents to keep it standing.
+
+The land changed hands again in April 2020, selling for about 4.99 billion won, according to Chosun Ilbo's property site Ddangjibgo. In September 2026, after a viral claim that a Coupang warehouse had been built on the site, Ddangjibgo checked and found the rumour was false. The Coupang Gonjiam 2 Center is about 200 metres away. The old hospital plot now holds three single-storey light-steel buildings owned by a glamping and accommodation company based in Paju.
+
+So there's nothing left to explore, and the land is private. Please don't go looking for it at night. Trespassing is illegal, and the neighbours have had enough.
+
+![Gonjiam Rock in the centre of Gonjiam-eup, the landmark that gives the town its name](/images/blogs/gonjiam-haunted-asylum/gonjiam-rock.jpg)
+
+Gonjiam Rock in the centre of Gonjiam-eup, the landmark that gives the town its name. Photo: Trainholic via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gonjiam.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Visiting Gonjiam Today
+
+Gonjiam is now better known for autumn leaves and ski slopes than for ghosts.
+
+- **Getting there:** Gonjiam Station is on the Gyeonggang Line between Pangyo and Yeoju. Pangyo connects to the Shinbundang Line from Gangnam.
+- **Hwadam Forest (화담숲):** a beautifully landscaped forest garden at Konjiam Resort, famous for its autumn colour. Tickets for the peak foliage season, from late October to mid-November, sell out, so book on the official site and check opening days before you go.
+- **Konjiam Resort:** one of the closest ski resorts to Seoul in winter.
+- **Gonjiam Rock:** the rock and pine tree in the town centre that gives Gonjiam its name.
+
+![Gonjiam Station on the Gyeonggang Line, the easiest way to reach Gonjiam from Seoul](/images/blogs/gonjiam-haunted-asylum/gonjiam-station.jpg)
+
+Gonjiam Station on the Gyeonggang Line, the easiest way to reach Gonjiam from Seoul. Photo: Vitzro2011 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gonjiam_Station.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+![Hwadam Forest at Konjiam Resort, Gonjiam's big draw in autumn](/images/blogs/gonjiam-haunted-asylum/hwadam-forest-gonjiam.jpg)
+
+Hwadam Forest at Konjiam Resort, Gonjiam's big draw in autumn. Photo: Thqkrdl via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%ED%99%94%EB%8B%B4%EC%88%B2.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Where to Get Scared Instead: Halloween 2026 Near Seoul
+
+If you want the Gonjiam thrill without breaking any laws, Seoul's theme parks go all-out for horror season.
+
+- **Everland, Blood City Zero (Yongin):** the 10th edition of Everland's horror zone runs from 12 September to 22 November 2026, daily from 4pm to 9pm. It's an outdoor immersive show across five themed zones, directed by film-maker Lee Seok-hoon, and it's included with park admission.
+- **Lotte World Adventure, "Invitation to a Strange World" (Jamsil):** a horror season in collaboration with the Junji Ito Collection anime, running from 19 September to 15 November 2026. The new night parade, Dark Fantasy Festival, starts at 8:20pm.
+- **Korean horror on screen:** after Gonjiam, try A Tale of Two Sisters (2003), The Wailing (2016) and Train to Busan (2016). Explore more in our [Korean cinema guides](/cinema).
+
+## Gonjiam Haunted Asylum FAQ
+
+### Is Gonjiam Psychiatric Hospital real?
+
+Yes. It was a real private psychiatric hospital, Namyang Neuropsychiatric Hospital, in Gonjiam-eup, Gwangju, Gyeonggi Province. It closed in 1996 and was demolished in May 2018.
+
+### Can you visit the Gonjiam asylum?
+
+No. The building was demolished in 2018 and the site is private land with new buildings on it. There's nothing left to see, and trespassing is illegal.
+
+### Why did Gonjiam Psychiatric Hospital close?
+
+According to the JoongAng Ilbo, the founder died and his sons, who lived in the United States, decided not to run it. Stricter environmental rules would have required new sewage facilities. The ghost stories about the director and patients have no factual basis.
+
+### Was Gonjiam: Haunted Asylum filmed at the real hospital?
+
+No. The production said it recreated the hospital using photos and videos of the real building, and a court found the film was clearly fiction.
+
+### How many people watched Gonjiam: Haunted Asylum?
+
+The Korean Film Council records 2,689,877 admissions in Korea.
+
+### Is there a Coupang warehouse on the Gonjiam asylum site?
+
+No. That rumour went viral, but Chosun Ilbo's property site checked in September 2026. The Coupang Gonjiam 2 Center is about 200 metres away. The hospital plot itself holds small light-steel buildings owned by a glamping and accommodation company.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons, public-domain or KOGL licences. Each was resized and cropped or padded to a 16:9 frame. The hero image is an AI-generated illustration of an abandoned hospital corridor, not a photo of the real Gonjiam building.
+
+- Hero image (an abandoned hospital corridor, illustration): AI-generated illustration created for Travelling South Korea
+- Gwangju, Gyeonggi Province: the hills and river valley around the Gonjiam area: Academy of Korean Studies, [KOGL Type 1](https://www.kogl.or.kr/info/licenseTypeEn.do), [source](https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Gwangju,_Gyeonggi.jpg)
+- Gonjiam Rock in the centre of Gonjiam-eup, the landmark that gives the town its name: Trainholic, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Gonjiam.jpg)
+- Gonjiam Station on the Gyeonggang Line, the easiest way to reach Gonjiam from Seoul: Vitzro2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Gonjiam_Station.jpg)
+- Hwadam Forest at Konjiam Resort, Gonjiam's big draw in autumn: Thqkrdl, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:%ED%99%94%EB%8B%B4%EC%88%B2.jpg)`,
+    tags: ["Culture", "Horror", "Film", "Gyeonggi", "Halloween", "Unusual"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-05",
+    contentType: "travel-tip",
+  },
+  {
     slug: "what-is-maeshilju",
     title: "What Is Maeshil-Ju?",
     image: "/images/blogs/maeshilju/f918b5a38b86407282c40d956d28b6f9.jpg",
@@ -1587,6 +2338,325 @@ Usually no. It is better to monitor the forecast, stay flexible, and adjust your
     tags: ["Air Quality", "Health", "Seoul", "Jeju", "Practical"],
     authorSlug: "mina-park",
     updatedDate: "2026-05-21",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "most-popular-korean-bikini-models-in-2025",
+    title: "Most Popular Korean Bikini Models in 2026: 10 Swimsuit & Fitness Stars",
+    image: "/images/blogs/most-popular-korean-bikini-models-in-2025/korean-bikini-models-2026-haeundae-beach.jpg",
+    canonicalPath: "/most-popular-korean-bikini-models-in-2025",
+    metaTitle: "Korean Bikini Models 2026: 10 Hottest Swimsuit & Fitness Stars",
+    metaDescription:
+      "From Waterbomb Goddess Kwon Eun-bi to Miss Bikini champ Shim Eu-ddeum: the Korean bikini models, fitness stars and summer icons to know in 2026.",
+    summary:
+      "The real Korean bikini models, fitness champions and summer-festival icons of 2026, with verified careers, latest news and where to see Korea's swimsuit culture in person.",
+    content: `Search "Korean bikini models" and you get a mess: actresses, idols, fitness pros and random Instagram accounts, often with made-up bios. This 2026 update cleans that up. Every name below is a real adult public figure whose swimsuit, fitness or summer-stage fame is on the record, and we checked every career detail against current reporting (as of October 2026).
+
+The list pulls from three worlds that overlap in Korea more than anywhere else: competition-tested fitness and bikini models, K-pop stars who rule the summer festival circuit, and actresses whose body-confident image made headlines. Travelling? Scroll to the end for where to see Korea's swimsuit culture in person, from Waterbomb to Haeundae Beach.
+
+## Korean Bikini Models 2026 at a Glance
+
+| Name | Famous for | Latest |
+| --- | --- | --- |
+| Kwon Eun-bi | The "Waterbomb Goddess" since 2023 | Joined RBW, single "Dejavu" (Sept 2026) |
+| Shim Eu-ddeum | 2015 NABBA Korea Miss Bikini winner | Sydney Marathon finisher (Aug 2026) |
+| Yoo Seung-ok | First Asian woman in Muscle Mania's top five | Fitness YouTube channel launched 2025 |
+| Hwasa | Mamamoo's curve-proud star | Face of Comfort Lab's "I love my curve" (2026) |
+| Ye Jung-hwa | Fitness model turned TV host | Married to actor Ma Dong-seok |
+| Clara | The 2013 leggings first pitch | Chinese-language film career |
+| Nana | After School, Mask Girl | Confirmed dating T.O.P (Oct 2026) |
+| Hyuna | K-pop's boldest solo concepts | Latest single "Mrs. Nail" (2025) |
+| Lee Hyori | Korea's original "sexy superstar" | Back in Seoul since 2024 |
+| Karina | aespa leader, Waterbomb headliner | On the Waterbomb Seoul 2026 bill |
+
+## 1. Kwon Eun-bi: The "Waterbomb Goddess"
+
+![Kwon Eun-bi in May 2026](/images/blogs/most-popular-korean-bikini-models-in-2025/kwon-eun-bi-2026.jpg)
+
+Kwon Eun-bi in May 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kwon_Eun-bi_in_May_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Kwon Eun-bi (born 27 September 1995) first found fame as leader of Iz*One, the group formed on Mnet's Produce 48 in 2018, and went solo in August 2021 after the group disbanded. Her summer-icon status comes down to one night. Her set at Waterbomb Seoul on 23 June 2023 went viral, Korean outlets including The Korea Economic Daily and Hankook Ilbo dubbed her the "Waterbomb Goddess" and the new "Summer Queen", and her song "Underwater" shot back up the charts.
+
+The nickname stuck. Korean headlines still use it in 2026: in April she left Woollim Entertainment and signed with RBW, Mamamoo's agency, and on 3 September 2026 she released "Dejavu", her first single in about 16 months. Brands have leaned into the same image, with Sprite among her past endorsements.
+
+## 2. Shim Eu-ddeum: Miss Bikini Champion Turned Fitness Star
+
+![Shim Eu-ddeum at SPOEX 2015](/images/blogs/most-popular-korean-bikini-models-in-2025/shim-eu-ddeum-fitness-model.jpg)
+
+Shim Eu-ddeum at SPOEX 2015. Photo: pdfman via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%28%EC%8A%A4%ED%8F%AC%EC%97%91%EC%8A%A42015%29_%EC%86%8C%EB%8B%89%EC%8A%A4_%EB%B6%80%EC%8A%A4%EC%97%90%EC%84%9C_%EB%B0%9C%EA%B2%AC%ED%95%9C_%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%9D%BC%EC%9D%B8%EC%9D%98_%EB%AF%B8%EB%8B%88_%EC%9C%A0%EC%8A%B9%EC%98%A5%28%3F%29_%28Shim_Euddeum%29_%285%29.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+If you want a genuine bikini champion, Shim Eu-ddeum (born 1990) is it. In 2015 she won the Miss Bikini category at NABBA Korea. Her record also includes sports-model titles at WBC and NABBA Korea between 2014 and 2016, and second place in the figure category at Muscle Mania in 2014. She studied physical education at Dongduk Women's University and built a second career as a Pilates instructor and YouTuber. Her channel is called 힙으뜸 ("Hip Eu-ddeum").
+
+Mainstream TV followed. She competed on Netflix's Physical: 100 in 2023 and played for FC Streaming Fighter on SBS's women's football show Goal Girls. In July 2026 she left Goal Girls after three years and three months, saying a new challenge lay ahead. In August she posted her finish at the 2026 Sydney Marathon, and her Bali holiday workout posts in September kept her in Korea's entertainment news.
+
+## 3. Yoo Seung-ok: Korea's Original "Muscle Queen"
+
+![Yoo Seung-ok at the Fitness Model Awards, 2015](/images/blogs/most-popular-korean-bikini-models-in-2025/yoo-seung-ok-fitness-model-awards.jpg)
+
+Yoo Seung-ok at the Fitness Model Awards, 2015. Photo: SJ via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EC%9C%A0%EC%8A%B9%EC%98%A5_%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4_%EB%AA%A8%EB%8D%B8_%EC%96%B4%EC%9B%8C%EB%93%9C%28Fitness_Model_Awards%29_in_%EC%BD%94%EB%A6%AC%EC%95%84_%E7%BE%8E_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_01.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Yoo Seung-ok (born 21 June 1990) won a special prize at the 2013 Miss Chungbuk Korea pageant and worked as a show model at the 2013 Seoul Motor Show. In November 2014 she became the first Asian woman to reach the top five at Muscle Mania in Las Vegas. In 2015 she was Maxim Korea's April cover girl and Korea's first UFC Octagon girl.
+
+Small film roles followed, including Fabricated City (2017) and Champion (2018), along with variety appearances such as Running Man. In 2025 she launched a YouTube channel, 옥케이, covering her training, cycle-race preparation and taekwondo. In October 2025 she attended a photocall at Fashion Code 2026 S/S, and Korean entertainment sites were still running stories on her workout posts in autumn 2026.
+
+## 4. Hwasa: The Curve-Proud Stage Icon
+
+![Hwasa live in Seattle, March 2025](/images/blogs/most-popular-korean-bikini-models-in-2025/hwasa-live-seattle-2025.jpg)
+
+Hwasa live in Seattle, March 2025. Photo: David Lee via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HWASA_in_Seattle_-_54382519362.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+
+Hwasa (Ahn Hye-jin, born 23 July 1995) is the Mamamoo member who made body confidence her brand. After moving to P Nation in 2023 she released "I Love My Body", which made the top ten of the Circle Digital Chart. In April 2026 the fitted-underwear brand Comfort Lab signed her as its model for an "I love my curve" campaign, built around respecting different body shapes instead of squeezing into standard sizes.
+
+Her live shows push the same message. Her 2025 tour opened its North American leg in Seattle in March 2025 (pictured), and on 19 November 2025 her "Good Goodbye" performance with actor Park Jeong-min at the 46th Blue Dragon Film Awards went viral and sent the song back up the charts.
+
+## 5. Ye Jung-hwa: The Fitness Model Who Married Ma Dong-seok
+
+![Ye Jung-hwa at the 2015 World Diet Expo](/images/blogs/most-popular-korean-bikini-models-in-2025/ye-jung-hwa-fitness-model.jpg)
+
+Ye Jung-hwa at the 2015 World Diet Expo. Photo: 따시기콘텐츠 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2015%EB%85%84_%EC%84%B8%EA%B3%84%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%97%91%EC%8A%A4%ED%8F%AC_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C_%EC%98%88%EC%A0%95%ED%99%94_%283%29.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Ye Jung-hwa (born 23 May 1988) became a national name in 2015 through MBC's My Little Television, where she first drew national attention. She went on to host beauty and diet programmes, starred in the SBS web drama Girl's Love Story, and made a cameo in the 2017 crime hit The Outlaws.
+
+She is married to actor Ma Dong-seok (Don Lee). The couple registered their marriage in 2021 and held a private wedding ceremony on 26 May 2024, with Outlaws co-stars among the guests.
+
+## 6. Clara: The First Pitch That Broke the Internet
+
+![Clara in December 2024](/images/blogs/most-popular-korean-bikini-models-in-2025/clara-lee-2024.jpg)
+
+Clara in December 2024. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clara_Lee_in_December_2024.png), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Clara (Lee Sung-min, born 1985) is the daughter of Lee Seung-kyu of the band Koreana. She became an overnight sensation in May 2013 when she threw a ceremonial first pitch at a professional baseball game in skin-tight leggings. Korean media hailed her as a sex symbol, and the "Clara pitch" is still the reference point whenever a celebrity first pitch goes viral.
+
+After 2015 she moved into Chinese-language film, starring in the box-office hit Some Like It Hot (2016) and appearing in The Wandering Earth 2 (2023). In 2024 she picked up acting awards at the Asia International Film Festival for her Chinese work. In October 2025 she announced that she and the businessman she married in 2019 had completed an amicable divorce that August.
+
+## 7. Nana: After School Star and 2026's Biggest Headline
+
+![Nana in September 2026](/images/blogs/most-popular-korean-bikini-models-in-2025/nana-2026.jpg)
+
+Nana in September 2026. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nana_in_September_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Nana (Im Jin-ah, born 14 September 1991) rose to fame in After School and its subunit Orange Caramel, then topped TC Candler's 100 Most Beautiful Faces list in 2014 and 2015. Her acting breakthrough came with Netflix's Mask Girl (2023), where she took on a demanding dual role. In September 2024 she left Pledis Entertainment after 15 years and signed with Sublime.
+
+She's also the newest headline on this list. On 2 October 2026 both agencies confirmed she is dating rapper T.O.P, saying the pair met while filming his music video and began dating around June.
+
+## 8. Hyuna: K-pop's Boldest Summer Queen
+
+![Hyuna in July 2023](/images/blogs/most-popular-korean-bikini-models-in-2025/hyuna-2023.jpg)
+
+Hyuna in July 2023. Photo: K-POPIT 케이팝잇 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20230720_Kim_HyunA_in_July_2023_07.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Hyuna (Kim Hyun-ah, born 6 June 1992) debuted with Wonder Girls in 2007, became a star in 4Minute from 2009, and built a solo career on provocative, high-energy concepts that made her one of K-pop's most talked-about performers. She married singer Yong Jun-hyung on 11 October 2024.
+
+Her latest single, "Mrs. Nail", came out on 30 April 2025. In February 2026 her side dismissed pregnancy rumours, saying she was exercising regularly and working on an album.
+
+## 9. Lee Hyori: The Original Sexy Superstar
+
+![Lee Hyori in May 2025](/images/blogs/most-popular-korean-bikini-models-in-2025/lee-hyori-2025.jpg)
+
+Lee Hyori in May 2025. Photo: Marie Claire Korea via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lee_Hyori_in_May_2025_01.png), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Lee Hyori (born 10 May 1979) went from Fin.K.L, one of the biggest girl groups of the late 1990s, to a 2003 solo debut that made her Korea's defining "sexy superstar". The bikini connection is part of the legend. When SsangYong Motor laid off workers in 2014, she tweeted that if the new Tivoli sold well enough for them to be rehired, she would dance in front of the car in a bikini.
+
+She married guitarist Lee Sang-soon in 2013 and lived on Jeju for more than a decade before moving back to Seoul in September 2024. That year she also hosted the KBS talk show The Seasons: Lee Hyori's Red Carpet.
+
+## 10. Karina: Waterbomb's Headline Act
+
+![Karina at Waterbomb Seoul, July 2025](/images/blogs/most-popular-korean-bikini-models-in-2025/karina-waterbomb-2025.jpg)
+
+Karina at Waterbomb Seoul, July 2025. Photo: TheGsd via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aespa_Karina_at_the_2025_Waterbomb_Festival.png), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Karina (Yu Ji-min, born 11 April 2000) leads SM Entertainment's aespa. At Waterbomb Seoul 2025 on 5 July at KINTEX she performed "Up" and "Whiplash" on the main stage, then took over the Sprite stage with a water gun. Korean entertainment outlets and the Sprite campaign called her a "Waterbomb goddess" too. She was booked again for Waterbomb Seoul 2026, on 25 July.
+
+## Miss Maxim: Where Korea's New Bikini Models Come From
+
+Maxim Korea's annual Miss Maxim Contest is the closest thing Korea has to a public bikini-model audition. Readers pick the winner by online vote, with no judges' scores. Rounds have included uniform, bikini, costume and lingerie themes, and the entrants range from professional models to students and office workers.
+
+The 2024 winner, a 20-year-old university student known as Jyu, took home ₩10 million and Maxim's December 2024 cover. The 2025 final (voting ran 7 to 10 November 2025) went to graduate student Chae Sol with 9,135 of 23,662 votes, the widest winning margin since 2019. Maxim also runs a separate plus-size contest, which we cover in our guide to [Korea's top plus-size models](/top-korean-plus-sized-models-in-2025).
+
+## Where to See Korea's Swimsuit Culture in Person
+
+### Waterbomb festival
+
+Waterbomb is Korea's biggest water-fight music festival. Fans and artists split into teams and soak each other while K-pop, hip-hop and EDM acts perform. It started in 2015, and the 2026 Seoul edition ran from 24 to 26 July at KINTEX in Goyang and its lineup included Taemin, Jay Park, Karina and Sunmi. The festival now tours other Korean cities and goes abroad: Singapore hosted an edition in August 2025. Wear quick-dry clothes and keep your phone in a waterproof pouch.
+
+### Haeundae Beach, Busan
+
+Haeundae is Korea's most famous city beach and the classic summer photoshoot backdrop. Our [Haeundae Beach guide](/south-korea/busan/guides/haeundae-beach-guide) covers the practical side. One thing to know before you go: plenty of Korean beachgoers wear rash guards and cover-ups, so a bikini gets more attention here than it would in Europe.
+
+### Jeju Island
+
+Jeju's beaches are another favourite for swimwear shoots. Pair a beach day with something cheekier at [Jeju Loveland](/jeju-loveland), the island's adults-only sculpture park.
+
+## Why Korea's Bikini Look Has Changed
+
+For years, Korea's ideal was simply "slim". The rise of fitness models like Yoo Seung-ok and Shim Eu-ddeum moved it towards toned and athletic, and stars like Hwasa have pushed the conversation further towards curves and body confidence. You'll see all three looks on Korean social media and in summer ads. For the background, read our guides to [Korean beauty standards](/culture/korean-beauty-standards) and [Korean fitness models and gym culture](/culture/korean-fitness-models).
+
+## Korean Bikini Models FAQ
+
+### Who is the most popular Korean bikini model in 2026?
+
+There's no official ranking. Kwon Eun-bi (the "Waterbomb Goddess"), fitness champion Shim Eu-ddeum and Muscle Mania pioneer Yoo Seung-ok are the names most closely tied to swimsuit and summer fame, while Hwasa, Nana and Karina are the biggest mainstream stars on this list.
+
+### Why is Kwon Eun-bi called the "Waterbomb Goddess"?
+
+Her performance at Waterbomb Seoul in June 2023 went viral, and Korean media began calling her the "Waterbomb Goddess" and the new "Summer Queen". Headlines still use the name in 2026.
+
+### Does Korea have bikini competitions?
+
+Yes. Fitness federations such as NABBA Korea run bikini and sports-model categories (Shim Eu-ddeum won Miss Bikini at NABBA Korea in 2015), and Muscle Mania has launched several Korean careers. Maxim Korea's reader-voted Miss Maxim Contest also includes a bikini round.
+
+### When is Waterbomb festival?
+
+Waterbomb runs in summer. The 2026 Seoul edition was held from 24 to 26 July at KINTEX in Goyang, with more dates in other cities. Check the official Waterbomb channels for next year's lineup.
+
+### Is it OK to wear a bikini at Korean beaches?
+
+Yes. Bikinis are fine at Korean beaches and pools, although many locals prefer rash guards and cover-ups. Cover up when you leave the beach, especially in town or on public transport.
+
+## Photo Credits
+
+All photos of people are from Wikimedia Commons under Creative Commons licences. Each was resized and, where needed, cropped or padded to a 16:9 frame.
+
+- Hero image (Haeundae Beach, Busan): StephNurnberg, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:Haeundae_Beach_in_Busan.jpg)
+- Kwon Eun-bi in May 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Kwon_Eun-bi_in_May_2026.png)
+- Shim Eu-ddeum at SPOEX 2015: pdfman, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:%28%EC%8A%A4%ED%8F%AC%EC%97%91%EC%8A%A42015%29_%EC%86%8C%EB%8B%89%EC%8A%A4_%EB%B6%80%EC%8A%A4%EC%97%90%EC%84%9C_%EB%B0%9C%EA%B2%AC%ED%95%9C_%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EB%9D%BC%EC%9D%B8%EC%9D%98_%EB%AF%B8%EB%8B%88_%EC%9C%A0%EC%8A%B9%EC%98%A5%28%3F%29_%28Shim_Euddeum%29_%285%29.jpg)
+- Yoo Seung-ok at the Fitness Model Awards, 2015: SJ, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:%EC%9C%A0%EC%8A%B9%EC%98%A5_%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4_%EB%AA%A8%EB%8D%B8_%EC%96%B4%EC%9B%8C%EB%93%9C%28Fitness_Model_Awards%29_in_%EC%BD%94%EB%A6%AC%EC%95%84_%E7%BE%8E_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_01.jpg)
+- Hwasa live in Seattle, March 2025: David Lee, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:HWASA_in_Seattle_-_54382519362.jpg)
+- Ye Jung-hwa at the 2015 World Diet Expo: 따시기콘텐츠, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:2015%EB%85%84_%EC%84%B8%EA%B3%84%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EC%97%91%EC%8A%A4%ED%8F%AC_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C_%EC%98%88%EC%A0%95%ED%99%94_%283%29.jpg)
+- Clara in December 2024: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Clara_Lee_in_December_2024.png)
+- Nana in September 2026: K-POPIT 케이팝잇, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Nana_in_September_2026.png)
+- Hyuna in July 2023: K-POPIT 케이팝잇, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:20230720_Kim_HyunA_in_July_2023_07.jpg)
+- Lee Hyori in May 2025: Marie Claire Korea, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Lee_Hyori_in_May_2025_01.png)
+- Karina at Waterbomb Seoul, July 2025: TheGsd, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Aespa_Karina_at_the_2025_Waterbomb_Festival.png)`,
+    tags: ["Culture", "Models", "Fitness", "K-pop", "Waterbomb", "Busan"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-04",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "top-korean-plus-sized-models-in-2025",
+    title: "Top Korean Plus-Size Models in 2026: The Curvy Stars Rewriting K-Beauty",
+    image: "/images/blogs/top-korean-plus-sized-models-in-2025/korean-plus-size-models-2026-ddp-seoul.jpg",
+    canonicalPath: "/top-korean-plus-sized-models-in-2025",
+    metaTitle: "Korean Plus-Size Models 2026: Top Curvy Models & Icons",
+    metaDescription:
+      "Meet Korea's top plus-size models in 2026, from pioneer Kim Ji-yang to Maxim contest winners Ssunbiki, Ah Seung-yeon and Jang Ye-na, plus Hwasa's curve campaign.",
+    summary:
+      "Korea's plus-size and curvy modelling scene in 2026: the pioneer who started it, the Maxim contest winners, the agencies changing the industry and tips for curvy travellers.",
+    content: `Korea is famous for one of the world's toughest beauty standards. That's exactly why its plus-size models get so much attention. They've built careers in an industry that barely made room for them, through self-published magazines, viral contests and a new wave of size-diverse agencies.
+
+This 2026 guide covers the real names behind Korea's plus-size and curvy modelling scene: who they are, what they've achieved, and what they're doing now. Every fact is checked against Korean and international reporting (as of October 2026), and everyone featured is an adult.
+
+## Korean Plus-Size Models 2026 at a Glance
+
+| Name | Breakthrough | Why she matters |
+| --- | --- | --- |
+| Kim Ji-yang (Gee-yang Kim) | Full Figured Fashion Week, LA, 2010 | Korea's first plus-size model; founded 66100 |
+| Ssunbiki | Won Maxim's first natural-size contest, 2021 | Maxim cover; Netflix's The Influencer (2024) |
+| Ah Seung-yeon | Won Maxim's plus-size contest, 2022 | Maxim August 2022 cover |
+| Jang Ye-na | Won Maxim's plus-size contest, 2023 | Maxim's flagship plus-size model in 2025–26 |
+| Hwasa | "I Love My Body" (2023) | Face of Comfort Lab's "I love my curve" (2026) |
+
+## What Counts as "Plus-Size" in Korea?
+
+Less than you'd think. Korean women's clothing is traditionally sized 44, 55, 66 and 77, and The Korea Times has noted that a Korean 66 is roughly a US size 6. Kim Ji-yang sums up the gap: "When I was in LA, I was too skinny to do plus-size modelling, but in Korea, I am just a fat woman." When Maxim Korea and the Korea Model Association launched their contest in 2021, the only entry requirement was wearing a women's size 66 or above. There were no limits on height, weight, age, nationality or experience.
+
+## 1. Kim Ji-yang: Korea's First Plus-Size Model
+
+Kim Ji-yang (also written Gee-yang Kim, born 1986 in Seoul) couldn't get work in Korea, so she went abroad. After sending photos to agencies worldwide, she debuted at Full Figured Fashion Week in Los Angeles in 2010 and went on to model in the US and the Caribbean.
+
+Back home, she made her own platform. In summer 2014 she launched 66100, Korea's first plus-size fashion magazine. The name combines the largest standard sizes in Korean womenswear (66) and menswear (100). 66100 grew into a clothing brand, and she says 66100 was the first to make 120-size (4XL) underwear.
+
+The pushback was brutal. AFP reported in 2016 that she had faced death threats and online abuse, and that she had taken some trolls to court. She has also printed hateful comments in her own magazine to take away their power. She published a book in 2023, and in a June 2025 Korea Herald feature, novelist Erin Zhurkin pointed to her as one of the people speaking up for change.
+
+## 2. Ssunbiki: The Contest Winner Who Went Viral
+
+![Ssunbiki at the 2021 Maxim Natural Size Model Contest](/images/blogs/top-korean-plus-sized-models-in-2025/ssunbiki-maxim-natural-size-contest-2021.jpg)
+
+Ssunbiki at the 2021 Maxim Natural Size Model Contest. Photo: 머길 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EC%8D%AC%EB%B9%84%ED%82%A4_%EB%A7%A5%EC%8B%AC_%EB%82%B4%EC%B6%94%EB%9F%B4%EC%82%AC%EC%9D%B4%EC%A6%88_%EB%AA%A8%EB%8D%B8_%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Ssunbiki won the grand prize at the first Maxim Natural Size Model Contest in July 2021, co-hosted by Maxim Korea and the Korea Model Association. The prize was ₩10 million and the cover of Maxim's August 2021 issue. The Korean outlet Insight framed it as the first time in Maxim Korea's 20 years that a plus-size model had made the cover. Maxim later said videos of the contest and its winner had passed 10 million YouTube views.
+
+![Ssunbiki on the contest runway, 2021](/images/blogs/top-korean-plus-sized-models-in-2025/ssunbiki-runway-2021.jpg)
+
+Ssunbiki on the contest runway, 2021. Photo: 머길 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ssunbiki_full_body_view.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+She has since moved into influencer work and took part in Netflix's 2024 survival show The Influencer.
+
+## 3. Ah Seung-yeon: Back-to-Back Maxim Honours
+
+Ah Seung-yeon took the Korea Model Association Chairman's Prize at the 2021 contest, then returned to win the grand prize at the second edition, now officially called the Maxim Plus-Size Model Contest, held at a Seoul hotel on 6 July 2022. Like Ssunbiki, she landed Maxim's August cover, in an issue built around the curvy look.
+
+## 4. Jang Ye-na: Maxim's Plus-Size Cover Star
+
+Jang Ye-na entered the third Maxim Plus-Size Model Contest in 2023 at 20, saying she wanted to be famous and "let the world know who I am". She won the grand prize and was picked as a Miss Maxim. She has since become Maxim's flagship plus-size model. At 23 she led the April 2025 issue with a lingerie shoot themed "the return of Venus", and in January 2026 she shot a Western cowgirl spread for the Year of the Horse. Her next goal, she says, is America: she wants to land a US Maxim cover.
+
+## 5. Hwasa: The Mainstream Face of Curves
+
+![Hwasa in January 2026](/images/blogs/top-korean-plus-sized-models-in-2025/hwasa-2026.jpg)
+
+Hwasa in January 2026. Photo: TV10 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hwasa_in_January_2026.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+No Korean star has done more to make curves mainstream than Mamamoo's Hwasa (born 1995). Her 2023 single "I Love My Body" made the top ten of the Circle Digital Chart. In April 2026 the fitted-underwear brand Comfort Lab chose her for its "I love my curve" campaign, which tells women to respect their own shape instead of squeezing into standard sizes. She isn't a plus-size model, but she's the reason "curvy" now sells in Korean advertising.
+
+## The Agencies and Contests Changing the Industry
+
+Two changes in the 2020s made plus-size modelling a real career path in Korea. First, after the 2021 Maxim contest the Korea Model Association created a plus-size model division and began issuing official certificates to models in the category. Second, specialist agencies appeared. The Curve Korea describes itself as Korea's first size-diversity modelling agency, and its founder started out as a plus-size model in London in 2019. In a December 2023 interview, the agency said Korean brands were asking for more diverse models, but that many still wanted "natural-size" talent closer to a Korean 55 than true plus-size.
+
+## Why It Matters: Body Pressure in Korea
+
+The pressure these models push against is real. In 2016 Kim Ji-yang told AFP that "in South Korea, the ideal weight for women is 50kg", a standard she called impossible. Korean women's rights groups have also criticised clothing companies for stocking a narrow size range and using unrealistically thin mannequins (The Korea Herald). For more background, read our guide to [Korean beauty standards and K-beauty culture](/culture/korean-beauty-standards).
+
+## Style and Shopping Tips for Curvy Travellers in Seoul
+
+![Hongdae's shopping streets, Seoul](/images/blogs/top-korean-plus-sized-models-in-2025/hongdae-shopping-street-seoul.jpg)
+
+Hongdae's shopping streets, Seoul. Photo: lumoplank via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Korean sizing runs small, and street-fashion shops often sell "free size" (one-size) pieces cut for slim frames. Bring the basics you rely on, especially underwear and swimwear. For extended sizes, Korean plus-size labels such as 66100 sell online.
+
+For browsing and street style, [Hongdae](/south-korea/seoul/guides/streetwear-hongdae) is the best area for bold, individual looks, and the [Seoul guide](/south-korea/seoul) covers the rest of the city.
+
+![Dongdaemun Design Plaza (DDP), Seoul](/images/blogs/top-korean-plus-sized-models-in-2025/korean-plus-size-models-2026-ddp-seoul.jpg)
+
+Dongdaemun Design Plaza (DDP), Seoul. Photo: lumoplank via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2369.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Dongdaemun Design Plaza (DDP), Seoul's futuristic design landmark, sits next to the Dongdaemun fashion district's malls and is worth seeing at night.
+
+## Korean Plus-Size Models FAQ
+
+### Who was Korea's first plus-size model?
+
+Kim Ji-yang (Gee-yang Kim) is widely described as Korea's first plus-size model. She debuted at Full Figured Fashion Week in Los Angeles in 2010 and founded 66100, Korea's first plus-size fashion magazine, in 2014.
+
+### What size is considered plus-size in Korea?
+
+Much smaller than in the West. A Korean women's 66 is roughly a US 6, and Maxim Korea's plus-size contest accepts entrants who wear a 66 or above.
+
+### Who won the Maxim Korea plus-size model contest?
+
+Ssunbiki won the first edition (called the Natural Size Model Contest) in 2021, Ah Seung-yeon won in 2022, and Jang Ye-na won in 2023.
+
+### Is Hwasa a plus-size model?
+
+No. Hwasa is a singer, but she's Korea's best-known champion of curves and body confidence, through songs like "I Love My Body" and Comfort Lab's 2026 "I love my curve" campaign.
+
+### Is there a plus-size modelling agency in Korea?
+
+Yes. The Curve Korea describes itself as Korea's first size-diversity modelling agency. The Korea Model Association also has a plus-size division.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each was resized and, where needed, cropped or padded to a 16:9 frame.
+
+- Hero and in-article image (Dongdaemun Design Plaza, Seoul): lumoplank, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2369.jpg)
+- Ssunbiki at the 2021 Maxim Natural Size Model Contest: 머길, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:%EC%8D%AC%EB%B9%84%ED%82%A4_%EB%A7%A5%EC%8B%AC_%EB%82%B4%EC%B6%94%EB%9F%B4%EC%82%AC%EC%9D%B4%EC%A6%88_%EB%AA%A8%EB%8D%B8_%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8.jpg)
+- Ssunbiki on the contest runway, 2021: 머길, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [source](https://commons.wikimedia.org/wiki/File:Ssunbiki_full_body_view.jpg)
+- Hwasa in January 2026: TV10, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hwasa_in_January_2026.png)
+- Hongdae's shopping streets, Seoul: lumoplank, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg)`,
+    tags: ["Culture", "Models", "Fashion", "Body Positivity", "Seoul"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-04",
     contentType: "travel-tip",
   },
 ];
