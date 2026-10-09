@@ -1540,13 +1540,196 @@ Photos are from Wikimedia Commons under Creative Commons licences. Each was resi
     contentType: "travel-tip",
   },
   {
+    slug: "the-best-craft-beer-bars-in-gangnam",
+    title: "The Best Craft Beer Bars in Gangnam (2026 Guide)",
+    image: "/images/blogs/the-best-craft-beer-bars-in-gangnam/yeoksam-street-night.jpg",
+    canonicalPath: "/the-best-craft-beer-bars-in-gangnam",
+    metaTitle: "Best Craft Beer Bars in Gangnam 2026: 8 Taprooms & Brewpubs",
+    metaDescription:
+      "Where to drink craft beer in Gangnam, Seoul in 2026: Artmonster, Goose Island Brewhouse, Nakta Brewing, Pongdang, Beer Room and more, with stations, prices and a pub-crawl route.",
+    summary:
+      "A 2026 guide to the best craft beer bars, taprooms and brewpubs in Gangnam, from Artmonster's self-pour taps and Goose Island's rooftop brewhouse near Gangnam Station to Pongdang in Sinsa and Pizza Hip in Apgujeong, with prices, opening hours and a walking route.",
+    content: `**Quick summary:** Gangnam isn't where Seoul's craft beer scene started (that was Itaewon), but it's now one of the easiest places in the city to drink it well. The best spots cluster in three pockets: the back streets around **Gangnam Station and Yeoksam**, **Sinsa and Garosu-gil**, and **Apgujeong Rodeo and Gangnam-gu Office**. This guide picks eight places that were open in 2026, tells you what each is good for, and gives you a route that links them.
+
+Opening hours and prices below come from the venues' own listings and recent 2025–26 visitor reports. Korean bars change hours often, so check Naver Map on the day before you make a special trip.
+
+## The Best Gangnam Craft Beer Bars at a Glance
+
+| Bar | Area | Nearest station | Best for |
+| --- | --- | --- | --- |
+| Artmonster Gangnam | Gangnam Station (Yeoksam-dong) | Gangnam, Line 2 / Sinbundang | Award-winning house beers you pour yourself |
+| Goose Island Brewhouse | Yeoksam-ro | Gangnam (Exit 4) or Sinnonhyeon | Big groups, rooftop, Chicago food |
+| Nakta Brewing | Gangnam Station north side | Gangnam or Sinnonhyeon | Cheap house lager and pizza |
+| Beer Room | Gangnam Station (Exit 11 side) | Gangnam | Timed unlimited-drinks passes |
+| Pongdang Craft Beer | Sinsa-dong | Sinsa, Line 3 | Relaxed pints near Garosu-gil |
+| Pizza Hip | Apgujeong Rodeo | Apgujeongrodeo, Suin-Bundang | Craft beer with Detroit-style pizza |
+| Goose Island Taproom | Gangnam-gu Office | Gangnam-gu Office, Line 7 / Suin-Bundang | A quieter Goose Island tap list |
+| Neurin Maeul Brewery & Pub | Gangnam Station (Seocho side) | Gangnam | Fresh makgeolli instead of beer |
+
+## Gangnam Station and Yeoksam: The Densest Beer Block
+
+![Bars and restaurants lit up on a side street in Yeoksam-dong, Gangnam](/images/blogs/the-best-craft-beer-bars-in-gangnam/yeoksam-street-night.jpg)
+
+Most of Gangnam's craft beer sits within a 10-minute walk of Gangnam Station, in the grid of side streets either side of Gangnam-daero. Exits 10 and 11 put you on the Yeoksam-dong (Gangnam-gu) side; the exits on the far side of Gangnam-daero lead into Seocho-gu. You can easily do three bars here without taking a taxi.
+
+### 1. Artmonster Gangnam (아트몬스터 강남역점)
+
+Artmonster is one of Korea's best-known craft breweries, and its beers have won international competition medals, which the menu proudly lists. The Gangnam Station branch is styled after the neon back streets of Hong Kong's SoHo, and it runs a **self-pour system**: you get a wristband, pour from the tap wall yourself and pay by the 10 ml, so you can try a little of everything. Look for the Vienna lager *Cheongdam-dong Myeoneuri*, the peanut-butter porter and the hazy IPA.
+
+- **Address:** 28-3 Teheran-ro 1-gil, Gangnam-gu
+- **Hours (2025–26 listings):** about 5 PM–1 AM on weekdays, from 3 PM at weekends, earlier close on Sundays
+- **Tip:** Fridays and Saturdays get busy, so arrive before 7 PM. Artmonster also has a branch near Samseong Station and a hanok taproom in Ikseon-dong.
+
+### 2. Goose Island Brewhouse (구스아일랜드 브루하우스)
+
+The Seoul outpost of Chicago's Goose Island is a big brewhouse with two indoor floors and a rooftop on Yeoksam-ro. It brews on site and pours a long list, from a Fibonacci lager and All That Pils to Goose IPA and a coconut stout, alongside Chicago deep-dish pizza, wings and BBQ platters. A visitor's August 2025 menu showed pints at roughly **₩7,500–11,000**, with four-can takeaway packs.
+
+- **Address:** 118 Yeoksam-ro, Gangnam-gu (about 6 minutes from Gangnam Station Exit 4, or 7 from Sinnonhyeon Exit 5)
+- **Hours:** Mon–Sat 11:30 AM–midnight (last order 11 PM), Sun 11:30 AM–11 PM; closed over Seollal and Chuseok
+- **Tip:** Naver reservations take groups of three or more, but not same-day bookings. The rooftop has a shorter food menu, so eat on the lower floors.
+
+### 3. Nakta Brewing (낙타브루잉 강남본점)
+
+Nakta ("camel") Brewing's flagship is a basement pizza-and-beer pub between Gangnam and Sinnonhyeon stations. Its house lager is one of the cheaper craft pints in the area (listed at ₩6,500, with an unlimited lager option), and the tap list adds a peach ale and hoppy lager plus guest beers from other Korean brewers such as Hand & Malt. It's loud and casual, which makes it popular for after-work groups and big football matches.
+
+- **Address:** B1, 14 Gangnam-daero 106-gil, Gangnam-gu
+- **Hours:** listed as 3 PM–2 AM daily; confirm on the day
+- **Tip:** It's a basement room where noise carries, so pick it for a lively night rather than a quiet chat.
+
+### 4. Beer Room (비어룸)
+
+Beer Room is a two-storey pub a few minutes from Gangnam Station Exit 11 with a wall of taps and **timed unlimited-drinks passes**. A recent Korean visitor post listed 1 hour for ₩15,000 and 3 hours for ₩30,000 covering craft beer, wine and highballs, and you can still order by the glass. The wood-fired pizza and fried chicken skin get good reviews.
+
+- **Address:** 22 Gangnam-daero 98-gil, Gangnam-gu
+- **Hours:** about 11:30 AM–11:30 PM; reports disagree on which days it closes (Sun–Mon or Mon–Tue), so check before you go
+- **Tip:** Unlimited passes are the best value for a long group session. If you only want two drinks, order by the glass.
+
+### Bonus: Neurin Maeul Brewery & Pub (느린마을양조장 강남점)
+
+Not a beer bar at all, but worth knowing: Neurin Maeul is a brewpub for **fresh makgeolli** (Korean rice wine) on the Seocho side of Gangnam Station, with Korean anju (drinking food) to match. It's a good second stop if your group wants something more Korean than an IPA.
+
+- **Address:** B1, Usong Building, 7 Seocho-daero 73-gil, Seocho-gu
+- **Hours:** about 4 PM–11 PM
+
+## Sinsa and Garosu-gil: Pints After Shopping
+
+![Garosu-gil, the tree-lined shopping street in Sinsa-dong, at night](/images/blogs/the-best-craft-beer-bars-in-gangnam/garosu-gil-night.jpg)
+
+Sinsa-dong, home of the Garosu-gil shopping street, is calmer than Gangnam Station and better for a couple of relaxed pints after dinner.
+
+### 5. Pongdang Craft Beer (퐁당 크래프트 비어)
+
+Pongdang is a walk-in neighbourhood pub that pours a short list of its own beers, usually approachable styles like a pilsner and a pale ale, plus imports. It's part of the same family as Sour Pongdang in Itaewon, which has been described as the first bar in Asia to specialise in sour beers. Come here for an easy after-work drink rather than a big tap wall.
+
+- **Area:** Sinsa-dong, near Sinsa Station (Line 3) and Garosu-gil
+- **Hours:** from about 5 PM, later at weekends
+- **Tip:** Pair it with dinner on Garosu-gil, then walk on to Apgujeong if you want a second bar.
+
+## Apgujeong Rodeo and Gangnam-gu Office: Beer and Food
+
+The streets around Apgujeong Rodeo and Gangnam-gu Office stations are where Gangnam's fashion crowd eats out, and two good beer stops sit within walking distance of each other.
+
+### 6. Pizza Hip Apgujeong (피자힙 압구정점)
+
+Pizza Hip is a lively pub serving craft beer with Detroit-style square pizza, and its signature pie is topped with 24-hour sous-vide beef short rib (*udae galbi*). Everyone needs to order at least one drink.
+
+- **Address:** 23 Seolleung-ro 157-gil, Gangnam-gu (about 4 minutes from Apgujeongrodeo Station)
+- **Hours:** Sun–Thu 11:30 AM–11 PM, Fri–Sat 11:30 AM–1 AM, with a break from 3 PM to 5 PM
+
+### 7. Goose Island Taproom, Gangnam-gu Office (구스 아일랜드 탭룸 강남구청역점)
+
+This smaller Goose Island taproom opened in 2025 near Gangnam-gu Office Station. It pours the same core beers as the Yeoksam brewhouse (All That Pils, Duck Duck Goose session IPA, Fibonacci lager and Black Hole stout, with an optional cinnamon topping) in a quieter room, and the buffalo wings come with a choice of ten sauces.
+
+- **Address:** 1F, 9-4 Seolleung-ro 129-gil, Gangnam-gu
+- **Tip:** It takes Naver reservations, which helps if you're a group.
+
+## Is There Real Craft Beer in Gangnam?
+
+![Oak barrels at Budnamu Brewery in Gangneung, one of Korea's best-known craft breweries](/images/blogs/the-best-craft-beer-bars-in-gangnam/budnamu-brewery-korea.jpg)
+
+Yes, but it helps to know the history. Korean beer was dominated by big lagers like Cass, Hite and Terra until rule changes in the 2010s made it practical for small brewers to sell their beer. The first wave of taprooms opened in Itaewon and Noksapyeong, which is still the scene's heartland. Gangnam's beer bars came later and lean towards big, comfortable rooms with serious food, which suits office crowds and groups.
+
+If you want to visit the breweries themselves, from Seoul taprooms to Busan and Gangneung, read our guide to the [best craft breweries in South Korea](/breweries-in-south-korea).
+
+## A Gangnam Craft Beer Crawl
+
+![Gangnam Station's central bus lane at night in October 2025](/images/blogs/the-best-craft-beer-bars-in-gangnam/gangnam-station-night-2025.jpg)
+
+You can do this route on foot in one evening:
+
+1. **6 PM: Artmonster Gangnam.** Start early to get a seat and try small pours from the self-serve wall.
+2. **7:30 PM: Beer Room or Nakta Brewing.** Both are a few minutes' walk away. Pick Beer Room if your group wants an unlimited pass, or Nakta for cheap lager and pizza.
+3. **9 PM: Goose Island Brewhouse.** Finish on the rooftop or with a stout on the lower floors.
+
+On a quieter night, take Line 3 to Sinsa for Pongdang, then walk or take a short taxi ride to Apgujeong Rodeo for Pizza Hip.
+
+## Prices, Rules and Safety
+
+![Korean fried chicken with a glass of beer](/images/blogs/the-best-craft-beer-bars-in-gangnam/korean-fried-chicken-chimaek.jpg)
+
+- **Prices:** expect roughly ₩6,500–11,000 for a craft pint in Gangnam, with unlimited passes from about ₩15,000 an hour. That's more than a convenience-store can, but cheaper than most London or New York taprooms.
+- **Food:** Korean bars expect you to eat. *Chimaek* (fried chicken and beer) is the classic pairing, and most taprooms here serve pizza too.
+- **Drinking age:** 19, counted by birth year, so you can legally drink from 1 January of the year you turn 19. Bring your passport, because bars do check ID.
+- **Getting home:** the subway stops running around midnight. After that, use Kakao T for a taxi, and expect surge pricing and queues around Gangnam Station after 1 AM.
+- **Avoid hostess bars:** some Gangnam bars, often called "room salons", charge for hosts, cover and bottle service. Bills can run into hundreds of thousands of won, and you can be pressured into spending more. Every bar in this guide is an ordinary pub where you pay for what you drink.
+- **Watch your drink:** Gangnam has had drink-spiking cases in its club areas. Keep your glass with you, and stick to bars like these where you order at the counter or on a QR menu.
+
+## More Gangnam and Seoul Nightlife
+
+![Teheran-ro at the Yeongdong-daero crossing, Gangnam's business spine, at dusk](/images/blogs/the-best-craft-beer-bars-in-gangnam/teheran-ro-gangnam.jpg)
+
+- [Gangnam bars](/south-korea/seoul/gangnam/category/bars): every Gangnam bar we list, including cocktail speakeasies.
+- [Gangnam restaurants](/south-korea/seoul/gangnam/category/restaurants), for dinner before you drink.
+- [Itaewon bars](/south-korea/seoul/itaewon/category/bars), home of Magpie Brewing and The Booth, where Seoul's craft beer began.
+- [Hongdae bars](/south-korea/seoul/hongdae/category/bars), Seoul's student nightlife hub.
+- [Seoul nightlife](/south-korea/seoul/category/nightlife), the full city round-up.
+- [Korean drinking culture](/culture/korean-drinking-culture), from soju etiquette to drinking games.
+
+## Gangnam Craft Beer FAQ
+
+### What is the best craft beer bar in Gangnam?
+
+For beer quality and choice, Artmonster near Gangnam Station is the pick, because you can pour small tasters of its award-winning range. For a big group with food, go to Goose Island Brewhouse. For a relaxed neighbourhood pint, go to Pongdang in Sinsa.
+
+### Where is the craft beer area in Gangnam?
+
+Most bars are in the side streets around Gangnam Station (Exits 10 and 11) and Yeoksam-ro. Smaller clusters are in Sinsa-dong near Garosu-gil and around Apgujeong Rodeo and Gangnam-gu Office stations.
+
+### How much is a craft beer in Gangnam?
+
+Roughly ₩6,500–11,000 a pint in 2025–26. Beer Room's unlimited passes were about ₩15,000 for an hour and ₩30,000 for three.
+
+### Are Gangnam craft beer bars open late?
+
+Most close between 11 PM and 2 AM. Nakta Brewing has been listed as open until 2 AM, and Artmonster until 1 AM on Fridays and Saturdays.
+
+### Is Gangnam or Itaewon better for craft beer?
+
+Itaewon has the pioneering breweries and a more international crowd. Gangnam has bigger, newer rooms with better food. If you're staying south of the river, Gangnam is easier.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences, cropped to a 16:9 frame.
+
+- Hero (street in Yeoksam-dong, Gangnam-gu, at night): Christophe95, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Street_in_Yeoksam-dong,_Gangnam-gu.jpg)
+- Garosu-gil at night: sellyourseoul, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:Garosu-gil_at_night.jpg)
+- Budnamu Brewery, Gangneung (August 2022): Korean Culture and Information Service (Republic of Korea), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Budnamu_Brewery_03.jpg)
+- Gangnam Station bus lane at night (October 2025): *Youngjin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Night_view_at_Gangnam_station_bus_stop_20251024.jpg)
+- Korean fried chicken with beer: KOREA.NET, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Iksan_City_48_Korean_Style_Fried_chicken.jpg)
+- Teheran-ro at Yeongdong-daero: kallerna, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Teheran-ro_Yeongdong-daero_crossing_6.jpg)`,
+    tags: ["Nightlife", "Craft Beer", "Gangnam", "Seoul", "Food & Drink"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-09",
+    contentType: "travel-tip",
+  },
+  {
     slug: "breweries-in-south-korea",
     title: "Best Craft Breweries in South Korea to Visit",
     image: "/images/blogs/breweries/defne-kucukmustafa-wYDUZux2wE8-unsplash.jpg",
     canonicalPath: "/breweries-in-south-korea",
     summary:
       "From Seoul taprooms to Busan's coastal brewpubs and Jeju farmhouse ales — a guide to South Korea's best craft breweries, the beers to try, and the culture behind the pour.",
-    content: `**Quick summary:** South Korea's craft beer scene has exploded since 2014. From pioneering Seoul taprooms to coastal breweries in Busan and farm-to-glass operations on Jeju, this guide covers the best craft breweries in South Korea, the beers worth seeking out, and the food and culture that surround the pour.
+    content: `**Quick summary:** South Korea's craft beer scene has exploded since 2014. From pioneering Seoul taprooms to coastal breweries in Busan and farm-to-glass operations on Jeju, this guide covers the best craft breweries in South Korea, the beers worth seeking out, and the food and culture that surround the pour. Staying south of the river? See our guide to the [best craft beer bars in Gangnam](/the-best-craft-beer-bars-in-gangnam).
 
 ## Exploring South Korea's Vibrant Craft Beer Scene
 
