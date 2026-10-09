@@ -29,7 +29,7 @@ export const films: Film[] = [
     relatedCitySlugs: ["seoul"],
   }),
   film("train-to-busan", {
-    imdbId: "tt2582496",
+    imdbId: "tt5700672",
     title: "Train to Busan",
     year: 2016,
     directorSlug: "yeon-sang-ho",
