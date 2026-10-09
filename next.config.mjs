@@ -23,6 +23,7 @@ const nextConfig = {
       { source: "/navigate-seoul-the-ultimate-mrt-map-guide", destination: "/travel-tips/seoul-subway-guide", permanent: true },
       { source: "/the-evolution-of-k-pop-a-journey-through-time", destination: "/travel-tips/k-pop-history", permanent: true },
       { source: "/10-most-handsome-kpop-male-idols-2025", destination: "/travel-tips/k-pop-male-idols", permanent: true },
+      { source: "/travel-tips/most-beautiful-korean-actresses", destination: "/most-beautiful-korean-actresses", permanent: true },
       { source: "/where-to-shop-for-streetwear-in-hongdae", destination: "/south-korea/seoul/guides/streetwear-hongdae", permanent: true },
       { source: "/south-korea/seoul/guides/pc-bang-gaming-seoul", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
       { source: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
@@ -68,6 +69,10 @@ const nextConfig = {
       {
         source: "/what-is-maeshilju",
         destination: "/travel-tips/what-is-maeshilju",
+      },
+      {
+        source: "/most-beautiful-korean-actresses",
+        destination: "/travel-tips/most-beautiful-korean-actresses",
       },
       {
         source: "/how-bad-is-air-quality-in-south-korea",
