@@ -2659,6 +2659,195 @@ Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each w
     updatedDate: "2026-10-04",
     contentType: "travel-tip",
   },
+  {
+    slug: "best-korean-beers",
+    title: "Best Korean Beers (2026): Cass, Terra, Kelly, Craft Cans and How to Drink Them",
+    image: "/images/blogs/best-korean-beers/ob-hite-cass-korean-beers.jpg",
+    canonicalPath: "/best-korean-beers",
+    metaTitle: "Best Korean Beers 2026: Cass, Terra, Kelly & Craft Cans",
+    metaDescription:
+      "The best Korean beers in 2026: how Cass, Terra, Kelly and Hite taste, craft cans at CU and GS25, somaek and chimaek, beer prices, and where to drink better.",
+    summary:
+      "A 2026 guide to Korean beer: the big lagers (Cass, Terra, Kelly, Hite, Hanmac, Kloud) and how they taste, the craft and imported cans in Korean convenience stores, somaek and chimaek, etiquette, a 2026 price table and where to drink better Korean beer.",
+    content: `Ask for a beer in Korea and you'll almost always get a cold, pale, fizzy lager: Cass, Terra, Hite or Kelly, poured into small glasses and drunk alongside fried chicken, grilled pork or a shot of soju. That lager is the everyday Korean beer, and it's worth knowing the brands, because they're on every table and every convenience-store shelf. Behind them is a smaller and more interesting scene: craft cans from Seoul and Busan brewers, imported beers that are back in favour, and taprooms where you can drink Korean pale ales, sours and rice lagers.
+
+This 2026 guide covers the big Korean beer brands and how they taste, the craft and imported cans in CU, GS25 and 7-Eleven, somaek and chimaek, what beer costs now, and where to drink something better. For places to visit, see our [guide to the best craft breweries in South Korea](/breweries-in-south-korea); this page is about the beers.
+
+![Bottles of OB, Hite and Cass beer at a Korean restaurant table](/images/blogs/best-korean-beers/ob-hite-cass-korean-beers.jpg)
+
+## Korean Beers at a Glance (2026)
+
+| Beer | Brewer | Style (ABV) | Best for | Where to find it |
+| --- | --- | --- | --- | --- |
+| Cass Fresh | OB (AB InBev) | Light pale lager (4.5%) | Somaek, chimaek, any Korean barbecue | Everywhere: restaurants, hofs, every convenience store |
+| Cass Light | OB | Low-calorie lager (4.0%) | Long nights, lighter drinking | Convenience stores, many restaurants |
+| Terra | HiteJinro | Crisp, very fizzy lager (4.6%) | "Tesla" somaek with Chamisul soju | Restaurants, pochas, convenience stores |
+| Kelly | HiteJinro | All-malt lager, fuller body (4.5%) | Drinking on its own, grilled meat | Restaurants and convenience stores |
+| Hite | HiteJinro | Light, mild lager | Nostalgic hof nights, draft | Older hofs and restaurants, supermarkets |
+| Hanmac | OB | Rice lager, smooth (4.6%) | Korean food, people who find Cass too thin | Convenience stores, some restaurants |
+| Kloud / Krush | Lotte Chilsung | All-malt lagers (5% / 4.5%) | A maltier alternative to Cass | Convenience stores, selected restaurants |
+| Korean craft cans | Seoul Brewery, Jeju (Hanul & Jeju), Busan brewers and others | Pale ales, IPAs, wheat beers, rice lagers | Trying local styles cheaply | CU and GS25 craft shelves, bottle shops |
+| Imports | Asahi, Heineken, Guinness and others | Mostly lagers, plus stout | A familiar taste, Japanese draft cans | Every convenience store, Western pubs |
+
+ABVs are the brewers' published figures for the standard versions. Recipes and labels change, so check the can.
+
+## The Big Korean Lagers
+
+Korea's beer market is essentially two companies. Oriental Brewery (OB), owned by AB InBev, makes Cass, Hanmac and OB. HiteJinro makes Terra, Kelly and Hite, plus Chamisul soju. Lotte Chilsung makes Kloud and Krush but has a small share. According to drinks analysts IWSR, AB InBev passed 50% of the Korean beer market in 2024, and Cass alone accounted for almost half of all beer sold in the country.
+
+Korean lagers have a reputation for being thin, and it's partly deserved: they're made to be drunk very cold and quickly with salty, spicy food, not sipped. Taken that way they do the job well. Here's how they differ.
+
+### Cass: the beer on every table
+
+Cass is the default Korean beer, and has been the number one brand since 2012. In a Gallup Korea survey in spring 2024, 52% of beer drinkers named it their favourite, three times as many as the next brand. Cass Fresh is a pale, light-bodied lager at 4.5%, with a clean, slightly sweet taste, little bitterness and a lot of fizz. It's the beer most restaurants pour by default, the beer in most somaek and the beer that comes with fried chicken.
+
+Cass launched in 1994, and OB bought the brand from Jinro-Coors in 1999 before taking it past Hite. Cass Light, a 4.0% low-calorie version renewed in 2024, is now the third best-selling Korean beer, and Cass 0.0 is a non-alcoholic version.
+
+### Terra: the green bottle
+
+HiteJinro launched Terra in March 2019 to win back drinkers from Cass, and it worked for a while. It comes in a green bottle, is 4.6%, and tastes sharper and fizzier than Cass, with a drier finish. HiteJinro originally marketed it on its Australian malt. Terra is also the beer in "Tesla", the nickname for somaek made with Terra and Chamisul soju (Te + seul + ra). It's Korea's second most popular beer, at around 10% of home sales in 2025.
+
+![Packs of Terra beer on sale in a Korean supermarket](/images/blogs/best-korean-beers/terra-beer-supermarket.jpg)
+
+### Kelly: the all-malt lager
+
+Kelly arrived in April 2023 as HiteJinro's more premium everyday lager: 100% Danish malt, matured twice, in an amber bottle. At 4.5% it has a rounder, slightly sweeter body than Cass or Terra and tastes the most like a European lager. If you only try one beer besides Cass, make it Kelly.
+
+### Hite: the old favourite
+
+Hite was launched in 1993 and was the country's top beer until Cass overtook it in the early 2010s. Today it's a light, mild lager with falling sales. You'll still find it on draft in older hofs (beer halls) and on supermarket shelves, and 10% of drinkers named it their favourite in 2024. Many older drinkers also still ask for OB, OB's original lager label.
+
+![A bottle of Hite poured into a glass](/images/blogs/best-korean-beers/hite-beer-bottle-and-glass.jpg)
+
+### Hanmac, Kloud and Krush
+
+**Hanmac** is OB's premium rice lager, launched in 2021 with 100% Korean rice. It's smooth and a little fuller than Cass, and is a good choice with Korean food. **Kloud**, launched by Lotte in 2014, is an all-malt 5% lager brewed by the "original gravity" method, meaning the beer isn't diluted with water after fermentation. It's noticeably maltier than Cass. **Krush**, Lotte's newer 4.5% all-malt pale lager (2023), comes in a clear, shoulderless bottle and is aimed at younger drinkers.
+
+You may also see **Filite** in the beer fridge. It's cheap and tastes like beer, but it's HiteJinro's low-malt "beer-like" sparkling drink, taxed and priced below standard beer. HiteJinro also makes **Hite Zero 0.00**, a 0.00% non-alcoholic beer-flavoured drink.
+
+## Korean Craft Beer Cans in Convenience Stores
+
+From around 2020, Korean convenience stores were flooded with craft cans. The biggest hit was Gompyo Wheat Beer, a CU exclusive with a bear-logo flour brand on the can, which sold about 60 million cans and was the best-selling beer at CU in 2021. The boom didn't last. Drinkers moved to highballs and whisky from 2022, and "4 cans for ₩10,000" discounting wore the category down. In 2026 several craft brewers have gone under: Amazing Brewing Company was declared bankrupt in April 2026, and Daehan Flour Mills is leaving beer, so Gompyo is being discontinued once current stock runs out. The original Sevenbrau recipe lives on as Daepyo Wheat Beer.
+
+What's on the shelf in 2026 is fewer, better cans. Convenience stores are now working with brewers that beer fans actually seek out:
+
+- At **CU**: collaborations with Seoul Brewery, the Seongsu and Hapjeong brewpub. These include Seoul California Common (5.3%, piney and herbal) and a Korean Rice Lager (4.7%), released in 2026. CU also carries a Mikkeller collaboration.
+- At **GS25**: Hitachino Nest collaborations from Japan, and two cans from Original Beer Company (OBC), a premium Korean brand that used to sell only in large bottles.
+- From Jeju: **Jeju Wit Ale**, the citrusy wheat beer from Jeju Beer (renamed Hanul & Jeju in 2025), has been a convenience-store regular for years.
+- From Busan: cans from **Gorilla Brewing** have also been popular with beer fans.
+
+Expect to pay ₩4,500 to ₩6,300 a can for the brewery collaborations, more than the old ₩10,000-for-4 deals. Stock varies by branch. CU's Pocket CU app shows which stores have a can and lets you reserve it for pickup.
+
+One thing worth knowing: "craft" doesn't always mean independent. OB has owned Seoul's The Hand & Malt brewery since 2018, and Goose Island, which runs two taprooms in Gangnam, is also part of AB InBev.
+
+## Imported Beers You'll See
+
+Imports sell less than they did in the late 2010s, but they're in every fridge. **Asahi** has bounced back from the 2019 boycott of Japanese goods: its Super Dry "draft can", whose whole lid peels off so the beer foams up, made it the best-selling imported beer in home retail in the first half of 2025. **Heineken** and **Budweiser** are everywhere, **Tsingtao** has lost sales since 2023, and **Guinness** is easy to find in cans and on draft in Itaewon's pubs.
+
+## How Koreans Drink Beer
+
+Beer in Korea is usually drunk in groups and almost always with food (anju). A few habits make a night out easier to read.
+
+### Somaek: soju and beer
+
+Somaek (소맥) is soju mixed into beer, from **so**ju and **maek**ju (beer). It's the default way to drink at many Korean dinners and work nights. There's no fixed recipe, but three parts soju to seven parts beer is the usual suggestion. People pour the soju into a shot glass, tip it into a small glass of beer, and sometimes tap the bottom with a spoon or chopstick to make it fizz. The mix has a nickname depending on the brands: "Tesla" for Terra and Chamisul, and "Cass-cheoreom" for Cass and Chum Churum soju. Somaek is stronger than it tastes, so pace yourself.
+
+![A glass of somaek, soju mixed into beer](/images/blogs/best-korean-beers/somaek-soju-and-beer.jpg)
+
+### Chimaek: fried chicken and beer
+
+Chimaek (치맥) is Korean fried chicken with beer, usually Cass or Terra, sometimes by the pitcher. It's a national habit, especially during big football matches, and became a craze around the 2002 World Cup. You can order it in chicken restaurants and hofs, have it delivered to a Han River park, or go to the source: the **Daegu Chimac Festival** at Duryu Park, held each July (1 to 5 July in 2026). A citrusy craft IPA also works well against the grease. The [craft breweries guide](/breweries-in-south-korea) has more on pairing.
+
+![Korean fried chicken with a glass of beer](/images/blogs/best-korean-beers/chimaek-fried-chicken-and-beer.jpg)
+
+![Crowds at the Daegu Chimac Festival at night](/images/blogs/best-korean-beers/daegu-chimac-festival.jpg)
+
+### Etiquette basics
+
+- Pour for others, not yourself, and keep an eye on empty glasses.
+- Hold your glass with two hands (or one hand supporting the other wrist) when someone older pours for you.
+- Turning slightly away from an older person when you drink is polite, but no one expects visitors to get this perfect.
+- Say "geonbae!" (건배) to toast. "One shot!" means finish the glass.
+
+For more on the rules and rituals, read our guides to [Korean drinking culture](/culture/korean-drinking-culture) and [Korean nightlife culture](/culture/korean-nightlife-culture).
+
+Useful words: **maekju** (맥주) is beer, **saengmaekju** (생맥주) is draft, a **hof** (호프) is a casual beer hall, and **pyeonmaek** (편맥) is a beer at a convenience-store table.
+
+## Convenience-Store and Han River Drinking
+
+A lot of Korean beer is drunk at convenience stores. Most CU, GS25, 7-Eleven and Emart24 branches have a wall of beer fridges, multi-buy deals, and often plastic tables outside to sit at with a can and snacks. In summer, people take beer and chicken to the Han River parks such as Yeouido, and chicken delivery to the parks is common.
+
+![Yeouido Hangang Park on the Han River in Seoul](/images/blogs/best-korean-beers/yeouido-hangang-park.jpg)
+
+Drinking in public is generally legal in Korea, including in the Hangang parks. Seoul's ordinance lets the city mark specific parks or areas as no-drinking zones with signs, and drunken or disruptive behaviour can be fined, so look for signs, keep the noise down and take your cans with you. Our [cheapest drinks in Itaewon guide](/where-to-find-the-cheapest-drinks-in-itaewon) has more on convenience-store drinking and multi-buy prices.
+
+## How Much Does Beer Cost in Korea? (2026)
+
+| What | About (2026) | Notes |
+| --- | --- | --- |
+| Cass can (355ml), convenience store | ₩2,500 | CU and GS25 shelf price after OB's April 2025 increase |
+| Cass bottle (500ml), convenience store | ₩2,500 | 640ml bottle about ₩3,100 |
+| Multi-buy cans, convenience store | 4 for ₩8,000 to ₩12,000 | Deals change monthly by chain |
+| Craft collaboration can (500ml) | ₩4,500 to ₩6,300 | CU and GS25 brewery collaborations, 2026 |
+| Bottle of beer in a Seoul restaurant | ₩5,000 to ₩8,000 | Usually ₩5,000 to ₩6,000; more in Gangnam |
+| Draft lager at a pocha or pub | about ₩6,000 | Itaewon pocha and pub menus |
+| Craft beer pint at a taproom | ₩7,500 to ₩10,000 | Itaewon and Gangnam taprooms |
+| Imported pint (e.g. Guinness) | about ₩13,000 | Itaewon pub menu |
+
+Prices are approximate and change with promotions and brewery price rises. HiteJinro raised Terra and Kelly prices by an average of 2.7% in May 2025. A soju-and-beer somaek set in a restaurant now usually costs over ₩10,000.
+
+## Where to Drink Better Korean Beer
+
+When you're ready to move past the lager, these are the places to go:
+
+- Brewery visits: our [guide to the best craft breweries in South Korea](/breweries-in-south-korea) covers Magpie, The Booth, Seoul Brewery, Gorilla, Wild Wave, Budnamu and more, from Seoul to Busan, Gangneung and Jeju.
+- Gangnam taprooms: [The best craft beer bars in Gangnam](/the-best-craft-beer-bars-in-gangnam) covers seven bars near Gangnam Station, Sinsa and Apgujeong, from Goose Island's brewhouse to Korean-owned taprooms.
+- Itaewon and Gyeongnidan: this is where Korean craft beer started. Try [Magpie Brewshop](/south-korea/seoul/venues/magpie-brewshop-itaewon) for sours and saisons and [The Booth Gyeongnidan](/south-korea/seoul/venues/the-booth-gyeongnidan) for pizza and pale ale, or follow the budget route in the [cheapest drinks in Itaewon guide](/where-to-find-the-cheapest-drinks-in-itaewon).
+- Seongsu: [Seoul Brewery Seongsu](/south-korea/seoul/venues/seoul-brewery-seongsu), on Yeonmujang-gil, is a vertical brewery with a beer pub on the first two floors and a rooftop. It's the brewer behind CU's 2026 cans and runs bookable tours.
+- Euljiro: for old-school draft and dried pollack, [Mansson Hof Nogari](/south-korea/seoul/venues/euljiro-nogari-hof) is the classic Euljiro "nogari alley" experience. For rotating taps, try [Ggeek Beer Company](/south-korea/seoul/venues/ggeek-beer-dongdaemun) near DDP.
+- Busan: [Galmegi Brewing](/south-korea/busan/venues/galmegi-haeundae) and [Gorilla Brewing](/south-korea/busan/venues/gorilla-brewing-haeundae) both have taprooms near Haeundae Beach.
+
+If beer isn't your thing, Korea's traditional drinks are worth a try too: see our guides to [sansachun](/travel-tips/sansachun-drink-guide) and [maesil-ju plum wine](/what-is-maeshilju).
+
+## Korean Beer FAQ
+
+### What is the most popular beer in Korea?
+Cass, made by OB. It has been Korea's best-selling beer since 2012, and in 2024 it accounted for nearly half of all beer sold in the country. Terra is second.
+
+### Is Korean beer good?
+The big lagers (Cass, Terra, Hite) are light and fizzy, made for drinking cold with food. For more flavour, try all-malt Kelly or Kloud, or a craft beer from Seoul Brewery, Magpie or a Busan brewery.
+
+### What's the difference between Cass and Terra?
+Both are light pale lagers. Cass (OB, 4.5%) is the softer, slightly sweeter one, while Terra (HiteJinro, 4.6%, green bottle) is sharper and fizzier with a drier finish. Cass with soju is "Cass-cheoreom", and Terra with Chamisul soju is "Tesla".
+
+### What is somaek?
+Soju mixed with beer, usually three parts soju to seven parts beer. It's stronger than it tastes.
+
+### How much is a beer in Korea?
+About ₩2,500 for a can or bottle of Cass in a convenience store, ₩5,000 to ₩8,000 for a bottle in a Seoul restaurant, about ₩6,000 for a draft at a pocha, and ₩7,500 to ₩10,000 for a craft pint.
+
+### Can you drink beer at the Han River?
+Yes. Drinking is generally allowed in Seoul's Hangang parks, and beer and fried chicken by the river is a summer tradition. Watch for any signed no-drinking areas, keep the noise down and take your rubbish with you.
+
+### What is the drinking age in Korea?
+19, counted from 1 January of the year you turn 19. Bars, clubs and convenience stores can ask for ID, so carry your passport or ARC.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons or KOGL licences. Each was resized for the web.
+
+- [OB, Hite and Cass](https://commons.wikimedia.org/wiki/File:OB_Hite_and_Cass.jpg): Bertrouf, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- [Terra beer in a Korean supermarket](https://commons.wikimedia.org/wiki/File:Terra_beer_korean_supermarket.jpg): Sgroey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Bottle of Hite poured into a glass](https://commons.wikimedia.org/wiki/File:Bottle_of_Hite_poured_into_a_glass.jpg): Tommi Nummelin, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- [Somaek](https://commons.wikimedia.org/wiki/File:Somaek.jpg): 은영쌤, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- [Korean-style fried chicken with beer](https://commons.wikimedia.org/wiki/File:Iksan_City_48_Korean_Style_Fried_chicken.jpg): KOREA.NET, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+- [Daegu Chimac Festival](https://commons.wikimedia.org/wiki/File:%EC%B9%98%EB%A7%A5%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg): Daegu Metropolitan City, [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do).
+- [Yeouido Hangang Park from Mapo Bridge](https://commons.wikimedia.org/wiki/File:Yeouido_Hangang_Park_from_Mapo_Bridge_1.jpg): kallerna, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).`,
+    tags: ["Beer", "Drinks", "Food", "Nightlife", "Seoul", "Culture"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-14",
+    contentType: "travel-tip",
+  },
 ];
 
 export const getTravelTipBySlug = (slug: string) => travelTips.find((t) => t.slug === slug);
