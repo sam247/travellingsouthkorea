@@ -35,6 +35,7 @@ const nextConfig = {
       { source: "/travel-tips/seoul-subway-cheat-sheet", destination: "/seoul-subway-a-cheat-sheet", permanent: true },
       { source: "/travel-tips/jeju-loveland", destination: "/jeju-loveland", permanent: true },
       { source: "/travel-tips/how-bad-is-air-quality-in-south-korea", destination: "/how-bad-is-air-quality-in-south-korea", permanent: true },
+      { source: "/travel-tips/best-korean-beers", destination: "/best-korean-beers", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
       { source: "/travel-tips/most-popular-korean-bikini-models-in-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
       { source: "/culture/most-popular-korean-bikini-models-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
@@ -69,6 +70,10 @@ const nextConfig = {
       {
         source: "/what-is-maeshilju",
         destination: "/travel-tips/what-is-maeshilju",
+      },
+      {
+        source: "/best-korean-beers",
+        destination: "/travel-tips/best-korean-beers",
       },
       {
         source: "/most-beautiful-korean-actresses",
