@@ -2001,6 +2001,224 @@ Photos are from Wikimedia Commons under Creative Commons licences. Each was resi
     contentType: "travel-tip",
   },
   {
+    slug: "dating-culture-among-korean-youth-apps-norms-and-trends",
+    title: "Dating Culture Among Korean Youth (2026): Apps, Norms and Trends",
+    image: "/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/couple-gyeongbokgung-traffic.jpg",
+    canonicalPath: "/dating-culture-among-korean-youth-apps-norms-and-trends",
+    metaTitle: "Korean Dating Culture 2026: Apps, Some, Sogaeting & Norms",
+    metaDescription:
+      "How young Koreans date in 2026: Tinder, Glam and Wippy, some and sogaeting, 100-day anniversaries, couple culture and practical tips for travellers.",
+    summary:
+      "A 2026 guide to Korean youth dating culture — which apps people use, what some and sogaeting mean, couple milestones like 100 days, and how travellers can date respectfully.",
+    content: `Dating culture among Korean youth in 2026 sits somewhere between K-drama romance and app fatigue. Young adults still celebrate 100-day anniversaries, wear couple items and treat KakaoTalk as a relationship thermometer — but many also report burnout with swipe apps, and more people are meeting through hobbies, friend introductions and curated local services instead.
+
+This guide is for adult travellers and expats who want the practical picture: which apps people actually use, what *some* (썸) and *sogaeting* (소개팅) mean, how couple culture works, and how to date respectfully without inventing a persona from television. It is adults-only.
+
+It deliberately does **not** re-cover intimacy law, love motels or sexual-health logistics — that lives on our [Sex, Dating and Intimacy in South Korea](/korean-sexuality) page. Pet names, flirting phrases and KakaoTalk slang live on [Korean Terms of Endearment](/south-korean-terms-of-endearment). Here the focus is **youth dating culture, apps, norms and trends**.
+
+![A couple near Gyeongbokgung Palace, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/couple-gyeongbokgung-traffic.jpg)
+
+A couple near Gyeongbokgung Palace, Seoul. Photo: Insightwm via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Couple_embracing_in_front_of_Gyeongbokgung_Palace_amid_traffic.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Korean Dating Culture at a Glance (2026)
+
+| Topic | What to know |
+| --- | --- |
+| Legal age of consent | 16 in South Korea (international age). Dating apps generally require 18+. Always verify age yourself. |
+| Apps (late 2025 Mobile Index, via Digital Daily Jan 2026) | Tinder still largest by MAU (~198k in Dec 2025); local apps Glam (~130k) and Wippy (~110k+) chase it. Rankings shift. |
+| App fatigue | Mid-2025 reporting (Chosun Biz) noted falling MAUs and users moving toward hobbies, gatherings and communities. |
+| Soft stage | *Some* (썸) — flirty interest before anyone says you are officially dating. |
+| Official start | *Gobaek* (고백) — a clear confession / “shall we date?”; Day 1 usually starts then. |
+| Blind date | *Sogaeting* (소개팅) — a one-on-one intro arranged by a mutual friend. |
+| Milestones | 100-day anniversary is common among younger couples, not universal. Ask what your partner wants. |
+| Messaging | KakaoTalk is the default. Fast replies often signal interest during *some*; slow replies can be read as cooling off. |
+| Related reading | [Intimacy & law](/korean-sexuality) · [Pet names & flirting](/south-korean-terms-of-endearment) · [Jeju Loveland](/jeju-loveland) |
+
+## Dating Apps in Korea in 2026
+
+App rankings move month to month. Treat the figures below as a late-2025 snapshot, not a permanent league table.
+
+### Global apps: Tinder and Bumble
+
+**Tinder** remains the best-known international app in Korea and, according to Mobile Index data cited by [Digital Daily (14 Jan 2026)](https://www.ddaily.co.kr/page/view/2026011414531773131), still led social-discovery MAUs in late 2025 (about 198,000 in December after a brief November dip). It is the easiest default for travellers who already have an account, English profiles and a mix of Koreans and foreigners.
+
+**Bumble** is present and often preferred by people who want women to message first (or who like that historical brand promise), but it is not the volume leader in Korea the way Tinder is. Expect thinner pools outside Seoul, Busan and other large cities. Bumble’s Korea help pages describe government-ID age checks for 18+ compliance when the app asks for them.
+
+Both apps typically require users to be **18 or older**. That is an app rule, separate from Korea’s **age of consent of 16** (see Wikipedia’s Asia age-of-consent summary and Korean Criminal Act reforms after 2020). If someone looks underage, leave — profile ages are not proof.
+
+### Korean apps: Glam, Wippy, Amanda and others
+
+Local apps matter because many Koreans still prefer Korean-language UIs, job/education verification and a less “tourist-heavy” pool.
+
+- **Glam (글램)** — regularly cited as a top local contender. The same Digital Daily / Mobile Index snapshot put Glam around the **130,000 MAU** range in late 2025. Marketing emphasises verified profiles and AI-assisted matching; subscriptions are common.
+- **Wippy (위피)** — another strong local player in that snapshot (**110,000+ MAU**). Often framed around neighbourhood / real-life meetups rather than pure swipe tourism.
+- **Amanda (아만다)** — a long-running Korean premium app known for appearance-oriented matching. It still appears in Korean app roundups, but it was **not** in Digital Daily’s late-2025 top-MAU trio (Tinder / Glam / Wippy). Treat it as optional, not “the” Korean app.
+- **Others you may hear about** — Noon’s Date (정오의데이트, curated daily intros), Pairs, and video-social apps such as Azar. Features and popularity change quickly; check the App Store / Play Store listings and recent Korean press before paying for a long subscription.
+
+![Hongdae party streets at night, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/hongdae-party-district-night.jpg)
+
+Hongdae’s party district at night — still one of Seoul’s easiest places to meet people face to face. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### App fatigue is real
+
+A [Chosun Biz English report (8 Jul 2025)](https://biz.chosun.com/en/en-it/2025/07/08/ATQR7CYFSJA6TDCE3U3EHJGIRY/) described young adults cutting back on dating apps because of fake accounts, weak match quality and burnout, with Tinder’s Korean MAU falling toward the mid-250k range around mid-2025 and other apps also losing users. That sits alongside Digital Daily’s later Q4 rebound story: both can be true across different months. Practical takeaway for 2026 travellers: **apps help, but hobby clubs, language exchanges, salsa socials, hiking groups and friend intros often convert better than endless swiping.**
+
+### Practical app tips for travellers and expats
+
+1. Say clearly whether you want dating, language exchange or casual meetups — mismatched intent is the number-one complaint.
+2. Put a few Korean lines in your bio even if you chat in English; effort is noticed.
+3. Move to KakaoTalk only after you are comfortable; many people treat phone-number / Kakao ID sharing as a trust step.
+4. Meet first in public places (busy cafés in [Hongdae](/south-korea/seoul/hongdae/category/cafes), [Itaewon](/south-korea/seoul/itaewon/category/things-to-do), Seongsu or Gangnam). Tell a friend where you are.
+5. Do not rely on paid “height filters” or aggressive boosts as a personality substitute — Korean press has already mocked that arms race.
+6. Never pressure anyone for photos, hotel visits or money. Romance scams and coerced “room salon” style setups are not dating culture; they are traps. See also the safety notes on our [intimacy guide](/korean-sexuality).
+
+## How Relationships Usually Start: Some, Gobaek and Day 1
+
+Korean dating vocabulary is precise about stages. Foreigners who skip the labels often misread the same behaviour.
+
+### Some (썸) — the soft stage
+
+*Some* (from English “something”) is the pre-official stretch: frequent texts, coffee, walks, maybe drinking together, without either person saying “we are dating.” Signals matter — good-morning KakaoTalk messages, remembering small details, suggesting the next plan. Ambiguity is part of the game; so is anxiety.
+
+### Gobaek (고백) — making it official
+
+A *gobaek* is a clear confession: roughly “I like you — shall we date?” Once both agree, couples usually count **Day 1** from that moment (not from the first coffee). Skipping a verbal confirmation and assuming exclusivity is a common cross-cultural mismatch.
+
+### After Day 1
+
+Many younger couples become openly “couple-coded” quickly: matching phone cases, couple rings, coordinated outfits, posting together. Others stay low-key, especially if family, work or military service complicates things. Ask; do not assume K-drama intensity is mandatory.
+
+![Love-lock trees at N Seoul Tower, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/n-seoul-tower-love-lock-tree.jpg)
+
+Love-lock trees at N Seoul Tower — a classic Seoul date photo stop. Photo: Ethan Doyle White via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Love_Locks_on_a_Tree-shaped_Structure_at_the_N_Seoul_Tower.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Sogaeting, Friends and Hobby Circles
+
+### Sogaeting (소개팅)
+
+*Sogaeting* is a semi-blind date set up by a mutual friend. Typical pattern: café for 1–2 hours, polite conversation, then each person tells the introducer yes/no so nobody has to reject face-to-face. Dress neatly, be on time, and message a thank-you to the friend either way.
+
+### Group blind dates and clubs
+
+*Meeting* (미팅) historically meant group blind dates (often university-linked). In 2026 you will hear more about **donghohoe** (동호회) hobby clubs, church or interest communities, climbing gyms, board-game cafés and dance socials. Those offline routes matter more as app fatigue grows.
+
+For nightlife context, see [Korean nightlife culture](/culture/korean-nightlife-culture) and [Korean drinking culture](/culture/korean-drinking-culture). Café-first dates are covered in [Korean café culture](/culture/korean-cafe-culture).
+
+## Couple Culture: 100 Days, Rings and the Calendar
+
+### The 100-day anniversary
+
+Counting days is common. Many couples mark **100 days** (and sometimes 200 / 300 / 500 / 1,000) with dinner, a letter, flowers, a photo-booth strip or couple rings. The habit echoes older Korean *baekil* (100-day) celebrations for infants, remixed into romance culture — but it is **popular, not compulsory**. Agree which dates matter so nobody feels tested.
+
+Couple-only apps such as **Between** or **SumOne** (shared albums, diaries, D-day counters) are widely used once a relationship is official; they are not for meeting strangers.
+
+### Romance holidays you will see in shops
+
+| Date | Name | Usual vibe |
+| --- | --- | --- |
+| 14 Feb | Valentine’s Day | Chocolate / small gift culture (expectations vary by couple) |
+| 14 Mar | White Day | Return gift / another date |
+| 14 Apr | Black Day | Playful singles’ day associated with *jjajangmyeon* |
+| 11 Nov | Pepero Day | Snack gifts; huge convenience-store displays |
+| Couple’s chosen Day 1 anniversary | Yearly anniversary | Often more personal than the theme days |
+
+![Love locks overlooking Seoul from Namsan](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/namsan-love-locks-overview.jpg)
+
+Love locks on Namsan with the city beyond. Photo: Daderot via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Locks_atop_Namsan_-_Seoul,_Korea.jpg), public domain.
+
+N Seoul Tower’s love-lock plaza remains a tourist-and-local date cliché for a reason: easy photos, city views and lock shops on site (confirm current lock rules on the [N Seoul Tower FAQ](https://www.nseoultower.co.kr/eng/global/customer/faq.asp?sch_type=03) before you go).
+
+## Meeting Parents and Getting Serious
+
+Meeting parents (*eomeonim* / *abeonim*) is a seriousness signal, not a casual brunch. Bring a small gift (fruit, vitamins or something thoughtful — ask a Korean friend), use polite speech (*jondaenmal*), and expect questions about job, education, long-term plans and, for foreigners, visa status and how long you will stay in Korea.
+
+Military service still shapes timelines for many Korean men in their twenties. Long-distance stretches, limited leave and family expectations are normal conversation topics — not red flags by themselves.
+
+## Trends Travellers Notice in 2026
+
+- **Less pure swiping, more curated intent** — Digital Daily’s industry takeaway after the late-2025 data was that services win when they match a clear purpose (serious dating, neighbourhood friends, video chat), not when they only chase raw MAU.
+- **Visible couple culture vs private dating** — matching outfits and couple rings are still common among younger pairs; plenty of adults date quietly.
+- Gender and birth-rate politics sit in the background — Korea’s ultra-low fertility and online gender conflicts show up in dating discourse. For the wider social frame (without treating every date as a sociology seminar), see the debates section on [korean-sexuality](/korean-sexuality).
+- **Foreigner dating is normal in international neighbourhoods** — Itaewon, Hongdae, Seongsu and campus areas are easier than smaller cities. Be honest about language ability and departure dates.
+- **LGBTQ+ dating** — legal and social reality is uneven; start with the LGBTQ notes on our intimacy page and queer-friendly nightlife areas rather than assuming every app profile is out to family.
+
+![Itaewon street at night, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/itaewon-night-street.jpg)
+
+Itaewon at night — long a crossroads for locals, expats and travellers. Photo: AhmadElq via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seoul_at_night,_itaewon.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Practical How-To: First Dates in Seoul
+
+1. **Café first, drinks second** — low pressure, easy exit, and café culture is excellent ([guide](/culture/korean-cafe-culture)).
+2. **Pick a neighbourhood, not a marathon itinerary** — Hongdae for youthful energy, Seongsu for design cafés and walks along [Gyeonguiseon Forest Trail](https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_4).jpg), Itaewon for international food, Gangnam for polished dinners.
+3. **Pay etiquette** — offering to pay is polite; splitting is increasingly common among younger people. Do not make a scene either way.
+4. **PDA** — light affection is fine in nightlife areas; heavy PDA can draw stares on the subway or in family restaurants.
+5. **Language** — learn a few phrases (*jal meogeosseumnida*, *daeum-e tto mannayyo*). For pet names once you are actually dating, use the [endearment guide](/south-korean-terms-of-endearment) — do not call a new match *jagiya* on minute five.
+6. **Safety** — public transport is safe late; still use licensed taxis / Kakao T, keep your own phone charged, and leave if someone pushes alcohol, private rooms or “host” venues you did not agree to.
+
+![Hongdae main road, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/hongdae-main-road.jpg)
+
+Hongdae’s main road by day — café and street-culture territory as much as nightlife. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Main_Road,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+![Gyeonguiseon Forest Trail near Hongdae, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/gyeonguiseon-forest-trail-hongdae.jpg)
+
+Gyeonguiseon Forest Trail near Hongdae — a favourite low-key walking date. Photo: Christian Bolz via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_4).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Etiquette Mistakes to Avoid
+
+- Treating every Korean date as a K-drama audition (grand speeches on date one).
+- Ghosting after *sogaeting* without telling the mutual friend.
+- Mocking couple culture, aegyo or 100-day plans — you can opt out kindly; you do not need to sneer.
+- Assuming English fluency or, conversely, refusing any Korean attempt.
+- Posting a partner’s face or workplace to social media without asking.
+- Ignoring age, consent and alcohol limits — adults only; “they said they were 20 on the app” is not a defence under Korean law if they are underage.
+
+## Korean Dating Culture FAQ
+
+### What dating apps do young Koreans use in 2026?
+
+Tinder is still the largest by recent Mobile Index MAU snapshots reported in Korean tech press (Digital Daily, Jan 2026). Local apps Glam and Wippy are close behind in those figures. Amanda and other premium or curated services still exist. Always re-check current store rankings — the market moves.
+
+### What does “some” mean in Korean dating?
+
+*Some* (썸) is the undefined talking / flirting stage before a formal *gobaek*. Lots of contact, no official title yet.
+
+### Do Korean couples really celebrate 100 days?
+
+Many younger couples do; many do not. It is a widespread custom, not a legal requirement. Ask your partner which milestones they care about.
+
+### Is sogaeting still a thing?
+
+Yes. Friend-arranged one-on-one café dates remain a normal way to meet, alongside apps and hobby groups.
+
+### Can foreigners use Korean dating apps?
+
+Often yes, but some local apps lean on Korean phone numbers, local ID verification or Korean-language profiles. Tinder and Bumble are usually the path of least resistance for short-term visitors. Read each app’s Korea age-verification help page if prompted.
+
+### What is the age of consent in South Korea?
+
+**16** (international age) under current law summaries widely cited after the 2020 reforms. Dating apps nonetheless set **18+** user rules. This page is for adults; do not sexualise or date minors.
+
+### How is this different from your other dating pages?
+
+Use [korean-sexuality](/korean-sexuality) for intimacy, law, love motels and sexual health. Use [south-korean-terms-of-endearment](/south-korean-terms-of-endearment) for *jagiya*, *yeobo* and flirting phrases. This URL owns youth dating culture, apps, *some* / *sogaeting*, couple milestones and traveller how-to.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or public domain. Each was resized and cropped to a 16:9 frame.
+
+- Hero (couple near Gyeongbokgung Palace, Seoul): Insightwm, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Couple_embracing_in_front_of_Gyeongbokgung_Palace_amid_traffic.jpg)
+- Hongdae party district at night: Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg)
+- Love-lock tree at N Seoul Tower: Ethan Doyle White, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Love_Locks_on_a_Tree-shaped_Structure_at_the_N_Seoul_Tower.jpg)
+- Love locks on Namsan: Daderot, public domain, [source](https://commons.wikimedia.org/wiki/File:Locks_atop_Namsan_-_Seoul,_Korea.jpg)
+- Itaewon at night: AhmadElq, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Seoul_at_night,_itaewon.jpg)
+- Hongdae main road: Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Main_Road,_Seoul.jpg)
+- Gyeonguiseon Forest Trail near Hongdae: Christian Bolz, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_4).jpg)`,
+    tags: ["Culture", "Dating", "Relationships", "Apps", "Seoul"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-15",
+    contentType: "travel-tip",
+  },
+  {
     slug: "gonjiam-haunted-asylum",
     title: "Gonjiam Psychiatric Hospital: The Real Story of Korea's Most Haunted Asylum",
     image: "/images/blogs/gonjiam-haunted-asylum/gonjiam-asylum-corridor-illustration.jpg",
