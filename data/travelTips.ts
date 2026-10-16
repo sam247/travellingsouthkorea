@@ -643,9 +643,9 @@ You can turn up to a social without lessons and still have fun, but one class ma
 
 ![A salsa band playing while couples dance](/images/blogs/where-to-go-salsa-dancing-in-seoul/salsa-band-and-dancers.jpg)
 
-## Big Latin Parties This Autumn
+## Halloween and Seasonal Latin Parties
 
-As well as the weekly socials, Seoul has regular large parties and festivals. The next big one is **Latin Mood (Halloween edition)** on **Saturday 24 October 2026**, from 5 PM to 11:40 PM, on the rooftop of the Vista Pub restaurant at Some Sevit (세빛섬), the floating islands on the Han River. Advance tickets cost ₩35,000 until 22 October and ₩40,000 after that. Fancy dress is encouraged, the music ratio is B2 S1, and the organisers say the event will be cancelled with a full refund if it rains.
+As well as the weekly socials, Seoul's Latin scene holds occasional big themed parties. For example, **Latin Mood** scheduled a Halloween edition for **Saturday 24 October 2026** on the rooftop of the Vista Pub restaurant at Some Sevit (세빛섬), the floating islands on the Han River, with fancy dress encouraged. Dates, venues and ticket prices change from event to event, so check the clubs' and organisers' Instagram or Naver pages for upcoming parties before you plan around one.
 
 ## Where Salsa Fits in a Seoul Night Out
 
@@ -2757,7 +2757,7 @@ Korea's convenience stores (GS25, CU, 7-Eleven and Emart24) are the cheapest dri
 
 Drinking in public is generally legal in Korea, but it isn't a free-for-all. Seoul's drinking-culture ordinance lets districts designate no-drinking zones, mostly parks and children's areas, where drinking that causes noise or disturbance can bring a fine of up to ₩100,000. Look for signs, keep the noise down in residential lanes, and take your empties with you.
 
-One place to be especially respectful: the narrow alley beside the Hamilton Hotel, next to Itaewon Station Exit 1, is now the 10.29 Path of Memory and Safety (10.29 기억과 안전의 길), a memorial to the 159 people who died in the October 2022 crowd crush. Don't drink, linger or take party photos there. Around Halloween, Yongsan District and the police run crowd-control measures in Itaewon. In 2025 these included one-way walking routes, separated station exits and, at peak congestion, trains skipping Itaewon Station, so allow extra time and follow the staff.
+One place to be especially respectful: the narrow alley beside the Hamilton Hotel, next to Itaewon Station Exit 1, is now the 10.29 Path of Memory and Safety (10.29 기억과 안전의 길), a memorial to the 159 people who died in the October 2022 crowd crush. Don't drink, linger or take party photos there. Around Halloween, Yongsan District and the police run crowd-control measures in Itaewon. For 2026, Seoul police have named 14 October to 1 November a special safety period for crowded places, with extra patrols in areas including Itaewon. Yongsan District usually publishes its own Itaewon plan in late October, so check its website or the news for the 2026 details. In recent years the measures have included one-way walking routes, separated entrances and exits at Itaewon Station and, at peak congestion, trains skipping the station. Allow extra time and follow the staff.
 
 ## Soju, Somaek and How Koreans Drink Cheaply
 
