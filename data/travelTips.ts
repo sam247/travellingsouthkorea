@@ -541,6 +541,155 @@ Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each w
     contentType: "travel-tip",
   },
   {
+    slug: "where-to-go-salsa-dancing-in-seoul",
+    title: "Where to Go Salsa Dancing in Seoul (2026): Clubs, Socials and Beginner Classes",
+    image: "/images/blogs/where-to-go-salsa-dancing-in-seoul/bachata-dip-social-dance.jpg",
+    canonicalPath: "/where-to-go-salsa-dancing-in-seoul",
+    metaTitle: "Salsa Dancing in Seoul 2026: Best Clubs, Socials & Classes",
+    metaDescription:
+      "Where to dance salsa and bachata in Seoul in 2026: TURN, Latin Official and Sol Bar in Gangnam, Bonita, Hongturn and Macondo in Hongdae, plus English classes and prices.",
+    summary:
+      "A 2026 guide to Seoul's salsa and bachata scene: the Gangnam and Hongdae clubs running weekly socials, late-night second-round bars, English-taught beginner classes, music ratios, etiquette and what it costs.",
+    content: `Seoul has one of the busiest salsa and bachata scenes in Asia. On any night of the week there's a Latin social running somewhere in Gangnam or Hongdae, entry is usually around ₩10,000, and at weekends the "second-round" clubs keep the floor going until 6 AM. You don't need a partner, and most clubs are used to foreign dancers turning up on their own.
+
+This guide covers the clubs that are running socials in autumn 2026, where to take a beginner class in English, how the Seoul scene works (music ratios, dance nicknames, second-round bars), and what to budget. Schedules change week to week, so check the club's Instagram or the weekly listings before you go.
+
+![A couple doing a bachata dip at a social dance](/images/blogs/where-to-go-salsa-dancing-in-seoul/bachata-dip-social-dance.jpg)
+
+## Seoul Salsa Clubs at a Glance
+
+| Club | Area | When (2026 listings) | Entry | Best for |
+| --- | --- | --- | --- | --- |
+| [TURN Latin Club](/south-korea/seoul/venues/turn-latin-club-gangnam) (Gangnam Turn) | Gangnam Station | Tue, Wed, Fri, Sat, Sun, 8 PM – 1 AM | about ₩10,000 | The classic Gangnam social, running since 2005 |
+| [Latin Official Gangnam](/south-korea/seoul/venues/latin-official-gangnam) | Gangnam Station | Daily, 9 PM – 1 AM | ₩10,000 – ₩20,000 | A big floor seven nights a week, plus classes |
+| [Sol Bar Gangnam](/south-korea/seoul/venues/sol-bar-gangnam) | Gangnam Station | Fri – Sun, midnight – 6 AM | listed as free | The after-party, heavy on bachata |
+| [Club Bonita](/south-korea/seoul/venues/club-bonita-hongdae) | Hongdae | Daily socials, 8 PM onwards | about ₩10,000 (party nights more) | Hongdae's long-running all-rounder |
+| [Hongturn](/south-korea/seoul/venues/hongturn-hongdae) | Hongdae | Fri and Sat Latin nights; Sunday social 6 PM – midnight | about ₩11,000 | Mixed salsa On1/On2, bachata and more |
+| Macondo | Hongdae | Classes Wed – Sat; Friday social to about 4 AM; Saturday bachata to 4:30 AM | about ₩15,000 on Saturdays | Seoul's oldest salsa bar |
+
+Times and prices come from 2026 listings on Salsavida, FindBachata, Socialpass and the clubs' own event posts. They can change, so treat them as a guide.
+
+## Gangnam: Seoul's Biggest Latin Floors
+
+Most of Gangnam's Latin clubs sit in basements within a few minutes' walk of Gangnam Station (Line 2 and the Sinbundang Line), on the Yeoksam-dong side of Gangnam-daero. That makes it easy to try two clubs in a night.
+
+![Gangnam Station at night](/images/blogs/where-to-go-salsa-dancing-in-seoul/gangnam-station-night.jpg)
+
+### TURN Latin Club (강남 턴)
+
+TURN, which locals call "Gangnam Turn" (강턴), has been running since 2005 and is the club most Korean dancers name first. It's in the basement at 17 Yeoksam-ro 3-gil. 2026 listings show socials on Tuesday, Wednesday, Friday, Saturday and Sunday from 8 PM to 1 AM, with entry around ₩10,000. Korean Latin-dance clubs such as Latin Paradise (라틴파라다이스) also hold their weekly classes there, so early evening is often lessons and the social builds after 9 PM. Friday and Saturday DJ parties are the busiest nights.
+
+### Latin Official Gangnam (라틴오피셜)
+
+Latin Official, at 9 Teheran-ro 6-gil, runs a social every night of the week from about 9 PM to 1 AM, with entry between ₩10,000 and ₩20,000 depending on the night. It's one of the largest Latin venues in Seoul and also works as an academy, so you'll see a lot of students practising what they learned in class. If you're in town midweek and TURN is closed, this is the reliable option.
+
+### Sol Bar Gangnam (솔바)
+
+Sol Bar is Gangnam's main second-round club, in the basement at 11-7 Teheran-ro 8-gil. It opens around midnight on Friday, Saturday and Sunday and runs until about 6 AM. Dancers describe it as where the strongest bachata dancers end up on a Saturday night, so expect more bachata than salsa. Listings show no cover charge, but you'll be expected to buy drinks.
+
+## Hongdae: Younger, Looser and Open Late
+
+Hongdae's Latin clubs are on and around Donggyo-ro, a short walk from Hongik University Station (Line 2, AREX and the Gyeongui-Jungang Line). The crowd is younger and more mixed, and the bar and club streets of [Hongdae](/south-korea/seoul/hongdae) are right there if your friends don't dance.
+
+![Hongdae's party district at night](/images/blogs/where-to-go-salsa-dancing-in-seoul/hongdae-at-night.jpg)
+
+### Club Bonita (홍대 보니따)
+
+Bonita is one of Seoul's longest-running salsa clubs, on the basement floors at 191 Donggyo-ro. It runs socials every night, usually from about 8 PM, with entry around ₩10,000. Themed party nights cost more: a pre-Chuseok party on 23 September 2026 charged ₩12,000 to ₩20,000 and included a one-hour all-levels salsa workshop. Bonita posts its weekly schedule on Instagram (@jessica_latinclub_bonita) and on its KakaoTalk channel (홍대보니따).
+
+### Hongturn (홍턴)
+
+Hongturn (홍턴, short for "Hongdae Turn") is in the basement at 207 Donggyo-ro. Friday and Saturday are its main Latin nights, and the music runs from salsa On1 and On2 to bachata, merengue, reggaeton and cha-cha. Its Sunday social starts early, at 6 PM, and finishes at midnight, with entry around ₩11,000. That's handy if you have work or a flight on Monday.
+
+### Macondo
+
+Macondo is often called Seoul's oldest salsa bar. It runs classes from Wednesday to Saturday at about 7:30 PM, a full social on Friday nights that goes on until about 4 AM, and a Saturday bachata social from 8:30 PM to 4:30 AM, with Saturday entry around ₩15,000. Listings give two different street addresses, so check its Instagram (@macondo_club) for directions before you go.
+
+### Hongdae's second-round bars
+
+When the main socials finish, Hongdae has its own late-night spots. Dancers mention Sol Bar Hongdae, Playground, Havana (the one to choose if you want more salsa than bachata) and Caribe (mostly kizomba). These open late, often around 1 or 2 AM, and keep going until dawn at weekends.
+
+## Beginner Salsa Classes in English
+
+You can turn up to a social without lessons and still have fun, but one class makes a big difference. These are the options in 2026 listings that are taught in English or are friendly to foreigners:
+
+- **JDC (Jhonatan Dance Company).** Jhonatan is a professional dancer from Colombia, and his classes are taught in English. A typical Tuesday has sensual bachata at 7:30 PM, LA-style salsa (On1) at 8:30 PM and a social from 9:30 PM. There are also Thursday, Saturday and Monday sessions, including some in Songdo, Incheon. You don't need a partner. Book through the "Seoul Latin Dance" group on Meetup.
+- **Timba Tribe Korea.** This group teaches Cuban salsa (casino). Its free beginner class on Sundays from 3 to 5 PM at Dance Studio Loca in Hongdae is listed on Salsavida.
+- **Club classes.** Bonita, Macondo and the Korean dance clubs that meet at TURN all run course-style classes, often 4 to 8 weeks long. They're usually taught in Korean, but the steps are easy to follow, and they're the quickest way to get to know the local scene.
+
+![A beginner salsa class](/images/blogs/where-to-go-salsa-dancing-in-seoul/salsa-beginner-class.jpg)
+
+## How the Seoul Latin Scene Works
+
+**Music ratios.** Seoul listings describe a night's music with a code such as "B3 S3" or "B5 S2". It means the DJ plays three bachatas then three salsas, or five bachatas then two salsas, on repeat. Bachata has overtaken salsa in Seoul, so if you mainly dance salsa, look for nights marked S3 or S4, or go to a salsa-heavy room such as Havana.
+
+**Nicknames.** Korean Latin-dance clubs (동호회, *donghohoe*) are big, organised communities with membership, course enrolment and online forums on Daum and Naver cafés. Members usually go by a dance nickname rather than their real name, so don't be surprised if someone introduces themselves as "Rain" or "Daisy".
+
+**Second rounds.** Seoul's main socials usually end around 1 AM, but at weekends the second-round clubs open around midnight to 2 AM and run until 6 AM. Few cities in Asia keep Latin socials going that late, every weekend.
+
+**Weekly listings.** The [Latin in Seoul](https://salsa.atoo.kr/) site posts each week's schedule for the Hongdae and Gangnam clubs, including the DJ, start time and music ratio. Its community is also on Reddit as r/latininseoul. Many events are also posted on Social Dance Live and Danceinfo.
+
+![Bachata instructors teaching at a dance festival](/images/blogs/where-to-go-salsa-dancing-in-seoul/bachata-workshop-instructors.jpg)
+
+## Etiquette and Practical Tips
+
+- **Asking someone to dance.** Offer a hand and a smile. It's normal to dance one or two songs with someone, thank them, and move on. Anyone can ask anyone. A polite "no thanks" is fine, so don't push.
+- **Shoes.** Bring dance shoes or shoes with smooth soles. Trainers with grippy soles make turns hard and hurt your knees.
+- **Lockers and cloakrooms.** Some clubs have paid lockers (around ₩1,500), and a few reviews mention theft, so keep your valuables with you.
+- **Paying.** Advance tickets for parties are often paid by Korean bank transfer (KakaoBank and similar). If you don't have a Korean bank account, ask to pay at the door, which usually costs a few thousand won more.
+- **Age.** Bars and clubs in Korea are 19+ (by the calendar-year rule), so bring your passport or ARC.
+- **Getting home.** The subway stops around midnight. After that, take a taxi through Kakao T or one of Seoul's late-night "N" buses.
+- **Look after yourself.** These are friendly social clubs, but keep an eye on your drink as you would anywhere in Seoul's [nightlife](/south-korea/seoul/category/nightlife).
+
+![A salsa band playing while couples dance](/images/blogs/where-to-go-salsa-dancing-in-seoul/salsa-band-and-dancers.jpg)
+
+## Big Latin Parties This Autumn
+
+As well as the weekly socials, Seoul has regular large parties and festivals. The next big one is **Latin Mood (Halloween edition)** on **Saturday 24 October 2026**, from 5 PM to 11:40 PM, on the rooftop of the Vista Pub restaurant at Some Sevit (세빛섬), the floating islands on the Han River. Advance tickets cost ₩35,000 until 22 October and ₩40,000 after that. Fancy dress is encouraged, the music ratio is B2 S1, and the organisers say the event will be cancelled with a full refund if it rains.
+
+## Where Salsa Fits in a Seoul Night Out
+
+A Latin social is one of the easiest ways to meet people in Seoul, local or foreign, without the pressure of a club or a dating app. Start with dinner and a drink in Gangnam or Hongdae, go to a social from about 9 PM, and stay for the second round if you still have the legs. For more ideas, see:
+
+- [Seoul nightlife: bars and clubs by area](/south-korea/seoul/category/nightlife)
+- [Gangnam bars](/south-korea/seoul/gangnam/category/bars) and [Hongdae bars](/south-korea/seoul/hongdae/category/bars)
+- [Korean nightlife culture](/culture/korean-nightlife-culture) and [Korean drinking culture](/culture/korean-drinking-culture)
+- [How to flirt in Korean](/south-korean-terms-of-endearment), if you want a few phrases for the dance floor
+- [Dating and intimacy in South Korea](/korean-sexuality)
+
+## Seoul Salsa FAQ
+
+### Where is the best place to go salsa dancing in Seoul?
+For a classic social, go to TURN (Gangnam Turn) near Gangnam Station, which has been running since 2005. In Hongdae, Club Bonita runs socials every night. For late-night dancing at weekends, Sol Bar Gangnam keeps going until about 6 AM.
+
+### How much does it cost to go to a salsa club in Seoul?
+Most weekly socials cost about ₩10,000 to ₩15,000 at the door, and party tickets sometimes include a drink. Special parties cost ₩15,000 to ₩40,000. Some second-round clubs list no cover charge but expect you to buy drinks.
+
+### Do I need a partner or experience?
+No. Everyone goes on their own and dances with different people all night. Beginners are welcome, but taking a class first, such as JDC's English-taught lessons or a club's beginner course, will make your first social much more fun.
+
+### Is salsa or bachata more popular in Seoul?
+Bachata is now more popular, and many nights play more bachata than salsa. Check the music ratio in the listing (for example "S3 B3" means three salsas then three bachatas) if you mainly want salsa.
+
+### What night is best for salsa in Seoul?
+Friday and Saturday have the biggest crowds and the second-round clubs. TURN runs on Tuesday and Wednesday as well, and Latin Official and Bonita have socials every day, so you can find a floor any night of the week.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons. Each was resized for the web.
+
+- [A couple doing a bachata dip](https://commons.wikimedia.org/wiki/File:Bachata_dip.jpg): Salsauom, CC0.
+- [Night view at Gangnam station bus stop](https://commons.wikimedia.org/wiki/File:Night_view_at_Gangnam_station_bus_stop_20251024.jpg): *Youngjin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Hongdae Party District at Night, Seoul](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg): Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Salsa class at Iberoconf 2023](https://commons.wikimedia.org/wiki/File:Clase_de_salsa_en_Iberoconf_2023.jpg): Luis Alvaz, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Juan Garcia and Sara Aviles at California Dance Festival 2025](https://commons.wikimedia.org/wiki/File:Juan_Garcia_%26_Sara_Aviles_at_California_Dance_Festival_2025_01.jpg): Rosiestep, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Salsa band and salsa dancing, Lagoa, the Algarve](https://commons.wikimedia.org/wiki/File:Salsa_band_and_salsa_dancing_-_Fatacil_Agriculture_and_Tourism_Fair_-_Lagoa_-_The_Algarve,_Portugal_(1469449571).jpg): Glen Bowman, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).`,
+    tags: ["Nightlife", "Dance", "Seoul", "Gangnam", "Hongdae"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-12",
+    contentType: "travel-tip",
+  },
+  {
     slug: "sansachun-drink-guide",
     title: "What Is Sansachun?",
     image: getTravelTipImagePath("sansachun-drink-guide"),
@@ -1540,13 +1689,196 @@ Photos are from Wikimedia Commons under Creative Commons licences. Each was resi
     contentType: "travel-tip",
   },
   {
+    slug: "the-best-craft-beer-bars-in-gangnam",
+    title: "The Best Craft Beer Bars in Gangnam (2026 Guide)",
+    image: "/images/blogs/the-best-craft-beer-bars-in-gangnam/yeoksam-street-night.jpg",
+    canonicalPath: "/the-best-craft-beer-bars-in-gangnam",
+    metaTitle: "Best Craft Beer Bars in Gangnam 2026: 8 Taprooms & Brewpubs",
+    metaDescription:
+      "Where to drink craft beer in Gangnam, Seoul in 2026: Artmonster, Goose Island Brewhouse, Nakta Brewing, Pongdang, Beer Room and more, with stations, prices and a pub-crawl route.",
+    summary:
+      "A 2026 guide to the best craft beer bars, taprooms and brewpubs in Gangnam, from Artmonster's self-pour taps and Goose Island's rooftop brewhouse near Gangnam Station to Pongdang in Sinsa and Pizza Hip in Apgujeong, with prices, opening hours and a walking route.",
+    content: `**Quick summary:** Gangnam isn't where Seoul's craft beer scene started (that was Itaewon), but it's now one of the easiest places in the city to drink it well. The best spots cluster in three pockets: the back streets around **Gangnam Station and Yeoksam**, **Sinsa and Garosu-gil**, and **Apgujeong Rodeo and Gangnam-gu Office**. This guide picks eight places that were open in 2026, tells you what each is good for, and gives you a route that links them.
+
+Opening hours and prices below come from the venues' own listings and recent 2025–26 visitor reports. Korean bars change hours often, so check Naver Map on the day before you make a special trip.
+
+## The Best Gangnam Craft Beer Bars at a Glance
+
+| Bar | Area | Nearest station | Best for |
+| --- | --- | --- | --- |
+| Artmonster Gangnam | Gangnam Station (Yeoksam-dong) | Gangnam, Line 2 / Sinbundang | Award-winning house beers you pour yourself |
+| Goose Island Brewhouse | Yeoksam-ro | Gangnam (Exit 4) or Sinnonhyeon | Big groups, rooftop, Chicago food |
+| Nakta Brewing | Gangnam Station north side | Gangnam or Sinnonhyeon | Cheap house lager and pizza |
+| Beer Room | Gangnam Station (Exit 11 side) | Gangnam | Timed unlimited-drinks passes |
+| Pongdang Craft Beer | Sinsa-dong | Sinsa, Line 3 | Relaxed pints near Garosu-gil |
+| Pizza Hip | Apgujeong Rodeo | Apgujeongrodeo, Suin-Bundang | Craft beer with Detroit-style pizza |
+| Goose Island Taproom | Gangnam-gu Office | Gangnam-gu Office, Line 7 / Suin-Bundang | A quieter Goose Island tap list |
+| Neurin Maeul Brewery & Pub | Gangnam Station (Seocho side) | Gangnam | Fresh makgeolli instead of beer |
+
+## Gangnam Station and Yeoksam: The Densest Beer Block
+
+![Bars and restaurants lit up on a side street in Yeoksam-dong, Gangnam](/images/blogs/the-best-craft-beer-bars-in-gangnam/yeoksam-street-night.jpg)
+
+Most of Gangnam's craft beer sits within a 10-minute walk of Gangnam Station, in the grid of side streets either side of Gangnam-daero. Exits 10 and 11 put you on the Yeoksam-dong (Gangnam-gu) side; the exits on the far side of Gangnam-daero lead into Seocho-gu. You can easily do three bars here without taking a taxi.
+
+### 1. Artmonster Gangnam (아트몬스터 강남역점)
+
+Artmonster is one of Korea's best-known craft breweries, and its beers have won international competition medals, which the menu proudly lists. The Gangnam Station branch is styled after the neon back streets of Hong Kong's SoHo, and it runs a **self-pour system**: you get a wristband, pour from the tap wall yourself and pay by the 10 ml, so you can try a little of everything. Look for the Vienna lager *Cheongdam-dong Myeoneuri*, the peanut-butter porter and the hazy IPA.
+
+- **Address:** 28-3 Teheran-ro 1-gil, Gangnam-gu
+- **Hours (2025–26 listings):** about 5 PM–1 AM on weekdays, from 3 PM at weekends, earlier close on Sundays
+- **Tip:** Fridays and Saturdays get busy, so arrive before 7 PM. Artmonster also has a branch near Samseong Station and a hanok taproom in Ikseon-dong.
+
+### 2. Goose Island Brewhouse (구스아일랜드 브루하우스)
+
+The Seoul outpost of Chicago's Goose Island is a big brewhouse with two indoor floors and a rooftop on Yeoksam-ro. It brews on site and pours a long list, from a Fibonacci lager and All That Pils to Goose IPA and a coconut stout, alongside Chicago deep-dish pizza, wings and BBQ platters. A visitor's August 2025 menu showed pints at roughly **₩7,500–11,000**, with four-can takeaway packs.
+
+- **Address:** 118 Yeoksam-ro, Gangnam-gu (about 6 minutes from Gangnam Station Exit 4, or 7 from Sinnonhyeon Exit 5)
+- **Hours:** Mon–Sat 11:30 AM–midnight (last order 11 PM), Sun 11:30 AM–11 PM; closed over Seollal and Chuseok
+- **Tip:** Naver reservations take groups of three or more, but not same-day bookings. The rooftop has a shorter food menu, so eat on the lower floors.
+
+### 3. Nakta Brewing (낙타브루잉 강남본점)
+
+Nakta ("camel") Brewing's flagship is a basement pizza-and-beer pub between Gangnam and Sinnonhyeon stations. Its house lager is one of the cheaper craft pints in the area (listed at ₩6,500, with an unlimited lager option), and the tap list adds a peach ale and hoppy lager plus guest beers from other Korean brewers such as Hand & Malt. It's loud and casual, which makes it popular for after-work groups and big football matches.
+
+- **Address:** B1, 14 Gangnam-daero 106-gil, Gangnam-gu
+- **Hours:** listed as 3 PM–2 AM daily; confirm on the day
+- **Tip:** It's a basement room where noise carries, so pick it for a lively night rather than a quiet chat.
+
+### 4. Beer Room (비어룸)
+
+Beer Room is a two-storey pub a few minutes from Gangnam Station Exit 11 with a wall of taps and **timed unlimited-drinks passes**. A recent Korean visitor post listed 1 hour for ₩15,000 and 3 hours for ₩30,000 covering craft beer, wine and highballs, and you can still order by the glass. The wood-fired pizza and fried chicken skin get good reviews.
+
+- **Address:** 22 Gangnam-daero 98-gil, Gangnam-gu
+- **Hours:** about 11:30 AM–11:30 PM; reports disagree on which days it closes (Sun–Mon or Mon–Tue), so check before you go
+- **Tip:** Unlimited passes are the best value for a long group session. If you only want two drinks, order by the glass.
+
+### Bonus: Neurin Maeul Brewery & Pub (느린마을양조장 강남점)
+
+Not a beer bar at all, but worth knowing: Neurin Maeul is a brewpub for **fresh makgeolli** (Korean rice wine) on the Seocho side of Gangnam Station, with Korean anju (drinking food) to match. It's a good second stop if your group wants something more Korean than an IPA.
+
+- **Address:** B1, Usong Building, 7 Seocho-daero 73-gil, Seocho-gu
+- **Hours:** about 4 PM–11 PM
+
+## Sinsa and Garosu-gil: Pints After Shopping
+
+![Garosu-gil, the tree-lined shopping street in Sinsa-dong, at night](/images/blogs/the-best-craft-beer-bars-in-gangnam/garosu-gil-night.jpg)
+
+Sinsa-dong, home of the Garosu-gil shopping street, is calmer than Gangnam Station and better for a couple of relaxed pints after dinner.
+
+### 5. Pongdang Craft Beer (퐁당 크래프트 비어)
+
+Pongdang is a walk-in neighbourhood pub that pours a short list of its own beers, usually approachable styles like a pilsner and a pale ale, plus imports. It's part of the same family as Sour Pongdang in Itaewon, which has been described as the first bar in Asia to specialise in sour beers. Come here for an easy after-work drink rather than a big tap wall.
+
+- **Area:** Sinsa-dong, near Sinsa Station (Line 3) and Garosu-gil
+- **Hours:** from about 5 PM, later at weekends
+- **Tip:** Pair it with dinner on Garosu-gil, then walk on to Apgujeong if you want a second bar.
+
+## Apgujeong Rodeo and Gangnam-gu Office: Beer and Food
+
+The streets around Apgujeong Rodeo and Gangnam-gu Office stations are where Gangnam's fashion crowd eats out, and two good beer stops sit within walking distance of each other.
+
+### 6. Pizza Hip Apgujeong (피자힙 압구정점)
+
+Pizza Hip is a lively pub serving craft beer with Detroit-style square pizza, and its signature pie is topped with 24-hour sous-vide beef short rib (*udae galbi*). Everyone needs to order at least one drink.
+
+- **Address:** 23 Seolleung-ro 157-gil, Gangnam-gu (about 4 minutes from Apgujeongrodeo Station)
+- **Hours:** Sun–Thu 11:30 AM–11 PM, Fri–Sat 11:30 AM–1 AM, with a break from 3 PM to 5 PM
+
+### 7. Goose Island Taproom, Gangnam-gu Office (구스 아일랜드 탭룸 강남구청역점)
+
+This smaller Goose Island taproom opened in 2025 near Gangnam-gu Office Station. It pours the same core beers as the Yeoksam brewhouse (All That Pils, Duck Duck Goose session IPA, Fibonacci lager and Black Hole stout, with an optional cinnamon topping) in a quieter room, and the buffalo wings come with a choice of ten sauces.
+
+- **Address:** 1F, 9-4 Seolleung-ro 129-gil, Gangnam-gu
+- **Tip:** It takes Naver reservations, which helps if you're a group.
+
+## Is There Real Craft Beer in Gangnam?
+
+![Oak barrels at Budnamu Brewery in Gangneung, one of Korea's best-known craft breweries](/images/blogs/the-best-craft-beer-bars-in-gangnam/budnamu-brewery-korea.jpg)
+
+Yes, but it helps to know the history. Korean beer was dominated by big lagers like Cass, Hite and Terra until rule changes in the 2010s made it practical for small brewers to sell their beer. The first wave of taprooms opened in Itaewon and Noksapyeong, which is still the scene's heartland. Gangnam's beer bars came later and lean towards big, comfortable rooms with serious food, which suits office crowds and groups.
+
+If you want to visit the breweries themselves, from Seoul taprooms to Busan and Gangneung, read our guide to the [best craft breweries in South Korea](/breweries-in-south-korea).
+
+## A Gangnam Craft Beer Crawl
+
+![Gangnam Station's central bus lane at night in October 2025](/images/blogs/the-best-craft-beer-bars-in-gangnam/gangnam-station-night-2025.jpg)
+
+You can do this route on foot in one evening:
+
+1. **6 PM: Artmonster Gangnam.** Start early to get a seat and try small pours from the self-serve wall.
+2. **7:30 PM: Beer Room or Nakta Brewing.** Both are a few minutes' walk away. Pick Beer Room if your group wants an unlimited pass, or Nakta for cheap lager and pizza.
+3. **9 PM: Goose Island Brewhouse.** Finish on the rooftop or with a stout on the lower floors.
+
+On a quieter night, take Line 3 to Sinsa for Pongdang, then walk or take a short taxi ride to Apgujeong Rodeo for Pizza Hip.
+
+## Prices, Rules and Safety
+
+![Korean fried chicken with a glass of beer](/images/blogs/the-best-craft-beer-bars-in-gangnam/korean-fried-chicken-chimaek.jpg)
+
+- **Prices:** expect roughly ₩6,500–11,000 for a craft pint in Gangnam, with unlimited passes from about ₩15,000 an hour. That's more than a convenience-store can, but cheaper than most London or New York taprooms.
+- **Food:** Korean bars expect you to eat. *Chimaek* (fried chicken and beer) is the classic pairing, and most taprooms here serve pizza too.
+- **Drinking age:** 19, counted by birth year, so you can legally drink from 1 January of the year you turn 19. Bring your passport, because bars do check ID.
+- **Getting home:** the subway stops running around midnight. After that, use Kakao T for a taxi, and expect surge pricing and queues around Gangnam Station after 1 AM.
+- **Avoid hostess bars:** some Gangnam bars, often called "room salons", charge for hosts, cover and bottle service. Bills can run into hundreds of thousands of won, and you can be pressured into spending more. Every bar in this guide is an ordinary pub where you pay for what you drink.
+- **Watch your drink:** Gangnam has had drink-spiking cases in its club areas. Keep your glass with you, and stick to bars like these where you order at the counter or on a QR menu.
+
+## More Gangnam and Seoul Nightlife
+
+![Teheran-ro at the Yeongdong-daero crossing, Gangnam's business spine, at dusk](/images/blogs/the-best-craft-beer-bars-in-gangnam/teheran-ro-gangnam.jpg)
+
+- [Gangnam bars](/south-korea/seoul/gangnam/category/bars): every Gangnam bar we list, including cocktail speakeasies.
+- [Gangnam restaurants](/south-korea/seoul/gangnam/category/restaurants), for dinner before you drink.
+- [Itaewon bars](/south-korea/seoul/itaewon/category/bars), home of Magpie Brewing and The Booth, where Seoul's craft beer began.
+- [Hongdae bars](/south-korea/seoul/hongdae/category/bars), Seoul's student nightlife hub.
+- [Seoul nightlife](/south-korea/seoul/category/nightlife), the full city round-up.
+- [Korean drinking culture](/culture/korean-drinking-culture), from soju etiquette to drinking games.
+
+## Gangnam Craft Beer FAQ
+
+### What is the best craft beer bar in Gangnam?
+
+For beer quality and choice, Artmonster near Gangnam Station is the pick, because you can pour small tasters of its award-winning range. For a big group with food, go to Goose Island Brewhouse. For a relaxed neighbourhood pint, go to Pongdang in Sinsa.
+
+### Where is the craft beer area in Gangnam?
+
+Most bars are in the side streets around Gangnam Station (Exits 10 and 11) and Yeoksam-ro. Smaller clusters are in Sinsa-dong near Garosu-gil and around Apgujeong Rodeo and Gangnam-gu Office stations.
+
+### How much is a craft beer in Gangnam?
+
+Roughly ₩6,500–11,000 a pint in 2025–26. Beer Room's unlimited passes were about ₩15,000 for an hour and ₩30,000 for three.
+
+### Are Gangnam craft beer bars open late?
+
+Most close between 11 PM and 2 AM. Nakta Brewing has been listed as open until 2 AM, and Artmonster until 1 AM on Fridays and Saturdays.
+
+### Is Gangnam or Itaewon better for craft beer?
+
+Itaewon has the pioneering breweries and a more international crowd. Gangnam has bigger, newer rooms with better food. If you're staying south of the river, Gangnam is easier.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences, cropped to a 16:9 frame.
+
+- Hero (street in Yeoksam-dong, Gangnam-gu, at night): Christophe95, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Street_in_Yeoksam-dong,_Gangnam-gu.jpg)
+- Garosu-gil at night: sellyourseoul, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [source](https://commons.wikimedia.org/wiki/File:Garosu-gil_at_night.jpg)
+- Budnamu Brewery, Gangneung (August 2022): Korean Culture and Information Service (Republic of Korea), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Budnamu_Brewery_03.jpg)
+- Gangnam Station bus lane at night (October 2025): *Youngjin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Night_view_at_Gangnam_station_bus_stop_20251024.jpg)
+- Korean fried chicken with beer: KOREA.NET, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Iksan_City_48_Korean_Style_Fried_chicken.jpg)
+- Teheran-ro at Yeongdong-daero: kallerna, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Teheran-ro_Yeongdong-daero_crossing_6.jpg)`,
+    tags: ["Nightlife", "Craft Beer", "Gangnam", "Seoul", "Food & Drink"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-09",
+    contentType: "travel-tip",
+  },
+  {
     slug: "breweries-in-south-korea",
     title: "Best Craft Breweries in South Korea to Visit",
     image: "/images/blogs/breweries/defne-kucukmustafa-wYDUZux2wE8-unsplash.jpg",
     canonicalPath: "/breweries-in-south-korea",
     summary:
       "From Seoul taprooms to Busan's coastal brewpubs and Jeju farmhouse ales — a guide to South Korea's best craft breweries, the beers to try, and the culture behind the pour.",
-    content: `**Quick summary:** South Korea's craft beer scene has exploded since 2014. From pioneering Seoul taprooms to coastal breweries in Busan and farm-to-glass operations on Jeju, this guide covers the best craft breweries in South Korea, the beers worth seeking out, and the food and culture that surround the pour.
+    content: `**Quick summary:** South Korea's craft beer scene has exploded since 2014. From pioneering Seoul taprooms to coastal breweries in Busan and farm-to-glass operations on Jeju, this guide covers the best craft breweries in South Korea, the beers worth seeking out, and the food and culture that surround the pour. Staying south of the river? See our guide to the [best craft beer bars in Gangnam](/the-best-craft-beer-bars-in-gangnam).
 
 ## Exploring South Korea's Vibrant Craft Beer Scene
 
@@ -2001,6 +2333,224 @@ Photos are from Wikimedia Commons under Creative Commons licences. Each was resi
     contentType: "travel-tip",
   },
   {
+    slug: "dating-culture-among-korean-youth-apps-norms-and-trends",
+    title: "Dating Culture Among Korean Youth (2026): Apps, Norms and Trends",
+    image: "/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/couple-gyeongbokgung-traffic.jpg",
+    canonicalPath: "/dating-culture-among-korean-youth-apps-norms-and-trends",
+    metaTitle: "Korean Dating Culture 2026: Apps, Some, Sogaeting & Norms",
+    metaDescription:
+      "How young Koreans date in 2026: Tinder, Glam and Wippy, some and sogaeting, 100-day anniversaries, couple culture and practical tips for travellers.",
+    summary:
+      "A 2026 guide to Korean youth dating culture — which apps people use, what some and sogaeting mean, couple milestones like 100 days, and how travellers can date respectfully.",
+    content: `Dating culture among Korean youth in 2026 sits somewhere between K-drama romance and app fatigue. Young adults still celebrate 100-day anniversaries, wear couple items and treat KakaoTalk as a relationship thermometer — but many also report burnout with swipe apps, and more people are meeting through hobbies, friend introductions and curated local services instead.
+
+This guide is for adult travellers and expats who want the practical picture: which apps people actually use, what *some* (썸) and *sogaeting* (소개팅) mean, how couple culture works, and how to date respectfully without inventing a persona from television. It is adults-only.
+
+It deliberately does **not** re-cover intimacy law, love motels or sexual-health logistics — that lives on our [Sex, Dating and Intimacy in South Korea](/korean-sexuality) page. Pet names, flirting phrases and KakaoTalk slang live on [Korean Terms of Endearment](/south-korean-terms-of-endearment). Here the focus is **youth dating culture, apps, norms and trends**.
+
+![A couple near Gyeongbokgung Palace, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/couple-gyeongbokgung-traffic.jpg)
+
+A couple near Gyeongbokgung Palace, Seoul. Photo: Insightwm via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Couple_embracing_in_front_of_Gyeongbokgung_Palace_amid_traffic.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Korean Dating Culture at a Glance (2026)
+
+| Topic | What to know |
+| --- | --- |
+| Legal age of consent | 16 in South Korea (international age). Dating apps generally require 18+. Always verify age yourself. |
+| Apps (late 2025 Mobile Index, via Digital Daily Jan 2026) | Tinder still largest by MAU (~198k in Dec 2025); local apps Glam (~130k) and Wippy (~110k+) chase it. Rankings shift. |
+| App fatigue | Mid-2025 reporting (Chosun Biz) noted falling MAUs and users moving toward hobbies, gatherings and communities. |
+| Soft stage | *Some* (썸) — flirty interest before anyone says you are officially dating. |
+| Official start | *Gobaek* (고백) — a clear confession / “shall we date?”; Day 1 usually starts then. |
+| Blind date | *Sogaeting* (소개팅) — a one-on-one intro arranged by a mutual friend. |
+| Milestones | 100-day anniversary is common among younger couples, not universal. Ask what your partner wants. |
+| Messaging | KakaoTalk is the default. Fast replies often signal interest during *some*; slow replies can be read as cooling off. |
+| Related reading | [Intimacy & law](/korean-sexuality) · [Pet names & flirting](/south-korean-terms-of-endearment) · [Jeju Loveland](/jeju-loveland) |
+
+## Dating Apps in Korea in 2026
+
+App rankings move month to month. Treat the figures below as a late-2025 snapshot, not a permanent league table.
+
+### Global apps: Tinder and Bumble
+
+**Tinder** remains the best-known international app in Korea and, according to Mobile Index data cited by [Digital Daily (14 Jan 2026)](https://www.ddaily.co.kr/page/view/2026011414531773131), still led social-discovery MAUs in late 2025 (about 198,000 in December after a brief November dip). It is the easiest default for travellers who already have an account, English profiles and a mix of Koreans and foreigners.
+
+**Bumble** is present and often preferred by people who want women to message first (or who like that historical brand promise), but it is not the volume leader in Korea the way Tinder is. Expect thinner pools outside Seoul, Busan and other large cities. Bumble’s Korea help pages describe government-ID age checks for 18+ compliance when the app asks for them.
+
+Both apps typically require users to be **18 or older**. That is an app rule, separate from Korea’s **age of consent of 16** (see Wikipedia’s Asia age-of-consent summary and Korean Criminal Act reforms after 2020). If someone looks underage, leave — profile ages are not proof.
+
+### Korean apps: Glam, Wippy, Amanda and others
+
+Local apps matter because many Koreans still prefer Korean-language UIs, job/education verification and a less “tourist-heavy” pool.
+
+- **Glam (글램)** — regularly cited as a top local contender. The same Digital Daily / Mobile Index snapshot put Glam around the **130,000 MAU** range in late 2025. Marketing emphasises verified profiles and AI-assisted matching; subscriptions are common.
+- **Wippy (위피)** — another strong local player in that snapshot (**110,000+ MAU**). Often framed around neighbourhood / real-life meetups rather than pure swipe tourism.
+- **Amanda (아만다)** — a long-running Korean premium app known for appearance-oriented matching. It still appears in Korean app roundups, but it was **not** in Digital Daily’s late-2025 top-MAU trio (Tinder / Glam / Wippy). Treat it as optional, not “the” Korean app.
+- **Others you may hear about** — Noon’s Date (정오의데이트, curated daily intros), Pairs, and video-social apps such as Azar. Features and popularity change quickly; check the App Store / Play Store listings and recent Korean press before paying for a long subscription.
+
+![Hongdae party streets at night, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/hongdae-party-district-night.jpg)
+
+Hongdae’s party district at night — still one of Seoul’s easiest places to meet people face to face. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### App fatigue is real
+
+A [Chosun Biz English report (8 Jul 2025)](https://biz.chosun.com/en/en-it/2025/07/08/ATQR7CYFSJA6TDCE3U3EHJGIRY/) described young adults cutting back on dating apps because of fake accounts, weak match quality and burnout, with Tinder’s Korean MAU falling toward the mid-250k range around mid-2025 and other apps also losing users. That sits alongside Digital Daily’s later Q4 rebound story: both can be true across different months. Practical takeaway for 2026 travellers: **apps help, but hobby clubs, language exchanges, salsa socials, hiking groups and friend intros often convert better than endless swiping.**
+
+### Practical app tips for travellers and expats
+
+1. Say clearly whether you want dating, language exchange or casual meetups — mismatched intent is the number-one complaint.
+2. Put a few Korean lines in your bio even if you chat in English; effort is noticed.
+3. Move to KakaoTalk only after you are comfortable; many people treat phone-number / Kakao ID sharing as a trust step.
+4. Meet first in public places (busy cafés in [Hongdae](/south-korea/seoul/hongdae/category/cafes), [Itaewon](/south-korea/seoul/itaewon/category/things-to-do), Seongsu or Gangnam). Tell a friend where you are.
+5. Do not rely on paid “height filters” or aggressive boosts as a personality substitute — Korean press has already mocked that arms race.
+6. Never pressure anyone for photos, hotel visits or money. Romance scams and coerced “room salon” style setups are not dating culture; they are traps. See also the safety notes on our [intimacy guide](/korean-sexuality).
+
+## How Relationships Usually Start: Some, Gobaek and Day 1
+
+Korean dating vocabulary is precise about stages. Foreigners who skip the labels often misread the same behaviour.
+
+### Some (썸) — the soft stage
+
+*Some* (from English “something”) is the pre-official stretch: frequent texts, coffee, walks, maybe drinking together, without either person saying “we are dating.” Signals matter — good-morning KakaoTalk messages, remembering small details, suggesting the next plan. Ambiguity is part of the game; so is anxiety.
+
+### Gobaek (고백) — making it official
+
+A *gobaek* is a clear confession: roughly “I like you — shall we date?” Once both agree, couples usually count **Day 1** from that moment (not from the first coffee). Skipping a verbal confirmation and assuming exclusivity is a common cross-cultural mismatch.
+
+### After Day 1
+
+Many younger couples become openly “couple-coded” quickly: matching phone cases, couple rings, coordinated outfits, posting together. Others stay low-key, especially if family, work or military service complicates things. Ask; do not assume K-drama intensity is mandatory.
+
+![Love-lock trees at N Seoul Tower, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/n-seoul-tower-love-lock-tree.jpg)
+
+Love-lock trees at N Seoul Tower — a classic Seoul date photo stop. Photo: Ethan Doyle White via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Love_Locks_on_a_Tree-shaped_Structure_at_the_N_Seoul_Tower.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Sogaeting, Friends and Hobby Circles
+
+### Sogaeting (소개팅)
+
+*Sogaeting* is a semi-blind date set up by a mutual friend. Typical pattern: café for 1–2 hours, polite conversation, then each person tells the introducer yes/no so nobody has to reject face-to-face. Dress neatly, be on time, and message a thank-you to the friend either way.
+
+### Group blind dates and clubs
+
+*Meeting* (미팅) historically meant group blind dates (often university-linked). In 2026 you will hear more about **donghohoe** (동호회) hobby clubs, church or interest communities, climbing gyms, board-game cafés and dance socials. Those offline routes matter more as app fatigue grows.
+
+For nightlife context, see [Korean nightlife culture](/culture/korean-nightlife-culture) and [Korean drinking culture](/culture/korean-drinking-culture). Café-first dates are covered in [Korean café culture](/culture/korean-cafe-culture).
+
+## Couple Culture: 100 Days, Rings and the Calendar
+
+### The 100-day anniversary
+
+Counting days is common. Many couples mark **100 days** (and sometimes 200 / 300 / 500 / 1,000) with dinner, a letter, flowers, a photo-booth strip or couple rings. The habit echoes older Korean *baekil* (100-day) celebrations for infants, remixed into romance culture — but it is **popular, not compulsory**. Agree which dates matter so nobody feels tested.
+
+Couple-only apps such as **Between** or **SumOne** (shared albums, diaries, D-day counters) are widely used once a relationship is official; they are not for meeting strangers.
+
+### Romance holidays you will see in shops
+
+| Date | Name | Usual vibe |
+| --- | --- | --- |
+| 14 Feb | Valentine’s Day | Chocolate / small gift culture (expectations vary by couple) |
+| 14 Mar | White Day | Return gift / another date |
+| 14 Apr | Black Day | Playful singles’ day associated with *jjajangmyeon* |
+| 11 Nov | Pepero Day | Snack gifts; huge convenience-store displays |
+| Couple’s chosen Day 1 anniversary | Yearly anniversary | Often more personal than the theme days |
+
+![Love locks overlooking Seoul from Namsan](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/namsan-love-locks-overview.jpg)
+
+Love locks on Namsan with the city beyond. Photo: Daderot via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Locks_atop_Namsan_-_Seoul,_Korea.jpg), public domain.
+
+N Seoul Tower’s love-lock plaza remains a tourist-and-local date cliché for a reason: easy photos, city views and lock shops on site (confirm current lock rules on the [N Seoul Tower FAQ](https://www.nseoultower.co.kr/eng/global/customer/faq.asp?sch_type=03) before you go).
+
+## Meeting Parents and Getting Serious
+
+Meeting parents (*eomeonim* / *abeonim*) is a seriousness signal, not a casual brunch. Bring a small gift (fruit, vitamins or something thoughtful — ask a Korean friend), use polite speech (*jondaenmal*), and expect questions about job, education, long-term plans and, for foreigners, visa status and how long you will stay in Korea.
+
+Military service still shapes timelines for many Korean men in their twenties. Long-distance stretches, limited leave and family expectations are normal conversation topics — not red flags by themselves.
+
+## Trends Travellers Notice in 2026
+
+- **Less pure swiping, more curated intent** — Digital Daily’s industry takeaway after the late-2025 data was that services win when they match a clear purpose (serious dating, neighbourhood friends, video chat), not when they only chase raw MAU.
+- **Visible couple culture vs private dating** — matching outfits and couple rings are still common among younger pairs; plenty of adults date quietly.
+- Gender and birth-rate politics sit in the background — Korea’s ultra-low fertility and online gender conflicts show up in dating discourse. For the wider social frame (without treating every date as a sociology seminar), see the debates section on [korean-sexuality](/korean-sexuality).
+- **Foreigner dating is normal in international neighbourhoods** — Itaewon, Hongdae, Seongsu and campus areas are easier than smaller cities. Be honest about language ability and departure dates.
+- **LGBTQ+ dating** — legal and social reality is uneven; start with the LGBTQ notes on our intimacy page and queer-friendly nightlife areas rather than assuming every app profile is out to family.
+
+![Itaewon street at night, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/itaewon-night-street.jpg)
+
+Itaewon at night — long a crossroads for locals, expats and travellers. Photo: AhmadElq via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seoul_at_night,_itaewon.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Practical How-To: First Dates in Seoul
+
+1. **Café first, drinks second** — low pressure, easy exit, and café culture is excellent ([guide](/culture/korean-cafe-culture)).
+2. **Pick a neighbourhood, not a marathon itinerary** — Hongdae for youthful energy, Seongsu for design cafés and walks along [Gyeonguiseon Forest Trail](https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_4).jpg), Itaewon for international food, Gangnam for polished dinners.
+3. **Pay etiquette** — offering to pay is polite; splitting is increasingly common among younger people. Do not make a scene either way.
+4. **PDA** — light affection is fine in nightlife areas; heavy PDA can draw stares on the subway or in family restaurants.
+5. **Language** — learn a few phrases (*jal meogeosseumnida*, *daeum-e tto mannayyo*). For pet names once you are actually dating, use the [endearment guide](/south-korean-terms-of-endearment) — do not call a new match *jagiya* on minute five.
+6. **Safety** — public transport is safe late; still use licensed taxis / Kakao T, keep your own phone charged, and leave if someone pushes alcohol, private rooms or “host” venues you did not agree to.
+
+![Hongdae main road, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/hongdae-main-road.jpg)
+
+Hongdae’s main road by day — café and street-culture territory as much as nightlife. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Main_Road,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+![Gyeonguiseon Forest Trail near Hongdae, Seoul](/images/blogs/dating-culture-among-korean-youth-apps-norms-and-trends/gyeonguiseon-forest-trail-hongdae.jpg)
+
+Gyeonguiseon Forest Trail near Hongdae — a favourite low-key walking date. Photo: Christian Bolz via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_4).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Etiquette Mistakes to Avoid
+
+- Treating every Korean date as a K-drama audition (grand speeches on date one).
+- Ghosting after *sogaeting* without telling the mutual friend.
+- Mocking couple culture, aegyo or 100-day plans — you can opt out kindly; you do not need to sneer.
+- Assuming English fluency or, conversely, refusing any Korean attempt.
+- Posting a partner’s face or workplace to social media without asking.
+- Ignoring age, consent and alcohol limits — adults only; “they said they were 20 on the app” is not a defence under Korean law if they are underage.
+
+## Korean Dating Culture FAQ
+
+### What dating apps do young Koreans use in 2026?
+
+Tinder is still the largest by recent Mobile Index MAU snapshots reported in Korean tech press (Digital Daily, Jan 2026). Local apps Glam and Wippy are close behind in those figures. Amanda and other premium or curated services still exist. Always re-check current store rankings — the market moves.
+
+### What does “some” mean in Korean dating?
+
+*Some* (썸) is the undefined talking / flirting stage before a formal *gobaek*. Lots of contact, no official title yet.
+
+### Do Korean couples really celebrate 100 days?
+
+Many younger couples do; many do not. It is a widespread custom, not a legal requirement. Ask your partner which milestones they care about.
+
+### Is sogaeting still a thing?
+
+Yes. Friend-arranged one-on-one café dates remain a normal way to meet, alongside apps and hobby groups.
+
+### Can foreigners use Korean dating apps?
+
+Often yes, but some local apps lean on Korean phone numbers, local ID verification or Korean-language profiles. Tinder and Bumble are usually the path of least resistance for short-term visitors. Read each app’s Korea age-verification help page if prompted.
+
+### What is the age of consent in South Korea?
+
+**16** (international age) under current law summaries widely cited after the 2020 reforms. Dating apps nonetheless set **18+** user rules. This page is for adults; do not sexualise or date minors.
+
+### How is this different from your other dating pages?
+
+Use [korean-sexuality](/korean-sexuality) for intimacy, law, love motels and sexual health. Use [south-korean-terms-of-endearment](/south-korean-terms-of-endearment) for *jagiya*, *yeobo* and flirting phrases. This URL owns youth dating culture, apps, *some* / *sogaeting*, couple milestones and traveller how-to.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or public domain. Each was resized and cropped to a 16:9 frame.
+
+- Hero (couple near Gyeongbokgung Palace, Seoul): Insightwm, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Couple_embracing_in_front_of_Gyeongbokgung_Palace_amid_traffic.jpg)
+- Hongdae party district at night: Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg)
+- Love-lock tree at N Seoul Tower: Ethan Doyle White, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Love_Locks_on_a_Tree-shaped_Structure_at_the_N_Seoul_Tower.jpg)
+- Love locks on Namsan: Daderot, public domain, [source](https://commons.wikimedia.org/wiki/File:Locks_atop_Namsan_-_Seoul,_Korea.jpg)
+- Itaewon at night: AhmadElq, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Seoul_at_night,_itaewon.jpg)
+- Hongdae main road: Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Main_Road,_Seoul.jpg)
+- Gyeonguiseon Forest Trail near Hongdae: Christian Bolz, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Gyeonguiseon_Forest_Trail_Park_and_Ttaeng-ttaeng_Street_in_Seoul_(near_Hongdae,_4).jpg)`,
+    tags: ["Culture", "Dating", "Relationships", "Apps", "Seoul"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-15",
+    contentType: "travel-tip",
+  },
+  {
     slug: "gonjiam-haunted-asylum",
     title: "Gonjiam Psychiatric Hospital: The Real Story of Korea's Most Haunted Asylum",
     image: "/images/blogs/gonjiam-haunted-asylum/gonjiam-asylum-corridor-illustration.jpg",
@@ -2125,6 +2675,152 @@ Photos are from Wikimedia Commons under Creative Commons, public-domain or KOGL 
     tags: ["Culture", "Horror", "Film", "Gyeonggi", "Halloween", "Unusual"],
     authorSlug: "james-jeong",
     updatedDate: "2026-10-05",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "where-to-find-the-cheapest-drinks-in-itaewon",
+    title: "Where to Find the Cheapest Drinks in Itaewon (2026): Happy Hours, Pochas and Prices",
+    image: "/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/itaewon-crossing-at-night.jpg",
+    canonicalPath: "/where-to-find-the-cheapest-drinks-in-itaewon",
+    metaTitle: "Cheapest Drinks in Itaewon 2026: Happy Hours, Bars & Prices",
+    metaDescription:
+      "Where to drink cheaply in Itaewon in 2026: 2-for-1 happy hours, ₩6,000 draft beer and highballs, weekend 1+1 deals, convenience-store soju prices and drinking games.",
+    summary:
+      "A 2026 guide to drinking cheaply in Itaewon: the bars with 2-for-1 and 1+1 happy hours, ₩6,000 pocha drinks, a price table, convenience-store drinking rules, soju and somaek basics, and Korean drinking games.",
+    content: `Itaewon has a reputation as one of Seoul's pricier places for a night out, and on the main strip a pint of imported beer can easily cost ₩11,000 to ₩13,000. But it doesn't have to. Between 2-for-1 happy hours, Korean pocha bars charging ₩6,000 for a draft, weekend 1+1 deals and convenience stores selling soju for under ₩2,000, you can drink well in Itaewon on a budget, as long as you know where and when to go.
+
+This 2026 guide covers the bars with the clearest cheap-drink deals, what drinks actually cost right now, the happy-hour windows worth planning around, convenience-store drinking (and where not to do it), and a few Korean drinking games for the table. Prices and promotions change, so treat the numbers as a guide and check the board or the bar's Instagram before you order.
+
+![Itaewon street crossing at night](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/itaewon-crossing-at-night.jpg)
+
+## Itaewon Drink Prices in 2026
+
+| Drink | Typical Itaewon price (2026) | Where that price comes from |
+| --- | --- | --- |
+| Soju (360ml bottle), convenience store | about ₩1,900 | Standard CU and GS25 price for Chamisul Fresh |
+| Beer, convenience store | 4 cans for ₩8,000 to ₩12,000 | GS25 multi-buy deals, September 2026 |
+| Soju (bottle), Korean pocha | ₩7,000 to ₩8,000 | Kim Silryeok Pocha menu (Hallasan ₩8,000) |
+| Draft lager (Cass or house draft) | about ₩6,000 | Kim Silryeok Pocha and The Craic House menus |
+| Highball | from ₩6,000 | Kim Silryeok Pocha house highball |
+| Craft beer | about ₩7,500 to ₩10,000 | Magpie Brewing and other Itaewon taprooms |
+| Guinness (568ml pint) | ₩13,000 | The Craic House menu |
+| Imported bottled beer (Heineken, Corona) | ₩10,000 to ₩11,000 | The Craic House menu |
+
+The cheapest round in Itaewon is still a convenience-store can, but the best value with a seat, music and other people is a 2-for-1 happy hour or a Korean pocha with ₩6,000 drinks.
+
+## The Cheapest Bars in Itaewon (2026)
+
+Most of these are within a few minutes' walk of Itaewon Station (Line 6), around the Itaewon-ro 27-gil and 27ga-gil lanes behind the main road. That makes it easy to start at one happy hour and move to the next.
+
+![Bars and pubs on an Itaewon side street](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/itaewon-pub-street.jpg)
+
+### Itaewon Pub: the 2-for-1 happy hour
+
+[Itaewon Pub](/south-korea/seoul/venues/itaewon-pub), at 50 Itaewon-ro 27ga-gil, earns its name with the most generous happy hour in the area. The Korea Times reported that every weekday from 5 PM to 8 PM, and on weekends from 2 PM to 8 PM, all beers, some cocktails and shots of Jameson are two for the price of one. Order carefully: if four of you each ask for a beer, you may get eight. It's a casual sports-and-games pub with pool, beer pong and big screens, and it stays open late (until about 3 AM Sunday to Thursday and 5 AM on Fridays and Saturdays). Check @itaewon_pub on Instagram for the current deal before you go.
+
+### Kim Silryeok Pocha (김실력포차): ₩6,000 draft and highballs
+
+For Korean-style drinking at Korean prices, [Kim Silryeok Pocha](/south-korea/seoul/venues/kim-silryeok-pocha-itaewon) is about 90 metres from Itaewon Station at 18 Itaewon-ro 27ga-gil. Its published menu lists draft beer at ₩6,000, the house highball at ₩6,000, soju from ₩7,000, and house strawberry or condensed-milk makgeolli at ₩6,000 a 400ml cup (₩12,000 a litre bottle). Anju (drinking food) such as fried chicken and stews costs ₩21,000 to ₩28,000 a plate, so the bar suggests budgeting ₩20,000 to ₩30,000 a person. It opens at 5 PM and runs until 4:30 AM from Sunday to Thursday, and until 9 AM on Fridays and Saturdays, which makes it a good last stop too.
+
+### The Craic House: ₩6,000 Cass and weekend 1+1
+
+[The Craic House](/south-korea/seoul/venues/craic-house-itaewon) is an Irish pub one minute from Itaewon Station Exit 4. Its 2026 menu lists Cass (500ml) at ₩6,000 and Guinness at ₩13,000, and it runs a 1+1 happy hour every Saturday and Sunday until 5 PM (excluding events, and it can pause for big live sports). Weekend brunch is served until 5 PM too, so a late Saturday lunch with two-for-one drinks is one of the best-value afternoons in Itaewon. The building is confusing: the main-street entrance reads 2F and the lower street reads 4F.
+
+### Thursday Party Itaewon: big beers and bar games
+
+[Thursday Party](/south-korea/seoul/venues/thursday-party-itaewon), at 6 Itaewon-ro 27-gil, is the Itaewon branch of the cheap-and-cheerful bar chain also found in Hongdae. Reviewers keep coming back to the same points: large-format beers at low prices, darts, foosball and beer pong, and a mixed Korean and foreign crowd that gets going after midnight. 2026 listings show it opening at 6 or 7 PM and staying open until 2 to 5 AM depending on the night. Bring your passport or ARC: staff check ID at the door however old you look.
+
+### Shenanigans and other happy hours
+
+Shenanigans, on Itaewon-ro 19-gil, is a long-running expat bar with a weekday happy hour listed from 4 PM to 7 PM. Up the hill in Haebangchon, Phillies Pub lists a Saturday-afternoon happy hour with drinks at half price. Neither publishes a current price list online, so confirm the deal at the bar.
+
+### Magpie Brewing: cheap for craft
+
+Craft beer is never the cheapest drink in Itaewon, but [Magpie Brewshop](/south-korea/seoul/venues/magpie-brewshop-itaewon) keeps it reasonable: house beers such as the Seoul Pale Ale cost around ₩7,500 to ₩10,000 a glass, and a four-glass flight is a good way to try the range. If you want quality after a cheap happy hour, this is the place to finish. There's more on the scene in our guide to [breweries in South Korea](/breweries-in-south-korea).
+
+## Happy Hour Plan: When to Drink Cheaply in Itaewon
+
+The cheapest way to do Itaewon is to plan around the deals rather than turn up at 11 PM:
+
+- **Saturday or Sunday, early afternoon:** brunch and 1+1 drinks at The Craic House (until 5 PM), or Itaewon Pub's 2-for-1, which starts at 2 PM on weekends.
+- **Weekdays, 4 PM to 8 PM:** Shenanigans' listed 4 PM to 7 PM happy hour, then Itaewon Pub's 5 PM to 8 PM 2-for-1.
+- **Evening:** move to Kim Silryeok Pocha for ₩6,000 drafts and highballs, and share one anju plate between two or three people.
+- **Late:** Thursday Party for big beers and games, or a convenience-store can on the way home.
+
+Tipping isn't expected anywhere in Korea, which also keeps the bill down.
+
+## Convenience Store Drinking in Itaewon
+
+![Alcohol shelf in a GS25 convenience store in Seoul](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/gs25-convenience-store-alcohol-shelf.jpg)
+
+Korea's convenience stores (GS25, CU, 7-Eleven and Emart24) are the cheapest drinks in Itaewon by a long way. A 360ml bottle of Chamisul soju costs about ₩1,900, and GS25's multi-buy deals in September 2026 brought most domestic and imported beers down to 4 cans for ₩8,000, ₩10,000 or ₩12,000. Many stores have plastic tables outside, and a can at the "pyeonuijeom" (convenience store) is a very normal Korean way to start or end a night.
+
+Drinking in public is generally legal in Korea, but it isn't a free-for-all. Seoul's drinking-culture ordinance lets districts designate no-drinking zones, mostly parks and children's areas, where drinking that causes noise or disturbance can bring a fine of up to ₩100,000. Look for signs, keep the noise down in residential lanes, and take your empties with you.
+
+One place to be especially respectful: the narrow alley beside the Hamilton Hotel, next to Itaewon Station Exit 1, is now the 10.29 Path of Memory and Safety (10.29 기억과 안전의 길), a memorial to the 159 people who died in the October 2022 crowd crush. Don't drink, linger or take party photos there. Around Halloween, Yongsan District and the police run crowd-control measures in Itaewon. In 2025 these included one-way walking routes, separated station exits and, at peak congestion, trains skipping Itaewon Station, so allow extra time and follow the staff.
+
+## Soju, Somaek and How Koreans Drink Cheaply
+
+![A bottle of Chamisul soju with a shot glass](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/chamisul-soju-bottle-and-shot.jpg)
+
+Soju is the reason Korean bar bills can stay low. A bottle (360ml, usually around 16% ABV) is shared between the table in small shot glasses, and at most pochas a bottle costs less than a single imported beer. The other cheap staple is somaek (소맥): a shot of soju mixed into a glass of beer, which stretches one bottle of each a long way. Korean drinking etiquette applies here too: pour for others rather than yourself, and receive a drink with two hands when someone older pours for you. There's more in our guide to [Korean drinking culture](/culture/korean-drinking-culture).
+
+![Mixing somaek with soju and beer](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/somaek-soju-and-beer.jpg)
+
+## Korean Drinking Games to Know
+
+Drinking games are part of a Korean night out, and the simple ones are easy to pick up at the table:
+
+- **Titanic:** float an empty shot glass in a glass of beer, and take turns pouring a little soju into it. Whoever sinks it drinks the somaek.
+- **Baskin Robbins 31:** count from 1 upwards, with each person saying one, two or three numbers in turn. Whoever has to say "31" drinks.
+- **Son Byeong-ho game:** everyone holds up five fingers, and each player names something ("anyone wearing glasses"). Everyone it applies to folds a finger, and the first person with no fingers left drinks.
+
+Know your limit, watch your own drink, and keep it fun: nobody minds if you switch to water or cider.
+
+## Getting Home and Staying Safe
+
+Seoul's subway stops running around midnight, so after that it's a taxi (Kakao T works for visitors) or a night bus. Itaewon is generally safe at night, but the usual big-city rules apply: keep an eye on your drink, agree a meeting point with friends, and avoid the hostess-style bars that hand out flyers on the street, where bills can be many times what you expected. The legal drinking age in Korea is 19, counted from 1 January of the year you turn 19, and bars and clubs will ask foreigners for a passport or ARC.
+
+![An alley in Haebangchon near Itaewon](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/haebangchon-alley.jpg)
+
+## More Itaewon Nightlife
+
+- All the bars on our [Itaewon bars map](/south-korea/seoul/itaewon/category/bars), with addresses and hours.
+- Our [Itaewon After Dark](/south-korea/seoul/guides/nightlife-itaewon) guide for clubs and late-night spots.
+- The [Itaewon neighbourhood guide](/south-korea/seoul/itaewon) for food, shopping and things to do by day.
+- [Korean nightlife culture](/culture/korean-nightlife-culture), for how a night out works across Seoul.
+- Two Korean drinks worth trying: [sansachun](/travel-tips/sansachun-drink-guide) and [maeshil-ju](/what-is-maeshilju).
+
+## Cheapest Drinks in Itaewon FAQ
+
+### What is the cheapest bar in Itaewon?
+For a seat and a crowd, Itaewon Pub's 2-for-1 happy hour (weekdays 5 PM to 8 PM, weekends 2 PM to 8 PM) and Kim Silryeok Pocha's ₩6,000 draft beer and highballs are the best value in 2026. The cheapest drinks of all are from convenience stores, where soju costs about ₩1,900 a bottle.
+
+### How much is a beer in Itaewon?
+Expect about ₩6,000 for a Cass or house draft at a pocha or pub, ₩7,500 to ₩10,000 for craft beer, and ₩10,000 to ₩13,000 for imported bottles or a pint of Guinness. Happy hours can halve that.
+
+### Does Itaewon have happy hours?
+Yes. Itaewon Pub runs 2-for-1 drinks on weekdays from 5 PM to 8 PM and weekends from 2 PM to 8 PM, The Craic House does 1+1 drinks on Saturday and Sunday until 5 PM, and Shenanigans lists a weekday happy hour from 4 PM to 7 PM. Deals change, so check before you go.
+
+### Can you drink in the street in Itaewon?
+Drinking in public is generally legal in Korea, and drinking outside convenience stores is common. Some parks and areas are designated no-drinking zones with fines of up to ₩100,000, and you should never drink in the 10.29 memorial alley beside the Hamilton Hotel, next to Itaewon Station Exit 1.
+
+### What is the drinking age in Korea?
+19, counted from 1 January of the year you turn 19. Bars, clubs and convenience stores can ask for ID, so carry your passport or ARC.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons. Each was resized for the web.
+
+- [Itaewon at night, November 2023](https://commons.wikimedia.org/wiki/File:20231103_-_Itaewon_-_3.jpg): eugene_o, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- [Itaewon pub street](https://commons.wikimedia.org/wiki/File:Itaewon_Pub_street.JPG): Shinae Hyun, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [GS25 alcohol selection, Seoul](https://commons.wikimedia.org/wiki/File:GS25_alcohol_selection_seoul.jpg): Sgroey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Soju in a Korean restaurant](https://commons.wikimedia.org/wiki/File:Soju_in_korean_restaurant.JPG): Clément Bucco-Lechat, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- [Somaek (soju and beer mix)](https://commons.wikimedia.org/wiki/File:Somaek_(soju_and_beer_mix).jpg): Gregor Samsa, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- [Haebangchon alley, Itaewon](https://commons.wikimedia.org/wiki/File:Haebangchon_itaewon_alley.jpg): Sgroey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).`,
+    tags: ["Nightlife", "Drinks", "Seoul", "Itaewon", "Budget"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-13",
     contentType: "travel-tip",
   },
   {

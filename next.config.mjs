@@ -24,17 +24,20 @@ const nextConfig = {
       { source: "/the-evolution-of-k-pop-a-journey-through-time", destination: "/travel-tips/k-pop-history", permanent: true },
       { source: "/10-most-handsome-kpop-male-idols-2025", destination: "/travel-tips/k-pop-male-idols", permanent: true },
       { source: "/travel-tips/most-beautiful-korean-actresses", destination: "/most-beautiful-korean-actresses", permanent: true },
+      { source: "/travel-tips/the-best-craft-beer-bars-in-gangnam", destination: "/the-best-craft-beer-bars-in-gangnam", permanent: true },
       { source: "/where-to-shop-for-streetwear-in-hongdae", destination: "/south-korea/seoul/guides/streetwear-hongdae", permanent: true },
       { source: "/south-korea/seoul/guides/pc-bang-gaming-seoul", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
       { source: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
       { source: "/what-is-sansachun", destination: "/travel-tips/sansachun-drink-guide", permanent: true },
       { source: "/travel-tips/south-korean-terms-of-endearment", destination: "/south-korean-terms-of-endearment", permanent: true },
+      { source: "/travel-tips/where-to-go-salsa-dancing-in-seoul", destination: "/where-to-go-salsa-dancing-in-seoul", permanent: true },
       { source: "/travel-tips/arex-train-schedule", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/arex-airport-train-guide", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/buying-bedding-in-south-korea", destination: "/buying-bedding-in-south-korea", permanent: true },
       { source: "/travel-tips/seoul-subway-cheat-sheet", destination: "/seoul-subway-a-cheat-sheet", permanent: true },
       { source: "/travel-tips/jeju-loveland", destination: "/jeju-loveland", permanent: true },
       { source: "/travel-tips/how-bad-is-air-quality-in-south-korea", destination: "/how-bad-is-air-quality-in-south-korea", permanent: true },
+      { source: "/travel-tips/dating-culture-among-korean-youth-apps-norms-and-trends", destination: "/dating-culture-among-korean-youth-apps-norms-and-trends", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
       { source: "/travel-tips/most-popular-korean-bikini-models-in-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
       { source: "/culture/most-popular-korean-bikini-models-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
@@ -44,6 +47,7 @@ const nextConfig = {
       { source: "/travel-tips/top-korean-plus-sized-models-in-2025", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/top-korean-plus-sized-models-in-2024", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/top-korean-plus-sized-models-in-2023", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
+      { source: "/travel-tips/where-to-find-the-cheapest-drinks-in-itaewon", destination: "/where-to-find-the-cheapest-drinks-in-itaewon", permanent: true },
     ];
   },
   async rewrites() {
@@ -63,6 +67,10 @@ const nextConfig = {
         destination: "/travel-tips/south-korean-terms-of-endearment",
       },
       {
+        source: "/where-to-go-salsa-dancing-in-seoul",
+        destination: "/travel-tips/where-to-go-salsa-dancing-in-seoul",
+      },
+      {
         source: "/breweries-in-south-korea",
         destination: "/travel-tips/breweries-in-south-korea",
       },
@@ -75,8 +83,16 @@ const nextConfig = {
         destination: "/travel-tips/most-beautiful-korean-actresses",
       },
       {
+        source: "/the-best-craft-beer-bars-in-gangnam",
+        destination: "/travel-tips/the-best-craft-beer-bars-in-gangnam",
+      },
+      {
         source: "/how-bad-is-air-quality-in-south-korea",
         destination: "/travel-tips/how-bad-is-air-quality-in-south-korea",
+      },
+      {
+        source: "/dating-culture-among-korean-youth-apps-norms-and-trends",
+        destination: "/travel-tips/dating-culture-among-korean-youth-apps-norms-and-trends",
       },
       {
         source: "/most-popular-korean-bikini-models-in-2025",
@@ -85,6 +101,10 @@ const nextConfig = {
       {
         source: "/top-korean-plus-sized-models-in-2025",
         destination: "/travel-tips/top-korean-plus-sized-models-in-2025",
+      },
+      {
+        source: "/where-to-find-the-cheapest-drinks-in-itaewon",
+        destination: "/travel-tips/where-to-find-the-cheapest-drinks-in-itaewon",
       },
     ];
   },
