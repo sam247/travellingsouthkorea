@@ -37,6 +37,7 @@ const nextConfig = {
       { source: "/travel-tips/seoul-subway-cheat-sheet", destination: "/seoul-subway-a-cheat-sheet", permanent: true },
       { source: "/travel-tips/jeju-loveland", destination: "/jeju-loveland", permanent: true },
       { source: "/travel-tips/how-bad-is-air-quality-in-south-korea", destination: "/how-bad-is-air-quality-in-south-korea", permanent: true },
+      { source: "/travel-tips/dating-culture-among-korean-youth-apps-norms-and-trends", destination: "/dating-culture-among-korean-youth-apps-norms-and-trends", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
       { source: "/travel-tips/most-popular-korean-bikini-models-in-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
       { source: "/culture/most-popular-korean-bikini-models-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
@@ -88,6 +89,10 @@ const nextConfig = {
       {
         source: "/how-bad-is-air-quality-in-south-korea",
         destination: "/travel-tips/how-bad-is-air-quality-in-south-korea",
+      },
+      {
+        source: "/dating-culture-among-korean-youth-apps-norms-and-trends",
+        destination: "/travel-tips/dating-culture-among-korean-youth-apps-norms-and-trends",
       },
       {
         source: "/most-popular-korean-bikini-models-in-2025",
