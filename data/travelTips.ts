@@ -541,6 +541,155 @@ Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each w
     contentType: "travel-tip",
   },
   {
+    slug: "where-to-go-salsa-dancing-in-seoul",
+    title: "Where to Go Salsa Dancing in Seoul (2026): Clubs, Socials and Beginner Classes",
+    image: "/images/blogs/where-to-go-salsa-dancing-in-seoul/bachata-dip-social-dance.jpg",
+    canonicalPath: "/where-to-go-salsa-dancing-in-seoul",
+    metaTitle: "Salsa Dancing in Seoul 2026: Best Clubs, Socials & Classes",
+    metaDescription:
+      "Where to dance salsa and bachata in Seoul in 2026: TURN, Latin Official and Sol Bar in Gangnam, Bonita, Hongturn and Macondo in Hongdae, plus English classes and prices.",
+    summary:
+      "A 2026 guide to Seoul's salsa and bachata scene: the Gangnam and Hongdae clubs running weekly socials, late-night second-round bars, English-taught beginner classes, music ratios, etiquette and what it costs.",
+    content: `Seoul has one of the busiest salsa and bachata scenes in Asia. On any night of the week there's a Latin social running somewhere in Gangnam or Hongdae, entry is usually around ₩10,000, and at weekends the "second-round" clubs keep the floor going until 6 AM. You don't need a partner, and most clubs are used to foreign dancers turning up on their own.
+
+This guide covers the clubs that are running socials in autumn 2026, where to take a beginner class in English, how the Seoul scene works (music ratios, dance nicknames, second-round bars), and what to budget. Schedules change week to week, so check the club's Instagram or the weekly listings before you go.
+
+![A couple doing a bachata dip at a social dance](/images/blogs/where-to-go-salsa-dancing-in-seoul/bachata-dip-social-dance.jpg)
+
+## Seoul Salsa Clubs at a Glance
+
+| Club | Area | When (2026 listings) | Entry | Best for |
+| --- | --- | --- | --- | --- |
+| [TURN Latin Club](/south-korea/seoul/venues/turn-latin-club-gangnam) (Gangnam Turn) | Gangnam Station | Tue, Wed, Fri, Sat, Sun, 8 PM – 1 AM | about ₩10,000 | The classic Gangnam social, running since 2005 |
+| [Latin Official Gangnam](/south-korea/seoul/venues/latin-official-gangnam) | Gangnam Station | Daily, 9 PM – 1 AM | ₩10,000 – ₩20,000 | A big floor seven nights a week, plus classes |
+| [Sol Bar Gangnam](/south-korea/seoul/venues/sol-bar-gangnam) | Gangnam Station | Fri – Sun, midnight – 6 AM | listed as free | The after-party, heavy on bachata |
+| [Club Bonita](/south-korea/seoul/venues/club-bonita-hongdae) | Hongdae | Daily socials, 8 PM onwards | about ₩10,000 (party nights more) | Hongdae's long-running all-rounder |
+| [Hongturn](/south-korea/seoul/venues/hongturn-hongdae) | Hongdae | Fri and Sat Latin nights; Sunday social 6 PM – midnight | about ₩11,000 | Mixed salsa On1/On2, bachata and more |
+| Macondo | Hongdae | Classes Wed – Sat; Friday social to about 4 AM; Saturday bachata to 4:30 AM | about ₩15,000 on Saturdays | Seoul's oldest salsa bar |
+
+Times and prices come from 2026 listings on Salsavida, FindBachata, Socialpass and the clubs' own event posts. They can change, so treat them as a guide.
+
+## Gangnam: Seoul's Biggest Latin Floors
+
+Most of Gangnam's Latin clubs sit in basements within a few minutes' walk of Gangnam Station (Line 2 and the Sinbundang Line), on the Yeoksam-dong side of Gangnam-daero. That makes it easy to try two clubs in a night.
+
+![Gangnam Station at night](/images/blogs/where-to-go-salsa-dancing-in-seoul/gangnam-station-night.jpg)
+
+### TURN Latin Club (강남 턴)
+
+TURN, which locals call "Gangnam Turn" (강턴), has been running since 2005 and is the club most Korean dancers name first. It's in the basement at 17 Yeoksam-ro 3-gil. 2026 listings show socials on Tuesday, Wednesday, Friday, Saturday and Sunday from 8 PM to 1 AM, with entry around ₩10,000. Korean Latin-dance clubs such as Latin Paradise (라틴파라다이스) also hold their weekly classes there, so early evening is often lessons and the social builds after 9 PM. Friday and Saturday DJ parties are the busiest nights.
+
+### Latin Official Gangnam (라틴오피셜)
+
+Latin Official, at 9 Teheran-ro 6-gil, runs a social every night of the week from about 9 PM to 1 AM, with entry between ₩10,000 and ₩20,000 depending on the night. It's one of the largest Latin venues in Seoul and also works as an academy, so you'll see a lot of students practising what they learned in class. If you're in town midweek and TURN is closed, this is the reliable option.
+
+### Sol Bar Gangnam (솔바)
+
+Sol Bar is Gangnam's main second-round club, in the basement at 11-7 Teheran-ro 8-gil. It opens around midnight on Friday, Saturday and Sunday and runs until about 6 AM. Dancers describe it as where the strongest bachata dancers end up on a Saturday night, so expect more bachata than salsa. Listings show no cover charge, but you'll be expected to buy drinks.
+
+## Hongdae: Younger, Looser and Open Late
+
+Hongdae's Latin clubs are on and around Donggyo-ro, a short walk from Hongik University Station (Line 2, AREX and the Gyeongui-Jungang Line). The crowd is younger and more mixed, and the bar and club streets of [Hongdae](/south-korea/seoul/hongdae) are right there if your friends don't dance.
+
+![Hongdae's party district at night](/images/blogs/where-to-go-salsa-dancing-in-seoul/hongdae-at-night.jpg)
+
+### Club Bonita (홍대 보니따)
+
+Bonita is one of Seoul's longest-running salsa clubs, on the basement floors at 191 Donggyo-ro. It runs socials every night, usually from about 8 PM, with entry around ₩10,000. Themed party nights cost more: a pre-Chuseok party on 23 September 2026 charged ₩12,000 to ₩20,000 and included a one-hour all-levels salsa workshop. Bonita posts its weekly schedule on Instagram (@jessica_latinclub_bonita) and on its KakaoTalk channel (홍대보니따).
+
+### Hongturn (홍턴)
+
+Hongturn (홍턴, short for "Hongdae Turn") is in the basement at 207 Donggyo-ro. Friday and Saturday are its main Latin nights, and the music runs from salsa On1 and On2 to bachata, merengue, reggaeton and cha-cha. Its Sunday social starts early, at 6 PM, and finishes at midnight, with entry around ₩11,000. That's handy if you have work or a flight on Monday.
+
+### Macondo
+
+Macondo is often called Seoul's oldest salsa bar. It runs classes from Wednesday to Saturday at about 7:30 PM, a full social on Friday nights that goes on until about 4 AM, and a Saturday bachata social from 8:30 PM to 4:30 AM, with Saturday entry around ₩15,000. Listings give two different street addresses, so check its Instagram (@macondo_club) for directions before you go.
+
+### Hongdae's second-round bars
+
+When the main socials finish, Hongdae has its own late-night spots. Dancers mention Sol Bar Hongdae, Playground, Havana (the one to choose if you want more salsa than bachata) and Caribe (mostly kizomba). These open late, often around 1 or 2 AM, and keep going until dawn at weekends.
+
+## Beginner Salsa Classes in English
+
+You can turn up to a social without lessons and still have fun, but one class makes a big difference. These are the options in 2026 listings that are taught in English or are friendly to foreigners:
+
+- **JDC (Jhonatan Dance Company).** Jhonatan is a professional dancer from Colombia, and his classes are taught in English. A typical Tuesday has sensual bachata at 7:30 PM, LA-style salsa (On1) at 8:30 PM and a social from 9:30 PM. There are also Thursday, Saturday and Monday sessions, including some in Songdo, Incheon. You don't need a partner. Book through the "Seoul Latin Dance" group on Meetup.
+- **Timba Tribe Korea.** This group teaches Cuban salsa (casino). Its free beginner class on Sundays from 3 to 5 PM at Dance Studio Loca in Hongdae is listed on Salsavida.
+- **Club classes.** Bonita, Macondo and the Korean dance clubs that meet at TURN all run course-style classes, often 4 to 8 weeks long. They're usually taught in Korean, but the steps are easy to follow, and they're the quickest way to get to know the local scene.
+
+![A beginner salsa class](/images/blogs/where-to-go-salsa-dancing-in-seoul/salsa-beginner-class.jpg)
+
+## How the Seoul Latin Scene Works
+
+**Music ratios.** Seoul listings describe a night's music with a code such as "B3 S3" or "B5 S2". It means the DJ plays three bachatas then three salsas, or five bachatas then two salsas, on repeat. Bachata has overtaken salsa in Seoul, so if you mainly dance salsa, look for nights marked S3 or S4, or go to a salsa-heavy room such as Havana.
+
+**Nicknames.** Korean Latin-dance clubs (동호회, *donghohoe*) are big, organised communities with membership, course enrolment and online forums on Daum and Naver cafés. Members usually go by a dance nickname rather than their real name, so don't be surprised if someone introduces themselves as "Rain" or "Daisy".
+
+**Second rounds.** Seoul's main socials usually end around 1 AM, but at weekends the second-round clubs open around midnight to 2 AM and run until 6 AM. Few cities in Asia keep Latin socials going that late, every weekend.
+
+**Weekly listings.** The [Latin in Seoul](https://salsa.atoo.kr/) site posts each week's schedule for the Hongdae and Gangnam clubs, including the DJ, start time and music ratio. Its community is also on Reddit as r/latininseoul. Many events are also posted on Social Dance Live and Danceinfo.
+
+![Bachata instructors teaching at a dance festival](/images/blogs/where-to-go-salsa-dancing-in-seoul/bachata-workshop-instructors.jpg)
+
+## Etiquette and Practical Tips
+
+- **Asking someone to dance.** Offer a hand and a smile. It's normal to dance one or two songs with someone, thank them, and move on. Anyone can ask anyone. A polite "no thanks" is fine, so don't push.
+- **Shoes.** Bring dance shoes or shoes with smooth soles. Trainers with grippy soles make turns hard and hurt your knees.
+- **Lockers and cloakrooms.** Some clubs have paid lockers (around ₩1,500), and a few reviews mention theft, so keep your valuables with you.
+- **Paying.** Advance tickets for parties are often paid by Korean bank transfer (KakaoBank and similar). If you don't have a Korean bank account, ask to pay at the door, which usually costs a few thousand won more.
+- **Age.** Bars and clubs in Korea are 19+ (by the calendar-year rule), so bring your passport or ARC.
+- **Getting home.** The subway stops around midnight. After that, take a taxi through Kakao T or one of Seoul's late-night "N" buses.
+- **Look after yourself.** These are friendly social clubs, but keep an eye on your drink as you would anywhere in Seoul's [nightlife](/south-korea/seoul/category/nightlife).
+
+![A salsa band playing while couples dance](/images/blogs/where-to-go-salsa-dancing-in-seoul/salsa-band-and-dancers.jpg)
+
+## Big Latin Parties This Autumn
+
+As well as the weekly socials, Seoul has regular large parties and festivals. The next big one is **Latin Mood (Halloween edition)** on **Saturday 24 October 2026**, from 5 PM to 11:40 PM, on the rooftop of the Vista Pub restaurant at Some Sevit (세빛섬), the floating islands on the Han River. Advance tickets cost ₩35,000 until 22 October and ₩40,000 after that. Fancy dress is encouraged, the music ratio is B2 S1, and the organisers say the event will be cancelled with a full refund if it rains.
+
+## Where Salsa Fits in a Seoul Night Out
+
+A Latin social is one of the easiest ways to meet people in Seoul, local or foreign, without the pressure of a club or a dating app. Start with dinner and a drink in Gangnam or Hongdae, go to a social from about 9 PM, and stay for the second round if you still have the legs. For more ideas, see:
+
+- [Seoul nightlife: bars and clubs by area](/south-korea/seoul/category/nightlife)
+- [Gangnam bars](/south-korea/seoul/gangnam/category/bars) and [Hongdae bars](/south-korea/seoul/hongdae/category/bars)
+- [Korean nightlife culture](/culture/korean-nightlife-culture) and [Korean drinking culture](/culture/korean-drinking-culture)
+- [How to flirt in Korean](/south-korean-terms-of-endearment), if you want a few phrases for the dance floor
+- [Dating and intimacy in South Korea](/korean-sexuality)
+
+## Seoul Salsa FAQ
+
+### Where is the best place to go salsa dancing in Seoul?
+For a classic social, go to TURN (Gangnam Turn) near Gangnam Station, which has been running since 2005. In Hongdae, Club Bonita runs socials every night. For late-night dancing at weekends, Sol Bar Gangnam keeps going until about 6 AM.
+
+### How much does it cost to go to a salsa club in Seoul?
+Most weekly socials cost about ₩10,000 to ₩15,000 at the door, and party tickets sometimes include a drink. Special parties cost ₩15,000 to ₩40,000. Some second-round clubs list no cover charge but expect you to buy drinks.
+
+### Do I need a partner or experience?
+No. Everyone goes on their own and dances with different people all night. Beginners are welcome, but taking a class first, such as JDC's English-taught lessons or a club's beginner course, will make your first social much more fun.
+
+### Is salsa or bachata more popular in Seoul?
+Bachata is now more popular, and many nights play more bachata than salsa. Check the music ratio in the listing (for example "S3 B3" means three salsas then three bachatas) if you mainly want salsa.
+
+### What night is best for salsa in Seoul?
+Friday and Saturday have the biggest crowds and the second-round clubs. TURN runs on Tuesday and Wednesday as well, and Latin Official and Bonita have socials every day, so you can find a floor any night of the week.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons. Each was resized for the web.
+
+- [A couple doing a bachata dip](https://commons.wikimedia.org/wiki/File:Bachata_dip.jpg): Salsauom, CC0.
+- [Night view at Gangnam station bus stop](https://commons.wikimedia.org/wiki/File:Night_view_at_Gangnam_station_bus_stop_20251024.jpg): *Youngjin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Hongdae Party District at Night, Seoul](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg): Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Salsa class at Iberoconf 2023](https://commons.wikimedia.org/wiki/File:Clase_de_salsa_en_Iberoconf_2023.jpg): Luis Alvaz, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Juan Garcia and Sara Aviles at California Dance Festival 2025](https://commons.wikimedia.org/wiki/File:Juan_Garcia_%26_Sara_Aviles_at_California_Dance_Festival_2025_01.jpg): Rosiestep, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Salsa band and salsa dancing, Lagoa, the Algarve](https://commons.wikimedia.org/wiki/File:Salsa_band_and_salsa_dancing_-_Fatacil_Agriculture_and_Tourism_Fair_-_Lagoa_-_The_Algarve,_Portugal_(1469449571).jpg): Glen Bowman, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).`,
+    tags: ["Nightlife", "Dance", "Seoul", "Gangnam", "Hongdae"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-12",
+    contentType: "travel-tip",
+  },
+  {
     slug: "sansachun-drink-guide",
     title: "What Is Sansachun?",
     image: getTravelTipImagePath("sansachun-drink-guide"),
