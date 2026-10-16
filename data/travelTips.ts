@@ -1876,200 +1876,156 @@ Photos are from Wikimedia Commons under Creative Commons licences, cropped to a 
     title: "Best Craft Breweries in South Korea to Visit",
     image: "/images/blogs/breweries/defne-kucukmustafa-wYDUZux2wE8-unsplash.jpg",
     canonicalPath: "/breweries-in-south-korea",
+    metaTitle: "Best Craft Breweries in South Korea (2026): Seoul, Busan, Jeju & More",
+    metaDescription:
+      "Which Korean craft breweries are still open in 2026: Magpie, Seoul Brewery, Euljiro, Gorilla, Galmegi, Budnamu and Rami, with addresses, plus Amazing Brewing and Wild Wave closures.",
     summary:
-      "From Seoul taprooms to Busan's coastal brewpubs and Jeju farmhouse ales — a guide to South Korea's best craft breweries, the beers to try, and the culture behind the pour.",
-    content: `**Quick summary:** South Korea's craft beer scene has exploded since 2014. From pioneering Seoul taprooms to coastal breweries in Busan and farm-to-glass operations on Jeju, this guide covers the best craft breweries in South Korea, the beers worth seeking out, and the food and culture that surround the pour. Staying south of the river? See our guide to the [best craft beer bars in Gangnam](/the-best-craft-beer-bars-in-gangnam).
+      "The Korean craft breweries and taprooms still pouring in 2026, from Magpie and Euljiro in Seoul to Gorilla in Busan, Budnamu in Gangneung and Rami in Changwon, plus who has closed.",
+    content: `**Quick summary:** Korean craft beer grew fast after the 2014 rule changes, then hit a hard shakeout from 2023. In 2026 some famous names are gone: Amazing Brewing in Seongsu was declared bankrupt in April 2026, Busan's sour specialist Wild Wave filed for bankruptcy in May, and Gompyo Wheat Beer is being discontinued. This guide covers the breweries and taprooms that are still pouring in Seoul, Busan, Gangneung, Changwon and Jeju, with addresses and what changed. Staying south of the river? See our guide to the [best craft beer bars in Gangnam](/the-best-craft-beer-bars-in-gangnam).
 
-## Exploring South Korea's Vibrant Craft Beer Scene
+## Exploring South Korea's Craft Beer Scene
 
-For decades, the South Korean beer landscape was synonymous with a singular experience: cold, fizzy, and light lagers served in iconic green bottles. Whether you were relaxing at a street-side tent or dining in a polished restaurant, the market was dominated by massive conglomerates like Oriental Breweries and Hite. However, a seismic shift has occurred. A vibrant craft beer scene has blossomed across South Korea, turning the nation from a "land of bland" into a sophisticated destination for enthusiasts. This guide explores the best craft breweries in South Korea, balancing the industrial-chic aesthetics of modern urban taprooms with the timeless beauty of traditional Korean architecture to provide a truly immersive culinary journey.
+For decades, Korean beer meant cold, fizzy lager from two giants, Oriental Brewery (Cass, OB) and Hite-Jinro (Hite, Terra, Kelly). Craft beer started in Itaewon and Gyeongnidan in the early 2010s, spread across Seoul and Busan, and was in convenience-store fridges nationwide by 2020.
 
-What makes this scene compelling is not just the beer itself, but the way it reflects how South Korean beer culture has matured. In a market once ruled by OB Beer, Hite Breweries, Cass, and Terra, the rise of small-batch brewing has made room for stronger hop character, barrel aging, sours, and ingredient-driven recipes. That shift has helped craft beers move from a niche curiosity into a mainstream option for people searching for more character in their pint.
+The boom did not last. Drinkers switched to highballs and whisky, convenience-store price wars squeezed margins, and Korea's total alcohol shipments in 2024 were the lowest since comparable records began in 2006 (National Tax Service figures reported by Hankook Ilbo, April 2026). Several first-generation breweries have since entered court rehabilitation or bankruptcy. That makes current information more important than usual: a taproom that was a must-visit in 2022 may now be closed. Check Naver Map on the day before you travel.
 
 ## The Korean Craft Renaissance: From Macro-Lagers to Micro-Brews
 
-This shows how Korea's beer changed. It went from simple, fizzy macro-lagers to complex craft beers with local ingredients.
+The turning point came in 2014, when changes to the liquor tax rules let small brewers sell beer outside their own premises. Before that, microbreweries could only pour on site, which kept them tiny. Within a few years Seoul had dozens of taprooms brewing pale ales, IPAs, stouts and sours, many using Korean ingredients such as rice, citrus and herbs.
 
-The change happened quickly, and it reshaped the way locals and visitors think about beer. Today, you can find taprooms in Seoul, Busan, and Jeju that are as likely to pour a crisp pale ale as they are a rich stout or a fruit-forward sour. Many of these breweries have built their reputations by pairing their beers with strong food menus, thoughtful design, and a strong sense of place.
+The baseline is still the macro lager: Cass, Terra, Hite and Kelly are clean, highly carbonated and built to go with spicy, greasy food. Craft beer's appeal in Korea has always been the contrast, and that contrast is easiest to taste in the taprooms below.
 
-The craft beer scene also benefited from a growing appetite for variety. Beer drinkers who once relied on OB Golden Lager, Hite Extra Cold, and other familiar staples now have access to rotating taps, bottle shop releases, and convenience-store singles that make experimentation easier than ever. That diversity is one reason South Korea has become such an interesting destination for beer-focused travel.
+## Magpie Brewing Co.: Gyeongnidan Pioneer, Jeju Brewery
 
-## The Baseline: Understanding the Dominance of Cass, Hite, and Terra
+Magpie began when four friends drinking in a Gyeongnidan alley decided to brew their own beer, and it is still one of the most dependable names in Korean craft. The core range is a Pale Ale (4.8%), IPA (6.5%), Kölsch (4.8%) and Porter (5.6%), plus four seasonal beers a year.
 
-Knowing the usual "macro" beers is important. It shows the clear difference made by new independent brewers. For years, options were limited to domestic giants like Cass, Hite, and Terra. These South Korean beer staples are designed for mass consumption; they are clean, highly carbonated, and intended to be consumed quickly alongside spicy, greasy food. While these lagers, including the ubiquitous OB Golden Lager and Hite Extra Cold, serve a specific purpose in the local culinary ecosystem, they lack the nuance that modern craft drinkers crave.
+Where to drink it in 2026 (from Magpie's own locations page):
 
-That baseline matters because it explains why craft beer has resonated so strongly. When your reference point is a light, refreshing macro-lager, the jump to a Korean Pale Ale, a hop-bomb IPA, or a locally fruited sour is dramatic. Even casual drinkers notice the difference, especially when they encounter beer menu options built around flavor rather than volume.
+- **Magpie Brewshop, Itaewon/Noksapyeong:** 244-1 Noksapyeong-daero, Yongsan-gu. Wednesday to Sunday, 5pm to 11pm; closed Monday and Tuesday.
+- **NM+ Euljiro:** 4F, 127 Eulji-ro, Jung-gu. Daily, 5pm to 1am; closed the first Monday of each month.
+- **Magpie Mini Myeongdong:** 1F, SL Hotel Myeongdong, 9 Samil-daero 4-gil, Jung-gu. Opened on 15 October 2026; daily, 5pm to 11pm.
 
-## The Shift: How Deregulation Sparked a Craft Revolution
+For more cheap rounds near the Brewshop, see our guide to the [cheapest drinks in Itaewon](/where-to-find-the-cheapest-drinks-in-itaewon).
 
-Brewers can now try new flavors beyond the usual pale gold beer. This change lets strong IPAs, complex sours, and local experiments grow and shape the scene today. The turning point arrived in 2014 when the government relaxed regulations on micro-brewing. Before this, tax structures and licensing hindered small-scale production. Once the laws caught up with market demand, a flood of innovation followed, allowing for the rise of robust craft beers that define the industry today.
+## The Booth: A Story More Than a Stop
 
-That shift also encouraged brewers to think more ambitiously about scale and identity. Some stayed small and hyper-local, while others expanded to multiple taprooms or even overseas production. The Booth is a good example of how far the scene has come, growing from a Seoul-based startup into a brewery with international reach while still keeping its "follow your fun" ethos intact.
+The Booth started in 2013 as a pizza-and-beer pub in Gyeongnidan, set up by Daniel Tudor, Kim Hee-yoon and Yang Sung-hoon, and its Daedonggang Pale Ale became one of the best-known early Korean craft beers. It opened a brewery in 2015, but in 2019 it closed its Pangyo brewery and moved production to the brewery it had bought in Eureka, California (Korea Daily, April 2019), citing Korea's beer tax rules at the time.
 
-## Local Ingredients: Hallabong, Pine, and Korean Rice in Modern Brewing
+Its Seoul pub chain has since shrunk, and Korean wiki listings show most branches closed by 2025–26. Treat The Booth as part of the scene's history, and confirm on Naver Map before you go looking for a branch.
 
-Brewers are not just copying Western styles. They add Jeju Island's famous Hallabong, toasted Korean rice, and local pine needles to their fermenters. These ingredients add a distinct "terroir" to the pour, proving that Korean craft is a legitimate culinary evolution rather than a simple imitation of European or American trends.
+## Amazing Brewing Company: Closed (Bankrupt April 2026)
 
-This is where the market becomes genuinely distinct. A bottle shop in Seoul or Busan may stock imported beer, but many of the most interesting local releases are designed around ingredients that make sense in Korea first. You will see fruity saisons, rice-based lagers, citrus-accented ales, and experimental seasonal cans that feel tightly connected to the region where they were brewed.
+Amazing Brewing's huge Seongsu brewpub used to be one of Seoul's best-known craft beer destinations. The company, founded in 2016 and known for beers such as its Seoul Forest craft lager, applied for court rehabilitation in August 2025 after years of losses. No buyer was found, and the Seoul Bankruptcy Court declared it bankrupt on 21 April 2026 (Yonhap, Newsis). Don't plan a visit around it.
 
-## Itaewon and Noksapyeong: The Birthplace of the Scene
+For craft beer in [Seongsu-dong](/south-korea/seoul/seongsu) today, go to Seoul Brewery instead.
 
-[Itaewon](/south-korea/seoul/itaewon), Seoul's most international district, served as the initial incubator for the country's craft beer culture. It was here that adventurous palates first demanded something more interesting than the local lager. The neighbourhood's hilly, narrow streets remain the spiritual home of the movement, packed with small bars that prioritise quality taps over mass-market volume.
+## Seoul Brewery: Hapjeong and Seongsu
 
-Noksapyeong and nearby Gyeongnidan also became important because they offered the right mix of foreign residents, early adopters, and curious locals. That created a feedback loop where breweries could test pale ales, porters, and hoppy IPAs on a receptive audience. Even now, the area remains a useful starting point for anyone planning a Seoul brewery crawl. If you're heading out after dark, check our [Itaewon nightlife guide](/south-korea/seoul/guides/nightlife-itaewon) for more on the neighbourhood's bar scene.
+Seoul Brewery runs two sites. The original is in Hapjeong at 10 Tojeong-ro 3an-gil, Mapo-gu, a short walk from Hapjeong station. The Seongsu site at 28-12 Yeonmujang-gil, Seongdong-gu, is a multi-floor building with a café, taphouse and brewing space, and it is the easiest craft beer stop if you are already shopping on Yeonmujang-gil. Both lean towards clean, carefully made beers and a proper food menu rather than bar snacks.
 
-## Magpie Brewing Co.: The Pioneers of the Pale Ale
+## Euljiro: Artmonster and Euljiro Brewing
 
-Magpie Brewing Co. stands as a cornerstone of the movement. Starting as a small operation in Itaewon, they educated a generation on what a well-balanced pale ale should taste like. Their commitment to consistency has made Magpie Brewing a household name. Visiting a Magpie Brewing Co. taproom is a rite of passage for any visitor.
+The old print-shop and hardware district of Euljiro 3-ga, nicknamed "Hipjiro", has two craft beer rooms almost next door to each other on Supyo-ro.
 
-Magpie's influence is bigger than one taproom. The brand has become closely associated with Korean craft beer's early international profile, thanks to its balanced, approachable beers and its ability to pair quality beer with pizza and a relaxed social setting. In Seoul, their Itaewon flagship sits near Noksapyeong, while additional locations have helped broaden its reach across the city.
+- **Artmonster Euljiro:** 2F, 52 Supyo-ro, Jung-gu. A brewery-run beer hall with wood-fired pizza, cauldron-fried chicken and tteokbokki. Listed hours in 2026 are Monday to Thursday 5pm to 1am and Friday to Sunday 3pm to 1am.
+- **Euljiro Brewing (Euljimaekok):** 48-16 Supyo-ro, Jung-gu. Visit Seoul describes two rooms, a main bar and an annex, facing each other across a neon alley, with six house beers. The main bar opens at 3:30pm and the annex at 7:30pm; both run until 2am.
 
-A visit also shows why Magpie became so popular with both expats and locals. The setting tends to be casual, social, and easy to navigate, which makes it a natural entry point for people who are new to craft beers. It is one of the places where South Korea's brewing story becomes tangible: not just a drink, but a cultural bridge built around flavour, hospitality, and a dependable draft beer lineup.
+Euljiro 3-ga station (Lines 2 and 3) is the closest stop. Artmonster also has a Gangnam taproom, covered in our [Gangnam craft beer guide](/the-best-craft-beer-bars-in-gangnam).
 
-## The Booth: From Small Beginnings to Global Recognition
+## Jongno's Hanok Quarter: Kiwa, Brew 3.14 and Ale Dang
 
-The Booth began with a simple philosophy: if you can't find a great beer, brew it yourself. What started as a tiny shop in Gyeongnidan has ballooned into a national powerhouse with a massive presence. Their success lies in their ability to bridge the gap between niche craft enthusiasts and the mainstream public, bringing high-quality IPAs to the masses.
+Drinking a hazy IPA under a tiled hanok roof is one of the most Seoul experiences you can have. Three small taprooms in Jongno's old hanok neighbourhoods are worth the detour.
 
-That growth was not accidental. The Booth was founded in 2015 and quickly became one of the defining names in South Korean craft brewing. It is known for its early basements-and-backstreet energy, but also for a broader ambition that extended to a facility in Pangyo and contract brewing relationships abroad. That combination helped the brewery scale without losing the personality that made people care about it in the first place.
+- **Kiwa Taproom:** 74-7 Yulgok-ro 1-gil, Jongno-gu, between Bukchon and Samcheong-dong, about ten minutes' walk from Anguk station exit 1. Time Out Seoul notes it pours Euljiro Brewing beers alongside other local and imported taps.
+- **Brew 3.14:** 39 Donhwamun-ro 11na-gil, Ikseon-dong. A small pub with in-house beers, pizza and calzones, usually open from early evening to midnight.
+- **Ale Dang:** 33-9 Supyo-ro 28-gil, in the Ikseon-dong hanok alleys, pouring Goodman Brewery's English-style ales with dishes like perilla-leaf pizza. Recent opening hours aren't published consistently, so check Naver before you go.
 
-The Booth also matters because it turned the idea of a craft brewery into something more visible and event-driven. Its Beer Week Seoul became one of the country's major beer gatherings, helping cement the brand not just as a brewery, but as a cultural organiser within the scene. For visitors, that means The Booth is as much about community and discovery as it is about the beer in the glass.
+Ikseon-dong is busy at weekends, so a weekday early evening is the easiest time to get a table.
 
-## Amazing Brewing Company: The Massive Taproom in Seongsu
+## Busan: Gorilla and Galmegi
 
-Amazing Brewing Company uses this style very well. Their taproom is large with high ceilings like a cathedral. It offers many styles, from easy-to-drink ales to strong, barrel-aged experiments. [Seongsu-dong](/south-korea/seoul/seongsu), often called the "Brooklyn of Seoul," provides the perfect industrial backdrop for their extensive menu.
+[Busan](/south-korea/busan) built the strongest craft scene outside Seoul, but its map has changed a lot.
 
-What makes Amazing Brewing compelling is its scale and ambition. The space feels designed for long visits, group gatherings, and repeated tastings, which suits a city district like Seongsu where food, coffee, and design culture all intersect. The brewery's broad range also makes it a useful stop for visitors who want to sample multiple beer styles in one sitting rather than committing to a single narrow lane.
+**Gorilla Brewing** has brewed in Busan since 2016. Its big Gwangalli flagship, open since March 2017, closed for good in February 2024 (Haps Magazine), and brewing moved to an industrial site in Jeonggwan, Gijang-gun. You can now drink Gorilla in Haeundae at two places:
 
-The surrounding neighbourhood adds to the appeal. Seongsu has become one of Seoul's most fashionable redevelopment zones, and a brewery like this fits neatly into that identity. It gives the impression that craft beer is not an imported novelty here; it is part of the broader urban lifestyle, sitting alongside design stores, galleries, and restaurants built for people who care about atmosphere as much as flavour.
+- **Gorilla Beach:** 30 Dalmaji-gil, Haeundae-gu, on the seafront at the eastern end of Haeundae Beach, open from noon.
+- **Gorilla Haeundae:** ground floor of the Shilla Stay Haeundae, 46 Haeundae-ro 570beon-gil, Haeundae-gu, open from 5pm.
 
-## Seoul Brewery: Where Experimental Techniques Meet Modern Design
+**Galmegi Brewing** is the other long-running Busan name. Its brewery in Gangseo-gu is not open to the public, and tours are suspended, but its taphouses are open:
 
-Seoul Brewery is defined by its meticulous approach to recipe development. Their taprooms are characterised by clean, minimalist, and modern designs that mirror the precision of their brewing techniques. It is an excellent stop for those who appreciate a thoughtful, technical approach to beer.
+- **Galmegi Haeundae:** 2F, 9 Haeundaehaebyeon-ro 265beon-gil, Haeundae-gu, open from 5pm on weekdays and from 1pm at weekends.
+- **Galmegi Nampo:** 2F, 21-3 Gwangbok-ro, Jung-gu, open from 6pm on weekdays and from 5pm at weekends.
 
-The brewery is also an example of how craft beer in Seoul increasingly overlaps with food culture. Seoul Brewery is known not just for draft beer, but for spaces where the beer list and food menu are designed to work together. That makes it especially useful for visitors who want a more complete brewpub experience rather than a pure tasting-room stop.
+Every October, Busan's city government also runs the **Busan Craft Beer Masters Challenge**, a festival and competition for local breweries that has been held since 2018. The 2026 edition ran from 16 to 18 October at the North Port landmark site, with eight Busan breweries including Gorilla.
 
-Its locations in Seongsu and other urban districts also show how this new beer culture has moved beyond its early Itaewon base. Seoul Brewery feels modern in a way that appeals to design-conscious drinkers, but it also remains grounded in the practical side of drinking out in Korea: shareable dishes, easy transit access, and a relaxed setting that makes a second round feel inevitable.
+## Wild Wave Brewing: Bankruptcy Filed May 2026
 
-## Artmonster Brewery: Drinking in the "Hip-jiro" Aesthetic
+Wild Wave introduced Korea's first sour and wild-fermented beers, and its flagship sour, Seolleim, made its name. The company was founded in 2015 and started brewing in 2017, but losses mounted. It closed its Yeongdo shop at the end of November 2025, and in May 2026 it filed for bankruptcy at the Busan Rehabilitation Court (Chosun Biz, 12 May 2026). Don't build a Busan trip around a Wild Wave visit.
 
-The area known as "Hip-jiro" (the trendy interpretation of Euljiro) is where retro charm meets modern nightlife. Artmonster Brewery captures this vibe through neon lights and industrial grit. It provides an immersive experience that feels perfectly aligned with the fast-paced, stylish energy of central Seoul.
+## Budnamu Brewery (Gangneung): Beer in an Old Makgeolli Brewery
 
-Artmonster stands out because it feels like a deliberate response to the neighbourhood around it. Euljiro is full of old workshops, hardware shops, and fading industrial buildings, and Artmonster makes that context part of the attraction. It has the feel of a place where you can drink a crisp Seoul IPA while looking out at a district that still remembers its manufacturing past.
+[Gangneung](/south-korea/gangneung)'s Budnamu Brewery, at 1961 Gyeonggang-ro, sits on the site of the Gangneung Hapdong brewery, a makgeolli maker founded in 1926 whose current building dates from the 1970s. The makgeolli brewery closed in 2014 and Budnamu opened in the same building in September 2015, keeping the old rafters, wooden frames and rough cement walls.
 
-The brand also has a stronger reputation than its casual aesthetic might suggest. Recent coverage has highlighted its brewing credentials and award-level ambition, which gives the taproom more credibility than a purely decorative nightlife venue. In practice, that means Artmonster works well both as a social stop and as a serious beer destination.
+The beers are named after Gangneung places and old local words. Minori Session uses rice from the Minori farming area, and Hasla and Daegullyeong Pale Ale take their names from the city's history and the Daegwallyeong pass. The brewery also uses local ingredients such as changpo (sweet flag) and chrysanthemum. In 2018 it added a much larger production plant in Seongsan-myeon; the original building still houses the pub and rows of ageing barrels. It's an easy stop on a Gangneung coffee-and-beach day.
 
-## Euljiro Brewing: Neon Lights and Local Flavour
+## Rami Brewing (Changwon): A Milwaukee-Style Brewpub in the South
 
-Tucked away in the heart of the city's older manufacturing districts, Euljiro Brewing serves as a beacon of the new school. Their focus on integrating into the fabric of the neighbourhood, while maintaining a high standard for their draft beer, makes them a vital part of the local scene.
+Rami Brewing opened in Changwon, South Gyeongsang, in 2019. It was set up by Milwaukee-born head brewer Christopher Wing with business partners James (Ilhae) Woo and Jae-man Lee, on a 500-litre system. At launch it was only the second craft brewery in Changwon (OnMilwaukee, April 2019). The opening line-up mixed classics such as a pale ale, IPA and wheat beer with a Changyang gochu pepper stout and a kiwi gose, because the area is known for kiwis. Wing has since stepped away from the brewery (Milwaukee Independent, October 2024).
 
-Euljiro Brewing has become closely tied to the broader story of Euljiro as a nightlife district that has reinvented itself without erasing its identity. The brewery's two-location presence and local reputation show how craft beer can thrive in dense urban neighbourhoods that were never originally designed for leisure tourism. It is a good example of the way craft breweries in South Korea often function as anchors within a changing city fabric.
+Rami is at 177 Samgwi-ro, Seongsan-gu, in the Gwisan coastal area. Opening days are limited, so check Naver Map before making the trip.
 
-For visitors, the appeal is not only the beer but the feeling of discovery. Euljiro can still feel slightly hidden, and that makes the brewery crawl experience more rewarding. Once you find the taproom, you are usually rewarded with a busy room, solid draft beer, and an atmosphere that feels more like an insider tip than a polished chain concept.
+## Jeju: Magpie's Brewery and Hanul & Jeju
 
-## Kiwa Taproom: Craft Beer in a Traditional Korean House
+[Jeju Island](/south-korea/jeju) is where Magpie brews. The **Magpie Brewery & Taproom** is at 23 Donghoecheon 1-gil, Jeju-si, in the hills east of Jeju City. It is open Wednesday to Friday from noon to 8pm and at weekends from noon to 9pm. Brewery tours run Wednesday to Sunday and are booked through Naver Reservation. In town, **Magpie Tapdong** (2F, 7 Tapdong-ro 2-gil) is open daily from 5pm to 1am.
 
-Sitting on a wooden floor in a historic building while drinking a modern, hop-forward IPA creates a contrast. This contrast shows the spirit of modern Korea. Kiwa Taproom is the gold standard for this aesthetic, blending ancient Hanok culture with the cutting edge of the craft movement.
+Jeju's other big name is **Hanul & Jeju**, formerly Jeju Beer Company, whose citrusy Jeju Wit Ale is a convenience-store regular across the country.
 
-That combination is what makes Kiwa memorable. Rather than leaning into industrial minimalism, it uses traditional architecture to frame a contemporary drinking experience. The result is a slower, more reflective atmosphere that still feels fully connected to the craft beer scene, especially for drinkers who want something more culturally specific than a generic taproom.
+## Gompyo Wheat Beer and the Convenience-Store Era
 
-Kiwa also helps broaden the meaning of where great beer can be found in Seoul. It suggests that craft beer does not have to live only in raw concrete spaces or trend-heavy nightlife districts. In a hanok setting, the beer experience becomes more about balance, contrast, and place — a useful reminder that Korean drinking culture is as much about mood and setting as it is about ABV and hop profile.
+The biggest craft hit of the boom was Gompyo Wheat Beer, launched in May 2020 by Sevenbrau with flour maker Daehan Flour Mills, whose bear logo is on the can. It sold about 58.5 million cans. Daehan ended its contract with Sevenbrau in April 2023 and moved production to Hanul & Jeju, which led to a long legal dispute. That dispute was settled through government mediation in April 2026, and Daehan said it will leave the beer business. Its contract with Hanul & Jeju expired in December 2025, so once the remaining stock sells out there will be no more Gompyo beer (Hankook Ilbo, April 2026). Sevenbrau itself applied for court rehabilitation in 2025.
 
-## Brew 3.14 and Ale Dang: Small-Batch Brews in Historic Settings
+Convenience stores are still the cheapest way to try a lot of beer, but the famous multi-can deals now mostly cover imports and macro brands rather than craft. In 2026, CU and GS25 have been running four cans for ₩11,000 or ₩12,000, and CU ran six imported cans for ₩12,000 in September 2026. Korean craft cans are usually sold singly.
 
-Small-batch brewers like Brew 3.14 and Ale Dang lean into the intimacy of their locations. These taprooms offer a cosy, quiet retreat from the bustling streets of Seoul. They are the perfect places to discover niche styles that may not be available at larger, commercialised craft breweries.
+## Chimaek: Pairing Craft Beer with Fried Chicken
 
-These smaller venues are important because they keep the scene from becoming too standardised. In a city where some breweries have already become quite famous, smaller taprooms continue to function as testing grounds for fresh ideas, rotating cans, and unusual seasonal recipes. They also help preserve the discovery aspect of craft beer, which can disappear once a brand becomes too widely distributed.
-
-For visitors, this is where a brewery day starts to feel less like a checklist and more like a genuine local experience. Small rooms, intimate service, and niche pours encourage conversation, which is especially useful if you want to compare styles such as pale ale, wheat beer, or stronger experimental releases without the noise of a big beer hall.
-
-## Busan: The Coastal Craft Capital and Gorilla Brewing
-
-[Busan](/south-korea/busan) is arguably the craft beer capital of the country. Gorilla Brewing, founded by expatriates, has been instrumental in raising the bar for the local scene. Their taproom in the Gwangan-ri area offers stunning views of the coast, pairing perfectly with their world-class stouts and IPAs.
-
-Gorilla's significance comes from both timing and scale. The brewery helped prove that Busan could sustain a serious craft beer audience outside Seoul, and its growth into multiple locations reflects the city's status as a coastal destination with strong tourism, nightlife, and beach culture. It has become one of the most recognisable names in Korean craft beer, especially for visitors who want a destination brewery experience rather than a simple pub stop.
-
-The coastal setting matters too. Busan has a different feel from Seoul: more open, more relaxed, and often more social in a seaside way. Gorilla fits that mood by offering a large, high-energy venue with enough variety to keep both casual beer drinkers and dedicated enthusiasts interested. It is the kind of place where craft beer feels integrated into the city's leisure identity rather than standing apart from it.
-
-## Wild Wave Brewing Company: The Masters of Sours and Funk in Busan
-
-For those who prefer a tart, funky profile, Wild Wave Brewing Company is essential. They are widely recognised as the pioneers of the sour beer scene in Korea. Their ability to manage wild yeast strains and fruit infusions makes them one of the most adventurous breweries in the nation.
-
-Wild Wave's appeal lies in its willingness to stretch the boundaries of what most people expect from South Korean beer. While many breweries start with accessible styles like pale ale or IPA, Wild Wave helps show that the local scene has matured enough to support more technical and less mainstream beer styles. That makes it especially interesting for seasoned drinkers who want something beyond the usual craft beer script.
-
-In Busan, that adventurous streak feels natural. A city with strong food culture and a busy nightlife scene is a good home for a brewery that favours flavour intensity and complexity. If you are building a wider Korea beer itinerary, Wild Wave is a strong counterpoint to cleaner, more conventional breweries like Magpie or Seoul Brewery.
-
-## Budnamu Brewery (Gangneung): Pine-Scented Pours in an Old Brewery
-
-Located in the coastal city of [Gangneung](/south-korea/gangneung), Budnamu Brewery is housed in a converted grain storage facility. Their signature beers are brewed with locally sourced pine needles, creating a crisp, earthy flavour profile that is completely unique to their location.
-
-Budnamu is important because it shows how craft beer in Korea is not limited to the big metropolitan centres. Gangneung gives the brewery a regional identity, and the use of local ingredients makes the beers feel tied to place rather than just to a style template. That kind of brewing makes a lot of sense in a country where food, seasonality, and locality matter so much.
-
-The brewery's setting also contributes to the experience. A converted industrial space gives it enough character to feel rooted in history, while the ingredient-led approach keeps it modern and relevant. For travellers moving beyond Seoul and Busan, Budnamu offers a useful reminder that Korea's craft beer scene is distributed across the country, not concentrated in one city.
-
-## Magpie Jeju: Visiting the Source on the Island of the Gods
-
-[Jeju Island](/south-korea/jeju) is not just a vacation destination; it is home to Magpie's brewery and farm. Visiting the source provides an intimate look at the production process. The island's distinct climate and agricultural products influence the beers brewed here, making a pilgrimage to this site a must for any serious fan.
-
-Jeju is especially important because it ties beer production to landscape in a way that feels almost agricultural. The brewery's connection to the island helps explain why Jeju Ale and other local releases have become so recognisable. It also gives visitors a reason to treat the brewery as part of a broader island itinerary rather than an isolated drinking stop.
-
-For craft beer travellers, this is where the story becomes more personal. A Jeju visit can connect the dots between local ingredients, seasonal brewing, and the broader rise of Korean craft beers. It is also an excellent place to see how a brewery can become a destination on its own rather than just a brand on a label.
-
-## The Art of Chimac: Pairing Craft IPAs with Gourmet Fried Chicken
-
-Chimac — a portmanteau of "chicken" and "maekju" (beer) — is a fundamental pillar of Korean social life. While this tradition was built on the back of mass-produced lager, the modern craft revolution has elevated the experience. Pairing a bitter, aromatic IPA with the crunch of Korean-style fried chicken is an absolute necessity.
-
-This is also one of the easiest ways to introduce someone to craft beer in Korea. A strong, citrusy IPA can cut through the richness of fried chicken in a way that a lighter beer sometimes cannot. That is why many taprooms and brewpubs now think carefully about pairing, using food menus to complement the bitterness, malt sweetness, or sourness of the beers they pour.
-
-The result is that chimac is no longer just a convenience-store ritual or a late-night delivery habit. It has become part of the craft experience, especially in neighbourhoods where breweries and chicken restaurants sit side by side. For many visitors, that pairing is one of the most memorable parts of drinking in South Korea. If you're planning to explore more of the food scene, the [Myeongdong street food guide](/south-korea/seoul/guides/best-street-food-myeongdong) covers other must-try bites.
-
-## The "K-Plate": Traditional Food Menus in Modern Taprooms
-
-You can find menus with fusion dishes, traditional appetisers, and good pizza. These foods match the flavours of the beers on tap. Modern taprooms are moving away from basic snacks, curating a food menu designed to complement specific beer profiles, from sessionable ales to heavy stouts.
-
-This matters because food has become a bigger part of the brewery identity. Magpie leans into pizza, Seoul Brewery often combines beer with dishes that feel more deliberate, and other taprooms use bar food, small plates, or Korean fusion items to extend the visit. That makes the beer experience feel more rounded and gives visitors a reason to stay longer.
-
-A strong food menu also helps breweries reach beyond the core beer crowd. Not everyone arrives looking for a double IPA or a sour; some people just want a comfortable dinner spot with a better-than-average beer list. Breweries that understand this have a clear advantage in the South Korean market.
+Chimaek, from "chicken" and "maekju" (beer), is a fixture of Korean social life. It was built on cold lager, but a bitter, aromatic IPA cuts through the crunch and fat of Korean fried chicken even better. Many taprooms now serve their own; Artmonster's Euljiro hall does cauldron-fried chicken. If you're planning to explore more of the food scene, the [Myeongdong street food guide](/south-korea/seoul/guides/best-street-food-myeongdong) covers other must-try bites.
 
 ## Maekju Etiquette: Social Norms for Drinking in Korea
 
-Drinking in Korea is a communal activity. When drinking in a group, it is polite to pour for others rather than yourself, and you should always accept a drink with two hands. Understanding these simple social signals will significantly improve your experience in local taprooms. For more on Korean drinking traditions, see our [sansachun guide](/travel-tips/sansachun-drink-guide) covering Korea's traditional magnolia berry liquor, or learn about [maeshil-ju](/what-is-maeshilju), the plum liqueur found in restaurants and home kitchens across the country.
-
-These customs matter even in craft settings because they shape how people move through the space. In a busy beer hall or taproom, shared pours and group etiquette can create a more social atmosphere than many visitors expect. Even when the setting is modern or foreigner-friendly, the drinking culture still carries a distinctly Korean sense of respect and reciprocity.
-
-For travellers, this means the brewery experience is never just about the beer list. It is also about reading the room, moving with the group, and understanding when to pour, when to toast, and when to let the conversation lead. That social rhythm is part of what makes a brewery crawl in Seoul or Busan feel different from one in Europe or North America.
-
-## The Rise of the "Four Cans for 11,000 Won" Culture
-
-The local convenience store is the unsung hero of the beer scene. The famous "four cans for 11,000 won" deal allows consumers to mix and match from a massive selection of craft cans. This accessible pricing model has been a major driver in getting craft products into the hands of the average consumer.
-
-This is one of the biggest reasons craft beer has spread so widely. When a customer can buy a few different cans without committing to a full bar bill, experimentation becomes easier. It also creates a bridge between brewery visits and everyday drinking, which helps maintain demand for local labels.
-
-Convenience-store access also changes how people travel. Instead of relying solely on taprooms, visitors can build their own tasting flights with cans from several breweries, then track down a bottle shop later if they want something rarer. That flexibility is part of why the Korean craft beer scene feels so dynamic right now.
-
-## Must-Try Cans: From Gompyo Wheat Beer to Jeju Ale
-
-Keep an eye out for creative collaborations, such as the famous Gompyo Wheat Beer or the ubiquitous Jeju Ale. For those seeking imported beer or rare local finds, visiting a dedicated bottle shop remains the best way to stock up for your travels.
-
-Gompyo Wheat Beer is especially useful as a reminder that the craft market now reaches far beyond specialist taprooms. It shows how collaboration, recognisable branding, and approachable styles can bring more people into the category. Jeju Ale, meanwhile, is one of the best-known examples of how a local beer can become a national reference point.
-
-For beer shoppers, the bottle shop remains a valuable stop because it often carries the widest range of cans, imported beer, and seasonal releases. If you are exploring South Korea for a week or more, stocking up this way lets you compare styles across regions and breweries rather than relying on whatever happens to be on draft that night.
+Drinking in Korea is a communal activity. In a group, pour for others rather than yourself, and accept a drink with two hands, especially from someone older. Craft taprooms are more relaxed than a company dinner, but the same instincts apply. For more on Korean drinking traditions, see our [sansachun guide](/travel-tips/sansachun-drink-guide) covering Korea's traditional magnolia berry liquor, or learn about [maeshil-ju](/what-is-maeshilju), the plum liqueur found in restaurants and home kitchens across the country.
 
 ## Finding Your Way: Using Naver Maps for Brewery Hopping
 
-A word of advice for the traveller: Google Maps is notoriously unreliable in South Korea due to local regulations. For navigating to hidden taprooms, download the Naver app. It is the industry standard and will provide the most accurate walking directions and public transit information to ensure your tour remains on track. If you're getting around on the metro, our [Seoul subway guide](/travel-tips/seoul-subway-guide) covers the T-Money card, line maps, and etiquette.
-
-That advice is especially relevant when brewery hopping through places like Itaewon, Euljiro, Seongsu, or Busan's coastal districts. Many of the best taprooms are tucked into side streets, upper floors, or mixed-use buildings that are easy to miss if you are relying on a generic mapping tool. Naver reduces the friction and makes it much easier to string together multiple stops in a single day.
-
-It also helps that brewery travel in Korea often involves transit rather than cars. If you are combining the visit with dinner, late-night snacks, or a convenience-store crawl, accurate walking routes make the whole experience smoother and more enjoyable. In a dense city like Seoul, that matters almost as much as the beer itself.
+Google Maps walking directions are limited in South Korea, so download Naver Map (or KakaoMap) before you go. Many taprooms are on upper floors or in side alleys, and Naver also shows whether a place is still open, which matters more than usual in 2026. If you're getting around on the metro, our [Seoul subway guide](/travel-tips/seoul-subway-guide) covers the T-Money card, line maps and etiquette.
 
 ## Where to Find Every Brewery on the Map
 
-Use the interactive map below to see where each brewery mentioned in this guide is located. Click any marker for details, or tap a name in the list to fly to its location. Most Seoul breweries are reachable on foot once you are in the right neighbourhood — combine the map with the [Seoul subway guide](/travel-tips/seoul-subway-guide) for the smoothest route between stops.
+The interactive map near the top of this page shows every brewery and taproom in this guide that is still open, as of October 2026. Click a marker for the address. Most Seoul stops are walkable once you're in the right neighbourhood: Euljiro's taprooms and Magpie's NM+ are close together, and Kiwa, Brew 3.14 and Ale Dang make an easy hanok crawl between Anguk and Jongno 3-ga.
 
-The Korean craft beer scene has transformed from an overlooked market into a vibrant, diverse, and deeply creative landscape. By moving beyond the initial dominance of big-brand lagers, brewers across Seoul, Busan, and beyond have fostered a culture that honours both modern global trends and local identity. You can explore neon-lit industrial alleys in Euljiro. You can visit quiet, traditional hanok taprooms. Or you can enjoy a fresh local ale by the Han River. Armed with the right local tools like the Naver app and an adventurous palate, you will find that South Korea offers some of the most exciting brewing experiences in Asia today. Stay curious, explore the regions, and keep tasting.`,
+## Korean Craft Brewery FAQ
+
+### Is Amazing Brewing in Seongsu still open?
+
+No. The Seoul Bankruptcy Court declared Amazing Brewing Company bankrupt on 21 April 2026, after its 2025 rehabilitation attempt failed to find a buyer. Seoul Brewery's Seongsu site is the nearest craft brewery alternative.
+
+### Can you still buy Gompyo Wheat Beer?
+
+Only while old stock lasts. Daehan Flour Mills has left the beer business, and its last production contract expired in December 2025, so Gompyo will disappear once remaining cans are sold.
+
+### Which Korean breweries offer tours?
+
+Magpie runs tours of its Jeju brewery from Wednesday to Sunday, booked through Naver Reservation. Galmegi's Busan brewery has suspended tours. For other breweries, ask at the taproom, because most production sites aren't open to visitors.
+
+### Where is the best craft beer in Busan in 2026?
+
+Haeundae, where Gorilla (Gorilla Beach and Gorilla Haeundae) and Galmegi's Haeundae taphouse are all within walking distance. Gorilla's old Gwangalli flagship closed in 2024.
+
+### How much is a pint of craft beer in Korea?
+
+At Gorilla's Haeundae taprooms in early 2025, a glass of house beer cost about ₩8,900 to ₩9,900 (Japan Beer Journalists Association visit report). Expect roughly ₩8,000 to ₩10,000 in most Seoul taprooms, more at rooftop or tourist-hotspot venues. Convenience-store cans are much cheaper.`,
     tags: ["Beer", "Craft Beer", "Seoul", "Busan", "Jeju", "Nightlife", "Food"],
     authorSlug: "james-jeong",
-    updatedDate: "2026-05-11",
+    updatedDate: "2026-10-16",
     contentType: "travel-tip",
   },
   {

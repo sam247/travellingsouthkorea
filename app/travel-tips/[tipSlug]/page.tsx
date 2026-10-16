@@ -17,19 +17,24 @@ import { BreweryMap, type BreweryMarker } from "@/components/BreweryMap";
 const BREWERY_MAP_SPLIT = "## The Korean Craft Renaissance: From Macro-Lagers to Micro-Brews";
 
 const BREWERY_MARKERS: BreweryMarker[] = [
-  { name: "Magpie Brewing Co.", lat: 37.5340, lng: 126.9870, region: "Seoul", description: "Pioneering pale ale taproom in Itaewon", address: "244-1 Noksapyeong-daero, Yongsan-gu, Seoul" },
-  { name: "The Booth", lat: 37.5345, lng: 126.9930, region: "Seoul", description: "From Gyeongnidan to nationwide acclaim", address: "130 Itaewon-ro, Yongsan-gu, Seoul" },
-  { name: "Amazing Brewing Company", lat: 37.5445, lng: 127.0560, region: "Seoul", description: "Cathedral-sized taproom in Seongsu", address: "8 Seongsui-ro 10-gil, Seongdong-gu, Seoul" },
-  { name: "Seoul Brewery", lat: 37.5450, lng: 127.0540, region: "Seoul", description: "Technical precision meets modern design", address: "Seongsui-ro, Seongdong-gu, Seoul" },
-  { name: "Artmonster Brewery", lat: 37.5660, lng: 126.9920, region: "Seoul", description: "Neon-lit brewing in Hip-jiro / Euljiro", address: "Euljiro 3-ga, Jung-gu, Seoul" },
-  { name: "Euljiro Brewing", lat: 37.5665, lng: 126.9935, region: "Seoul", description: "Neighbourhood beer in old-Seoul alleys", address: "Euljiro 4-ga, Jung-gu, Seoul" },
-  { name: "Kiwa Taproom", lat: 37.5820, lng: 126.9850, region: "Seoul", description: "Craft beer in a traditional hanok house", address: "Bukchon-ro, Jongno-gu, Seoul" },
-  { name: "Brew 3.14", lat: 37.5720, lng: 126.9770, region: "Seoul", description: "Intimate small-batch taproom", address: "Gyeonghuigung-gil, Jongno-gu, Seoul" },
-  { name: "Ale Dang", lat: 37.5560, lng: 126.9230, region: "Seoul", description: "Cosy small-batch brews in a historic setting", address: "Mapo-gu, Seoul" },
-  { name: "Gorilla Brewing", lat: 35.1535, lng: 129.1185, region: "Busan", description: "Coastal stouts and IPAs near Gwangalli Beach", address: "Gwangalli-ro, Suyeong-gu, Busan" },
-  { name: "Wild Wave Brewing", lat: 35.1580, lng: 129.1600, region: "Busan", description: "Pioneers of the Korean sour beer scene", address: "Haeundae-gu, Busan" },
-  { name: "Budnamu Brewery", lat: 37.7510, lng: 128.8960, region: "Gangneung", description: "Pine-scented ales in a converted grain store", address: "Gyeonggang-ro, Gangneung-si, Gangwon-do" },
-  { name: "Magpie Jeju", lat: 33.4530, lng: 126.5700, region: "Jeju", description: "Farm brewery on the Island of the Gods", address: "Hallim-eup, Jeju-si, Jeju-do" },
+  { name: "Magpie Brewshop", lat: 37.5394, lng: 126.9874, region: "Seoul", description: "Magpie's original Gyeongnidan/Noksapyeong taproom (Wed–Sun)", address: "244-1 Noksapyeong-daero, Yongsan-gu, Seoul" },
+  { name: "Magpie NM+ Euljiro", lat: 37.5661, lng: 126.9851, region: "Seoul", description: "Magpie's Euljiro bar, 4th floor", address: "4F, 127 Eulji-ro, Jung-gu, Seoul" },
+  { name: "Magpie Mini Myeongdong", lat: 37.5620, lng: 126.9897, region: "Seoul", description: "Small Magpie bar in SL Hotel Myeongdong (opened Oct 2026)", address: "1F, 9 Samil-daero 4-gil, Jung-gu, Seoul" },
+  { name: "Seoul Brewery Hapjeong", lat: 37.5460, lng: 126.9146, region: "Seoul", description: "Seoul Brewery's original brewpub", address: "10 Tojeong-ro 3an-gil, Mapo-gu, Seoul" },
+  { name: "Seoul Brewery Seongsu", lat: 37.5430, lng: 127.0523, region: "Seoul", description: "Multi-floor café, taphouse and brewery", address: "28-12 Yeonmujang-gil, Seongdong-gu, Seoul" },
+  { name: "Artmonster Euljiro", lat: 37.5660, lng: 126.9899, region: "Seoul", description: "Brewery beer hall in Hipjiro", address: "2F, 52 Supyo-ro, Jung-gu, Seoul" },
+  { name: "Euljiro Brewing", lat: 37.5655, lng: 126.9907, region: "Seoul", description: "Two neon rooms, six house beers", address: "48-16 Supyo-ro, Jung-gu, Seoul" },
+  { name: "Kiwa Taproom", lat: 37.5780, lng: 126.9808, region: "Seoul", description: "Hanok taproom between Bukchon and Samcheong-dong", address: "74-7 Yulgok-ro 1-gil, Jongno-gu, Seoul" },
+  { name: "Brew 3.14", lat: 37.5747, lng: 126.9898, region: "Seoul", description: "Small in-house brewpub in Ikseon-dong", address: "39 Donhwamun-ro 11na-gil, Jongno-gu, Seoul" },
+  { name: "Ale Dang", lat: 37.5736, lng: 126.9901, region: "Seoul", description: "Hanok pub pouring Goodman Brewery ales", address: "33-9 Supyo-ro 28-gil, Jongno-gu, Seoul" },
+  { name: "Gorilla Beach", lat: 35.1598, lng: 129.1696, region: "Busan", description: "Gorilla Brewing's seafront bar, open from noon", address: "30 Dalmaji-gil, Haeundae-gu, Busan" },
+  { name: "Gorilla Haeundae", lat: 35.1597, lng: 129.1588, region: "Busan", description: "Gorilla taproom in Shilla Stay Haeundae", address: "46 Haeundae-ro 570beon-gil, Haeundae-gu, Busan" },
+  { name: "Galmegi Haeundae", lat: 35.1585, lng: 129.1605, region: "Busan", description: "Galmegi Brewing taphouse near Haeundae Beach", address: "2F, 9 Haeundaehaebyeon-ro 265beon-gil, Haeundae-gu, Busan" },
+  { name: "Galmegi Nampo", lat: 35.0995, lng: 129.0265, region: "Busan", description: "Galmegi Brewing taphouse in Nampo", address: "2F, 21-3 Gwangbok-ro, Jung-gu, Busan" },
+  { name: "Budnamu Brewery", lat: 37.7489, lng: 128.8851, region: "Gangneung", description: "Brewpub in a 1970s makgeolli brewery building", address: "1961 Gyeonggang-ro, Gangneung-si, Gangwon-do" },
+  { name: "Rami Brewing", lat: 35.1688, lng: 128.6000, region: "Changwon", description: "Changwon brewpub (limited opening days)", address: "177 Samgwi-ro, Seongsan-gu, Changwon-si, Gyeongsangnam-do" },
+  { name: "Magpie Brewery & Taproom", lat: 33.5047, lng: 126.6134, region: "Jeju", description: "Magpie's Jeju brewery, tours Wed–Sun", address: "23 Donghoecheon 1-gil, Jeju-si, Jeju-do" },
+  { name: "Magpie Tapdong", lat: 33.5178, lng: 126.5236, region: "Jeju", description: "Magpie pub in central Jeju City", address: "2F, 7 Tapdong-ro 2-gil, Jeju-si, Jeju-do" },
 ];
 
 interface PageProps {
