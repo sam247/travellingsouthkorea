@@ -645,7 +645,7 @@ You can turn up to a social without lessons and still have fun, but one class ma
 
 ## Halloween and Seasonal Latin Parties
 
-As well as the weekly socials, Seoul's Latin scene holds occasional big themed parties. For example, **Latin Mood** held a Halloween edition on **Saturday 24 October 2026** on the rooftop of the Vista Pub restaurant at Some Sevit (세빛섬), the floating islands on the Han River, with fancy dress encouraged. Dates, venues and ticket prices change from event to event, so check the clubs' and organisers' Instagram or Naver pages for upcoming parties before you plan around one.
+As well as the weekly socials, Seoul's Latin scene holds occasional big themed parties. For example, **Latin Mood** runs a Halloween edition in late October (**Saturday 24 October 2026** this year) on the rooftop of the Vista Pub restaurant at Some Sevit (세빛섬), the floating islands on the Han River, with fancy dress encouraged. Dates, venues and ticket prices change from event to event, so check the clubs' and organisers' Instagram or Naver pages for upcoming parties before you plan around one.
 
 ## Where Salsa Fits in a Seoul Night Out
 
