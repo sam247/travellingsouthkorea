@@ -60,6 +60,13 @@ function renderInlineFormatting(text: string): ReactNode[] {
   return out;
 }
 
+const INLINE_LINK = /\[[^\]]+\]\([^)]+\)/;
+
+/** Inline-format only when the text contains a link, so link-free items keep identical markup. */
+function renderInlineIfLinked(text: string): ReactNode {
+  return INLINE_LINK.test(text) ? renderInlineFormatting(text) : text;
+}
+
 const TABLE_SEPARATOR = /^\|\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|?\s*$/;
 
 function parseTableCells(line: string): string[] {
@@ -251,13 +258,15 @@ export function renderTipContent(content: string): ReactNode[] {
       if (match) {
         elements.push(
           <li key={i} className="text-sm text-muted-foreground ml-4 mb-1.5">
-            <span className="font-semibold text-foreground">{match[1]}</span> — {match[2]}
+            <span className="font-semibold text-foreground">{renderInlineIfLinked(match[1])}</span> — {renderInlineIfLinked(match[2])}
           </li>
         );
       } else {
         elements.push(
           <li key={i} className="text-sm text-muted-foreground ml-4 mb-1.5">
-            {trimmed.replace(/^- /, "").replace(/\*\*/g, "")}
+            {INLINE_LINK.test(trimmed)
+              ? renderInlineFormatting(trimmed.slice(2))
+              : trimmed.replace(/^- /, "").replace(/\*\*/g, "")}
           </li>
         );
       }
