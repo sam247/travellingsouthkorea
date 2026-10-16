@@ -46,6 +46,7 @@ const nextConfig = {
       { source: "/travel-tips/top-korean-plus-sized-models-in-2025", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/top-korean-plus-sized-models-in-2024", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/top-korean-plus-sized-models-in-2023", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
+      { source: "/travel-tips/where-to-find-the-cheapest-drinks-in-itaewon", destination: "/where-to-find-the-cheapest-drinks-in-itaewon", permanent: true },
     ];
   },
   async rewrites() {
@@ -95,6 +96,10 @@ const nextConfig = {
       {
         source: "/top-korean-plus-sized-models-in-2025",
         destination: "/travel-tips/top-korean-plus-sized-models-in-2025",
+      },
+      {
+        source: "/where-to-find-the-cheapest-drinks-in-itaewon",
+        destination: "/travel-tips/where-to-find-the-cheapest-drinks-in-itaewon",
       },
     ];
   },

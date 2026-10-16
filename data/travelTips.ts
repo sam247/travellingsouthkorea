@@ -2460,6 +2460,152 @@ Photos are from Wikimedia Commons under Creative Commons, public-domain or KOGL 
     contentType: "travel-tip",
   },
   {
+    slug: "where-to-find-the-cheapest-drinks-in-itaewon",
+    title: "Where to Find the Cheapest Drinks in Itaewon (2026): Happy Hours, Pochas and Prices",
+    image: "/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/itaewon-crossing-at-night.jpg",
+    canonicalPath: "/where-to-find-the-cheapest-drinks-in-itaewon",
+    metaTitle: "Cheapest Drinks in Itaewon 2026: Happy Hours, Bars & Prices",
+    metaDescription:
+      "Where to drink cheaply in Itaewon in 2026: 2-for-1 happy hours, ₩6,000 draft beer and highballs, weekend 1+1 deals, convenience-store soju prices and drinking games.",
+    summary:
+      "A 2026 guide to drinking cheaply in Itaewon: the bars with 2-for-1 and 1+1 happy hours, ₩6,000 pocha drinks, a price table, convenience-store drinking rules, soju and somaek basics, and Korean drinking games.",
+    content: `Itaewon has a reputation as one of Seoul's pricier places for a night out, and on the main strip a pint of imported beer can easily cost ₩11,000 to ₩13,000. But it doesn't have to. Between 2-for-1 happy hours, Korean pocha bars charging ₩6,000 for a draft, weekend 1+1 deals and convenience stores selling soju for under ₩2,000, you can drink well in Itaewon on a budget, as long as you know where and when to go.
+
+This 2026 guide covers the bars with the clearest cheap-drink deals, what drinks actually cost right now, the happy-hour windows worth planning around, convenience-store drinking (and where not to do it), and a few Korean drinking games for the table. Prices and promotions change, so treat the numbers as a guide and check the board or the bar's Instagram before you order.
+
+![Itaewon street crossing at night](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/itaewon-crossing-at-night.jpg)
+
+## Itaewon Drink Prices in 2026
+
+| Drink | Typical Itaewon price (2026) | Where that price comes from |
+| --- | --- | --- |
+| Soju (360ml bottle), convenience store | about ₩1,900 | Standard CU and GS25 price for Chamisul Fresh |
+| Beer, convenience store | 4 cans for ₩8,000 to ₩12,000 | GS25 multi-buy deals, September 2026 |
+| Soju (bottle), Korean pocha | ₩7,000 to ₩8,000 | Kim Silryeok Pocha menu (Hallasan ₩8,000) |
+| Draft lager (Cass or house draft) | about ₩6,000 | Kim Silryeok Pocha and The Craic House menus |
+| Highball | from ₩6,000 | Kim Silryeok Pocha house highball |
+| Craft beer | about ₩7,500 to ₩10,000 | Magpie Brewing and other Itaewon taprooms |
+| Guinness (568ml pint) | ₩13,000 | The Craic House menu |
+| Imported bottled beer (Heineken, Corona) | ₩10,000 to ₩11,000 | The Craic House menu |
+
+The cheapest round in Itaewon is still a convenience-store can, but the best value with a seat, music and other people is a 2-for-1 happy hour or a Korean pocha with ₩6,000 drinks.
+
+## The Cheapest Bars in Itaewon (2026)
+
+Most of these are within a few minutes' walk of Itaewon Station (Line 6), around the Itaewon-ro 27-gil and 27ga-gil lanes behind the main road. That makes it easy to start at one happy hour and move to the next.
+
+![Bars and pubs on an Itaewon side street](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/itaewon-pub-street.jpg)
+
+### Itaewon Pub: the 2-for-1 happy hour
+
+[Itaewon Pub](/south-korea/seoul/venues/itaewon-pub), at 50 Itaewon-ro 27ga-gil, earns its name with the most generous happy hour in the area. The Korea Times reported that every weekday from 5 PM to 8 PM, and on weekends from 2 PM to 8 PM, all beers, some cocktails and shots of Jameson are two for the price of one. Order carefully: if four of you each ask for a beer, you may get eight. It's a casual sports-and-games pub with pool, beer pong and big screens, and it stays open late (until about 3 AM Sunday to Thursday and 5 AM on Fridays and Saturdays). Check @itaewon_pub on Instagram for the current deal before you go.
+
+### Kim Silryeok Pocha (김실력포차): ₩6,000 draft and highballs
+
+For Korean-style drinking at Korean prices, [Kim Silryeok Pocha](/south-korea/seoul/venues/kim-silryeok-pocha-itaewon) is about 90 metres from Itaewon Station at 18 Itaewon-ro 27ga-gil. Its published menu lists draft beer at ₩6,000, the house highball at ₩6,000, soju from ₩7,000, and house strawberry or condensed-milk makgeolli at ₩6,000 a 400ml cup (₩12,000 a litre bottle). Anju (drinking food) such as fried chicken and stews costs ₩21,000 to ₩28,000 a plate, so the bar suggests budgeting ₩20,000 to ₩30,000 a person. It opens at 5 PM and runs until 4:30 AM from Sunday to Thursday, and until 9 AM on Fridays and Saturdays, which makes it a good last stop too.
+
+### The Craic House: ₩6,000 Cass and weekend 1+1
+
+[The Craic House](/south-korea/seoul/venues/craic-house-itaewon) is an Irish pub one minute from Itaewon Station Exit 4. Its 2026 menu lists Cass (500ml) at ₩6,000 and Guinness at ₩13,000, and it runs a 1+1 happy hour every Saturday and Sunday until 5 PM (excluding events, and it can pause for big live sports). Weekend brunch is served until 5 PM too, so a late Saturday lunch with two-for-one drinks is one of the best-value afternoons in Itaewon. The building is confusing: the main-street entrance reads 2F and the lower street reads 4F.
+
+### Thursday Party Itaewon: big beers and bar games
+
+[Thursday Party](/south-korea/seoul/venues/thursday-party-itaewon), at 6 Itaewon-ro 27-gil, is the Itaewon branch of the cheap-and-cheerful bar chain also found in Hongdae. Reviewers keep coming back to the same points: large-format beers at low prices, darts, foosball and beer pong, and a mixed Korean and foreign crowd that gets going after midnight. 2026 listings show it opening at 6 or 7 PM and staying open until 2 to 5 AM depending on the night. Bring your passport or ARC: staff check ID at the door however old you look.
+
+### Shenanigans and other happy hours
+
+Shenanigans, on Itaewon-ro 19-gil, is a long-running expat bar with a weekday happy hour listed from 4 PM to 7 PM. Up the hill in Haebangchon, Phillies Pub lists a Saturday-afternoon happy hour with drinks at half price. Neither publishes a current price list online, so confirm the deal at the bar.
+
+### Magpie Brewing: cheap for craft
+
+Craft beer is never the cheapest drink in Itaewon, but [Magpie Brewshop](/south-korea/seoul/venues/magpie-brewshop-itaewon) keeps it reasonable: house beers such as the Seoul Pale Ale cost around ₩7,500 to ₩10,000 a glass, and a four-glass flight is a good way to try the range. If you want quality after a cheap happy hour, this is the place to finish. There's more on the scene in our guide to [breweries in South Korea](/breweries-in-south-korea).
+
+## Happy Hour Plan: When to Drink Cheaply in Itaewon
+
+The cheapest way to do Itaewon is to plan around the deals rather than turn up at 11 PM:
+
+- **Saturday or Sunday, early afternoon:** brunch and 1+1 drinks at The Craic House (until 5 PM), or Itaewon Pub's 2-for-1, which starts at 2 PM on weekends.
+- **Weekdays, 4 PM to 8 PM:** Shenanigans' listed 4 PM to 7 PM happy hour, then Itaewon Pub's 5 PM to 8 PM 2-for-1.
+- **Evening:** move to Kim Silryeok Pocha for ₩6,000 drafts and highballs, and share one anju plate between two or three people.
+- **Late:** Thursday Party for big beers and games, or a convenience-store can on the way home.
+
+Tipping isn't expected anywhere in Korea, which also keeps the bill down.
+
+## Convenience Store Drinking in Itaewon
+
+![Alcohol shelf in a GS25 convenience store in Seoul](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/gs25-convenience-store-alcohol-shelf.jpg)
+
+Korea's convenience stores (GS25, CU, 7-Eleven and Emart24) are the cheapest drinks in Itaewon by a long way. A 360ml bottle of Chamisul soju costs about ₩1,900, and GS25's multi-buy deals in September 2026 brought most domestic and imported beers down to 4 cans for ₩8,000, ₩10,000 or ₩12,000. Many stores have plastic tables outside, and a can at the "pyeonuijeom" (convenience store) is a very normal Korean way to start or end a night.
+
+Drinking in public is generally legal in Korea, but it isn't a free-for-all. Seoul's drinking-culture ordinance lets districts designate no-drinking zones, mostly parks and children's areas, where drinking that causes noise or disturbance can bring a fine of up to ₩100,000. Look for signs, keep the noise down in residential lanes, and take your empties with you.
+
+One place to be especially respectful: the narrow alley beside the Hamilton Hotel, next to Itaewon Station Exit 1, is now the 10.29 Path of Memory and Safety (10.29 기억과 안전의 길), a memorial to the 159 people who died in the October 2022 crowd crush. Don't drink, linger or take party photos there. Around Halloween, Yongsan District and the police run crowd-control measures in Itaewon. In 2025 these included one-way walking routes, separated station exits and, at peak congestion, trains skipping Itaewon Station, so allow extra time and follow the staff.
+
+## Soju, Somaek and How Koreans Drink Cheaply
+
+![A bottle of Chamisul soju with a shot glass](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/chamisul-soju-bottle-and-shot.jpg)
+
+Soju is the reason Korean bar bills can stay low. A bottle (360ml, usually around 16% ABV) is shared between the table in small shot glasses, and at most pochas a bottle costs less than a single imported beer. The other cheap staple is somaek (소맥): a shot of soju mixed into a glass of beer, which stretches one bottle of each a long way. Korean drinking etiquette applies here too: pour for others rather than yourself, and receive a drink with two hands when someone older pours for you. There's more in our guide to [Korean drinking culture](/culture/korean-drinking-culture).
+
+![Mixing somaek with soju and beer](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/somaek-soju-and-beer.jpg)
+
+## Korean Drinking Games to Know
+
+Drinking games are part of a Korean night out, and the simple ones are easy to pick up at the table:
+
+- **Titanic:** float an empty shot glass in a glass of beer, and take turns pouring a little soju into it. Whoever sinks it drinks the somaek.
+- **Baskin Robbins 31:** count from 1 upwards, with each person saying one, two or three numbers in turn. Whoever has to say "31" drinks.
+- **Son Byeong-ho game:** everyone holds up five fingers, and each player names something ("anyone wearing glasses"). Everyone it applies to folds a finger, and the first person with no fingers left drinks.
+
+Know your limit, watch your own drink, and keep it fun: nobody minds if you switch to water or cider.
+
+## Getting Home and Staying Safe
+
+Seoul's subway stops running around midnight, so after that it's a taxi (Kakao T works for visitors) or a night bus. Itaewon is generally safe at night, but the usual big-city rules apply: keep an eye on your drink, agree a meeting point with friends, and avoid the hostess-style bars that hand out flyers on the street, where bills can be many times what you expected. The legal drinking age in Korea is 19, counted from 1 January of the year you turn 19, and bars and clubs will ask foreigners for a passport or ARC.
+
+![An alley in Haebangchon near Itaewon](/images/blogs/where-to-find-the-cheapest-drinks-in-itaewon/haebangchon-alley.jpg)
+
+## More Itaewon Nightlife
+
+- All the bars on our [Itaewon bars map](/south-korea/seoul/itaewon/category/bars), with addresses and hours.
+- Our [Itaewon After Dark](/south-korea/seoul/guides/nightlife-itaewon) guide for clubs and late-night spots.
+- The [Itaewon neighbourhood guide](/south-korea/seoul/itaewon) for food, shopping and things to do by day.
+- [Korean nightlife culture](/culture/korean-nightlife-culture), for how a night out works across Seoul.
+- Two Korean drinks worth trying: [sansachun](/travel-tips/sansachun-drink-guide) and [maeshil-ju](/what-is-maeshilju).
+
+## Cheapest Drinks in Itaewon FAQ
+
+### What is the cheapest bar in Itaewon?
+For a seat and a crowd, Itaewon Pub's 2-for-1 happy hour (weekdays 5 PM to 8 PM, weekends 2 PM to 8 PM) and Kim Silryeok Pocha's ₩6,000 draft beer and highballs are the best value in 2026. The cheapest drinks of all are from convenience stores, where soju costs about ₩1,900 a bottle.
+
+### How much is a beer in Itaewon?
+Expect about ₩6,000 for a Cass or house draft at a pocha or pub, ₩7,500 to ₩10,000 for craft beer, and ₩10,000 to ₩13,000 for imported bottles or a pint of Guinness. Happy hours can halve that.
+
+### Does Itaewon have happy hours?
+Yes. Itaewon Pub runs 2-for-1 drinks on weekdays from 5 PM to 8 PM and weekends from 2 PM to 8 PM, The Craic House does 1+1 drinks on Saturday and Sunday until 5 PM, and Shenanigans lists a weekday happy hour from 4 PM to 7 PM. Deals change, so check before you go.
+
+### Can you drink in the street in Itaewon?
+Drinking in public is generally legal in Korea, and drinking outside convenience stores is common. Some parks and areas are designated no-drinking zones with fines of up to ₩100,000, and you should never drink in the 10.29 memorial alley beside the Hamilton Hotel, next to Itaewon Station Exit 1.
+
+### What is the drinking age in Korea?
+19, counted from 1 January of the year you turn 19. Bars, clubs and convenience stores can ask for ID, so carry your passport or ARC.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons. Each was resized for the web.
+
+- [Itaewon at night, November 2023](https://commons.wikimedia.org/wiki/File:20231103_-_Itaewon_-_3.jpg): eugene_o, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- [Itaewon pub street](https://commons.wikimedia.org/wiki/File:Itaewon_Pub_street.JPG): Shinae Hyun, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [GS25 alcohol selection, Seoul](https://commons.wikimedia.org/wiki/File:GS25_alcohol_selection_seoul.jpg): Sgroey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Soju in a Korean restaurant](https://commons.wikimedia.org/wiki/File:Soju_in_korean_restaurant.JPG): Clément Bucco-Lechat, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- [Somaek (soju and beer mix)](https://commons.wikimedia.org/wiki/File:Somaek_(soju_and_beer_mix).jpg): Gregor Samsa, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- [Haebangchon alley, Itaewon](https://commons.wikimedia.org/wiki/File:Haebangchon_itaewon_alley.jpg): Sgroey, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).`,
+    tags: ["Nightlife", "Drinks", "Seoul", "Itaewon", "Budget"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-13",
+    contentType: "travel-tip",
+  },
+  {
     slug: "what-is-maeshilju",
     title: "What Is Maeshil-Ju?",
     image: "/images/blogs/maeshilju/f918b5a38b86407282c40d956d28b6f9.jpg",
