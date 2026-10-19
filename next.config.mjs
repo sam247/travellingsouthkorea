@@ -16,6 +16,12 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // Legacy WordPress 404s → populated, intent-matching hubs (legacy-301-map rows 9, 10, 12, 16, 18; 19 Oct 2026)
+      { source: "/what-are-the-best-bars-in-cheongju-2023", destination: "/south-korea/cheongju/category/bars", permanent: true },
+      { source: "/a-night-out-in-busan-beach-bars-and-beyond", destination: "/south-korea/busan/category/nightlife", permanent: true },
+      { source: "/what-are-the-best-bars-in-gwangju-2022", destination: "/south-korea/gwangju/category/bars", permanent: true },
+      { source: "/a-foodies-guide-to-busan-what-to-eat-and-where-to-find-it", destination: "/south-korea/busan/category/food", permanent: true },
+      { source: "/best-restaurants-in-gangnam-2025", destination: "/south-korea/seoul/gangnam/category/restaurants", permanent: true },
       { source: "/travel-tips/korean-sexuality", destination: "/korean-sexuality", permanent: true },
       { source: "/travel-tips/gonjiam-haunted-asylum", destination: "/gonjiam-haunted-asylum", permanent: true },
       { source: "/gonjiam-asylum", destination: "/gonjiam-haunted-asylum", permanent: true },
@@ -48,12 +54,6 @@ const nextConfig = {
       { source: "/top-korean-plus-sized-models-in-2024", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/top-korean-plus-sized-models-in-2023", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/travel-tips/where-to-find-the-cheapest-drinks-in-itaewon", destination: "/where-to-find-the-cheapest-drinks-in-itaewon", permanent: true },
-      // Legacy WordPress 404s → populated, intent-matching hubs (legacy-301-map rows 9, 10, 12, 16, 18; 19 Oct 2026)
-      { source: "/what-are-the-best-bars-in-cheongju-2023", destination: "/south-korea/cheongju/category/bars", permanent: true },
-      { source: "/a-night-out-in-busan-beach-bars-and-beyond", destination: "/south-korea/busan/category/nightlife", permanent: true },
-      { source: "/what-are-the-best-bars-in-gwangju-2022", destination: "/south-korea/gwangju/category/bars", permanent: true },
-      { source: "/a-foodies-guide-to-busan-what-to-eat-and-where-to-find-it", destination: "/south-korea/busan/category/food", permanent: true },
-      { source: "/best-restaurants-in-gangnam-2025", destination: "/south-korea/seoul/gangnam/category/restaurants", permanent: true },
     ];
   },
   async rewrites() {
