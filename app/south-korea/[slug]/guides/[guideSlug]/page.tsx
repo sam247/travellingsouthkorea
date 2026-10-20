@@ -18,6 +18,7 @@ import { LocalEtiquette } from "@/components/LocalEtiquette";
 import { ProTips } from "@/components/ProTips";
 import { FAQSection } from "@/components/FAQSection";
 import { ExploreMore } from "@/components/ExploreMore";
+import { RelatedLinkBlocks } from "@/components/RelatedLinkBlocks";
 import { getGuideBySlug, getGuidesByNeighbourhood, getGuidesByCity } from "@/data/guides";
 import { getTopHighlightsForGuide } from "@/lib/content/guideContent";
 import {
@@ -29,15 +30,21 @@ import {
 import { getFAQForGuide } from "@/lib/content/faqContent";
 import { getTravelTipsForGuide, getAuthorPerspective } from "@/lib/content/insights";
 import { getCityBySlug } from "@/data/cities";
+import { getNeighbourhoodBySlug } from "@/data/neighbourhoods";
 import { guides } from "@/data/guides";
 import { breadcrumbsGuide, breadcrumbsCityGuide } from "@/lib/breadcrumbs";
 import {
   getGuidePath,
   getNeighbourhoodPath,
-  getCityCategoryPath,
-  getCityPath,
   getTravelTipPath,
 } from "@/lib/canonical";
+import {
+  liveCityPath,
+  relatedCategoryLinks,
+  relatedCityLinks,
+  relatedGuideLinks,
+  liveGuidePath,
+} from "@/lib/relatedLinks";
 import {
   getProgrammaticGuideSpec,
   buildProgrammaticGuide,
@@ -113,14 +120,26 @@ export default async function GuidePage({ params }: PageProps) {
   const seoEnabled = isSeoRefactorEnabledForPath(scopedPath, citySlug, "guides");
 
   const isCityLevel = !guide.neighbourhoodSlug || guide.neighbourhoodSlug === "";
-  const relatedGuides = guide.relatedSlugs
+  const relatedGuideRecords = guide.relatedSlugs
     .map((s) => guides.find((g) => g.slug === s))
-    .filter(Boolean) as typeof guides;
-  const nearbyGuides = isCityLevel
-    ? getGuidesByCity(citySlug).filter((g) => g.slug !== guide.slug).slice(0, 4)
+    .filter((g): g is NonNullable<typeof g> => g != null && liveGuidePath(g.city, g.slug) != null);
+  const nearbyGuides = (isCityLevel
+    ? getGuidesByCity(citySlug)
     : getGuidesByNeighbourhood(guide.neighbourhoodSlug)
-        .filter((g) => g.slug !== guide.slug)
-        .slice(0, 4);
+  )
+    .filter((g) => g.slug !== guide.slug && liveGuidePath(g.city, g.slug) != null)
+    .slice(0, 4);
+  const cityLinks = relatedCityLinks(citySlug);
+  const categoryLinks = relatedCategoryLinks(citySlug, { focusCategory: guide.category });
+  const guideLinks = relatedGuideLinks({
+    citySlug,
+    currentGuideSlug: guide.slug,
+    preferredSlugs: guide.relatedSlugs,
+  });
+  const parentCityPath = liveCityPath(citySlug);
+  const neighbourhoodRecord = guide.neighbourhoodSlug
+    ? getNeighbourhoodBySlug(guide.neighbourhoodSlug)
+    : undefined;
 
   const factItems = isCityLevel
     ? [
@@ -293,13 +312,13 @@ export default async function GuidePage({ params }: PageProps) {
         </div>
       </section>
 
-      {relatedGuides.length > 0 && (
+      {relatedGuideRecords.length > 0 && (
         <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
           <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
             Related Guides
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-            {relatedGuides.map((g) => (
+            {relatedGuideRecords.map((g) => (
               <GuideCard
                 key={g.slug}
                 guide={g}
@@ -331,6 +350,16 @@ export default async function GuidePage({ params }: PageProps) {
         <ProTips {...getTravelTipsForGuide(guide, city)} />
       </section>
 
+      {(cityLinks.length > 0 || categoryLinks.length > 0 || guideLinks.length > 0) && (
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
+          <RelatedLinkBlocks
+            cities={cityLinks}
+            categories={categoryLinks}
+            guides={guideLinks}
+          />
+        </section>
+      )}
+
       <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
         <FAQSection items={getFAQForGuide(guide, city)} />
         {seoEnabled && seoLinks ? (
@@ -346,15 +375,7 @@ export default async function GuidePage({ params }: PageProps) {
         ) : (
           <ExploreMore
             links={[
-              ...relatedGuides.slice(0, 3).map((g) => ({
-                label: g.title,
-                href: getGuidePath(citySlug, g.slug),
-              })),
-              ...nearbyGuides.slice(0, 3).map((g) => ({
-                label: g.title,
-                href: getGuidePath(citySlug, g.slug),
-              })),
-              ...(guide.neighbourhoodSlug
+              ...(neighbourhoodRecord && neighbourhoodRecord.citySlug === citySlug
                 ? [{ label: guide.neighbourhood, href: getNeighbourhoodPath(citySlug, guide.neighbourhoodSlug) }]
                 : []),
               ...(citySlug === "jeju"
@@ -368,9 +389,9 @@ export default async function GuidePage({ params }: PageProps) {
                     },
                   ]
                 : []),
-              { label: "Things to do", href: getCityCategoryPath(citySlug, "things-to-do") },
-              { label: "Nightlife", href: getCityCategoryPath(citySlug, "nightlife") },
-              { label: `${city.name} guide`, href: getCityPath(citySlug) },
+              ...(parentCityPath
+                ? [{ label: `${city.name} travel guide`, href: parentCityPath }]
+                : []),
             ]}
           />
         )}

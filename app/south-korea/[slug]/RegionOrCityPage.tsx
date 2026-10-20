@@ -17,6 +17,7 @@ import { BudgetGuide } from "@/components/BudgetGuide";
 import { LocalEtiquette } from "@/components/LocalEtiquette";
 import { FAQSection } from "@/components/FAQSection";
 import { ExploreMore } from "@/components/ExploreMore";
+import { RelatedLinkBlocks } from "@/components/RelatedLinkBlocks";
 import { GuidePageToc } from "@/components/GuidePageToc";
 import { GuideSidebarRelatedGuides } from "@/components/GuideSidebarRelatedGuides";
 import { GuideSidebarExplore } from "@/components/GuideSidebarExplore";
@@ -44,6 +45,12 @@ import { getCitiesByRegion } from "@/data/cities";
 import { getGuidesByCity } from "@/data/guides";
 import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
 import { shouldEmitCityCategoryParam } from "@/lib/cityCategoryParams";
+import {
+  liveGuidePath,
+  relatedCategoryLinks,
+  relatedCityLinks,
+  relatedGuideLinks,
+} from "@/lib/relatedLinks";
 import { getVenuesByCity } from "@/data/venues";
 import { getItinerariesByCity } from "@/data/itineraries";
 import type { City } from "@/types";
@@ -139,7 +146,12 @@ export function RegionOrCityPage({
     const exploreCards = (exploreCategoryImages ?? fallbackExploreCards).filter((card) =>
       shouldEmitCityCategoryParam(city.slug, card.category)
     );
-    const cityGuides = getGuidesByCity(city.slug);
+    const cityGuides = getGuidesByCity(city.slug).filter(
+      (guide) => liveGuidePath(guide.city, guide.slug) != null
+    );
+    const relatedCities = relatedCityLinks(city.slug);
+    const relatedCategories = relatedCategoryLinks(city.slug);
+    const relatedGuides = relatedGuideLinks({ citySlug: city.slug });
     const cityNeighbourhoods = getNeighbourhoodsByCity(city.slug);
     const cityVenues = getVenuesByCity(city.slug).slice(0, 6);
     const popularNeighbourhoods = cityNeighbourhoods.slice(0, 6);
@@ -362,6 +374,18 @@ export function RegionOrCityPage({
                 </section>
               )}
 
+              {(relatedCities.length > 0 ||
+                relatedCategories.length > 0 ||
+                relatedGuides.length > 0) && (
+                <section className="pb-10">
+                  <RelatedLinkBlocks
+                    cities={relatedCities}
+                    categories={relatedCategories}
+                    guides={relatedGuides}
+                  />
+                </section>
+              )}
+
               <section className="pb-10" id="faq">
                 <FAQSection items={getFAQForCity(city)} />
                 <ExploreMore
@@ -369,10 +393,6 @@ export function RegionOrCityPage({
                     ...cityNeighbourhoods.slice(0, 4).map((n) => ({
                       label: n.name,
                       href: getNeighbourhoodPath(city.slug, n.slug),
-                    })),
-                    ...cityGuides.slice(0, 4).map((g) => ({
-                      label: g.title,
-                      href: getGuidePath(city.slug, g.slug),
                     })),
                     ...getItinerariesByCity(city.slug).slice(0, 3).map((i) => ({
                       label: i.title,
@@ -389,9 +409,6 @@ export function RegionOrCityPage({
                           },
                         ]
                       : []),
-                    { label: "Things to do", href: getCityCategoryPath(city.slug, "things-to-do") },
-                    { label: "Nightlife", href: getCityCategoryPath(city.slug, "nightlife") },
-                    { label: "Restaurants", href: getCityCategoryPath(city.slug, "restaurants") },
                   ]}
                 />
               </section>
