@@ -7,7 +7,8 @@ import { AuthorBadge } from "@/components/AuthorBadge";
 import { QuickFacts } from "@/components/QuickFacts";
 import { VenueCard } from "@/components/VenueCard";
 import { GuideCard } from "@/components/GuideCard";
-import { MapPlaceholder } from "@/components/MapPlaceholder";
+import { LazyOsmMap } from "@/components/LazyOsmMap";
+import { mapPointsForGuide } from "@/lib/mapPoints";
 import { TrackableMapSection } from "@/components/analytics/TrackableMapSection";
 import { TrackableImageWrapper } from "@/components/analytics/TrackableImageWrapper";
 import { ContentSection } from "@/components/ContentSection";
@@ -153,6 +154,7 @@ export default async function GuidePage({ params }: PageProps) {
     ? buildSeoulScopedLinksForGuide(guide)
     : null;
   const recentlyUpdated = seoEnabled ? recentlyUpdatedSeoulLinks(8) : [];
+  const mapPoints = mapPointsForGuide(guide);
 
   return (
     <div className="min-h-screen bg-background">
@@ -258,16 +260,19 @@ export default async function GuidePage({ params }: PageProps) {
         </div>
       </section>
 
-      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
-        <TrackableMapSection guideSlug={guideSlug}>
-          <MapPlaceholder
-            label={`Map showing ${guide.venues.length} locations`}
-            venueMarkers={guide.venues
-              .filter((v): v is typeof v & { lat: number; lng: number } => v.lat != null && v.lng != null)
-              .map((v) => ({ name: v.name, lat: v.lat, lng: v.lng, category: guide.category }))}
-          />
-        </TrackableMapSection>
-      </section>
+      {mapPoints.length > 0 && (
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
+          <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
+            Map
+          </h2>
+          <TrackableMapSection guideSlug={guideSlug}>
+            <LazyOsmMap
+              markers={mapPoints}
+              label={`Map of places in ${guide.title}`}
+            />
+          </TrackableMapSection>
+        </section>
+      )}
       {seoEnabled && seoLinks && (
         <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-10">
           <ExploreMore
