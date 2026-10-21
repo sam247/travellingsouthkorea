@@ -2157,6 +2157,225 @@ It is located on Jeju Island in South Korea.`,
     contentType: "travel-tip",
   },
   {
+    slug: "south-korean-casinos-and-gambling",
+    title: "Casinos and Gambling in South Korea: What's Legal in 2026",
+    image: "/images/blogs/south-korean-casinos-and-gambling/inspire-entertainment-resort-incheon.jpg",
+    canonicalPath: "/south-korean-casinos-and-gambling",
+    metaTitle: "South Korea Casinos & Gambling Laws: 2026 Guide",
+    metaDescription:
+      "Is gambling legal in South Korea? All 18 casinos (17 foreigner-only plus Kangwon Land), entry rules for visitors and Koreans, legal racing and lottery, and what's illegal.",
+    summary:
+      "South Korea has 18 licensed casinos, but only Kangwon Land admits Korean citizens. This 2026 guide covers the gambling laws, every foreigner-only casino with 2025 regulator figures, Kangwon Land's entry rules, legal horse racing and lottery, what is illegal for visitors and locals, and where to get help.",
+    content: `Yes, South Korea has casinos, but almost none of them let South Koreans in. The country has 18 licensed casinos. Seventeen of them are for foreigners only, and the only one where Korean citizens can legally gamble is Kangwon Land, a mountain resort in Gangwon Province. Outside those casinos, the only legal betting is on state-run horse, cycle and boat racing, sports pools and the lottery. Everything else, including online casinos and offshore betting apps, is illegal for anyone in Korea.
+
+This guide explains the rules for visitors and for Koreans, lists every licensed casino with its 2025 figures from the national gambling regulator, and covers the legal alternatives and the traps to avoid. It is information, not encouragement. If gambling is causing you problems, there is help at the end.
+
+![The Inspire Entertainment Resort on Yeongjong Island, Incheon](/images/blogs/south-korean-casinos-and-gambling/inspire-entertainment-resort-incheon.jpg)
+
+Inspire Entertainment Resort near Incheon Airport, home to the newest foreigner-only casino in Korea, licensed in January 2024. Photo: Whoisim via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inspire_Entertainment_Resort_Exterior.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Korean Gambling Rules at a Glance
+
+| Question | Foreign visitors | Korean citizens |
+| --- | --- | --- |
+| Foreigner-only casinos (17) | Yes, with a passport, aged 19+ | No, unless registered as emigrants abroad |
+| Kangwon Land casino | Yes, aged 19+, no entry tax | Yes, aged 19+, ₩9,000 entry tax, 15 days a month maximum |
+| Horse, cycle and boat racing | Yes | Yes |
+| Lotto and Sports Toto | Yes, from licensed sellers | Yes |
+| Online casinos and offshore betting sites | Illegal | Illegal |
+| Small-stakes card games at home | Tolerated as casual amusement | Tolerated as casual amusement |
+
+## What the Law Says
+
+Gambling is a crime under Article 246 of Korea's Criminal Act. Gambling is punishable by a fine of up to ₩10 million, and habitual gambling by up to three years in prison or a fine of up to ₩20 million. The same article makes one exception: play that is "no more than temporary amusement", such as a family card game for small change, is not punished. Running a gambling place for profit is a separate offence under Article 247, with up to five years in prison.
+
+Casinos exist because other laws carve out exceptions. Under the Tourism Promotion Act, licensed casino operators may not admit Korean nationals, which is why 17 casinos serve foreigners only. Kangwon Land exists under a separate special law, passed in 1995 to revive the former coal-mining towns of southern Gangwon. That law was renamed on 31 March 2026, from the Special Act on Assistance to the Development of Abandoned Mine Areas to the Special Act on Assistance to the Development of Coal Industry Transition Areas, and it allows Kangwon Land to admit Koreans until 31 December 2045.
+
+Korea also applies its criminal law to its citizens abroad (Article 3 of the Criminal Act). In practice, prosecutions of Koreans for "expedition gambling" (원정도박) have focused on repeated or large-scale betting trips, and celebrities and professional athletes have been fined for them. The legal question is not settled for a single casual visit to a legal casino abroad. In 2018 the Seoul High Court said such conduct could be lawful only if it did not harm Korea's public order, and it upheld the conviction of a man running a Vietnamese casino for Korean tourists.
+
+## The 17 Foreigner-Only Casinos
+
+These are the licensed foreigner-only casinos listed by the National Gambling Control Commission (NGCC), with each one's 2025 revenue and admissions. Together they took ₩2.26 trillion in 2025, up 21.6% on 2024, from 3.49 million admissions.
+
+| Region | Casino | Where | 2025 revenue | 2025 admissions |
+| --- | --- | --- | --- | --- |
+| Seoul | Paradise Casino Walkerhill | Walkerhill hotel complex, Gwangjin-gu | ₩342.2bn | 476,757 |
+| Seoul | Seven Luck Casino Gangnam COEX | COEX convention annex, Samseong-dong, Gangnam-gu | ₩205.6bn | 362,045 |
+| Seoul | Seven Luck Casino Seoul Dragon City | Seoul Dragon City, Yongsan-gu | ₩150.7bn | 571,622 |
+| Incheon | Paradise Casino (Paradise City) | Yeongjong Island, by Incheon Airport | ₩485.4bn | 435,020 |
+| Incheon | Inspire Casino | Inspire Entertainment Resort, by Incheon Airport | ₩286.0bn | 379,161 |
+| Busan | Seven Luck Casino Busan Lotte | Lotte Hotel Busan, Seomyeon | ₩69.1bn | 183,498 |
+| Busan | Paradise Casino Busan | Paradise Hotel, Haeundae Beach | ₩58.1bn | 100,098 |
+| Daegu | Inter-Burgo Daegu Casino | Hotel Inter-Burgo, Suseong-gu | ₩20.1bn | 71,960 |
+| Gangwon | Alpensia Casino | Alpensia Resort, Pyeongchang | none | none |
+| Jeju | Dream Tower Casino | Jeju Dream Tower, Jeju City | ₩520.6bn | 590,332 |
+| Jeju | Les A Casino (formerly Landing Casino) | Jeju Shinhwa World, Seogwipo | ₩54.2bn | 153,977 |
+| Jeju | Seven Star Casino | Lotte Hotel Jeju, Jungmun | ₩40.9bn | 36,722 |
+| Jeju | Paradise Casino Jeju | Maison Glad Jeju, Jeju City | ₩23.9bn | 101,071 |
+| Jeju | Gold Mountain Casino | The Shilla Jeju, Jungmun | ₩5.9bn | 8,011 |
+| Jeju | Jeju Oriental Casino | Oriental Hotel, Jeju City | ₩0.7bn | 15,473 |
+| Jeju | Jeju Sun Casino | Jeju Sun Hotel, Jeju City | ₩0.4bn | 8,304 |
+| Jeju | Gongz Casino | Ramada Plaza Jeju, Jeju City | none | none |
+
+Two casinos on the list reported no revenue in 2025. Alpensia's casino in Pyeongchang has been closed since late 2023, and Gongz in Jeju City also recorded no business. Check that any smaller Jeju casino is open before you make a trip for it.
+
+### Seoul
+
+Seoul has three casinos, and all are easy to reach by subway or taxi.
+
+- Paradise Casino Walkerhill was first licensed in 1968. It sits in the Walkerhill hotel complex on a hillside above the Han River in the east of the city.
+- Seven Luck Casino Gangnam COEX is in the COEX convention complex next to Samseong Station. It suits a visit combined with the COEX Mall and Starfield Library in [Gangnam](/south-korea/seoul/gangnam).
+- Seven Luck Casino Seoul Dragon City is in the Seoul Dragon City hotel complex beside Yongsan Station, in [Yongsan](/south-korea/seoul/yongsan). It had the most admissions of any Seoul casino in 2025.
+
+The three Seven Luck casinos are run by Grand Korea Leisure (GKL), a government-affiliated company. Seven Luck says its casinos are open 24 hours a day, 365 days a year. There is no formal dress code, but shorts, sports jerseys and sandals may be refused.
+
+![Grand Walkerhill Seoul, the hotel complex that houses Paradise Casino Walkerhill](/images/blogs/south-korean-casinos-and-gambling/grand-walkerhill-seoul.jpg)
+
+Grand Walkerhill Seoul in Gwangjin-gu. Paradise Casino Walkerhill, licensed since 1968, is part of the same complex. The photo has been placed on a blurred background to fit the frame. Photo: YellowTurtle9 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grand_Walkerhill_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Incheon (by the airport)
+
+Two integrated resorts on Yeongjong Island, minutes from [Incheon Airport](/travel-tips/incheon-airport-to-seoul), hold the biggest casino floors on the mainland. Inspire's licensed gaming area, about 14,650 m², is the largest of the foreigner-only casinos, and Paradise City's is about 8,730 m². Both resorts also have hotels, concert venues and shopping, so many visitors on long layovers or arriving late stay here rather than in central Seoul. See our [Incheon guide](/south-korea/incheon) for the wider city.
+
+### Busan
+
+Busan has two casinos. Paradise Casino Busan is in the Paradise Hotel on [Haeundae Beach](/south-korea/busan/haeundae), and Seven Luck Casino Busan Lotte is in the Lotte Hotel in Seomyeon, Busan's downtown shopping and nightlife district.
+
+![The Paradise Hotel Busan on Haeundae Beach](/images/blogs/south-korean-casinos-and-gambling/paradise-hotel-busan-haeundae.jpg)
+
+The Paradise Hotel Busan, seen from Haeundae Beach. Paradise Casino Busan is inside. The photo has been placed on a blurred background to fit the frame. Photo: Abasaa via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paradise_Hotel_Busan.JPG), public domain.
+
+### Jeju
+
+[Jeju](/south-korea/jeju) has eight of the 17 licences, more than any other region. Most are small casinos inside hotels. The exception is Dream Tower Casino in the Jeju Dream Tower resort in Jeju City, which took more money in 2025 than any other casino on the list. Les A Casino at Jeju Shinhwa World near Seogwipo is the next largest on the island. It was called Landing Casino until it changed its name in September 2025.
+
+### Daegu
+
+Inter-Burgo Daegu Casino, in the Hotel Inter-Burgo in Suseong-gu, is the only casino in [Daegu](/south-korea/daegu).
+
+### Who can go in, and what to bring
+
+- You must be at least 19. Seven Luck cites Article 28 of the Tourism Promotion Act and its own regulations for this.
+- Bring your physical passport. Casinos check nationality and age at the door.
+- Korean nationals are refused. The exception is Koreans registered as emigrants under the Overseas Emigration Act, for example permanent residents of another country, who can enter with proof of that status.
+- Expect smart-casual dress. Seven Luck can turn away shorts, jerseys and sandals.
+
+The foreigner-only casinos have had a strong 2026. In May 2026, Paradise had its highest monthly casino revenue ever, ₩98.9 billion across its four casinos, and GKL's revenue rose 40.8% year on year, according to The Asia Business Daily. Jeju Dream Tower also had its best May since opening in 2021. Analysts credited Japan's Golden Week and China's Labour Day holiday falling together. Visa-free entry for Chinese tour groups has also been extended to 31 December 2026.
+
+## Kangwon Land: The Only Casino Koreans Can Use
+
+Kangwon Land opened on 28 October 2000 in Sabuk-eup, Jeongseon County, in the mountains of [Gangwon Province](/south-korea/gangwon). It is part of High1 Resort, which also has a ski area, golf courses, hotels and a water park. It is the only casino in the country that admits both Koreans and foreigners. In 2025 it took ₩1.43 trillion from 2.48 million admissions, according to the NGCC.
+
+![The entrance to the casino at Kangwon Land in Jeongseon](/images/blogs/south-korean-casinos-and-gambling/kangwon-land-casino-entrance.jpg)
+
+The casino entrance at Kangwon Land, photographed in 2013. The photo has been placed on a blurred background to fit the frame. Photo: Roadgo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gangwonland_casino_Doorway.jpeg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+Kangwon Land's rules are much stricter than the foreigner-only casinos':
+
+- The casino is open from 10:00 to 06:00, 20 hours a day.
+- You must be 19 or over. Korean visitors must show a resident registration card or driving licence, because a passport does not show where you live.
+- Korean visitors pay a ₩9,000 entry tax, which goes to the state as excise, education and value-added tax. Foreigners and registered emigrants are exempt.
+- Foreigners must show a passport on their first visit. After that, another government ID can be used while the registration is valid.
+- No one may enter on more than 15 days a month. Visitors who repeatedly hit that limit, 15 days in two consecutive months or more than 30 days a quarter, are barred for a month, then two months, and then permanently.
+- Residents of the nearby former mining towns (Taebaek, Dogye in Samcheok, parts of Jeongseon, and Sangdong in Yeongwol) can enter only once a month.
+- The standard betting limit is low, at ₩100,000. Since a trial began in February 2025, a separate foreigner-only zone has offered limits of up to ₩20 million.
+
+Kangwon Land runs a problem-gambling centre by the ticket desk, open 09:00 to 24:00 every day (080-7575-545). Visitors can use it to cut their own monthly entry days for six months to three years, or to ban themselves.
+
+Getting there is a trip in itself: the resort is deep in the Taebaek Mountains, roughly three hours by car from Seoul.
+
+## Legal Betting Outside the Casinos
+
+The other legal forms of gambling are run by public bodies and supervised by the NGCC. Together with the casinos, they took ₩26 trillion in 2025.
+
+- Horse racing: The Korea Racing Authority runs three racecourses called Let's Run Park, in Seoul (in Gwacheon, just south of the city on subway Line 4), Busan-Gyeongnam and Jeju, plus off-course betting branches. Racing at Let's Run Park Seoul runs from Friday to Sunday, and admission on race days is ₩2,000.
+- Cycle racing (gyeongnyun): Velodromes in Gwangmyeong (the Gwangmyeong Speedom), Changwon and Busan.
+- Boat racing (gyeongjeong): the course on the Misari regatta course in Hanam, east of Seoul.
+- Lottery: Lotto 6/45 and other lotteries are sold at about 9,500 shops nationwide.
+- Sports Toto: Sports betting pools are sold at about 6,500 shops and through the official Betman site. This is the only legal sports betting in Korea.
+- Bullfighting: The Cheongdo bullfighting arena in North Gyeongsang lets spectators bet on bull-versus-bull contests.
+
+![The finish line at Let's Run Park Seoul racecourse](/images/blogs/south-korean-casinos-and-gambling/lets-run-park-seoul-finish-line.jpg)
+
+The finish line at Let's Run Park Seoul in Gwacheon, May 2022. Photo: KSH1015 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EB%A0%9B%EC%B8%A0%EB%9F%B0%ED%8C%8C%ED%81%AC%EC%84%9C%EC%9A%B8%EA%B2%B0%EC%8A%B9%EC%84%A0.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+## What Is Illegal (Including for Visitors)
+
+- Online casinos and offshore betting sites: Korean law treats betting on these sites from Korea as gambling, wherever the site is based, and Korea blocks many of them. Using an illegal site to bet on sports carries up to five years in prison or a fine of up to ₩50 million under Article 48 of the National Sports Promotion Act. Do not use them while you are in Korea, whatever your nationality.
+- Cash games at hold'em pubs: Poker pubs (홀덤펍) are legal as entertainment. Players pay an entry fee and play for chips. Exchanging chips for cash, crypto or anything of value is illegal, and so is the owner taking a cut or trading tournament "seed" tickets for cash. The National Police Agency ran a crackdown on these practices from May to August 2025. Operators face charges of running a gambling place, and players face gambling charges.
+- Illegal gambling dens: Unlicensed card rooms and gaming arcades that pay out cash are raided regularly. Avoid anyone who offers to take you to a "private casino".
+
+## Hwatu and Go-Stop: Gambling at Home
+
+The game most Koreans actually play for money is go-stop, played with hwatu (화투), a deck of 48 small, stiff cards in 12 suits, one for each month, each with a flower or plant. The cards came to Korea from Japanese hanafuda in the 19th century. Families often play go-stop at holidays such as Seollal and Chuseok, betting coins or small notes. As long as the stakes stay small and the game is social, this is the "temporary amusement" that Article 246 excludes. High-stakes games are prosecuted as gambling.
+
+![The 48 cards of a Korean hwatu deck, arranged by month](/images/blogs/south-korean-casinos-and-gambling/hwatu-cards.jpg)
+
+A full hwatu deck: 48 cards in 12 monthly suits. Image: Marcus Richert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hwatu_overview.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Getting Help With Gambling Problems
+
+The Korea Center on Gambling Problems (한국도박문제예방치유원) runs a free helpline on 1336, open from 09:00 to 22:00 every day. It also offers chat counselling at kcgp.or.kr on weekdays. Kangwon Land's own centre is on 080-7575-545. If you are visiting from abroad, the problem-gambling services in your home country can also help remotely.
+
+If you're planning an evening out in Korea that doesn't involve chips, see our guides to [Seoul nightlife](/south-korea/seoul/category/nightlife) and [the cheapest drinks in Itaewon](/where-to-find-the-cheapest-drinks-in-itaewon).
+
+## Korea Casino and Gambling FAQ
+
+### Is gambling legal in South Korea?
+
+Mostly not. Gambling is a crime under Article 246 of the Criminal Act. The exceptions are licensed casinos, state-run horse, cycle and boat racing, Sports Toto, the lottery, Cheongdo bullfighting, and small social games played for fun.
+
+### Can foreigners gamble in South Korea?
+
+Yes. Foreign visitors aged 19 and over can play at any of the 17 foreigner-only casinos and at Kangwon Land, and they can bet on racing, Sports Toto and the lottery. Bring your passport. Online casinos and offshore betting sites are illegal for foreigners too.
+
+### How many casinos are there in South Korea?
+
+There are 18 licensed casinos: 17 foreigner-only casinos and Kangwon Land. Eight of the foreigner-only casinos are in Jeju, three in Seoul, two each in Incheon and Busan, and one each in Daegu and Pyeongchang. Two of them reported no business in 2025.
+
+### Can Koreans go to casinos in Korea?
+
+Only Kangwon Land in Jeongseon, Gangwon Province. Korean citizens must be 19 or over, pay a ₩9,000 entry tax and may visit on no more than 15 days a month. Koreans registered as emigrants abroad can also enter the foreigner-only casinos.
+
+### Can Koreans gamble abroad, for example in Macau or Las Vegas?
+
+Korea's Criminal Act applies to its citizens abroad, and Koreans have been prosecuted for repeated or large-scale gambling trips overseas. A one-off small bet can fall under the "temporary amusement" exception, but there is no clear safe harbour.
+
+### What is the biggest casino in South Korea?
+
+Kangwon Land is the biggest, with about 21,230 m² of licensed casino space and ₩1.43 trillion of revenue in 2025. Among the foreigner-only casinos, Inspire near Incheon Airport has the largest floor (about 14,650 m²), and Dream Tower in Jeju City took the most money in 2025 (₩520.6 billion), followed by Paradise City in Incheon (₩485.4 billion).
+
+## Sources
+
+- National Gambling Control Commission (사행산업통합감독위원회): [legal gambling industry figures for 2025](https://www.ngcc.go.kr/statis/scale.do) and [casino operator list with 2025 revenue and admissions](https://ngcc.go.kr/statis/facility.do).
+- Korea Casino Association: [member casinos and addresses](http://www.koreacasino.or.kr/kcasino/asso/members.do); its January 2025 notice on Jeju casinos and emigrant entry.
+- Criminal Act, Article 246, and National Sports Promotion Act, Article 48: [Korea Law Information Center](https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1017465707) (current texts, October 2026); Article 247 via Law Times (2018).
+- Seoul High Court judgment 2017노2802 (14 June 2018) on crimes by Koreans abroad: Seoul High Court summary (27 Jun 2018) and Law Times.
+- Kangwon Land: [casino admission guide](https://www.high1.com/casino/sub.do?key=777) (entry tax, ID, the 15-day rule, hours); [High1 FAQ on problem-gambling services](https://www.high1.com/www/selectBbsNttList.do?bbsNo=189&key=2343); quarterly report to the Korea Exchange (15 May 2026) on its legal basis to 2045; Inside Asian Gaming (7 Feb 2025) on the foreigner-only zone.
+- Law extension and renaming: Korea Policy Briefing (24 Aug 2021); Edaily (26 Feb 2021); Yonhap (31 Mar 2026).
+- Seven Luck Casino: [admission guide](https://m.7luck.com/en/GUID_01_01).
+- 2026 casino results: The Asia Business Daily (6 Jun 2026). Chinese group visa waiver extension: Ministry of Foreign Affairs, Consulate General in Qingdao (2026).
+- Les A Casino renaming: Yonhap (8 Sep 2025). Alpensia casino closure: Pressian (4 Jun 2024).
+- Hold'em pub crackdown: [Korea Policy Briefing, National Police Agency](https://www.korea.kr/news/policyNewsView.do?newsId=148943842) (30 May 2025).
+- Let's Run Park: [Korea Racing Authority FAQ](https://www.kra.co.kr/voc/faq/faqList.do?category=001).
+- Helpline 1336: [Korea Center on Gambling Problems](https://kcgp.or.kr/portal/main/contents.do?menuNo=200062).
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or in the public domain. Each was resized and cropped to a 16:9 frame. Where noted, a photo was placed on a blurred copy of itself to fit.
+
+- Hero (Inspire Entertainment Resort): Whoisim, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Inspire_Entertainment_Resort_Exterior.jpg)
+- Grand Walkerhill Seoul: YellowTurtle9, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Grand_Walkerhill_Seoul.jpg)
+- Paradise Hotel Busan: Abasaa, public domain, [source](https://commons.wikimedia.org/wiki/File:Paradise_Hotel_Busan.JPG)
+- Kangwon Land casino entrance: Roadgo, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Gangwonland_casino_Doorway.jpeg)
+- Let's Run Park Seoul finish line: KSH1015, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:%EB%A0%9B%EC%B8%A0%EB%9F%B0%ED%8C%8C%ED%81%AC%EC%84%9C%EC%9A%B8%EA%B2%B0%EC%8A%B9%EC%84%A0.jpg)
+- Hwatu deck: Marcus Richert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hwatu_overview.svg)`,
+    tags: ["Casinos", "Gambling", "Laws", "Nightlife", "Kangwon Land", "Jeju"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-21",
+    contentType: "travel-tip",
+  },
+  {
     slug: "korean-sexuality",
     title: "Sex, Dating and Intimacy in South Korea: A Frank 2026 Guide",
     image: "/images/blogs/korean-sexuality/couple-gwanghwamun-gate-night.jpg",
