@@ -1298,6 +1298,136 @@ For gamers, it's one of the most memorable things you can do in the city. For cu
     contentType: "travel-tip",
   },
   {
+    slug: "top-5-noraebang-karaoke-chains-in-korea",
+    title: "Korean Noraebang Chains and Coin Karaoke: A 2026 Guide",
+    image: "/images/blogs/top-5-noraebang-karaoke-chains-in-korea/jongno-louvre-noraebang-night.jpg",
+    canonicalPath: "/top-5-noraebang-karaoke-chains-in-korea",
+    metaTitle: "Korean Noraebang Chains & Coin Karaoke (2026 Guide)",
+    metaDescription:
+      "A 2026 guide to Korean noraebang and coin karaoke: room versus coin booths, TJ and Kumyoung machines, franchise chains we could verify, and where to sing.",
+    summary:
+      "Noraebang is private-room karaoke, and coin noraebang is the small-booth version. This 2026 guide explains both, names franchise chains whose own sites we could check, and links singing areas already in our city guides. It is not a ranked top five.",
+    content: `Noraebang (노래방) is Korea's private-room karaoke. You take a room with friends, pick songs on a machine, and sing. Coin noraebang (코인노래방) is the smaller version: a booth for one or two people, paid by the song or by a block of time. The old address of this page promised a top five chains. There is no official public ranking of noraebang chains, so this guide does not invent one. It explains how the two formats work, which machine brands you will see on the screen, and which franchise names we could confirm from the company's own website in October 2026.
+
+![A noraebang sign on a Seoul side street at night](/images/blogs/top-5-noraebang-karaoke-chains-in-korea/jongno-louvre-noraebang-night.jpg)
+
+A singing-room sign in Jongno-gu, Seoul, in 2016. The Korean caption on the file places it at Louvre Noraebang on Ujeongguk-ro 2-gil. Photo: William Anderson via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nightlife_In_Seoul_Korea_%28148012137%29.jpeg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+## Room Noraebang and Coin Noraebang
+
+Both are singing rooms, called 노래연습장 when the business is registered under the Music Industry Promotion Act. The practical difference is the size of the room and how you pay.
+
+- A room noraebang rents a larger room to a group. The counter, or a system in the room, charges for time. Kumyoung's coin-room management system, for example, is built to track time and a unit price for each room.
+- A coin noraebang puts one or two people in a small booth. You pay at a terminal in the booth. Machines from both major makers now take cards and phone payments as well as coins.
+- Most rooms in a busy area are independent shops, not branches of a national chain. A glowing 코인노래방 sign does not by itself mean a franchise.
+
+Prices are posted in the shop. None of the chain sites below publish a national customer price, so this guide does not quote one. Check the board on the day.
+
+Registered singing rooms have two rules that surprise visitors who have read older guides. Under Article 22 of the Music Industry Promotion Act, the operator must not sell or provide alcohol, and must keep teenagers (청소년) out except during the hours set by presidential decree. That decree, in force from 8 October 2026, sets those hours at 09:00 to 22:00. A parent or guardian can bring a teenager outside those hours, and so can another adult the decree names, such as a teacher. Staff can ask for ID. If a place is pouring soju in the room, it is not operating as a straightforward registered singing room.
+
+## The Machines: TJ and Kumyoung
+
+Two companies supply the machines inside most rooms. They are not chains of karaoke shops.
+
+- [TJ Media](https://www.tjmedia.com/introduce/tjmedia) says it has made karaoke equipment since 1981. Its site sells the accompaniment machines, speakers and payment gear used in singing rooms, and it runs a [public song search](https://www.tjmedia.com/song/accompaniment_search). Song numbers on a TJ screen only work on TJ.
+- [Kumyoung Entertainment](https://www.kyentertainment.kr/w/about/history.php) (금영엔터테인먼트) dates the company to 1989 and its computer accompaniment machine to 1991. It was renamed Kumyoung Entertainment in 2018. Its [K-Smart Coin](http://kyentertainment.kr/w/platform/coin.php) system is sold to coin-room owners for payments and room monitoring. Kumyoung also publishes a long list of shops that use its equipment. That list is a customer list, not a Kumyoung chain.
+
+If a song number from a blog does not work, you are probably on the other brand. Search by title on the remote, or use that brand's own lookup.
+
+![A handheld microphone](/images/blogs/top-5-noraebang-karaoke-chains-in-korea/karaoke-microphone.jpg)
+
+Coin booths and group rooms both come down to a microphone and a song list. Photo: Kane Reinholdtsen via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microphone_on_a_karaoke_night_%28Unsplash%29.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Coin-Noraebang Franchises We Could Verify
+
+These are franchise brands whose own sites were online when we checked in October 2026. The table is alphabetical by the English name we use here. It is not a quality ranking, and it is not a full list of Korean singing rooms. Store counts on franchise marketing pages often disagree with each other, so we have left them out. Where a site names actual branches, those names are included. Hours are set by each shop.
+
+| Brand | Company, from its site | What the site shows |
+| --- | --- | --- |
+| Angels Coin (엔젤스코인) | Unius F&C, Gasan Digital Complex, Seoul | A coin-noraebang franchise. Phone 1522-0693. [angelscoin.co.kr](https://www.angelscoin.co.kr/) |
+| Coin Holic (코인홀릭) | Holic Companion, Dongtan, Hwaseong | A coin-noraebang brand that says it also runs shops itself. [holic24.com](https://holic24.com/main) |
+| OX Coin | Offices in Gasan, Seoul, and Busan | A coin-noraebang franchise describing unmanned rooms. [oxcoin.co.kr](https://oxcoin.co.kr/) |
+| Seven Star Coin (세븐스타) | Luscent, Gasan Digital Complex, Seoul | A coin-noraebang franchise. Its site names branches including Yatap, Yeokgok, Omokgyo, Jecheon, Pohang, Gumi Sangmo, Osan Segyo, Paju and Busan. [7starcoin.co.kr](http://www.7starcoin.co.kr/) |
+| Superstar Coin (슈퍼스타) | NC Enter, Seocho, Seoul | A coin-noraebang franchise. Its history page says the first shop opened in Yongin in 2014, a Hongdae shop in 2015, and a supply deal with TJ Media in 2015. Its store guide names branches including Gangnam Station, Nowon, Daechi, Gumi and Daejeon Dunsan. [superstarcoin.co.kr](http://superstarcoin.co.kr/wp/) |
+| Ten Coin (텐코인) | Ten FC, Songdo, Incheon | A coin-noraebang franchise that says its shops use TJ Media sound equipment. [tencoin.co.kr](https://www.tencoin.co.kr/) |
+
+Treat "number one chain" lines on these sites as advertising. We did not find an official ranking to put them in order.
+
+![Hongdae's party street at night](/images/blogs/top-5-noraebang-karaoke-chains-in-korea/hongdae-party-street-night.jpg)
+
+Hongdae after dark, where a lot of nights end in a coin booth. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Where to Sing, Using Places We Already List
+
+The pages below are area clusters or single karaoke buildings already in our venue data. They are not claims that a named franchise above has a branch at that pin. Check Naver Map or Kakao Map for the sign you want on the day.
+
+- Seoul, [Hongdae coin noraebang](/south-korea/seoul/venues/hongdae-coin-noraebang): coin booths on the side streets off Wausan-ro, by Hongik University Station. Superstar's own history page records a Hongdae shop opening in 2015. Whether that branch is still trading is a same-day map check, not something this page can freeze.
+- Seoul, [Sinchon noraebang cluster](/south-korea/seoul/venues/sinchon-noraebang-cluster): multi-floor karaoke buildings by Sinchon Station, used as the student-night closer. See the [Sinchon neighbourhood](/south-korea/seoul/sinchon) page for the wider area.
+- [Wonju, Dangye noraebang cluster](/south-korea/wonju/venues/wonju-central-noraebang), [Changwon, Sangnam noraebang row](/south-korea/changwon/venues/sangnam-noraebang-changwon) and [Cokain Karaoke](/south-korea/changwon/venues/cokain-karaoke-changwon), [Iksan, Jungang cluster](/south-korea/iksan/venues/iksan-jungang-noraebang), [Sejong, Naseong](/south-korea/sejong/venues/sejong-noraebang) and [Geoje, Okpo cluster](/south-korea/geoje/venues/okpo-noraebang-cluster): the same late-night pattern in smaller cities.
+
+For how a Korean night is usually structured, see [Korean nightlife culture](/culture/korean-nightlife-culture) and [Seoul nightlife](/south-korea/seoul/category/nightlife).
+
+![A street in Sinchon, Seoul](/images/blogs/top-5-noraebang-karaoke-chains-in-korea/sinchon-street.jpg)
+
+Sinchon, the university district next to Hongdae, packs karaoke buildings around the station. Photo: kayakorea (Brandon Butler) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Korea-Seoul-View_of_Sinchon-01.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+## How a Visit Usually Goes
+
+- Look for 노래방 for a group room and 코인노래방 for a booth. 노래연습장 is the registered-business word for both.
+- Tell the counter how many people you are, or walk into an empty coin booth and pay on the terminal.
+- The song book or touchscreen is branded TJ or Kumyoung. Search by title if you do not have a number.
+- Tambourines are normal. So is singing badly. The room is private.
+- Coin booths are the easier choice for one or two people. A larger room makes more sense for a group, because you are paying for the room rather than squeezing everyone into a booth.
+- Many coin rooms are open late, and some run through the night, but that is a per-shop decision. The map apps are more current than any list.
+
+## Korean Noraebang FAQ
+
+### What is a noraebang?
+
+A private karaoke room. In Korean the everyday word is 노래방, and the registered business is a 노래연습장, a singing room under the Music Industry Promotion Act.
+
+### What is coin noraebang?
+
+A small karaoke booth, 코인노래방, paid by the song or by a short block of time. It suits one or two people. A full noraebang rents a larger room to a group.
+
+### Which noraebang chain is best?
+
+We are not ranking them. The brands above are ones whose own websites we could open in October 2026. Most singing rooms in Korea are independent, and a chain's advertising is not a visitor ranking.
+
+### Are TJ and Kumyoung noraebang chains?
+
+No. They make the machines and, in Kumyoung's case, the payment system. A TJ or KY logo on the screen tells you which song numbers will work.
+
+### Can teenagers go to noraebang?
+
+Yes, during the hours in the law. From 8 October 2026 the presidential decree allows teenagers in from 09:00 to 22:00. Outside those hours they need a parent or guardian, or another adult the decree names. Staff can ask for ID.
+
+### Can I drink alcohol in a noraebang?
+
+Not in a registered singing room. Article 22 of the Music Industry Promotion Act says the operator must not sell or provide alcohol. Eat before or after, at a restaurant.
+
+## Sources
+
+- Music Industry Promotion Act, Article 22 (no alcohol, teenager entry hours, ID checks): [Korea Law Information Center](https://www.law.go.kr/법령/음악산업진흥에관한법률).
+- Enforcement decree of that Act, Article 8, hours of 09:00 to 22:00, in force 8 October 2026: [presidential decree text](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lspttninfSeq=79840).
+- [TJ Media company introduction](https://www.tjmedia.com/introduce/tjmedia) and [song search](https://www.tjmedia.com/song/accompaniment_search).
+- [Kumyoung Entertainment history](https://www.kyentertainment.kr/w/about/history.php) and [K-Smart Coin](http://kyentertainment.kr/w/platform/coin.php).
+- Franchise sites checked in October 2026: [Superstar Coin](http://superstarcoin.co.kr/wp/) and its [history](http://superstarcoin.co.kr/wp/%ec%97%b0%ed%98%81/) and [store guide](http://superstarcoin.co.kr/wp/%eb%a7%a4%ec%9e%a5%ec%95%88%eb%82%b4/), [Seven Star Coin](http://www.7starcoin.co.kr/), [Ten Coin](https://www.tencoin.co.kr/), [OX Coin](https://oxcoin.co.kr/), [Angels Coin](https://www.angelscoin.co.kr/), [Coin Holic](https://holic24.com/main).
+
+## Photo Credits
+
+Photos are from Wikimedia Commons. They were kept at the file's original crop.
+
+- Hero (Jongno noraebang at night): William Anderson, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Nightlife_In_Seoul_Korea_%28148012137%29.jpeg)
+- Microphone: Kane Reinholdtsen, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Microphone_on_a_karaoke_night_%28Unsplash%29.jpg)
+- Hongdae at night: Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg)
+- Sinchon street: kayakorea (Brandon Butler), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Korea-Seoul-View_of_Sinchon-01.jpg)`,
+    tags: ["Noraebang", "Karaoke", "Nightlife", "Seoul", "Coin Noraebang"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-22",
+    contentType: "travel-tip",
+  },
+  {
     slug: "korean-won-etf-guide",
     title: "Korean Won Currency ETFs: A Traveller's Overview",
     image: getTravelTipImagePath("korean-won-etf-guide"),
