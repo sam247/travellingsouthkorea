@@ -82,8 +82,12 @@ export default async function LocationPage({ params }: PageProps) {
                 <li key={h}>{h}</li>
               ))}
             </ul>
-            <h2 className="text-xl sm:text-2xl font-bold text-foreground pt-4">Getting there</h2>
-            <p className="text-base text-foreground leading-relaxed">{nature.gettingThere}</p>
+            {nature.gettingThere && (
+              <>
+                <h2 className="text-xl sm:text-2xl font-bold text-foreground pt-4">Getting there</h2>
+                <p className="text-base text-foreground leading-relaxed">{nature.gettingThere}</p>
+              </>
+            )}
           </div>
         </section>
       )}

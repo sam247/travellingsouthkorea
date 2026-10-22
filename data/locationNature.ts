@@ -1,118 +1,120 @@
 /**
  * Nature copy for iconic /locations/[slug] pages (Batch 3 "Locations iconic ~8").
- * Facts limited to well-documented heights, routes and designations.
+ * Every claim is checked against the source URL noted per entry (fetched 22 Oct 2026).
+ * Transit details are only included where an official source gives them.
  */
 export interface LocationNature {
   overview: string[];
   highlights: string[];
-  gettingThere: string;
+  gettingThere?: string;
 }
 
 export const locationNature: Record<string, LocationNature> = {
+  // Source: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=204732 (+ vcontsId=97439 cable car)
   seoraksan: {
     overview: [
-      "Seoraksan's granite ridges top out at Daecheongbong (1,708 m), Korea's third-highest peak. The park is a UNESCO Biosphere Reserve and the most visited mountain on the east coast.",
-      "Most day visitors start at Seorak-dong near Sokcho, where short trails reach Biryong Falls and the rocky Ulsanbawi ridge. Autumn (mid to late October) is peak season and trails get very busy.",
+      "Seoraksan National Park was the first place in Korea to be designated a UNESCO Biosphere Reserve, in 1982, and it is the country's second-largest national park. It is famous for its rough granite ridges, including Gongnyongneungseon Ridge, and for the Cheonbuldonggyegok Valley.",
+      "The Ulsanbawi trail (about 7.6 km round trip, around 4 hours) starts gently from Sogongwon Park past Sinheungsa Temple and then climbs steeply to Ulsanbawi Rock. Many upper trails close during the forest-fire prevention periods in spring and late autumn.",
     ],
     highlights: [
-      "Ulsanbawi: a steep stair climb to a ridge of granite towers",
-      "Gwongeumseong cable car from Seorak-dong",
-      "Biryong Falls: an easy valley walk",
-      "Sinheungsa Temple and its large bronze Buddha near the entrance",
+      "Ulsanbawi Rock via Sinheungsa Temple and Heundeulbawi Rock",
+      "Seoraksan Cable Car to Gwongeumseong Fortress (about 10 minutes, round-trip tickets only)",
+      "Daecheongbong, the park's highest peak, a full-day hike of about 10 hours",
+      "Biseondae, an easier valley walk",
     ],
-    gettingThere: "Express bus from Seoul to Sokcho, then a local bus to the Seorak-dong entrance.",
+    gettingThere: "Bus 7 or 7-1 from Sokcho Intercity Bus Terminal to the Seoraksan Sogongwon Park stop.",
   },
+  // Source: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93651
   jirisan: {
     overview: [
-      "Jirisan became Korea's first national park in 1967. Its main ridge runs for roughly 25 km from Nogodan to Cheonwangbong (1,915 m), the highest point on the mainland.",
-      "The full ridge traverse is a classic two- or three-day hike using mountain shelters, which must be booked in advance. Shorter valley walks reach the temples on the lower slopes.",
+      "Jirisan was declared Korea's first national park on 29 December 1967. It covers about 440 square kilometres across Hadong, Sancheong and Hamyang in South Gyeongsang, Gurye in South Jeolla and Namwon in North Jeolla.",
+      "Cheonwangbong (1,915 m) is Jirisan's best-known summit, surrounded by valleys, waterfalls and trails linking to the park's other peaks. Along with Geumgangsan and Hallasan, Jirisan is counted among Korea's most sacred mountains.",
     ],
     highlights: [
-      "Cheonwangbong sunrise from the summit",
-      "Hwaeomsa Temple on the southwest side",
-      "Ssanggyesa Temple in the Hadong tea country",
-      "The Nogodan ridge, at the western end of the main ridge",
+      "Cheonwangbong summit",
+      "Valleys and waterfalls around the main peaks",
+      "Long ridge trails connecting the park's peaks",
     ],
-    gettingThere: "Buses from Seoul or Busan to Gurye, Namwon or Jungsan-ri, depending on the trailhead.",
   },
+  // Source: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=204732
   bukhansan: {
     overview: [
-      "Bukhansan National Park sits right on Seoul's northern edge, and Baegundae (836 m) is its highest summit. Its granite domes and fortress walls can be reached by public transport in an hour from central Seoul.",
-      "The Bukhansanseong fortress trail is the most popular route to Baegundae. The final section uses cables over bare rock, so allow half a day and avoid it in wet or icy weather.",
+      "Bukhansan National Park covers a group of peaks on Seoul's northern edge and in northern Gyeonggi-do. It sits within an excellent public transport network, so its trailheads are easy to reach.",
+      "The Baegundae trail (about 9 km loop, around 5 hours) climbs from the Bukhansanseong Information Center past Bukhansanseong Fortress to Baegundae, the park's highest peak. It is steep, and some sections have been closed for rockfall risk, so check trail status before setting out.",
     ],
     highlights: [
-      "Baegundae summit views over Seoul",
-      "Bukhansanseong fortress walls and gates",
-      "Insubong, the big granite dome famous with rock climbers",
-      "Doseonsa and other temples on the lower trails",
+      "Baegundae summit views over downtown Seoul",
+      "Bukhansanseong Fortress on the way up",
+      "Sinseondae on neighbouring Dobongsan, reachable from Dobongsan Station (Line 1)",
     ],
-    gettingThere: "Seoul Metro to Gupabal or Bukhansan Ui station, then a short bus or walk to the trailheads.",
+    gettingThere: "Bus 704 from Seoul Station Bus Transfer Center to the Bukhansanseong Entrance stop.",
   },
+  // Sources: https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice_en&seq=1285 ; vcontsId=204732
   hallasan: {
     overview: [
-      "Hallasan (1,947 m) is the shield volcano at the centre of Jeju and South Korea's highest mountain. Its summit crater lake, Baengnokdam, is part of the UNESCO-listed Jeju Volcanic Island and Lava Tubes.",
-      "Only the Seongpanak and Gwaneumsa trails reach the summit, and both need an advance online reservation. The Yeongsil and Eorimok trails are shorter and climb to the Witse-oreum shelter, with no booking needed.",
+      "At about 1,950 m, Hallasan is the highest mountain in South Korea. This dormant volcano at the centre of Jeju holds a rare triple UNESCO designation: Biosphere Reserve, World Natural Heritage Site and Global Geopark.",
+      "The summit crater lake, Baengnokdam, can only be reached on the Seongpanak and Gwaneumsa trails. Their upper sections need an advance reservation, which opens at 09:00 on the first business day of the previous month. The Eorimok, Yeongsil, Donnaeko, Seokguram and Eoseungsaengak trails need no reservation.",
     ],
     highlights: [
-      "Baengnokdam crater lake at the summit",
-      "Yeongsil trail's rock pinnacles and alpine meadows",
-      "Snow-covered trails in winter (crampons recommended)",
-      "Seasonal azaleas on the upper slopes in late spring",
+      "Baengnokdam crater lake (reservation required)",
+      "Yeongsil trail past Byeongpungbawi to Witseoreum",
+      "Saraoreum side trail off the Seongpanak route",
+      "There are no shops on the mountain: bring food, water and gear (crampons in winter)",
     ],
-    gettingThere: "Buses from Jeju City and Seogwipo stop at the Seongpanak, Eorimok and Yeongsil trailheads.",
+    gettingThere: "Bus 181 from Jeju International Airport or bus 281 from Jeju Bus Terminal to Seongpanak. Bus 240 from Jeju Bus Terminal to the Yeongsil ticket booth.",
   },
+  // Source: https://whc.unesco.org/en/list/1264
   "jeju-island": {
     overview: [
-      "Jeju is a volcanic island about 85 km off Korea's south coast. Hallasan, the Geomunoreum lava tube system and Seongsan Ilchulbong are inscribed together as a UNESCO World Heritage site.",
-      "The Jeju Olle trail circles the island in about 27 routes of coastal and village walking. Buses link Jeju City, Seogwipo and the main sights, although a rental car makes the interior much easier to reach.",
+      "Jeju Volcanic Island and Lava Tubes was inscribed as a UNESCO World Heritage site in 2007. It covers three areas: the Geomunoreum lava tube system, the Seongsan Ilchulbong tuff cone and Mount Halla, Korea's highest peak.",
+      "UNESCO describes Jeju as one of the few large shield volcanoes in the world built over a hot spot on a stationary continental plate. The island is also a UNESCO Global Geopark, and the culture of Jeju haenyeo (women divers) is on UNESCO's intangible heritage list.",
     ],
     highlights: [
-      "Seongsan Ilchulbong tuff cone at sunrise",
-      "Manjanggul lava tube",
-      "Cheonjiyeon and Jeongbang waterfalls in Seogwipo",
-      "Jeju Olle coastal walking routes",
-      "Hallasan summit hike",
+      "Geomunoreum lava tube system",
+      "Seongsan Ilchulbong tuff cone rising from the sea",
+      "Hallasan and its crater lake",
+      "Haenyeo diving culture",
     ],
-    gettingThere: "Frequent flights from Seoul Gimpo and Busan Gimhae to Jeju International Airport, plus ferries from Mokpo and Wando.",
   },
+  // Source: https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500477&menuId=DOM_700000000010774
   "udo-island": {
     overview: [
-      "Udo is a small island off Jeju's eastern tip, a short ferry ride from Seongsan Port. It is low and grassy, with a coastal ring road that is easy to loop in a day.",
-      "Visitors get around by bike, scooter, electric cart or the island bus. Tourist rental cars from Jeju generally can't be brought across.",
+      "Udo is one of Jeju's best-known offshore islands, named for its shape like a reclining cow. It is about 3.8 km long, roughly 17 km around and has gentle slopes. Walking the full circuit takes three to four hours, so many visitors use bicycles or permitted electric vehicles.",
+      "Most rental cars from Jeju are restricted on Udo until 31 July 2029, with exemptions including some electric and hydrogen vehicles and guests staying on the island. Ferries depend on weather and sea conditions, so check before you go.",
     ],
     highlights: [
-      "Seobin Baeksa beach and its pale sand of coralline algae",
-      "Udobong peak, with views back to Seongsan Ilchulbong",
-      "Haenyeo divers along the coast",
-      "Peanut ice cream, a local speciality",
+      "Jeju Udo Rhodolith Beach (Seobinbaeksa): white rhodolith sand, a protected Natural Monument",
+      "Udobong Peak for a panoramic view of the island",
+      "Hagosudong Beach",
+      "Geommeolle coast and beach",
     ],
-    gettingThere: "Ferry from Seongsan Port (east Jeju) in about 15 minutes. Services stop in rough weather.",
+    gettingThere: "Ferry from Seongsan Port or Jongdal Port, about 10–15 minutes depending on the route.",
   },
+  // Sources: https://koreana.or.kr/koreana/na/ntt/selectNttInfo.do?bbsId=1114&nttSn=132464 ; gb.go.kr ferry route table
   ulleungdo: {
     overview: [
-      "Ulleungdo is a volcanic island in the East Sea, about 120 km off the mainland. Its steep cliffs rise to Seonginbong (984 m), and the island is known for squid, fresh seafood and dramatic coastal roads.",
-      "Ferries are often cancelled in winter and in high swells, so leave buffer days. Most visitors stay at least two nights and explore by bus, taxi or tour.",
+      "Ulleungdo is a volcanic island about 140 km off Korea's east coast, covering 73 square kilometres. It was designated a National Geopark in 2012. At the island's centre stands Seonginbong (986.5 m), and below it lies Nari Basin, the only substantial flat land, known for traditional houses and mountain vegetables.",
+      "The coast is known for dramatic rock formations such as Songgotbong, Gongam (Elephant Rock) and Samseonam. The Haengnam Coastal Walking Path runs from Dodong Port to Jeodong.",
     ],
     highlights: [
-      "Seonginbong summit hike",
-      "Haeandaero coastal walking path near Dodong",
-      "Nari Basin, the island's only flat land, inside the caldera",
-      "Boat tours to view Dokdo, weather permitting",
+      "Seonginbong and Nari Basin",
+      "Haengnam Coastal Walking Path (Dodong to Jeodong)",
+      "Northern coast: Songgotbong, Gongam and Samseonam",
+      "Gwaneumdo, reachable on foot by suspension bridge",
     ],
-    gettingThere: "Ferries from Pohang, Mukho (Donghae) or Gangneung. Crossings take around 3 hours depending on route.",
+    gettingThere: "Passenger ships from Pohang, Hupo, Mukho (Donghae) and Gangneung. Some routes are suspended in winter, so check current sailings.",
   },
+  // Source: https://whc.unesco.org/en/list/737
   gayasan: {
     overview: [
-      "Gayasan National Park is best known for Haeinsa, one of Korea's Three Jewel Temples. Haeinsa's Janggyeong Panjeon halls are a UNESCO World Heritage site, and they hold the Tripitaka Koreana, over 80,000 woodblocks of Buddhist scripture.",
-      "Above the temple, trails climb to Sangwangbong. The forested valley route to Haeinsa (Sori-gil) is a gentle walk along a stream.",
+      "Haeinsa Temple, on the slopes of Gayasan, is home to the Tripitaka Koreana: the most complete collection of Buddhist texts, carved on about 80,000 woodblocks between 1237 and 1248.",
+      "The Janggyeong Panjeon depositories that house them date from the 15th century and were inscribed as a UNESCO World Heritage site in 1995. They were designed for natural ventilation and to regulate temperature and humidity, and they have protected the woodblocks for centuries.",
     ],
     highlights: [
-      "Janggyeong Panjeon depositories for the Tripitaka Koreana",
-      "Haeinsa temple stay programmes",
-      "Sangwangbong summit ridge",
-      "Haeinsa Sori-gil valley walk",
+      "Janggyeong Panjeon depositories (UNESCO, 1995)",
+      "The Tripitaka Koreana woodblocks",
+      "Haeinsa Temple, a major pilgrimage destination",
     ],
-    gettingThere: "Buses from Daegu's Seobu bus terminal to Haeinsa.",
   },
 };
 
