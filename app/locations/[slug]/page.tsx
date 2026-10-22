@@ -7,6 +7,7 @@ import { getLocationPath } from "@/lib/canonical";
 import { getLocationBySlug, getAllLocationSlugs } from "@/lib/locations";
 import { getCitiesByRegion } from "@/data/cities";
 import { getGuidesByCity } from "@/data/guides";
+import { getLocationNature } from "@/data/locationNature";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -37,6 +38,7 @@ export default async function LocationPage({ params }: PageProps) {
   const location = getLocationBySlug(slug);
   if (!location) notFound();
 
+  const nature = getLocationNature(slug);
   const regionCities = getCitiesByRegion(location.regionSlug);
   const guidesToShow = regionCities.flatMap((c) => getGuidesByCity(c.slug)).slice(0, 9);
 
@@ -67,6 +69,28 @@ export default async function LocationPage({ params }: PageProps) {
           {location.description}
         </p>
       </section>
+
+      {nature && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 pt-8">
+          <div className="max-w-2xl space-y-4">
+            {nature.overview.map((p, i) => (
+              <p key={i} className="text-base text-foreground leading-relaxed">{p}</p>
+            ))}
+            <h2 className="text-xl sm:text-2xl font-bold text-foreground pt-4">Highlights</h2>
+            <ul className="list-disc pl-5 space-y-1 text-foreground">
+              {nature.highlights.map((h) => (
+                <li key={h}>{h}</li>
+              ))}
+            </ul>
+            {nature.gettingThere && (
+              <>
+                <h2 className="text-xl sm:text-2xl font-bold text-foreground pt-4">Getting there</h2>
+                <p className="text-base text-foreground leading-relaxed">{nature.gettingThere}</p>
+              </>
+            )}
+          </div>
+        </section>
+      )}
 
       {guidesToShow.length > 0 && (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
