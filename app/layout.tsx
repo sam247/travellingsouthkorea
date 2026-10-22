@@ -8,6 +8,7 @@ import { ScrollDepthTracker } from "@/components/analytics/ScrollDepthTracker";
 import { OutboundClickTracker } from "@/components/analytics/OutboundClickTracker";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://travellingsouthkorea.com"),
   title: "Travelling South Korea | Travel Guides, Neighbourhoods & Itineraries",
   description:
     "Curated travel guides, neighbourhood insights, food spots and itineraries for exploring South Korea.",

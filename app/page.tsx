@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { SafeImage } from "@/components/SafeImage";
 import { HERO_HOME_VIDEO_SRC } from "@/lib/imageConfig";
@@ -12,6 +13,12 @@ import { HomepageSearch } from "./HomepageSearch";
 import { FeaturedTravelTipCard } from "@/components/FeaturedTravelTipCard";
 import { HomeHeroVideo } from "@/components/HomeHeroVideo";
 import { resolveTravelTipHero } from "@/lib/resolveUnsplashHero";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://travellingsouthkorea.com",
+  },
+};
 
 export default async function HomePage() {
   const topCities = getFeaturedCities(3);
