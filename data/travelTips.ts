@@ -1114,6 +1114,195 @@ Korean quilts, microfiber blankets, and seasonal bedding are especially popular.
     contentType: "travel-tip",
   },
   {
+    slug: "24-hour-restaurants-and-bars-in-seoul-for-night-owls",
+    title: "24-Hour Restaurants and Late-Night Bars in Seoul: A 2026 Night Owl's Guide",
+    image: "/images/blogs/24-hour-restaurants-and-bars-in-seoul-for-night-owls/hongdae-at-night.jpg",
+    canonicalPath: "/24-hour-restaurants-and-bars-in-seoul-for-night-owls",
+    metaTitle: "24-Hour Restaurants & Late-Night Bars in Seoul (2026)",
+    metaDescription:
+      "Where to eat in Seoul at 4 AM: checked 24-hour soup restaurants in Myeongdong, Hongdae and Gangnam, how late bars stay open, owl buses, taxi surcharges and what has closed.",
+    summary:
+      "A 2026 guide to eating and drinking late in Seoul: 24-hour restaurants we checked against official listings in Myeongdong, Hongdae, Gangnam and beyond, the hangover soups Koreans eat after midnight, how late bars really stay open, all-night bathhouses and markets, and how to get home on owl buses or by taxi.",
+    content: `Seoul has a reputation as a city that never closes, and it mostly earns it. Bars pour until 2 or 3 AM, clubs run until the first trains, and every block has a 24-hour convenience store. Real restaurants that serve a proper meal at 4 AM are rarer than the reputation suggests, though, and many places that old guides call "24 hours" now close overnight or shut for a break in the afternoon.
+
+This guide sticks to places whose round-the-clock hours we could check against an official listing or the restaurant's own site in 2026, grouped by the areas visitors actually stay in. It also covers the late-night soups Koreans eat after drinking, how late the bars really go, what replaced the closed all-night bathhouses, and how to get home once the subway stops.
+
+![Hongdae's main party street at night, Seoul](/images/blogs/24-hour-restaurants-and-bars-in-seoul-for-night-owls/hongdae-at-night.jpg)
+
+Hongdae's party district after dark. The university area is Seoul's busiest late-night neighbourhood and has the most all-night soup restaurants within walking distance. Photo: Ken Eckert via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Where to Eat After Midnight: Seoul at a Glance
+
+| Area | 24-hour meal options | What to order | Good to know |
+| --- | --- | --- | --- |
+| Myeongdong | Hasuo Gomtang, Boseung Hoegwan, Sindonggung Gamjatang | Gomtang (beef soup), sundae gukbap, gamjatang | Street-food stalls pack up late evening, so these are the after-midnight options |
+| Hongdae and Yeonnam | Don Subaek, Boseung Hoegwan, Yukjeon Gukbap, Songga-ne Gamjatang | Dwaeji gukbap (pork soup), sundae gukbap, gamjatang | The densest cluster in the city, all close to Hongik University Station |
+| Sinsa and Cheongdam (Gangnam) | Yeongdong Seolleongtang, Saebyeokjip | Seolleongtang, yukhoe bibimbap, ttaro gukbap | Two famous old-timers that have served through the night for decades |
+| Gangnam Station and Yangjae | Boseung Hoegwan (Gangnam Station), Cham Seolnongtang | Sundae gukbap, seolleongtang | Office-district soup houses, busy with taxi drivers at dawn |
+| Further out | Jeonju Seolleongtang (Jamsil), Gul Yechan (Sindang), Jinmi Dakgomtang (Yeongdeungpo) | Seolleongtang, oyster gukbap, chicken soup | Worth it if you are staying nearby |
+
+The pattern is clear: at 4 AM Seoul eats soup. Almost every place that stays open all night is a gukbap (soup and rice) or haejangguk (hangover soup) restaurant, because that is what people want after drinking and before work.
+
+## Myeongdong: Soup After the Street Food Stops
+
+Myeongdong's famous street-food stalls pack up in the late evening, and most of the area's restaurants close soon after, so finding food after midnight here is harder than in Hongdae. Three soup houses within a few minutes of each other keep going.
+
+- [Hasuo Gomtang](/south-korea/seoul/venues/hasuo-gomtang-myeongdong) (하수오곰탕), 47 Myeongdong 8na-gil, is the easiest for visitors. It opens 24 hours Monday to Saturday and closes at 10 PM on Sunday night. The signature gomtang is ₩13,000, and the menu runs to galbitang, samgyetang, gamjatang and jokbal, with English, Japanese and Chinese menus. It is about five minutes' walk from Myeongdong Station (Line 4).
+- Boseung Hoegwan (보승회관), 13 Myeongdong 9-gil, is a branch of a chain that specialises in sundae gukbap (soup with Korean blood sausage) and suyuk gukbap (soup with sliced boiled pork). Its listing shows 24 hours from Monday to Saturday, with an earlier close on Sunday.
+- Sindonggung Gamjatang (신동궁감자탕), 43 Myeongdong 9-gil near Euljiro 1-ga Station exit 5, is listed as open 24 hours every day. It does gamjatang (spicy pork-bone stew with potatoes), ppyeo haejangguk (a single-portion version) and charcoal-grilled pork bones.
+
+For drinks before the soup, see our [Myeongdong street food guide](/south-korea/seoul/guides/best-street-food-myeongdong) and the [Myeongdong bars and pocha](/south-korea/seoul/myeongdong/category/bars) listings.
+
+## Hongdae and Yeonnam: The Densest All-Night Cluster
+
+Hongdae is where most of Seoul's late-night crowd ends up, and it has the best choice of places to eat between the bars closing and the first train. These are all within about ten minutes' walk of Hongik University Station.
+
+- Don Subaek (돈수백), 74 Hongik-ro 6-gil, about 130 m from exit 8, serves Busan-style dwaeji gukbap (milky pork-bone soup with rice). Seoul's official tourism site lists it as open 24 hours all year. Some recent visitors report a closure from Sunday night to Monday morning, so check before you go then.
+- Boseung Hoegwan's Hongdae branch, 131 Eoulmadang-ro, is one of the chain's own directly run shops and is listed as open 24 hours every day.
+- Yukjeon Gukbap (육전국밥), 140 Eoulmadang-ro, serves beef gukbap topped with yukjeon (thin egg-battered beef). It runs 24 hours with a short break in the afternoon, which won't affect a late-night visit.
+- Songga-ne Gamjatang (송가네감자탕) main branch, 245 Donggyo-ro in Yeonnam-dong, opens from 8:30 AM to 6 AM the next morning and stays open right through on Fridays and Saturdays. Order the gamjatang to share, then fried rice in the leftover broth.
+
+One warning: Sinseon Seolnongtang's Hongdae branch, still listed as 24 hours in many older guides, now closes at 10 PM. For bars before all this, see our [Hongdae bars guide](/south-korea/seoul/guides/best-bars-hongdae) and the [Hongdae bar listings](/south-korea/seoul/hongdae/category/bars).
+
+![A bowl of sundae gukbap, Korean soup with blood sausage](/images/blogs/24-hour-restaurants-and-bars-in-seoul-for-night-owls/sundae-gukbap.jpg)
+
+Sundae gukbap, a pork-broth soup with Korean blood sausage and spring onion, is the speciality of Boseung Hoegwan and one of the most common all-night meals in Seoul. Photo: Mar del Este via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Korean_soup_Sundae_gukbap_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Gangnam: Two Old-Timers in Sinsa and Cheongdam
+
+South of the river, two long-running restaurants have served through the night for decades and are as busy with office workers at lunch as with clubbers at dawn.
+
+- [Yeongdong Seolleongtang](/south-korea/seoul/venues/yeongdong-seolleongtang-sinsa) (영동설렁탕), 24 Gangnam-daero 101an-gil, about 260 m from Sinsa Station exit 5, has made seolleongtang for decades. The menu is just seolleongtang (milky ox-bone soup, about ₩15,000 in 2026) and suyuk (sliced boiled beef). Seoul's official tourism site lists it as open 24 hours, all year. Season the soup yourself with salt, pepper and spring onion at the table.
+- Saebyeokjip (새벽집), 6 Dosan-daero 101-gil in Cheongdam-dong, has a name that means "the dawn house". It is open 24 hours and closes only for the Seollal and Chuseok holidays, according to Seoul's tourism site (June 2026). It is a barbecue restaurant by evening, but at night people come for yukhoe bibimbap (rice with seasoned raw beef), which comes with a free bowl of blood-curd soup, or ttaro gukbap (beef soup with rice on the side). It is about 750 m from Cheongdam Station exit 13.
+
+Near Gangnam Station, Boseung Hoegwan has another directly run 24-hour branch, and Cham Seolnongtang (참설농탕), 424 Hyoryeong-ro near Yangjae Station exit 2, is listed as open 24 hours every day. If you want a drink first, our [Gangnam craft beer bars guide](/the-best-craft-beer-bars-in-gangnam) covers the area's taprooms.
+
+## Worth the Trip If You Are Staying Nearby
+
+- Jeonju Seolleongtang (전주설렁탕), 33 Baekjegobun-ro 7-gil, about 270 m from Jamsilsaenae Station exit 4 (Line 2), is a 30-year-old Korean-beef seolleongtang house. Seoul's tourism site lists it as open 24 hours, all year, and it also serves seonji haejangguk (hangover soup with ox-blood curd). It is useful after a game at Jamsil Baseball Stadium or a night near Lotte World.
+- Gul Yechan (굴예찬), 243 Dasan-ro near Sindang Station, specialises in oysters. Gulgukbap (oyster soup with rice) costs about ₩10,000, and it is open around the clock apart from a short break listed by some booking sites in the mid-afternoon. Sindang has become a busy bar area in recent years, so it makes a good last stop.
+- Jinmi Dakgomtang (진미닭곰탕), 10 Yeongdeungpo-ro 42-gil, about five minutes from Yeongdeungpo Station, does a clear chicken soup for about ₩6,000 and is listed as open 24 hours.
+
+## Seoul's Late-Night Soups, Explained
+
+You don't need to read Korean to order, because most of these places do one or two things. These are the soups you will see on almost every all-night menu.
+
+- Seolleongtang (설렁탕): milky-white ox-bone broth simmered for many hours, served unseasoned with thin noodles and slices of beef. You add salt and spring onion yourself. It is the gentlest choice after a heavy night.
+- Gomtang (곰탕): similar to seolleongtang but made mainly from meat rather than bone, so the broth is usually clearer.
+- Haejangguk (해장국): literally "soup to chase a hangover". In Seoul it usually means a beef-broth soup with ox-blood curd (seonji), cabbage and bean sprouts, but the word covers many hangover soups.
+- Ppyeo haejangguk (뼈해장국) and gamjatang (감자탕): a spicy pork-bone stew with potatoes and perilla seeds. Ppyeo haejangguk is the single-bowl version, while gamjatang is a big pot for sharing.
+- Sundae gukbap (순대국밥): pork-bone soup with slices of sundae (Korean blood sausage) and offal. Ask for "sundae ppaego" if you want it without the sausage.
+- Dwaeji gukbap (돼지국밥): Busan's pork-and-rice soup, now common in Seoul. Season it with salted shrimp (saeujeot) and chives.
+
+![A bowl of ppyeo haejangguk, spicy pork-bone hangover soup](/images/blogs/24-hour-restaurants-and-bars-in-seoul-for-night-owls/ppyeo-haejangguk.jpg)
+
+Ppyeo haejangguk, spicy pork-bone soup with potato and perilla, is the single-bowl version of gamjatang and a standard dawn meal. Photo: 박진영 (Pixabay) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ppyeo-haejang-guk.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Seoul's original hangover-soup street was in Cheongjin-dong, behind Jongno, where soup houses fed workers and late drinkers from the early morning. Most of the alley was later redeveloped into the office blocks of today's Jongno. Its best-known survivor, Cheongjinok (청진옥), opened in 1937 as a small soup house for woodcutters and has specialised in haejangguk ever since. It no longer opens all night: Seoul's tourism site lists its hours as 6 AM to 10 PM. Go for breakfast instead.
+
+![Cheongjin-dong's haejangguk restaurant street in Jongno, Seoul, in 1999](/images/blogs/24-hour-restaurants-and-bars-in-seoul-for-night-owls/cheongjin-dong-haejangguk-street-1999.jpg)
+
+The haejangguk restaurant street in Cheongjin-dong, Jongno, photographed in 1999, before redevelopment. Cheongjinok's tall haejangguk sign is among those on the left. Photo: The Seoul Institute (서울연구원) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cheongjin-dong_Haejang-guk_street_in_1999.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+![Seolleongtang, milky ox-bone soup, with rice and kimchi](/images/blogs/24-hour-restaurants-and-bars-in-seoul-for-night-owls/seolleongtang.jpg)
+
+Seolleongtang arrives unseasoned, so add salt, pepper and spring onion to taste. The radish kimchi (kkakdugi) on the side is part of the ritual. Photo: 緑さん via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seolleongtang_2025.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## How Late Do Seoul's Bars Stay Open?
+
+South Korea has no legal closing time for bars, and the pandemic-era limits on opening hours ended in 2022. In practice each bar sets its own hours.
+
+- Hongdae, Itaewon and the bars around Gangnam Station have the most places open until 2 AM or later at weekends, some until dawn, and clubs in Hongdae and Itaewon often run until the first trains. See our [Itaewon nightlife guide](/south-korea/seoul/guides/nightlife-itaewon) and [cheapest drinks in Itaewon](/where-to-find-the-cheapest-drinks-in-itaewon).
+- Craft beer bars and cocktail rooms mostly close between midnight and 2 AM.
+- The famous outdoor drinking streets close earlier than people expect. The hof bars of Euljiro's Nogari Alley and the tent bars of Jongno 3-ga's pojangmacha street mostly wind down around midnight.
+- Pocha (casual Korean pubs) and chain hof bars in student areas such as Sinchon and Konkuk University often stay open into the small hours.
+- Convenience stores are open 24 hours and sell beer and soju. Drinking at the plastic tables outside is a Seoul ritual, but drinking is banned in some parks and public places, so watch for signs.
+- Coin noraebang (pay-per-song karaoke booths) are often open all night, as in [Hongdae](/south-korea/seoul/venues/hongdae-coin-noraebang) and [Sinchon](/south-korea/seoul/venues/sinchon-noraebang-cluster).
+
+For how a Korean night out works, from the first round to the last, read our guides to [Korean drinking culture](/culture/korean-drinking-culture) and [Korean nightlife culture](/culture/korean-nightlife-culture).
+
+## Other Things Open All Night
+
+- Jjimjilbang (bathhouses): the best-known all-night spa for foreigners, Dragon Hill Spa next to Yongsan Station, closed in 2021 and has not reopened, and Siloam Sauna near Seoul Station and Itaewon Land have also gone, even though older guides still list them. Open 24-hour options in 2026 include Sparex in the basement of Good Morning City at Dongdaemun, and Riverside Spa Land near Gangbyeon Station (Line 2). Check the latest listing before you go.
+- Dongdaemun's wholesale fashion markets work through the night. The APM buildings trade from about 8 PM to 5 AM, Sunday night to Thursday night, and close on Friday and Saturday. Doota Mall, which is aimed at retail shoppers, is open from 10:30 AM to midnight, so it is not an all-night option. The market food stalls around the wholesale buildings feed the buyers late, as in the [Dongdaemun night-market pocha](/south-korea/seoul/venues/ddp-night-market-pocha) listing.
+- Fast food and kimbap chains: a number of McDonald's, Kimbap Cheonguk and similar chain branches open 24 hours, but it varies by branch, so search for one near you rather than assuming.
+
+## Getting Home After the Subway Stops
+
+![A night bus at Gangnam Station bus stop, Seoul](/images/blogs/24-hour-restaurants-and-bars-in-seoul-for-night-owls/gangnam-station-bus-stop-night.jpg)
+
+A city bus on Gangnam-daero at night. After the last subway, Seoul's N-numbered "owl" buses take over on the main routes. Photo: *Youngjin via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Night_view_at_Gangnam_station_bus_stop_20251024.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+The subway's last trains leave between about midnight and 1 AM on weekdays, and earlier at weekends and on public holidays. The exact time depends on the line, station and direction, so check it on Naver Map or the [Seoul Metro site](https://www.seoulmetro.co.kr/kr/cyberStation.do) before your last round. Our [Seoul subway guide](/travel-tips/seoul-subway-guide) covers the basics.
+
+After that, there are three ways home.
+
+- Owl buses (올빼미버스): Seoul runs 14 dedicated late-night bus routes, numbered with an N, between 11 PM and 6 AM. The fare is ₩2,500 by card (T-money or a contactless bank card). Buses run every 15 to 40 minutes, and the last ones leave between about 3 and 4 AM. Useful routes for visitors include N26 (Hongdae, Sinchon, Gwanghwamun, Jongno and Dongdaemun), N37 (Gangnam, Sinsa, Jongno and Bulgwang), N61 (Gangnam, Samseong and Konkuk University) and N72 (Hongdae, Gongdeok and Itaewon). For Incheon Airport, the N6000 and N6701 night limousine buses run until about 3:30 AM.
+- Taxis: Seoul's ordinary taxis add a late-night surcharge. It is 20% from 10 to 11 PM, 40% from 11 PM to 2 AM, and 20% again from 2 to 4 AM. The base fare goes from ₩4,800 by day to ₩6,700 between 11 PM and 2 AM. Expect long queues and few free taxis around Hongdae and Gangnam between midnight and 2 AM. Booking with the Kakao T or Uber app helps, and so does waiting until after 2 AM.
+- Wait for the first train: first trains start around 5:30 AM. This is why the soup houses fill up at 4 AM.
+
+## Tips for Eating Late in Seoul
+
+- Check hours on Naver Map or Kakao Map on the day. Korean restaurants change their hours often, and Google Maps is slow to catch up. Look for 24시 or 24시간 (24 hours) on the sign or listing, and 브레이크타임 (break time) for afternoon closures.
+- Many "24-hour" places close for Seollal (Lunar New Year) and Chuseok, and some close on one night a week.
+- Chain branches set their own hours. Boseung Hoegwan's head office says 24-hour opening is up to each franchisee, so not every branch is open all night.
+- Eating alone is completely normal in soup restaurants, including at 4 AM. Many have tablet ordering with an English option.
+- Most soup restaurants take cards. Side dishes such as kimchi and kkakdugi are free and refillable, often from a self-service counter.
+
+## Seoul Late-Night Food FAQ
+
+### Are there 24-hour restaurants in Seoul?
+
+Yes, but fewer than the city's reputation suggests, and most are soup restaurants. Reliable examples in visitor areas include Hasuo Gomtang in Myeongdong, Don Subaek and Boseung Hoegwan in Hongdae, and Yeongdong Seolleongtang and Saebyeokjip in Gangnam. Hours change often, so check Naver Map on the day.
+
+### What should I eat in Seoul late at night?
+
+Do what Koreans do and order soup. Seolleongtang (ox-bone soup) and gomtang are gentle, sundae gukbap and dwaeji gukbap are hearty, and ppyeo haejangguk or gamjatang are spicy. All are sold as hangover cures.
+
+### Where can I eat after midnight in Myeongdong?
+
+Hasuo Gomtang on Myeongdong 8na-gil, Boseung Hoegwan on Myeongdong 9-gil and Sindonggung Gamjatang near Euljiro 1-ga Station are all listed as open through the night. Hasuo Gomtang and Boseung Hoegwan close early on Sunday evening.
+
+### What time do bars close in Seoul?
+
+There is no legal closing time. Many bars in Hongdae, Itaewon and around Gangnam Station stay open until 2 AM or later at weekends, and clubs run until the first trains. Craft beer bars usually close by 1 or 2 AM, and outdoor drinking streets such as Euljiro's Nogari Alley wind down around midnight.
+
+### Does the Seoul subway run all night?
+
+No. Last trains leave between about midnight and 1 AM on weekdays and earlier at weekends, and the first trains start around 5:30 AM. In between, use the N-numbered owl buses (₩2,500 by card) or a taxi with the late-night surcharge.
+
+### Is Dragon Hill Spa still open?
+
+No. Dragon Hill Spa next to Yongsan Station closed in 2021 and has not reopened, and Siloam Sauna near Seoul Station has also closed. For a 24-hour jjimjilbang in 2026, look at Sparex at Dongdaemun or Riverside Spa Land near Gangbyeon Station.
+
+## Sources
+
+- Visit Seoul, Seoul's official tourism site: listings for [Yeongdong Seolleongtang](https://english.visitseoul.net/restaurants/Yeongdong-Seolleongtang/ENP004984), [Saebyeokjip](https://korean.visitseoul.net/restaurants/%EC%83%88%EB%B2%BD%EC%A7%91/KOP005433), [Jeonju Seolleongtang](https://english.visitseoul.net/restaurants/Jeonju-Seolleongtang/ENP006262), [Cham Seolnongtang](https://korean.visitseoul.net/gangnam/%EC%B0%B8%EC%84%A4%EB%86%8D%ED%83%95_/7194), [Don Subaek](https://english.visitseoul.net/area/Donsoobaek2/ENP007461) and [Cheongjinok](https://english.visitseoul.net/attractions/Cheongjinok_/4553).
+- [Hasuo Gomtang Myeongdong](https://www.myeongdong-restaurant.com/), the restaurant's own site (hours, menu and prices).
+- [Boseung Hoegwan](https://www.boseunghall.com/), the brand's official site (directly run branches and the note that 24-hour opening is set by each franchisee).
+- Siksin: [Sindonggung Gamjatang](https://www.siksinhot.com/P/452182) listing.
+- Nate / Siksin Hot, "[Five 24-hour hangover-soup restaurants in Seoul](https://view.nate.com/travel/view/412653/)" (27 September 2026): Gul Yechan, Jinmi Dakgomtang, Songga-ne Gamjatang.
+- "[Hongdae late-night restaurants](https://unicellular.tistory.com/2053)" (August 2026): Don Subaek, Boseung Hoegwan, Yukjeon Gukbap and the changed hours at Sinseon Seolnongtang Hongdae.
+- Seoul Metropolitan Government: [owl bus routes, hours and fare](https://news.seoul.go.kr/traffic/archives/27974) (updated March 2026) and [taxi fares and late-night surcharges](https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/).
+- LUWEI, "[Korean saunas that have closed](https://luwei.kr/guides/closed-korean-saunas-still-online)" (checked August 2026): Dragon Hill Spa, Siloam Sauna, Itaewon Land and Sparex.
+- Doota Mall [store information](https://www.doota-mall.com/store/location.do) for opening hours.
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences. Each was resized and cropped to a 16:9 frame. The ppyeo haejangguk and 1999 Cheongjin-dong photos were placed on a blurred copy of themselves to fit.
+
+- Hero (Hongdae at night): Ken Eckert, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg)
+- Sundae gukbap: Mar del Este, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Korean_soup_Sundae_gukbap_01.jpg)
+- Ppyeo haejangguk: 박진영 (Pixabay), [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Ppyeo-haejang-guk.jpg)
+- Cheongjin-dong haejangguk street, 1999: The Seoul Institute (서울연구원), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [source](https://commons.wikimedia.org/wiki/File:Cheongjin-dong_Haejang-guk_street_in_1999.jpg)
+- Seolleongtang: 緑さん, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [source](https://commons.wikimedia.org/wiki/File:Seolleongtang_2025.jpg)
+- Gangnam Station bus stop at night: *Youngjin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Night_view_at_Gangnam_station_bus_stop_20251024.jpg)`,
+    tags: ["Seoul", "Nightlife", "Food", "24 Hours", "Late Night", "Hongdae", "Myeongdong", "Gangnam"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-22",
+    contentType: "travel-tip",
+  },
+  {
     slug: "top-pc-bang-internet-cafes-in-seoul-for-gaming",
     title: "Top PC Bang Internet Cafes in Seoul for Gaming",
     image: "/images/blogs/pcbang/Korean-PC-Bang-1028x685.jpg",

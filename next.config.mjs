@@ -31,6 +31,7 @@ const nextConfig = {
       { source: "/what-is-sansachun", destination: "/travel-tips/sansachun-drink-guide", permanent: true },
       { source: "/travel-tips/south-korean-terms-of-endearment", destination: "/south-korean-terms-of-endearment", permanent: true },
       { source: "/travel-tips/where-to-go-salsa-dancing-in-seoul", destination: "/where-to-go-salsa-dancing-in-seoul", permanent: true },
+      { source: "/travel-tips/24-hour-restaurants-and-bars-in-seoul-for-night-owls", destination: "/24-hour-restaurants-and-bars-in-seoul-for-night-owls", permanent: true },
       { source: "/travel-tips/arex-train-schedule", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/arex-airport-train-guide", destination: "/arex-train-schedule", permanent: true },
       { source: "/travel-tips/buying-bedding-in-south-korea", destination: "/buying-bedding-in-south-korea", permanent: true },
@@ -65,6 +66,10 @@ const nextConfig = {
       {
         source: "/south-korean-terms-of-endearment",
         destination: "/travel-tips/south-korean-terms-of-endearment",
+      },
+      {
+        source: "/24-hour-restaurants-and-bars-in-seoul-for-night-owls",
+        destination: "/travel-tips/24-hour-restaurants-and-bars-in-seoul-for-night-owls",
       },
       {
         source: "/where-to-go-salsa-dancing-in-seoul",
