@@ -28,16 +28,19 @@ export function getCategoryContentForCity(
   const labelLower = label.toLowerCase();
   const guideCount = content.guides.length;
   const venueCount = content.venues.length;
-  const hasListings = guideCount > 0 || venueCount > 0;
+  const itineraryCount = content.itineraries?.length ?? 0;
+  const hasListings = guideCount > 0 || venueCount > 0 || itineraryCount > 0;
 
   return [
     {
       heading: `Types of ${labelLower} in ${cityName}`,
       paragraphs: [
         `${label} in ${cityName} covers a wide range of experiences. Whether you're looking for specific venues, neighbourhood guides or practical tips, this section points you to the best ${labelLower} the city has to offer.`,
-        hasListings
-          ? `Below you'll find curated guides and venue recommendations for ${labelLower} in ${cityName}. We've selected spots that capture the local character and suit different budgets and styles. Use the filters and links to dive into neighbourhoods and individual places.`
-          : `We're still adding more ${labelLower} recommendations for ${cityName}. In the meantime, explore our city guide and neighbourhood pages for general advice and related categories like food, nightlife and things to do.`,
+        itineraryCount > 0 && guideCount === 0 && venueCount === 0
+          ? `Below you'll find ${itineraryCount === 1 ? "a day-by-day itinerary" : "day-by-day itineraries"} for ${cityName}. Follow ${itineraryCount === 1 ? "it" : "them"} as written, or pick the days that match your pace, budget and interests.`
+          : hasListings
+            ? `Below you'll find curated guides and venue recommendations for ${labelLower} in ${cityName}. We've selected spots that capture the local character and suit different budgets and styles. Use the filters and links to dive into neighbourhoods and individual places.`
+            : `We're still adding more ${labelLower} recommendations for ${cityName}. In the meantime, explore our city guide and neighbourhood pages for general advice and related categories like food, nightlife and things to do.`,
       ],
     },
     {

@@ -5,6 +5,7 @@ import {
 } from "@/lib/cityCategoryParams";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { GuideCard } from "@/components/GuideCard";
+import { ItineraryCard } from "@/components/ItineraryCard";
 import { VenueListCard } from "@/components/VenueListCard";
 import { NeighbourhoodCard } from "@/components/NeighbourhoodCard";
 import { TopHighlights } from "@/components/TopHighlights";
@@ -233,30 +234,7 @@ export default async function CityCategoryPage({ params }: PageProps) {
                   <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">Itineraries</h2>
                   <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
                     {content.itineraries.map((it) => (
-                      <Link
-                        key={it.slug}
-                        href={getItineraryPath(it.slug)}
-                        className="group block overflow-hidden rounded-xl bg-card transition-all duration-240"
-                        style={{ boxShadow: "var(--shadow-card)" }}
-                      >
-                        <div className="aspect-[3/2] overflow-hidden">
-                          <SafeImage
-                            src={it.image}
-                            alt={it.title}
-                            width={800}
-                            height={533}
-                            className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                            loading="lazy"
-                          />
-                        </div>
-                        <div className="p-4 sm:p-5">
-                          <p className="text-xs font-medium uppercase tracking-wider text-primary mb-1.5">
-                            {it.days}-Day Itinerary
-                          </p>
-                          <h3 className="text-base font-semibold text-foreground">{it.title}</h3>
-                          <p className="text-sm text-muted-foreground mt-1.5 line-clamp-2">{it.summary}</p>
-                        </div>
-                      </Link>
+                      <ItineraryCard key={it.slug} itinerary={it} />
                     ))}
                   </div>
                 </section>
@@ -487,34 +465,7 @@ export default async function CityCategoryPage({ params }: PageProps) {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
             {content.itineraries.map((it) => (
-              <Link
-                key={it.slug}
-                href={getItineraryPath(it.slug)}
-                className="group block overflow-hidden rounded-xl bg-card transition-all duration-240"
-                style={{ boxShadow: "var(--shadow-card)" }}
-              >
-                <div className="aspect-[3/2] overflow-hidden">
-                  <SafeImage
-                    src={it.image}
-                    alt={it.title}
-                    width={800}
-                    height={533}
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                    loading="lazy"
-                  />
-                </div>
-                <div className="p-4 sm:p-5">
-                  <p className="text-xs font-medium uppercase tracking-wider text-primary mb-1.5">
-                    {it.days}-Day Itinerary
-                  </p>
-                  <h3 className="text-base font-semibold text-foreground">
-                    {it.title}
-                  </h3>
-                  <p className="text-sm text-muted-foreground mt-1.5 line-clamp-2">
-                    {it.summary}
-                  </p>
-                </div>
-              </Link>
+              <ItineraryCard key={it.slug} itinerary={it} />
             ))}
           </div>
         </section>
