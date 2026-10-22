@@ -122,13 +122,25 @@ export default async function GuidePage({ params }: PageProps) {
         .filter((g) => g.slug !== guide.slug)
         .slice(0, 4);
 
+  const hasNamedTransport = Boolean(
+    guide.nearestMetro &&
+      guide.nearestMetro !== "Various" &&
+      !guide.nearestMetro.startsWith("N/A")
+  );
   const factItems = isCityLevel
-    ? [
-        { icon: MapPin, label: "City", value: city.name },
-        { icon: DollarSign, label: "Category", value: guide.tags[0] ?? guide.category },
-        { icon: Train, label: "Area", value: "Various" },
-        { icon: Clock, label: "Hours", value: guide.openingHours },
-      ]
+    ? hasNamedTransport
+      ? [
+          { icon: MapPin, label: "Area", value: guide.neighbourhood || city.name },
+          { icon: DollarSign, label: "Price Range", value: guide.priceRange },
+          { icon: Train, label: "Transport", value: guide.nearestMetro },
+          { icon: Clock, label: "Hours", value: guide.openingHours },
+        ]
+      : [
+          { icon: MapPin, label: "City", value: city.name },
+          { icon: DollarSign, label: "Category", value: guide.tags[0] ?? guide.category },
+          { icon: Train, label: "Area", value: "Various" },
+          { icon: Clock, label: "Hours", value: guide.openingHours },
+        ]
     : [
         { icon: MapPin, label: "Neighbourhood", value: guide.neighbourhood },
         { icon: DollarSign, label: "Price Range", value: guide.priceRange },
@@ -313,7 +325,7 @@ export default async function GuidePage({ params }: PageProps) {
       {nearbyGuides.length > 0 && (
         <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-14">
           <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
-            More in {guide.neighbourhood}
+            {isCityLevel ? `More guides in ${city.name}` : `More in ${guide.neighbourhood}`}
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
             {nearbyGuides.map((g) => (

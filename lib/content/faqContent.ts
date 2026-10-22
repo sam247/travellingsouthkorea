@@ -3,6 +3,7 @@ import type { Neighbourhood } from "@/types";
 import type { Category } from "@/types";
 import type { Guide } from "@/types";
 import type { Itinerary } from "@/types";
+import { improvedGuides } from "./improvedGuides";
 
 export type FAQItem = { question: string; answer: string };
 
@@ -90,6 +91,9 @@ export function getFAQForCategory(
 }
 
 export function getFAQForGuide(guide: Guide, city: City): FAQItem[] {
+  const custom = improvedGuides[guide.slug];
+  if (custom) return custom.faqs;
+
   const title = guide.title;
   const neighbourhood = guide.neighbourhood;
   const cityName = city.name;

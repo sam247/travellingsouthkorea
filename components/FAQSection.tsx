@@ -1,5 +1,12 @@
 import type { FAQItem } from "@/lib/content/faqContent";
+import { renderInlineFormatting } from "@/lib/markdown";
 import { ChevronDown } from "lucide-react";
+
+function faqPlainText(text: string): string {
+  return text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/\*\*([^*]+)\*\*/g, "$1");
+}
 
 export interface FAQSectionProps {
   items: FAQItem[];
@@ -17,7 +24,7 @@ export function FAQSection({ items, heading = "Frequently asked questions" }: FA
       name: item.question,
       acceptedAnswer: {
         "@type": "Answer",
-        text: item.answer,
+        text: faqPlainText(item.answer),
       },
     })),
   };
@@ -44,7 +51,7 @@ export function FAQSection({ items, heading = "Frequently asked questions" }: FA
               <ChevronDown className="h-4 w-4 text-muted-foreground transition-transform group-open:rotate-180" />
             </summary>
             <div className="px-4 pb-4 text-base sm:text-lg text-muted-foreground leading-relaxed">
-              {item.answer}
+              {renderInlineFormatting(item.answer)}
             </div>
           </details>
         ))}

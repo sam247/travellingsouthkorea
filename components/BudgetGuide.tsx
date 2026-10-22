@@ -1,4 +1,5 @@
 import type { ContentSectionProps } from "./ContentSection";
+import { renderInlineFormatting } from "@/lib/markdown";
 
 export function BudgetGuide({ heading, paragraphs, id }: ContentSectionProps) {
   return (
@@ -12,7 +13,7 @@ export function BudgetGuide({ heading, paragraphs, id }: ContentSectionProps) {
             key={i}
             className="text-base sm:text-lg text-muted-foreground leading-relaxed"
           >
-            {p}
+            {renderInlineFormatting(p)}
           </p>
         ))}
       </div>

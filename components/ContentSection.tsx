@@ -1,3 +1,5 @@
+import { renderInlineFormatting } from "@/lib/markdown";
+
 export interface ContentSectionProps {
   heading: string;
   paragraphs: string[];
@@ -16,7 +18,7 @@ export function ContentSection({ heading, paragraphs, id }: ContentSectionProps)
             key={i}
             className="text-base sm:text-lg text-muted-foreground leading-relaxed"
           >
-            {p}
+            {renderInlineFormatting(p)}
           </p>
         ))}
       </div>

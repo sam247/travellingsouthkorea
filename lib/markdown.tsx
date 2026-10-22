@@ -17,7 +17,7 @@ function renderInlineBold(text: string): ReactNode[] {
   });
 }
 
-function renderInlineFormatting(text: string): ReactNode[] {
+export function renderInlineFormatting(text: string): ReactNode[] {
   const segments = text.split(/(\[[^\]]+\]\([^)]+\))/g);
   const out: ReactNode[] = [];
   let k = 0;

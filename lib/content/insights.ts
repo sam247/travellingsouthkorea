@@ -2,6 +2,7 @@ import type { City } from "@/types";
 import type { Neighbourhood } from "@/types";
 import type { Guide } from "@/types";
 import type { Itinerary } from "@/types";
+import { improvedGuides } from "./improvedGuides";
 
 export type InsightSection = { heading: string; paragraphs: string[] };
 export type TipsSection = { heading: string; tips: string[] };
@@ -89,6 +90,9 @@ export function getLocalInsightsForNeighbourhood(
 }
 
 export function getLocalInsightsForGuide(guide: Guide, city: City): InsightSection {
+  const custom = improvedGuides[guide.slug];
+  if (custom) return custom.insights;
+
   const title = guide.title;
   const neighbourhood = guide.neighbourhood;
   const cityName = city.name;
@@ -191,6 +195,9 @@ export function getBudgetGuideForCity(city: City): InsightSection {
 }
 
 export function getBudgetGuideForGuide(guide: Guide, city: City): InsightSection {
+  const custom = improvedGuides[guide.slug];
+  if (custom) return custom.budget;
+
   const priceRange = guide.priceRange;
   const neighbourhood = guide.neighbourhood;
   return {
@@ -229,6 +236,9 @@ export function getLocalEtiquetteForCity(city: City): InsightSection {
 }
 
 export function getLocalEtiquetteForGuide(guide: Guide, city: City): InsightSection {
+  const custom = improvedGuides[guide.slug];
+  if (custom) return custom.etiquette;
+
   const neighbourhood = guide.neighbourhood;
   const cityName = city.name;
   return {
@@ -241,6 +251,9 @@ export function getLocalEtiquetteForGuide(guide: Guide, city: City): InsightSect
 }
 
 export function getTravelTipsForGuide(guide: Guide, city: City): TipsSection {
+  const custom = improvedGuides[guide.slug];
+  if (custom) return custom.tips;
+
   const neighbourhood = guide.neighbourhood;
   const metro = guide.nearestMetro;
   const category = guide.category;
