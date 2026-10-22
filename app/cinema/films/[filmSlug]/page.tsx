@@ -71,7 +71,7 @@ export default async function CinemaFilmPage({ params }: PageProps) {
           priority
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent" />
-        <div className="relative z-10 max-w-4xl mx-auto w-full px-4 sm:px-6 pb-8 sm:pb-12">
+        <div className="google-anno-skip relative z-10 max-w-4xl mx-auto w-full px-4 sm:px-6 pb-8 sm:pb-12">
           <div className="flex flex-wrap gap-2 mb-3">
             {film.genres.map((g) => (
               <span
@@ -142,7 +142,7 @@ export default async function CinemaFilmPage({ params }: PageProps) {
           ))}
         </div>
         {film.notableFacts.length > 0 && (
-          <div className="mt-10">
+          <div className="google-anno-skip mt-10">
             <h2 className="text-xl font-bold text-foreground mb-4">
               Notable facts
             </h2>
