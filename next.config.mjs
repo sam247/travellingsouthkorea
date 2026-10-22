@@ -20,6 +20,7 @@ const nextConfig = {
       { source: "/travel-tips/gonjiam-haunted-asylum", destination: "/gonjiam-haunted-asylum", permanent: true },
       { source: "/gonjiam-asylum", destination: "/gonjiam-haunted-asylum", permanent: true },
       { source: "/things-to-do-in-itaewon", destination: "/south-korea/seoul/itaewon/category/things-to-do", permanent: true },
+      { source: "/travel-tips/a-guide-to-shopping-in-seoul-from-luxury-brands-to-local-markets", destination: "/a-guide-to-shopping-in-seoul-from-luxury-brands-to-local-markets", permanent: true },
       { source: "/navigate-seoul-the-ultimate-mrt-map-guide", destination: "/travel-tips/seoul-subway-guide", permanent: true },
       { source: "/the-evolution-of-k-pop-a-journey-through-time", destination: "/travel-tips/k-pop-history", permanent: true },
       { source: "/10-most-handsome-kpop-male-idols-2025", destination: "/travel-tips/k-pop-male-idols", permanent: true },
@@ -58,6 +59,10 @@ const nextConfig = {
       { source: "/jeju-loveland", destination: "/travel-tips/jeju-loveland" },
       { source: "/korean-sexuality", destination: "/travel-tips/korean-sexuality" },
       { source: "/gonjiam-haunted-asylum", destination: "/travel-tips/gonjiam-haunted-asylum" },
+      {
+        source: "/a-guide-to-shopping-in-seoul-from-luxury-brands-to-local-markets",
+        destination: "/travel-tips/a-guide-to-shopping-in-seoul-from-luxury-brands-to-local-markets",
+      },
       {
         source: "/top-pc-bang-internet-cafes-in-seoul-for-gaming",
         destination: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming",
