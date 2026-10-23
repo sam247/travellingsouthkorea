@@ -3132,6 +3132,216 @@ For travellers, it offers a simple but memorable way to taste something distinct
     contentType: "travel-tip",
   },
   {
+    slug: "difference-between-north-and-south-korean-language",
+    title: "North vs South Korean Language: Do They Speak the Same Korean? (2026)",
+    image: "/images/blogs/difference-between-north-and-south-korean-language/pyongyang-metro-newspaper-stand.jpg",
+    canonicalPath: "/difference-between-north-and-south-korean-language",
+    metaTitle: "Do North and South Korea Speak the Same Language? (2026)",
+    metaDescription:
+      "Yes, but they have drifted apart. How North and South Korean differ in vocabulary, loanwords, spelling (Ri vs Lee), accent and slang laws, with real examples and 2026 updates.",
+    summary:
+      "North and South Koreans speak the same language and understand each other, but nearly 80 years of division have produced two standards. This 2026 guide explains the real differences in spelling, vocabulary, loanwords, accent and politeness, corrects popular myths, and covers the stalled joint dictionary and the North's 2023 language law.",
+    content: `Yes. North and South Koreans speak the same language, and in everyday conversation they understand each other. But after nearly 80 years of division, the two states run Korean on separate rulebooks. The South follows a standard based on Seoul speech, and the North follows its own "cultured language". The two now differ in vocabulary (above all in loanwords and words for modern life), in accent and intonation, in spelling and spacing, and in a handful of grammar endings. This guide explains those differences with real examples, corrects some popular myths, and covers what has changed since 2024.
+
+One warning before you start. Many "North Korean words" that circulate in South Korean media and online lists are out of date or were never in everyday use. The examples below come from dictionary and media research by the inter-Korean dictionary project, Korean press reporting from 2015 to 2026, and studies of North Koreans who have resettled in the South.
+
+![Pyongyang metro passengers reading a newspaper on a public stand](/images/blogs/difference-between-north-and-south-korean-language/pyongyang-metro-newspaper-stand.jpg)
+
+A sports newspaper on a public reading stand in the Pyongyang metro, August 2012. Its headline about a women's weightlifting gold reads 녀자력기, written as one word with an initial ㄴ. A Seoul paper would write 여자 역도. Photo: Roman Bansen via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Public_newspaper_reading_stand_in_Pyongyang_metro_3.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+## North vs South Korean at a Glance
+
+| Feature | South Korea | North Korea |
+| --- | --- | --- |
+| Name for the language | 한국어 (Hangugeo) or 한국말 | 조선말 (Chosŏnmal) or 조선어 |
+| Name for the alphabet | 한글 (Hangeul) | 조선글 (Chosŏn'gŭl) |
+| Standard variety | 표준어 (pyojuneo), defined as modern Seoul speech, rules of 1988 | 문화어 (munhwaŏ, "cultured language"), officially based on Pyongyang speech, rules of 1966 (revised 1987) |
+| Alphabet day | Hangeul Day, 9 October (a public holiday) | Chosŏn'gŭl Day, 15 January |
+| Initial ㄹ and ㄴ in Sino-Korean words | Dropped or changed: 노동, 이, 여자, 냉면 | Kept: 로동, 리, 녀자, 랭면 |
+| Loanwords | Many from English | Fewer, and more from Russian and other languages |
+| Spacing | More spaces | Fewer spaces, longer compound words |
+| Chinese characters (hanja) | Still seen in names, newspapers and formal writing | Dropped from everyday writing in 1949, though taught in schools |
+
+## One Language, Two Rulebooks
+
+Before division, Korea already had one modern spelling standard. The Korean Language Society published its Unified Hangeul Orthography in 1933 and a list of standard vocabulary in 1936, and both Koreas started from these. That is why basic grammar and everyday vocabulary are still almost identical.
+
+The paths split after the two states were founded in 1948. North Korea issued its own orthography in 1954. The bigger break came after two talks by Kim Il-sung to linguists, on 3 January 1964 and 14 May 1966. He rejected Seoul speech as a model, calling it corrupted by Japanese and English influences, and ordered a new standard centred on Pyongyang. The result was the 1966 rulebook and the name munhwaŏ. A campaign to replace foreign and Sino-Korean words with native coinages, called mal-dadeumgi ("refining words"), began the same year. North Korea revised its rules in 1987 and issued new spacing rules in 2003.
+
+South Korea kept the 1933 orthography until it issued the current Korean Orthography and Standard Language Regulations in January 1988, in force from 1 March 1989. They define the standard as the modern Seoul speech used by educated people. The National Institute of Korean Language maintains them today.
+
+Linguists also point out a twist. Some South Korean scholars argue that North Korea's standard is closer to the pre-war Seoul norms than to the real Pyongyang dialect, which is one reason older descriptions of "the North Korean language" are unreliable.
+
+![The Hunminjeongeum Haerye, the 1446 explanation of the Korean alphabet](/images/blogs/difference-between-north-and-south-korean-language/hunminjeongeum-haerye.jpg)
+
+A page of the Hunminjeongeum Haerye (1446), the original explanation of the alphabet King Sejong created. Both Koreas use the letters it describes. Image: public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Haerye_02.jpg).
+
+## Spelling and Writing Differences
+
+### Initial ㄹ and ㄴ
+
+This is the difference you are most likely to see, because it appears in names and on signs. In South Korea, Sino-Korean words cannot start with ㄹ, and they cannot start with ㄴ before an "i" or "y" sound, so these letters are dropped or changed. North Korea writes and pronounces them.
+
+| Meaning | South | North |
+| --- | --- | --- |
+| The surname Lee (李) | 이 (I, usually written Lee) | 리 (Ri) |
+| Labour | 노동 (nodong) | 로동 (rodong), as in the party paper Rodong Sinmun |
+| Woman | 여자 (yeoja) | 녀자 (nyŏja) |
+| Cold noodles | 냉면 (naengmyeon) | 랭면 (raengmyŏn) |
+| Practice | 연습 (yeonseup) | 련습 (ryŏnsŭp) |
+| Green tea | 녹차 (nokcha) | 록차 (rokcha) |
+
+That is why North Korean names appear in English as Ri, as in Ri Sol-ju, while the same surname in the South is Lee or Yi. Researchers note that the North's spoken ㄹ was partly revived by policy in the 1960s, so some older North Koreans pronounce these words the Southern way.
+
+### Other spellings you will notice
+
+- Verb endings after an "i"-type vowel take 여 in the North and 어 in the South: 되였다 against 되었다 ("became"), and 피여 against 피어 ("bloomed").
+- The South adds a linking ㅅ (sai-siot) in many compounds and the North does not: 저가락 against 젓가락 (chopsticks), and 나무잎 against 나뭇잎 (leaf).
+- North Korea writes the syllable 폐 as 페, so "currency" is 화페 rather than 화폐. It also writes 웨치다 for 외치다 ("to shout").
+- Some Sino-Korean compounds are reversed: the North says 호상 for "mutual" where the South says 상호.
+
+### Spacing
+
+North Korean writing uses noticeably fewer spaces. Where the South writes 할 수 있다 ("can do"), 내 것 ("mine") and 국어 사전 ("Korean dictionary"), the North writes 할수 있다, 내것 and 국어사전. Long compounds such as 녀자력기 in the photo above are run together.
+
+### The alphabet itself
+
+Both Koreas use the same 24 basic letters, but the North counts double consonants and vowel combinations as separate letters and names some letters differently. ㄱ is 기역 (giyeok) in the South and 기윽 (giŭk) in the North, ㄷ is 디귿 against 디읃, and ㅅ is 시옷 against 시읏. Double consonants are "twin" letters in the South (쌍기역) and "strong" letters in the North (된기윽).
+
+The two also sort words differently. North Korean dictionaries put the double consonants ㄲ ㄸ ㅃ ㅆ ㅉ after ㅎ, and a silent initial ㅇ comes at the very end, so a word you would find near the front of a Seoul dictionary can be near the back of a Pyongyang one.
+
+## Vocabulary: Where the Gap Really Is
+
+Core vocabulary is shared, so the words for family, food, numbers and daily life are mostly the same. The divergence is concentrated in three places.
+
+The first is words that reflect each political system. The North calls Korea 조선 (Chosŏn) where the South says 한국 (Hanguk), so the peninsula is 조선반도 rather than 한반도 and traditional dress is 조선옷 rather than 한복. The Korean War is the "Fatherland Liberation War" (조국해방전쟁) in the North. 동무 (tongmu) means "friend" or "comrade" in the North, while the South uses 친구 for friend and hardly uses 동무 at all.
+
+The second is loanwords. South Korean is full of English, from 서비스 (service) to 리스크 (risk). North Korea borrowed fewer English words and more from Russian, such as 뜨락또르 for tractor and 그루빠 for group, and it keeps some Japanese-era loans such as 고뿌 (cup). Where both use an English word, the spelling often differs: the North writes 콤퓨터 (computer), 인터네트 (internet) and 뻐스 (bus) where the South writes 컴퓨터, 인터넷 and 버스.
+
+The third is native words coined to replace foreign ones. Some caught on, such as 손기척 for a knock on the door, 달린옷 for a one-piece dress and 살결물 for skin lotion.
+
+![A cafe menu in Pyongyang listing coffee drinks in Korean and English](/images/blogs/difference-between-north-and-south-korean-language/pyongyang-cafe-menu-loanwords.jpg)
+
+A cafe menu in Pyongyang in 2013. The loanwords are spelled the Northern way: 카프치노 for cappuccino (South: 카푸치노), 커피라떼 for café latte (South: 카페라테), 쵸콜레트 for chocolate (South: 초콜릿), and 록차 for green tea (South: 녹차). The photo has been placed on a blurred background to fit the frame. Photo: Uri Tours via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Menu_at_Helmut_Sachers_Coffee_Shop_in_Pyongyang_North_Korea_(11418141093).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+### Everyday words that differ
+
+| English | South Korea | North Korea |
+| --- | --- | --- |
+| Knock (on a door) | 노크 (nokeu) | 손기척 (sonkich'ŏk) |
+| One-piece dress | 원피스 (wonpiseu) | 달린옷 (tallinot) |
+| Skin lotion | 로션 (rosyeon) | 살결물 (salgyŏlmul) |
+| Doughnut | 도넛 (doneot) | 가락지빵 (karakchippang, "ring bread") |
+| Fruit juice | 주스 (juseu) | 단물 (tanmul, "sweet water"), as in 귤단물 for tangerine juice, though 쥬스 is also used |
+| Iced coffee | 아이스 커피 | 찬 커피 ("cold coffee") |
+| Ice cream | 아이스크림 | 에스키모 (esŭk'imo, originally a brand name) or 아이스크림 |
+| Mobile phone | 휴대폰 or 핸드폰 | 손전화 (sonjŏnhwa, "hand phone") |
+| Tractor | 트랙터 | 뜨락또르 (from Russian) |
+| Friend | 친구 (chingu) | 동무 (tongmu) |
+
+### Myths to ignore
+
+The best-known "North Korean word" in the South is 얼음보숭이 for ice cream, and it is mostly a myth. It appeared in a 1981 North Korean dictionary but was dropped from the 1992 edition, and North Koreans say 에스키모 or simply 아이스크림. Since 2008 North Korean media have mainly used 아이스크림. Claims that the North calls a kiss 주둥이박치기 or instant noodles 꼬부랑국수 are also false, according to a 2026 book by a Unification Ministry official who has studied North Korean media for 30 years.
+
+Purism has also gone into reverse in places. 햄버거 (hamburger) became a standard North Korean word again in 2019 after years of the coinages 고기겹빵 and 다진소고기빵, and 와플 (waffle) was accepted in 2024.
+
+A few shared words carry different feelings. 희한하다 suggests "strange" or "odd" in the South but means "rare and wonderful" in North Korean usage, and the party newspaper uses it as praise.
+
+## Accent, Intonation and Politeness
+
+Seoul and Pyongyang accents are easy to tell apart. In Pyongyang speech, ㅈ and ㅊ are pronounced further forward, closer to "ts" than to the Seoul "j" and "ch", and the vowel ㅓ is more rounded, so to Seoul ears it can sound close to ㅗ. Sentence melody differs too, though it has been studied less.
+
+Politeness works in both. The idea that North Koreans do not use honorifics is wrong: both use honorific verb forms and speech levels. The North does keep some endings that sound old-fashioned in the South, such as 가오 and 먹소 alongside the familiar 가요 and 먹어요, and it writes 고마와 ("thanks") where the South writes 고마워.
+
+Pyongyang treats Seoul-style speech as a threat. The Pyongyang Cultural Language Protection Act, adopted on 18 January 2023, bans what it calls the "puppet language". The full text, obtained by Daily NK, bans calling a man who is not a relative 오빠 (oppa) and adding -님 (-nim) to job titles. It also bans copying the Seoul habit of raising and lengthening the end of a phrase. Article 58 sets six years or more of "reform through labour" for using it, and up to life or death in serious cases. The fact that these bans were needed suggests how far South Korean dramas have spread in the North. For how oppa is used in the South, see our guide to [Korean terms of endearment](/south-korean-terms-of-endearment).
+
+In the South, North Korean speech became familiar to a mass audience through the 2019–20 drama Crash Landing on You, which used a North Korean defector, Kwak Moon-wan, as a writer and adviser.
+
+## Can North and South Koreans Understand Each Other?
+
+For ordinary conversation, yes. The hard part comes with specialised and modern vocabulary, and the problem runs mostly from South to North. North Koreans arriving in the South meet a flood of English loanwords, slang and terms for unfamiliar ideas. The BBC reported that defectors struggled with words for tax, rent and homelessness, concepts that barely exist in the North's system. A Hanyang University study of 27 resettled North Korean students found that their biggest difficulties were pronunciation, English loanwords and Sino-Korean words.
+
+About 34,500 North Koreans had arrived in the South by the end of 2025, according to the Ministry of Unification, with 223 arriving during 2025. New arrivals take a three-month resettlement course at the Hanawon centre, and the ministry publishes lists of confusing words. In 2015 the agency Cheil Worldwide released Univoca (글동무 in Korean), a free app that translated South Korean words into Northern equivalents from a database of about 3,600 words. Reviews were mixed, and Radio Free Asia found few students at one school for young defectors using it.
+
+Even the word for these newcomers has changed. Since 2 January 2026, the Unification Ministry has used 북향민 (bukhyangmin, "people whose hometown is the North") instead of 탈북민 (talbukmin, "people who escaped the North"). Some defector groups objected, and the legal term in South Korean law is still 북한이탈주민.
+
+## Is the Gap Getting Wider?
+
+On the North's side, probably yes. Since Kim Jong-un declared the two Koreas "two hostile states" at the end of 2023, the word 남조선 ("South Chosŏn") has disappeared from North Korean media, which now say 대한민국, the South's official name. Pyongyang's Tongil ("Reunification") metro station has been renamed Moranbong, and the North's Tongilgak building at Panmunjom has become Panmun-gwan.
+
+The joint dictionary project is stalled. In 2004 the two sides agreed to compile a shared dictionary, the 겨레말큰사전 (Gyeoremal-keunsajeon), and a joint committee was formed at Mount Kumgang in February 2005. Linguists from both sides met 25 times, but the last meeting was in Dalian, China, in December 2015. The South Korean side has drafted definitions for 307,000 of the 330,000 planned entries, but only 125,000 had been agreed with the North, about 38%. Questions such as the initial-ㄹ rule and the linking ㅅ cannot be settled without the North. The law behind the project runs until April 2028. The Unification Ministry plans to finish a paper edition by December 2027 and to trial an electronic edition from October 2027, and it asked for ₩3.95 billion for the project in its 2027 budget, about 52% more than in 2026. In 2023 the South published a small sampler, 미리 만나는 겨레말작은사전, with 3,053 words.
+
+## What This Means for Visitors to South Korea
+
+You will hear and learn the Seoul standard. Language courses, apps and signage in South Korea all use it. You are unlikely to need any North Korean vocabulary, but you will meet northern food on Southern menus.
+
+![A bowl of Pyongyang-style cold buckwheat noodles at Okryu-gwan](/images/blogs/difference-between-north-and-south-korean-language/okryugwan-raengmyon-pyongyang.jpg)
+
+Cold buckwheat noodles at Okryu-gwan, Pyongyang's best-known noodle restaurant. North Korea writes the dish 랭면 and the South 냉면. Photo: Uri Tours via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cold_Noodles_at_Okryu_Restaurant_(13012871933).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+- Pyongyang-style naengmyeon, buckwheat noodles in chilled beef broth, is a Seoul summer staple. In Gangnam, try [Jinmi Pyeongyang Naengmyeon](/south-korea/seoul/venues/jinmi-pyeongyang-naengmyeon-gangnam) near Hakdong Station.
+- Busan's milmyeon, wheat noodles in cold broth, was created by North Korean refugees in wartime Busan as a stand-in for naengmyeon. [Choryang Milmyeon](/south-korea/busan/venues/choryang-milmyeon-busan) is opposite Busan Station.
+- The statue of King Sejong, who created the alphabet in the 1440s, sits in Gwanghwamun Square in central Seoul.
+
+![The statue of King Sejong the Great in Gwanghwamun Square, Seoul](/images/blogs/difference-between-north-and-south-korean-language/king-sejong-statue-gwanghwamun.jpg)
+
+The statue of King Sejong in Gwanghwamun Square, with Bugaksan behind. Photo: Republic of Korea (Korea.net) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Statue_of_King_Sejong.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+If you are planning a visit around the alphabet, note that the National Hangeul Museum in Yongsan has been closed since a fire in February 2025, and it plans to reopen on Hangeul Day in October 2028. While it is closed, the museum is running exhibitions at other venues. In 2026, the centenary of the first alphabet day (가갸날, 1926), these include a Hangeul Day centenary exhibition at the National Museum of Korean Contemporary History on Gwanghwamun Square, and a Korean Braille centenary exhibition at the National Museum of Korean Scripts in Incheon, which runs from 7 October 2026 to 14 February 2027. Check the museums' websites before you go.
+
+## North vs South Korean Language FAQ
+
+### Do North and South Korea speak the same language?
+
+Yes. Both speak Korean and can hold everyday conversations without trouble. The differences are in vocabulary (especially loanwords and words for modern life), accent and intonation, spelling and spacing rules, and a few grammar endings.
+
+### Can South Koreans understand North Koreans?
+
+Mostly, yes. Accent and some vocabulary can cause confusion, but everyday speech is mutually intelligible. North Koreans who move South usually find English loanwords and South Korean slang the hardest part.
+
+### What is the North Korean language called?
+
+North Koreans call the language 조선말 (Chosŏnmal) or 조선어, and its standard form 문화어 (munhwaŏ, "cultured language"). South Koreans call it 한국어 (Hangugeo), and the Southern standard is 표준어 (pyojuneo).
+
+### Is the North Korean alphabet different?
+
+No. Both use the same letters, created by King Sejong in the 1440s. The North calls the alphabet Chosŏn'gŭl rather than Hangeul, names some letters differently and sorts dictionaries in a different order.
+
+### Why do North Korean names use Ri instead of Lee?
+
+South Korean spelling drops an initial ㄹ in Sino-Korean words, so the surname 李 is written 이 and romanised Lee or Yi. North Korea keeps the ㄹ, writing 리, which is romanised Ri.
+
+### Is South Korean slang banned in North Korea?
+
+Yes. The 2023 Pyongyang Cultural Language Protection Act bans South Korean-style words, titles and intonation, such as calling a man who is not a relative oppa. Article 58 of the law sets six years or more of labour for using it, and up to life or death in serious cases.
+
+## Sources
+
+- Gyeoremal-keunsajeon joint dictionary project: [project history and greeting](https://www.gyeoremal.or.kr/about/history.php); its webzine on 에스키모 and 얼음보숭이 (July 2015); News1 on the 2027 budget and agreed entries (24 Sep 2026); Asia Today on the 2026 funding (22 Jan 2026); Ministry of Unification work report (2026).
+- Orthography history: [North–South differences in the Korean language (Wikipedia)](https://en.wikipedia.org/wiki/North%E2%80%93South_differences_in_the_Korean_language), checked against the [National Institute of Korean Language rules](https://korean.go.kr/kornorms/regltn/regltnView.do?regltn_code=0002) (Ministry of Education notice 88-2, 19 Jan 1988, in force 1 Mar 1989) and the University of British Columbia thesis "Munhwaŏ: the cultured language and language branding in North Korea, 1964–1984".
+- Vocabulary myths and recent standard words: Hankyoreh review of Jeong So-un's book 세상에서 가장 순수하고 우수한 말 (12 Jun 2026).
+- Pyongyang Cultural Language Protection Act: Daily NK, full English and Korean text (March 2023); Civicus Monitor.
+- Defectors and language: BBC, "Two Koreas divided by a fractured language" (2019); VOA and PRX The World on Univoca (2015); Radio Free Asia (29 Jun 2015); Hanyang University study of North Korean refugee students' language challenges.
+- Arrival figures: Ministry of Unification and Yonhap (20 Jan 2026). The 북향민 term: Newsis and Yonhap (30 Dec 2025).
+- Hangeul Day and Chosŏn'gŭl Day dates: National Institute of Korean Language and SBS.
+- National Hangeul Museum closure and 2026 exhibitions: Yonhap (9 Oct 2026).
+- Crash Landing on You and Kwak Moon-wan: BBC (2020).
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or in the public domain. Each was resized and cropped to a 16:9 frame, and the menu photo was placed on a blurred copy of itself to fit.
+
+- Hero (Pyongyang metro newspaper stand): Roman Bansen, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Public_newspaper_reading_stand_in_Pyongyang_metro_3.jpg)
+- Hunminjeongeum Haerye (1446): public domain, [source](https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Haerye_02.jpg)
+- Pyongyang cafe menu: Uri Tours, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Menu_at_Helmut_Sachers_Coffee_Shop_in_Pyongyang_North_Korea_(11418141093).jpg)
+- Okryu-gwan cold noodles: Uri Tours, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Cold_Noodles_at_Okryu_Restaurant_(13012871933).jpg)
+- King Sejong statue: Republic of Korea (Korea.net), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [source](https://commons.wikimedia.org/wiki/File:Statue_of_King_Sejong.jpg)`,
+    tags: ["Language", "Culture", "North Korea", "Korean Language", "Hangeul"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-20",
+    contentType: "travel-tip",
+  },
+  {
     slug: "how-bad-is-air-quality-in-south-korea",
     title: "How Bad Is Air Quality in South Korea?",
     image: "/images/blogs/air/danielle-austria-d7-dyUYp-a0-unsplash.jpg",
