@@ -36,6 +36,7 @@ const nextConfig = {
       { source: "/travel-tips/buying-bedding-in-south-korea", destination: "/buying-bedding-in-south-korea", permanent: true },
       { source: "/travel-tips/seoul-subway-cheat-sheet", destination: "/seoul-subway-a-cheat-sheet", permanent: true },
       { source: "/travel-tips/jeju-loveland", destination: "/jeju-loveland", permanent: true },
+      { source: "/travel-tips/south-korean-casinos-and-gambling", destination: "/south-korean-casinos-and-gambling", permanent: true },
       { source: "/travel-tips/how-bad-is-air-quality-in-south-korea", destination: "/how-bad-is-air-quality-in-south-korea", permanent: true },
       { source: "/travel-tips/dating-culture-among-korean-youth-apps-norms-and-trends", destination: "/dating-culture-among-korean-youth-apps-norms-and-trends", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
@@ -77,6 +78,10 @@ const nextConfig = {
       {
         source: "/what-is-maeshilju",
         destination: "/travel-tips/what-is-maeshilju",
+      },
+      {
+        source: "/south-korean-casinos-and-gambling",
+        destination: "/travel-tips/south-korean-casinos-and-gambling",
       },
       {
         source: "/most-beautiful-korean-actresses",
