@@ -3574,6 +3574,189 @@ Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each w
     updatedDate: "2026-10-04",
     contentType: "travel-tip",
   },
+  {
+    slug: "best-areas-for-bar-hopping-in-daegu",
+    title: "Best Areas for Bar-Hopping in Daegu (2026)",
+    image: "/images/blogs/best-areas-for-bar-hopping-in-daegu/dongseongro-rodeo-street.jpg",
+    canonicalPath: "/best-areas-for-bar-hopping-in-daegu",
+    metaTitle: "Best Areas for Bar-Hopping in Daegu (2026): Dongseong-ro & More",
+    metaDescription:
+      "Where to drink in Daegu in 2026: Dongseong-ro and Samdeok-dong, Kim Kwang-seok Street craft beer, KNU north gate student bars, Keimyung live rock, Suseong Lake, plus last trains.",
+    summary:
+      "A 2026 guide to Daegu's five best bar-hopping areas, from downtown Dongseong-ro and Samdeok-dong to Kim Kwang-seok Street, the KNU and Keimyung university districts and Suseong Lake, with night markets, the Chimac Festival and last-train times.",
+    content: `Daegu is not Seoul or Busan, and that suits a bar-hopping night. The city's drinking life is concentrated in a few walkable pockets, prices are lower than in the capital, and a night out tends to mix craft beer, pocha tents, live rock rooms and late-night grilled offal rather than queue-and-cover clubs. This guide covers the five areas worth building a night around in 2026, what each one is like, how to get between them, and where to finish.
+
+Venues here were checked against the most recent sources we could find in October 2026, mostly from 2025 and 2026. Bars in Korea change hands quickly, so check Naver Map or the venue's Instagram on the day before you set off. Korea's legal drinking age is 19 (counted by birth year), and bars can ask anyone for ID.
+
+![Dongseong-ro Rodeo Street in downtown Daegu](/images/blogs/best-areas-for-bar-hopping-in-daegu/dongseongro-rodeo-street.jpg)
+
+Rodeo Street, the side strip off Dongseong-ro where much of downtown Daegu's bar scene sits. Photo: Choi2451 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dongseongro_Rodeo_Street_on_February_20th,_2016.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Daegu Bar-Hopping Areas at a Glance
+
+| Area | District | Best for | Nearest metro | Walkable crawl? |
+| --- | --- | --- | --- | --- |
+| Dongseong-ro, Samdeok-dong and Rodeo Street | Jung-gu | First night, foreigner-friendly bars, clubs | Banwoldang (Lines 1 and 2), Jungangno (Line 1) | Yes, the best in the city |
+| Kim Kwang-seok Street and Bangcheon Market | Jung-gu (Daebong-dong) | Craft beer, an early start | Kyungpook National University Hospital (Line 2), Daebonggyo (Line 3) | Yes, then walk or taxi downtown |
+| Kyungpook National University north gate | Buk-gu (Sangyeok-dong) | Cheap student bars, pochas, rock bars | Short taxi from downtown or Dongdaegu | Yes, once you are there |
+| Keimyung University Daemyeong campus | Nam-gu | Live rock and indie, gopchang alley | Namsan or Myeongdeok (Line 3), Anjirang (Line 1) | Partly |
+| Suseong Lake (Suseongmot) | Suseong-gu | A slower drink with a view, wine bars | Suseongmot (Line 3) | No, spread out |
+
+If you only have one night, stay downtown. If you have two, pair Kim Kwang-seok Street (early) with Dongseong-ro (late) on one night, and go to the university districts on the other. For individual venue cards with addresses and hours, see our [Daegu nightlife](/south-korea/daegu/category/nightlife) and [Daegu bars](/south-korea/daegu/category/bars) pages.
+
+## Dongseong-ro, Samdeok-dong and Rodeo Street (Downtown)
+
+Dongseong-ro is Daegu's central pedestrian shopping street in Jung-gu, and it is where most visitors should start. The drinking happens less on the main drag than in the lanes east of it: Samdeok-dong 1-ga and 2-ga, and Rodeo Street, the strip that runs north–south from the Samdeok fire station area. Bars, pubs, small clubs, noraebang and late-night food are stacked into a few blocks, so four or five stops in a night is easy without ever needing a taxi.
+
+A sensible downtown route, using bars we have checked:
+
+- [Who's Bob](/south-korea/daegu/venues/whos-bob-daegu) opens at 6 pm, earlier than most of its neighbours, so it works as a meeting point and first round.
+- [GOGO Pub](/south-korea/daegu/venues/gogo-pub-daegu) is a long-running, foreigner-friendly second-floor pub with DJs, darts and good bar food. It is closed on Mondays and Tuesdays.
+- [Milky Way](/south-korea/daegu/venues/milky-way-bar-daegu) is a mood-lit cocktail bar in Samdeok-dong 1-ga. It is closed on Tuesdays.
+- [GROVE Lounge](/south-korea/daegu/venues/grove-lounge-daegu) is a basement whisky, wine and cocktail room for when you want to sit down and talk.
+- [Thursday Party Daegu](/south-korea/daegu/venues/thursday-party-daegu) is cheap, loud and open from 7 pm to 4 am every night, which makes it the reliable last stop.
+
+For dancing, [Club Frog](/south-korea/daegu/venues/club-frog-daegu) on Dongseong-ro 4-gil plays EDM and electronic music, mostly on Friday and Saturday nights, and the hip-hop club Thug and the club D.Hell are on the same street. LOOPY is a street-level pub with a hip-hop club in the basement. Door policies at Daegu's clubs can be selective, and visitors in their mid-30s report being turned away at some, so have a bar as a backup.
+
+For live music, [Communes](/south-korea/daegu/venues/communes-live-daegu) is a basement venue on Dongseong-ro 5-gil that has been going since 1995, first as an expat bar and now as a full live room for indie, rock and funk. **Brewers Brothers** on Jongno, about 270 m from Banwoldang Station exit 15, is a British-style pub that has brewed some of its own beer since 2015 and serves fish and chips.
+
+**Getting there:** Banwoldang Station (Lines 1 and 2) or Jungangno Station (Line 1), then a five-minute walk.
+
+## Kim Kwang-seok Street and Bangcheon Market (Daebong-dong)
+
+Kim Kwang-seok Street (Kim Kwang-seok Dasi Geuligi-gil) is a mural lane of about 350 m beside Bangcheon Market in Daebong-dong, created from 2010 in memory of the Daegu-born folk singer Kim Kwang-seok. By day it is a photo walk. From late afternoon it becomes a good place to start drinking, because the cafés and pubs along the lane open early and it is a short taxi or 20-minute walk from downtown.
+
+![Song lyrics painted on a wall along Kim Kwang-seok Street, Daegu](/images/blogs/best-areas-for-bar-hopping-in-daegu/kim-kwang-seok-street-lyrics-mural.jpg)
+
+Lyrics from Kim Kwang-seok's song "A Private's Letter" on the mural street. Photo: Choi2451 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_lyrics_of_The_Private%27s_Letter.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+The anchor here is [Daedo Brewing](/south-korea/daegu/venues/daedo-brewing-daegu) (Daedo Yangjojang). It is a brewpub in a building that opened as a makgeolli factory in 1953, closed in 1997, and reopened in February 2019 brewing craft beer under the old name. It has six 1,000-litre fermenters, two floors plus a terrace, and a tap list that runs from Munich helles and pilsner to IPAs and stouts. It usually opens mid-afternoon, earlier at weekends, which makes it ideal for an early first round before you head downtown.
+
+**Getting there:** Kyungpook National University Hospital Station (Line 2) or Daebonggyo Station (Line 3), then a short walk.
+
+## Kyungpook National University North Gate (Sangyeok-dong)
+
+The streets across from Kyungpook National University's north gate (bukmun) in Buk-gu are Daegu's student drinking district, known locally as Gyeongdae Bukmun. It has the cheapest drinks in the city: makgeolli-and-jeon houses, pocha bars, fried chicken and beer, noraebang and late-night food, mostly along Daehak-ro 13-gil, Sangyeok-ro 6-gil and the surrounding blocks.
+
+![Pocha tents at a Kyungpook National University festival](/images/blogs/best-areas-for-bar-hopping-in-daegu/kyungpook-university-festival-pocha.jpg)
+
+Student-run pocha stalls during Kyungpook National University's spring festival. Photo: Choi2451 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pocha_during_Kyungpook_National_University_Daedong_Festival_on_May_18th,_2016.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+The rhythm is the reverse of downtown. Midweek during term is often busier than a Tuesday on Dongseong-ro, and the area can be quiet in the university holidays (roughly late June to August and late December to February). Gypsy Rock, a basement rock bar near the north gate, opens 8 pm to 2 am and runs on customer song requests.
+
+**Getting there:** It is not on a metro line. Take a short taxi from downtown or Dongdaegu Station, and treat it as the destination for the evening rather than one stop on a crawl.
+
+## Keimyung University Daemyeong Campus (Nam-gu)
+
+The older Daemyeong campus of Keimyung University, south of downtown, is the city's live-music district. **Club Heavy** (basement, 244 Hyeonchung-ro) has been putting on shows since the mid-1990s and is a dedicated venue rather than a bar with a stage. It is marking its 30th anniversary in autumn 2026 with shows, an exhibition and an archive book. Expect metal, punk and indie mostly, with other genres too. Led Zeppelin, a rock bar with long tables and a busy live schedule, is around the corner, and Livehall Rock King sits by Namsan Station on the elevated Line 3.
+
+Pair a show with dinner at [Anjirang Gopchang Alley](/south-korea/daegu/venues/anjirang-jjimdalk-daegu), a stretch of about 500 m of grilled gopchang and makchang (beef and pork intestine) restaurants on Daemyeong-ro 36-gil, about three minutes' walk from Anjirang Station exit 3 on Line 1. Grilled makchang with soju is the Daegu night-out meal.
+
+**Getting there:** Namsan or Myeongdeok stations (Line 3), or Anjirang Station (Line 1) for the gopchang alley.
+
+## Suseong Lake (Suseongmot)
+
+Suseong-gu is Daegu's affluent residential district, built around Suseong Lake. The lakefront and the lanes behind it (Suseongmot-gil and Suseongmot 2-gil) have cafés, restaurants and wine bars, several with views over the water, and the Deulan-gil restaurant street is nearby. Come here for one long, quiet drink with a view rather than a crawl: the venues are spread out, prices are higher than downtown, and you will want a taxi between them.
+
+![Suseong Lake in Daegu with the city skyline](/images/blogs/best-areas-for-bar-hopping-in-daegu/suseong-lake.jpg)
+
+Suseong Lake, the backdrop for Daegu's quieter lakeside wine bars. Photo: Daegu City via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EC%88%98%EC%84%B1%EB%AA%BB.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+**Getting there:** Suseongmot Station (Line 3). On weekdays its last trains leave at around 11:20 pm, earlier than the downtown lines.
+
+## Night Markets and Late-Night Food
+
+Daegu's night markets are a good first stop before the bars, or a cheap dinner between them.
+
+![Seomun Night Market at night, Daegu](/images/blogs/best-areas-for-bar-hopping-in-daegu/seomun-night-market.jpg)
+
+Seomun Night Market, which opened in 2016. Photo: Choi2451 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seomun_Night_Market,_Daegu.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+- **Seomun Night Market** at Seomun Market runs from March to December in 2026, on Fridays and Saturdays from 7 pm to 11:30 pm and on Sundays from 7 pm to 10:30 pm. It is closed Monday to Thursday. Take Line 3 to Seomun Market Station.
+- **Chilseong Night Market** by the Sincheon stream near Daegu Station runs from March to November in 2026, on the same days and hours.
+- **Pyeonghwa Market Chicken Gizzard Alley** in Sinam-dong, Dong-gu, began in 1972 with a fried-chicken shop selling cheap fried gizzards as a drinking snack. The Korea Tourism Organization named it one of Korea's three national food-theme streets in 2015, and it is a short taxi from Dongdaegu Station.
+- **Nagol Alley** near Daegu Station is an old-school makchang and soju street that suits the end of the night.
+
+![Chilseong Night Market stalls in Daegu](/images/blogs/best-areas-for-bar-hopping-in-daegu/chilseong-night-market.jpg)
+
+Food stalls at Chilseong Night Market. Photo: Choi2451 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chilseong_Night_Market.jpg), CC0.
+
+## Daegu Chimac Festival
+
+If you can time your trip for July, Daegu's chimaek (chicken and beer) festival is the city's biggest drinking event. The 2026 Daegu Chimac Festival ran from 1 to 5 July in and around Duryu Park, with concerts on the main stage, a DJ "chimaek sing-along club" and the K-Chimac Street food zone, plus a link-up with the Pyeonghwa Market gizzard alley. Paid seats at the main stage sold out within minutes of release. Dates for 2027 had not been announced when we checked in October 2026, so watch [chimacfestival.com](https://www.chimacfestival.com/).
+
+## Getting Home: Last Trains and Taxis
+
+Daegu Metro stops running around midnight, and some of the last trains on each line turn back short of the end of the line.
+
+- **Line 2:** On weekdays the last westbound trains leave Banwoldang at about 11:33 pm (through to Munyang) and 11:45 pm (to Igok only). Eastbound, the last train through to Yeungnam University leaves Banwoldang at about 11:33 pm, and a later one at about 11:47 pm goes only as far as Suseong-gu Office.
+- **Line 1:** The last trains run only part of the way, to Bangchon in one direction and Gyodae in the other, so take an earlier train if you are going to the end of the line.
+- **Line 3** (monorail): The last trains leave between about 11:16 pm and midnight, depending on the station.
+
+Times vary by day and station, so check the official [Daegu Transportation Corporation timetable](https://www.dtro.or.kr/) for your stop. After that, taxis are plentiful downtown and around Dongdaegu Station, and the Kakao T app works in Daegu.
+
+## Practical Tips for a Daegu Bar Crawl
+
+- **Start early on weeknights.** Many downtown bars are closed on Monday or Tuesday, so Wednesday to Saturday is the safest window.
+- **Eat between rounds.** Korean drinking culture assumes food (anju) with every round, and many pochas expect you to order some.
+- **Bring ID.** Bars and clubs can card anyone, whatever their age.
+- **Carry a card and some cash.** Cards work almost everywhere, but some market stalls and older pochas prefer cash.
+- **Watch your drink and your group.** Daegu is generally safe at night, but crowded clubs carry the same risks as anywhere.
+- **Summer heat is real.** Daegu is one of Korea's hottest cities, and July and August nights can stay very warm, so drink water between rounds.
+
+For pouring and toasting etiquette, read our [Korean drinking culture](/culture/korean-drinking-culture) guide, and for the bigger picture of going out in Korea see [Korean nightlife culture](/culture/korean-nightlife-culture).
+
+## Daegu Bar-Hopping FAQ
+
+### What is the best area for bar-hopping in Daegu?
+
+Dongseong-ro, and specifically the Samdeok-dong side streets and Rodeo Street east of the main shopping street. It has the most bars in the smallest area, the most foreigner-friendly venues and the clubs, all within walking distance of Banwoldang and Jungangno stations.
+
+### Where do students drink in Daegu?
+
+Around Kyungpook National University's north gate in Buk-gu, which has the city's cheapest bars and pochas. The Keimyung University Daemyeong campus area in Nam-gu is better for live rock and indie shows.
+
+### Is there craft beer in Daegu?
+
+Yes. Daedo Brewing on Kim Kwang-seok Street brews its own beer in a converted 1953 makgeolli factory, and Brewers Brothers on Jongno pours its own pilsner and ale. For breweries elsewhere in Korea, see our guide to the [best craft breweries in South Korea](/breweries-in-south-korea).
+
+### What time do bars close in Daegu?
+
+Most downtown bars close between 1 am and 2 am on weeknights and stay open later at weekends. Thursday Party Daegu is open until 4 am every night, and GOGO Pub until 4 am on Fridays and Saturdays.
+
+### When is the Daegu Chimac Festival?
+
+It is held each July. The 2026 festival ran from 1 to 5 July around Duryu Park, and 2027 dates had not been announced as of October 2026.
+
+### How late does the Daegu Metro run?
+
+The last trains leave between about 11:15 pm and midnight, depending on the line and station, and some of them stop short of the end of the line. Plan to take a taxi after midnight.
+
+## Sources
+
+- Venue details (addresses, hours, histories) were checked against venue listings, Naver blog reviews from 2025–26 and the venues' own channels in October 2026.
+- Seomun and Chilseong night market 2026 schedule: [Daegu Tourist Information notice (27 Mar 2026)](https://tour.daegu.go.kr/) and Daegu MBC (26 Mar 2026).
+- 2026 Daegu Chimac Festival: Daegu Metropolitan City notice (8 Jun 2026), [official festival site](https://www.chimacfestival.com/) and Yonhap (29 Jun 2026).
+- Club Heavy, Communes, Led Zeppelin and Rock King: The Korea Times, "Finding the Scene 3" (19 May 2024), plus 2026 gig listings. Club Heavy's 30th anniversary: Hankyoreh (17 Sep 2026).
+- Pyeonghwa Market gizzard alley history: Encyclopedia of Daegu History and Culture (grandculture.net).
+- Kim Kwang-seok Street: Jung-gu Urban Regeneration Center and Korea Tourism Organization.
+- Metro last trains: 2026 Daegu Metro timetables (Daegu Transportation Corporation data).
+
+## Photo Credits
+
+Photos are from Wikimedia Commons under Creative Commons licences or CC0. Each was resized and cropped to a 16:9 frame.
+
+- Hero (Dongseong-ro Rodeo Street): Choi2451, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Dongseongro_Rodeo_Street_on_February_20th,_2016.jpg)
+- Kim Kwang-seok Street lyrics mural: Choi2451, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:The_lyrics_of_The_Private%27s_Letter.jpg)
+- Kyungpook National University festival pocha: Choi2451, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Pocha_during_Kyungpook_National_University_Daedong_Festival_on_May_18th,_2016.jpg)
+- Suseong Lake: Daegu City, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:%EC%88%98%EC%84%B1%EB%AA%BB.jpg)
+- Chilseong Night Market: Choi2451, CC0, [source](https://commons.wikimedia.org/wiki/File:Chilseong_Night_Market.jpg)
+- Seomun Night Market: Choi2451, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [source](https://commons.wikimedia.org/wiki/File:Seomun_Night_Market,_Daegu.jpg)`,
+    tags: ["Nightlife", "Bars", "Daegu", "Craft Beer", "Food"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-19",
+    contentType: "travel-tip",
+  },
 ];
 
 export const getTravelTipBySlug = (slug: string) => travelTips.find((t) => t.slug === slug);
