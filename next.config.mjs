@@ -25,6 +25,7 @@ const nextConfig = {
       { source: "/10-most-handsome-kpop-male-idols-2025", destination: "/travel-tips/k-pop-male-idols", permanent: true },
       { source: "/travel-tips/most-beautiful-korean-actresses", destination: "/most-beautiful-korean-actresses", permanent: true },
       { source: "/travel-tips/the-best-craft-beer-bars-in-gangnam", destination: "/the-best-craft-beer-bars-in-gangnam", permanent: true },
+      { source: "/travel-tips/difference-between-north-and-south-korean-language", destination: "/difference-between-north-and-south-korean-language", permanent: true },
       { source: "/where-to-shop-for-streetwear-in-hongdae", destination: "/south-korea/seoul/guides/streetwear-hongdae", permanent: true },
       { source: "/south-korea/seoul/guides/pc-bang-gaming-seoul", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
       { source: "/travel-tips/top-pc-bang-internet-cafes-in-seoul-for-gaming", destination: "/top-pc-bang-internet-cafes-in-seoul-for-gaming", permanent: true },
@@ -49,6 +50,7 @@ const nextConfig = {
       { source: "/top-korean-plus-sized-models-in-2024", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/top-korean-plus-sized-models-in-2023", destination: "/top-korean-plus-sized-models-in-2025", permanent: true },
       { source: "/travel-tips/where-to-find-the-cheapest-drinks-in-itaewon", destination: "/where-to-find-the-cheapest-drinks-in-itaewon", permanent: true },
+      { source: "/travel-tips/best-areas-for-bar-hopping-in-daegu", destination: "/best-areas-for-bar-hopping-in-daegu", permanent: true },
     ];
   },
   async rewrites() {
@@ -92,6 +94,10 @@ const nextConfig = {
         destination: "/travel-tips/the-best-craft-beer-bars-in-gangnam",
       },
       {
+        source: "/difference-between-north-and-south-korean-language",
+        destination: "/travel-tips/difference-between-north-and-south-korean-language",
+      },
+      {
         source: "/how-bad-is-air-quality-in-south-korea",
         destination: "/travel-tips/how-bad-is-air-quality-in-south-korea",
       },
@@ -110,6 +116,10 @@ const nextConfig = {
       {
         source: "/where-to-find-the-cheapest-drinks-in-itaewon",
         destination: "/travel-tips/where-to-find-the-cheapest-drinks-in-itaewon",
+      },
+      {
+        source: "/best-areas-for-bar-hopping-in-daegu",
+        destination: "/travel-tips/best-areas-for-bar-hopping-in-daegu",
       },
     ];
   },

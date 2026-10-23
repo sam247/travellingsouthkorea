@@ -7,7 +7,8 @@ import { CityCard } from "@/components/CityCard";
 import { GuideCard } from "@/components/GuideCard";
 import { NeighbourhoodCard } from "@/components/NeighbourhoodCard";
 import { VenueListCard } from "@/components/VenueListCard";
-import { MapPlaceholder } from "@/components/MapPlaceholder";
+import { LazyOsmMap } from "@/components/LazyOsmMap";
+import { mapPointsForCity } from "@/lib/mapPoints";
 import { ContentSection } from "@/components/ContentSection";
 import { TopHighlights } from "@/components/TopHighlights";
 import { LocalInsights } from "@/components/LocalInsights";
@@ -17,6 +18,7 @@ import { BudgetGuide } from "@/components/BudgetGuide";
 import { LocalEtiquette } from "@/components/LocalEtiquette";
 import { FAQSection } from "@/components/FAQSection";
 import { ExploreMore } from "@/components/ExploreMore";
+import { RelatedLinkBlocks } from "@/components/RelatedLinkBlocks";
 import { GuidePageToc } from "@/components/GuidePageToc";
 import { GuideSidebarRelatedGuides } from "@/components/GuideSidebarRelatedGuides";
 import { GuideSidebarExplore } from "@/components/GuideSidebarExplore";
@@ -44,6 +46,12 @@ import { getCitiesByRegion } from "@/data/cities";
 import { getGuidesByCity } from "@/data/guides";
 import { getNeighbourhoodsByCity } from "@/data/neighbourhoods";
 import { shouldEmitCityCategoryParam } from "@/lib/cityCategoryParams";
+import {
+  liveGuidePath,
+  relatedCategoryLinks,
+  relatedCityLinks,
+  relatedGuideLinks,
+} from "@/lib/relatedLinks";
 import { getVenuesByCity } from "@/data/venues";
 import { getItinerariesByCity } from "@/data/itineraries";
 import type { City } from "@/types";
@@ -139,9 +147,16 @@ export function RegionOrCityPage({
     const exploreCards = (exploreCategoryImages ?? fallbackExploreCards).filter((card) =>
       shouldEmitCityCategoryParam(city.slug, card.category)
     );
-    const cityGuides = getGuidesByCity(city.slug);
+    const cityGuides = getGuidesByCity(city.slug).filter(
+      (guide) => liveGuidePath(guide.city, guide.slug) != null
+    );
+    const relatedCities = relatedCityLinks(city.slug);
+    const relatedCategories = relatedCategoryLinks(city.slug);
+    const relatedGuides = relatedGuideLinks({ citySlug: city.slug });
     const cityNeighbourhoods = getNeighbourhoodsByCity(city.slug);
-    const cityVenues = getVenuesByCity(city.slug).slice(0, 6);
+    const allCityVenues = getVenuesByCity(city.slug);
+    const cityVenues = allCityVenues.slice(0, 6);
+    const mapPoints = mapPointsForCity(city, allCityVenues);
     const popularNeighbourhoods = cityNeighbourhoods.slice(0, 6);
     const cityContentSections = getCityContent(city, cityNeighbourhoods);
 
@@ -159,7 +174,7 @@ export function RegionOrCityPage({
       { id: "food", label: "Food" },
       { id: "safety", label: "Safety" },
       { id: "itinerary-ideas", label: "Itinerary ideas" },
-      { id: "map", label: "Map" },
+      ...(mapPoints.length > 0 ? [{ id: "map", label: "Map" }] : []),
     ];
 
     return (
@@ -362,6 +377,18 @@ export function RegionOrCityPage({
                 </section>
               )}
 
+              {(relatedCities.length > 0 ||
+                relatedCategories.length > 0 ||
+                relatedGuides.length > 0) && (
+                <section className="pb-10">
+                  <RelatedLinkBlocks
+                    cities={relatedCities}
+                    categories={relatedCategories}
+                    guides={relatedGuides}
+                  />
+                </section>
+              )}
+
               <section className="pb-10" id="faq">
                 <FAQSection items={getFAQForCity(city)} />
                 <ExploreMore
@@ -369,10 +396,6 @@ export function RegionOrCityPage({
                     ...cityNeighbourhoods.slice(0, 4).map((n) => ({
                       label: n.name,
                       href: getNeighbourhoodPath(city.slug, n.slug),
-                    })),
-                    ...cityGuides.slice(0, 4).map((g) => ({
-                      label: g.title,
-                      href: getGuidePath(city.slug, g.slug),
                     })),
                     ...getItinerariesByCity(city.slug).slice(0, 3).map((i) => ({
                       label: i.title,
@@ -389,27 +412,26 @@ export function RegionOrCityPage({
                           },
                         ]
                       : []),
-                    { label: "Things to do", href: getCityCategoryPath(city.slug, "things-to-do") },
-                    { label: "Nightlife", href: getCityCategoryPath(city.slug, "nightlife") },
-                    { label: "Restaurants", href: getCityCategoryPath(city.slug, "restaurants") },
                   ]}
                 />
               </section>
 
-              <section className="pb-14" id="map">
-                <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
-                  Map
-                </h2>
-                <MapPlaceholder label={`Explore ${city.name}`} />
-                <div className="mt-3 text-center">
-                  <Link
-                    href={getMapPath(`${city.slug}-all`)}
-                    className="text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-                  >
-                    Open full map →
-                  </Link>
-                </div>
-              </section>
+              {mapPoints.length > 0 && (
+                <section className="pb-14" id="map">
+                  <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-6">
+                    Map
+                  </h2>
+                  <LazyOsmMap markers={mapPoints} label={`Map of ${city.name}`} />
+                  <div className="mt-3 text-center">
+                    <Link
+                      href={getMapPath(`${city.slug}-all`)}
+                      className="text-sm font-medium text-primary hover:text-primary/80 transition-colors"
+                    >
+                      Open full map →
+                    </Link>
+                  </div>
+                </section>
+              )}
             </div>
 
             <aside
