@@ -1,3 +1,5 @@
+import { renderInlineFormatting } from "@/lib/markdown";
+
 export interface ProTipsProps {
   heading: string;
   tips: string[];
@@ -12,7 +14,7 @@ export function ProTips({ heading, tips }: ProTipsProps) {
       </h2>
       <ul className="max-w-2xl list-disc list-inside space-y-2 text-base sm:text-lg text-muted-foreground leading-relaxed">
         {tips.map((tip, i) => (
-          <li key={i}>{tip}</li>
+          <li key={i}>{renderInlineFormatting(tip)}</li>
         ))}
       </ul>
     </section>

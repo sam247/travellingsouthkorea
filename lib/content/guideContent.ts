@@ -1,8 +1,12 @@
 import type { City } from "@/types";
 import type { Guide } from "@/types";
 import type { ContentSection, TopHighlightsSection } from "./cityContent";
+import { improvedGuides } from "./improvedGuides";
 
 export function getGuideContent(guide: Guide, city: City): ContentSection[] {
+  const custom = improvedGuides[guide.slug];
+  if (custom) return custom.sections;
+
   const title = guide.title;
   const neighbourhood = guide.neighbourhood;
   const cityName = city.name;
