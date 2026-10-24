@@ -3,6 +3,7 @@ import {
   getTravelTipSupportingImagePath,
 } from "@/lib/imagePaths";
 import type { TravelTip } from "@/types";
+import { seoulShoppingHubTip } from "@/data/content/aGuideToShoppingInSeoul";
 
 function supportingImages(slug: string): string[] {
   return [
@@ -59,6 +60,7 @@ A single journey starts at ₩1,350 with a T-Money card. Transfers between subwa
     updatedDate: "2026-03-10",
     contentType: "travel-tip",
   },
+  seoulShoppingHubTip,
   {
     slug: "seoul-subway-cheat-sheet",
     title: "Seoul Subway Cheat Sheet: How To Travel Quickly, Cheaply and Efficiently",
