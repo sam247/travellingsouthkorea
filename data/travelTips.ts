@@ -194,7 +194,9 @@ If heading to Busan or other cities, you can catch the KTX directly from Incheon
 
 ## Our Recommendation
 
-Take the AREX Express to Seoul Station, then transfer to the subway. It's the fastest, cheapest and most reliable option.`,
+Take the AREX Express to Seoul Station, then transfer to the subway. It's the fastest, cheapest and most reliable option.
+
+Flying into Gimpo (GMP) instead of Incheon? Use [how to get from Gimpo Airport to Seoul](/travel-tips/gimpo-airport-to-seoul). Continuing to [Busan](/south-korea/busan) the same day: [Seoul to Busan by KTX](/travel-tips/seoul-to-busan-by-ktx).`,
     tags: ["Transport", "Airport", "Seoul", "Practical"],
     authorSlug: "james-jeong",
     updatedDate: "2026-09-07",
@@ -237,6 +239,179 @@ If you are planning a bigger trip budget from abroad, it helps to understand how
     tags: ["Transport", "Money", "Practical"],
     authorSlug: "mina-park",
     updatedDate: "2026-02-25",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "gimpo-airport-to-seoul",
+    title: "How To Get From Gimpo Airport To Seoul",
+    image: "/images/cities/seoul.jpg",
+    metaTitle: "Gimpo Airport to Seoul: AREX, Line 9, Line 5 and Taxi",
+    metaDescription:
+      "Leave Gimpo Airport (GMP) for Seoul by AREX All Stop, subway Line 9, Line 5, bus, or taxi, and pick the right line for Hongdae, Gangnam, or the palace district.",
+    summary:
+      "Gimpo Airport is already in western Seoul. AREX for Hongdae and Seoul Station, Line 9 for Gangnam, Line 5 for the palace district.",
+    content: `**Quick summary:** Gimpo Airport (GMP) is in western [Seoul](/south-korea/seoul). Take AREX All Stop for [Hongdae](/south-korea/seoul/hongdae) and Seoul Station, Line 9 for [Gangnam](/south-korea/seoul/gangnam) and Jamsil, and Line 5 for Gwanghwamun and Jongno. A [T-money card](/travel-tips/t-money-card-guide) works on all three.
+
+## Gimpo Is Already In Seoul
+
+Gimpo International Airport sits in Gangseo-gu, on the western edge of the city. It handles domestic flights and a smaller set of short-haul international flights. It is a different airport from Incheon. If your ticket says ICN, use [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul) instead.
+
+Follow the train signs from arrivals. The domestic and international terminals share the airport station. Three lines stop there: AREX All Stop, Seoul Subway Line 5, and Seoul Subway Line 9, which has both local and express trains. The non-stop AREX Express between Incheon and Seoul Station does not stop at Gimpo.
+
+## AREX All Stop
+
+**Best for Hongdae, Gongdeok, and Seoul Station.**
+
+Eastbound AREX runs from Gimpo Airport to Digital Media City, Hongik University in [Hongdae](/south-korea/seoul/hongdae), Gongdeok, and Seoul Station. Seoul Station is about 20 minutes away. Tap a T-money card in and out, the same way you would on the subway. This is the All Stop train, not the separate AREX Express ticket. The [AREX train schedule](/arex-train-schedule) explains that difference on the Incheon route.
+
+Hongik University is also on Line 2, the circular line that links much of the city. From Seoul Station you can change to Line 1 or Line 4. The [Seoul subway guide](/travel-tips/seoul-subway-guide) covers transfers once you are on the network. Seoul Station is also where you board the KTX if you are going straight on to [Busan](/south-korea/busan) — see [Seoul to Busan by KTX](/travel-tips/seoul-to-busan-by-ktx).
+
+## Line 9
+
+**Best for Yeouido, Express Bus Terminal, and Gangnam.**
+
+Line 9 runs from Gimpo Airport along the south side of the Han River. Useful stops include Dangsan (change for Line 2), Yeouido, Express Bus Terminal, and Sinnonhyeon. Board an express train when you have luggage. Express trains skip many local stops.
+
+Express Bus Terminal connects with Line 3 and Line 7. For [Gangnam](/south-korea/seoul/gangnam) Station, stay on Line 9 to Sinnonhyeon and change to the Shinbundang Line. Dangsan is the simpler change if you would rather ride Line 2 the rest of the way.
+
+For the [Jamsil](/south-korea/seoul/jamsil) side of the city, stay on Line 9 toward Sports Complex and Olympic Park. Jamsil Station itself is on Line 2 and Line 8, a short transfer from the Line 9 stops beside the sports complex.
+
+## Line 5
+
+**Best for Gwanghwamun, Jongno, and Dongdaemun.**
+
+Line 5 runs from Gimpo Airport through Yeouido and Gongdeok, then across the old centre: Gwanghwamun, Jongno 3-ga, and Dongdaemun History & Culture Park, before continuing east through Wangsimni toward Cheonho and Gangdong.
+
+Use it for the palaces and Jongno. For [Myeongdong](/south-korea/seoul/myeongdong), change to Line 4 at Dongdaemun History & Culture Park. Street food around that station is covered in the [Myeongdong street food guide](/south-korea/seoul/guides/best-street-food-myeongdong).
+
+## Bus, taxi, and late arrivals
+
+Airport buses leave from the signed stops outside arrivals and serve major districts. Match the destination board to your neighbourhood in Naver Map or KakaoMap. Google Maps is a weak guide for Korean buses.
+
+Taxis queue at the official rank. Choose a taxi late at night, with heavy luggage, or when the hotel is far from a station. On a weekday rush hour the train is usually more predictable. Kakao T, the standard Korean taxi app, has an English option and works for trips into the city. Many taxis also accept T-money. A tip is not expected.
+
+Seoul trains wind down around midnight. If you land later, take a taxi or an airport bus that is still running, and check the last rail departure on the day you travel.
+
+## Which one to take
+
+- [Hongdae](/south-korea/seoul/hongdae) or a Line 2 hotel on the west side: AREX to Hongik University. The [Hongdae bar guide](/south-korea/seoul/guides/best-bars-hongdae) is there when you are ready to go out.
+- Seoul Station, or a same-day train to [Busan](/south-korea/busan): AREX to Seoul Station.
+- [Gangnam](/south-korea/seoul/gangnam) or Express Bus Terminal: Line 9 express. For COEX, ride Line 9 to Bongeunsa. Gangnam cafes are in the [Gangnam cafe guide](/south-korea/seoul/guides/cafes-gangnam).
+- Gyeongbokgung, Insadong, Jongno, or Dongdaemun: Line 5.
+
+Buy a T-money card at an airport convenience store before you ride if you do not already have one. Top-ups and refunds are in the [T-money card guide](/travel-tips/t-money-card-guide).
+
+## Gimpo Airport FAQs
+
+### Does the AREX Express stop at Gimpo?
+
+No. The non-stop Express runs between Incheon Airport and Seoul Station. From Gimpo, ride AREX All Stop, Line 5, or Line 9.
+
+### Can I use T-money from Gimpo Airport?
+
+Yes. T-money works on Line 5, Line 9, and AREX All Stop. Tap in at the airport and tap out at your destination.
+
+### How long does it take to reach Seoul Station?
+
+About 20 minutes on AREX All Stop.
+
+### Is Gimpo the same airport as Incheon?
+
+No. Gimpo (GMP) is in western Seoul. Incheon (ICN) is further west, on a different island. Check the three-letter code on your ticket before you follow airport signs.
+
+## Related guides
+
+- [Seoul city guide](/south-korea/seoul) — neighbourhoods, food, and where to stay.
+- [How to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul) — the other airport.
+- [T-money card guide](/travel-tips/t-money-card-guide) — buy, top up, and refund.
+- [Seoul subway cheat sheet](/seoul-subway-a-cheat-sheet) — lines, transfers, and fares once you are in the city.`,
+    tags: ["Transport", "Airport", "Seoul", "Practical"],
+    authorSlug: "james-jeong",
+    updatedDate: "2026-10-22",
+    contentType: "travel-tip",
+  },
+  {
+    slug: "seoul-to-busan-by-ktx",
+    title: "How To Take the KTX from Seoul to Busan",
+    image: "/images/cities/busan.jpg",
+    metaTitle: "Seoul to Busan by KTX: Station, Tickets, and Arrival",
+    metaDescription:
+      "Book the KTX from Seoul Station to Busan Station, see how it differs from the SRT at Suseo, and continue by metro to Haeundae or Gwangalli.",
+    summary:
+      "The fastest KTX trains from Seoul Station to Busan Station take a little over two hours. Book a reserved seat, then change to the metro for the beaches.",
+    content: `**Quick summary:** Board the KTX at Seoul Station, not at the beaches and not with a T-money card. The fastest trains to Busan Station take a little over two hours. SRT from Suseo is a separate ticket. [Busan](/south-korea/busan) Station is on Metro Line 1.
+
+## Take the train if you care about time
+
+[Seoul](/south-korea/seoul) and [Busan](/south-korea/busan) are a little over 300 kilometres apart along the Gyeongbu corridor. The KTX high-speed train is the straightforward daytime way between them. Express buses also run and are slower, especially in traffic leaving Seoul. Book the train when the hour you arrive matters.
+
+## Where the trains leave
+
+KTX services to Busan depart from **Seoul Station**. The station is on Subway Line 1, Line 4, and the AREX airport line.
+
+- From Incheon Airport, follow [how to get from Incheon Airport to Seoul](/travel-tips/incheon-airport-to-seoul) and get off at Seoul Station.
+- From Gimpo Airport, take AREX All Stop to Seoul Station. The steps are in [how to get from Gimpo Airport to Seoul](/travel-tips/gimpo-airport-to-seoul).
+
+**SRT** is a different high-speed operator. Its Seoul-end station is **Suseo**, on Subway Line 3 in southern Seoul, which is the convenient departure if you are staying in [Gangnam](/south-korea/seoul/gangnam). Book SRT in the SRT app or on SR's own site. A KTX ticket is not valid on SRT, and an SRT ticket is not valid on KTX.
+
+## How long it takes
+
+The fastest KTX services between Seoul Station and Busan Station take a little over two hours. Trains that call at [Daejeon](/south-korea/daejeon) and at Dongdaegu, the high-speed station for [Daegu](/south-korea/daegu), take longer. Not every train stops at both.
+
+Some services also stop for [Gyeongju](/south-korea/gyeongju). That KTX station is outside the tomb-and-temple district, so leave time for a local bus or taxi if Gyeongju is the real destination.
+
+## Tickets
+
+KTX seating is reserved. Buy a ticket before you board. Korail sells them in the Korail Talk app, on the Korail website, and at counters and machines in Seoul Station. The menus include English. The ticket shows the train number, car, and seat. A mobile ticket is accepted.
+
+Friday and Sunday afternoons sell out, and so do Seollal (Lunar New Year) and Chuseok. Book those dates as soon as the trip is fixed. Midweek trains are easier to buy on the day, but do not rely on that for a weekend departure.
+
+You will see standard seats and first class. The fare depends on the train and the seat, so read the price on the booking screen rather than budgeting from an old screenshot. Children and seniors can qualify for a reduced fare. Confirm the current discount when you pay.
+
+A [T-money card](/travel-tips/t-money-card-guide) does not pay for the KTX. Buy the card anyway if you do not have one: you will want it for the Busan metro and for buses after you arrive. The same card works in [Seoul](/south-korea/seoul).
+
+## Luggage
+
+Carry bags onto the train. Smaller cases fit in the overhead racks. Larger ones go in the luggage spaces at the ends of the carriages. An ordinary trip does not need a checked-bag counter.
+
+## Arriving in Busan
+
+You arrive at **Busan Station**, next to Busan Metro Line 1, in the old centre by the port. The beaches are a second ride from here.
+
+- **Haeundae:** Line 1 to Seomyeon, change to Line 2 toward Jangsan, and get off at Haeundae. The [Haeundae beach guide](/south-korea/busan/guides/haeundae-beach-guide) picks up from the sand.
+- **Gwangalli:** the same change at Seomyeon, then Gwangan Station on Line 2. Gwangan comes before Haeundae on the Jangsan-bound train.
+- **Seomyeon:** stay on Line 1. It is the city's main shopping and metro interchange.
+
+Taxis wait outside Busan Station. Use the rank when the metro has stopped or the bags are too much for the transfer at Seomyeon. Kakao T works in Busan as well as Seoul. A tip is not expected.
+
+## Seoul to Busan FAQs
+
+### Is KTX the same as SRT?
+
+No. KTX is Korail and uses Seoul Station on this route. SRT uses Suseo Station. The tickets are not interchangeable.
+
+### Do I need to book?
+
+Yes. Seats are reserved, and popular trains sell out. Buying on the day is sometimes possible midweek.
+
+### Does the train arrive at Haeundae?
+
+No. You arrive at Busan Station. Haeundae is a Line 1 ride to Seomyeon and then Line 2, or a taxi.
+
+### Can I use T-money on the KTX?
+
+No. Pay for the train ticket on its own. Use T-money afterwards for the subway, buses, and some taxis.
+
+## Related guides
+
+- [Seoul city guide](/south-korea/seoul) — getting to Seoul Station from your neighbourhood.
+- [Busan city guide](/south-korea/busan) — where to go after Busan Station.
+- [Daejeon](/south-korea/daejeon) and [Daegu](/south-korea/daegu) — the cities many KTX services call at on the way.
+- [T-money card guide](/travel-tips/t-money-card-guide) — transport once you are off the train.
+- [How to use the Seoul subway](/travel-tips/seoul-subway-guide) — the lines that reach Seoul Station.`,
+    tags: ["Transport", "KTX", "Seoul", "Busan", "Practical"],
+    authorSlug: "mina-park",
+    updatedDate: "2026-10-22",
     contentType: "travel-tip",
   },
   {
