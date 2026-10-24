@@ -41,6 +41,7 @@ const nextConfig = {
       { source: "/travel-tips/how-bad-is-air-quality-in-south-korea", destination: "/how-bad-is-air-quality-in-south-korea", permanent: true },
       { source: "/travel-tips/dating-culture-among-korean-youth-apps-norms-and-trends", destination: "/dating-culture-among-korean-youth-apps-norms-and-trends", permanent: true },
       { source: "/invest-smart-top-korean-won-currency-etfs-unveiled", destination: "/travel-tips/korean-won-etf-guide", permanent: true },
+      { source: "/travel-tips/top-5-noraebang-karaoke-chains-in-korea", destination: "/top-5-noraebang-karaoke-chains-in-korea", permanent: true },
       { source: "/travel-tips/most-popular-korean-bikini-models-in-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
       { source: "/culture/most-popular-korean-bikini-models-2025", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
       { source: "/most-popular-korean-bikini-models-in-2024", destination: "/most-popular-korean-bikini-models-in-2025", permanent: true },
@@ -59,6 +60,10 @@ const nextConfig = {
       { source: "/buying-bedding-in-south-korea", destination: "/travel-tips/buying-bedding-in-south-korea" },
       { source: "/seoul-subway-a-cheat-sheet", destination: "/travel-tips/seoul-subway-cheat-sheet" },
       { source: "/jeju-loveland", destination: "/travel-tips/jeju-loveland" },
+      {
+        source: "/top-5-noraebang-karaoke-chains-in-korea",
+        destination: "/travel-tips/top-5-noraebang-karaoke-chains-in-korea",
+      },
       { source: "/korean-sexuality", destination: "/travel-tips/korean-sexuality" },
       { source: "/gonjiam-haunted-asylum", destination: "/travel-tips/gonjiam-haunted-asylum" },
       {

@@ -152,7 +152,7 @@ const neighbourhoodsBase: Neighbourhood[] = [
     name: "Namdaemun",
     citySlug: "seoul",
     image: getNeighbourhoodImagePath("seoul", "namdaemun"),
-    intro: "Home to Namdaemun Market, Korea's largest traditional market. Open 24/7 with clothing, souvenirs, street food and local produce. A no-frills, authentic Seoul experience.",
+    intro: "Home to Namdaemun Market, Korea's largest traditional market, for clothing, souvenirs, street food and local produce. Shop hours differ by store, and Sunday is the market's regular closing day. A no-frills, authentic Seoul experience.",
     nearestMetro: "Hoehyeon (Line 4)",
     vibe: "Busy & traditional",
     bestFor: ["Markets", "Street food", "Souvenirs", "Bargains"],
